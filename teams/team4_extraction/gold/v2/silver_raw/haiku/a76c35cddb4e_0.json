@@ -1,0 +1,20 @@
+{
+  "unit_id": "a76c35cddb4e_0",
+  "annotator": "haiku",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "bien_so": {"value": "QNg – 0404", "normalized": "QNG–0404", "page": 1, "evidence": "Số đăng ký: QNg – 0404", "ink": "printed", "status": "ok", "note": null},
+    "loai_phuong_tien": {"value": "VR-SI", "normalized": "VR-SI", "page": 1, "evidence": "Cấp phương tiện: VR-SI", "ink": "printed", "status": "ok", "note": "ghi_cap_phuong_tien"},
+    "chu_so_huu": {"value": "CÔNG TY TNHH MTV TM XĂNG DẦU HƯƠNG SƠN 2", "normalized": "CÔNG TY TNHH MTV TM XĂNG DẦU HƯƠNG SƠN 2", "page": 1, "evidence": "CÔNG TY TNHH MTV TM XĂNG DẦU HƯƠNG SƠN 2", "ink": "printed", "status": "ok", "note": null},
+    "nhan_hieu": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "so_khung": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "so_may": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "nam_san_xuat": {"value": "2019", "normalized": "2019", "page": 1, "evidence": "Năm và nơi đóng: 2019, Hải Dương", "ink": "printed", "status": "ok", "note": null},
+    "so_chung_nhan": {"value": "493/ĐK", "normalized": "493/ĐK", "page": 1, "evidence": "Số: 493/ĐK", "ink": "printed", "status": "ok", "note": null},
+    "ngay_dang_ky": {"value": "24 tháng 4 năm 2023", "normalized": "2023-04-24", "page": 1, "evidence": "Quảng Ngãi, ngày 24 tháng 4 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "UBND TỈNH QUẢNG NGÃI SỞ GIAO THÔNG VẬN TẢI", "normalized": "UBND TỈNH QUẢNG NGÃI SỞ GIAO THÔNG VẬN TẢI", "page": 1, "evidence": "SỞ GIAO THÔNG VẬN TẢI", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null}
+  },
+  "unit_note": "trang_2_chi_anh_tau_va_con_dau"
+}

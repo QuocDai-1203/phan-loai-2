@@ -1,0 +1,18 @@
+{
+  "unit_id": "789b8facde71_0",
+  "annotator": "sonnet",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "58/2024/HĐMB-HH", "normalized": "58/2024/HĐMB-HH", "page": 1, "evidence": "Số: 58/2024/HĐMB-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "ngày 28 tháng 12 năm 2023", "normalized": "2023-12-28", "page": 1, "evidence": "Hôm nay, ngày 28 tháng 12 năm 2023, tại văn phòng Công ty", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "page": 1, "evidence": "BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": "ben_A_ban_cho_ben_B"},
+    "ben_mua": {"value": "CÔNG TY CỔ PHẦN XÂY DỰNG THỦY LỢI BÌNH ĐỊNH, Mã số thuế: 4100259250", "normalized": "CÔNG TY CỔ PHẦN XÂY DỰNG THỦY LỢI BÌNH ĐỊNH, Mã số thuế: 4100259250", "page": 1, "evidence": "BÊN B: CÔNG TY CỔ PHẦN XÂY DỰNG THỦY LỢI BÌNH ĐỊNH", "ink": "printed", "status": "ok", "note": "ben_B_mua_tu_ben_A"},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "xăng dầu nhớt các loại", "normalized": "xăng dầu nhớt các loại", "page": 1, "evidence": "mặt hàng sau: xăng dầu nhớt các loại", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_tu": {"value": "01/01/2024", "normalized": "2024-01-01", "page": 2, "evidence": "có hiệu lực từ ngày 01/01/2024 đến ngày 31/12/2024", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "31/12/2024", "normalized": "2024-12-31", "page": 2, "evidence": "có hiệu lực từ ngày 01/01/2024 đến ngày 31/12/2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

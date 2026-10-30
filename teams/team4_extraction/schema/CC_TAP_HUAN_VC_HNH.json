@@ -1,0 +1,233 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/CC_TAP_HUAN_VC_HNH",
+  "title": "CC_TAP_HUAN_VC_HNH - Giấy chứng nhận hoàn thành chương trình tập huấn vận chuyển hàng hóa nguy hiểm",
+  "description": "Giấy chứng nhận hoàn thành tập huấn vận chuyển hàng hóa nguy hiểm (thẻ 2 mặt). Trường hạn: ngay_het_han. Có dữ liệu cá nhân.",
+  "type": "object",
+  "properties": {
+    "so_gcn": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số giấy chứng nhận"
+    },
+    "ho_ten": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Họ tên người được cấp"
+    },
+    "nam_sinh": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày/năm sinh"
+    },
+    "nghe_nghiep": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Nghề nghiệp/chức danh (lái xe, áp tải…)"
+    },
+    "don_vi_cong_tac": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Đơn vị công tác"
+    },
+    "don_vi_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Đơn vị tổ chức tập huấn và cấp giấy"
+    },
+    "ngay_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày cấp"
+    },
+    "hieu_luc_tu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Có giá trị từ ngày"
+    },
+    "ngay_het_han": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Có giá trị đến ngày (thường 2 năm)"
+    }
+  },
+  "required": [
+    "so_gcn",
+    "ho_ten",
+    "nam_sinh",
+    "nghe_nghiep",
+    "don_vi_cong_tac",
+    "don_vi_cap",
+    "ngay_cap",
+    "hieu_luc_tu",
+    "ngay_het_han"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "CC_TAP_HUAN_VC_HNH",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_gcn",
+      "desc": "Số giấy chứng nhận",
+      "annotator_hint": "Số giấy chứng nhận / số thẻ.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    },
+    {
+      "name": "ho_ten",
+      "desc": "Họ tên người được cấp",
+      "annotator_hint": "Họ tên người được cấp.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "personal_name",
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    },
+    {
+      "name": "nam_sinh",
+      "desc": "Ngày/năm sinh",
+      "annotator_hint": "Ngày/năm sinh (có thể chỉ có năm).",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "birth_date",
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "withhold_value",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    },
+    {
+      "name": "nghe_nghiep",
+      "desc": "Nghề nghiệp/chức danh (lái xe, áp tải…)",
+      "annotator_hint": "Nghề nghiệp/chức danh (lái xe, áp tải, thủ kho...).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    },
+    {
+      "name": "don_vi_cong_tac",
+      "desc": "Đơn vị công tác",
+      "annotator_hint": "Đơn vị công tác của người được cấp.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    },
+    {
+      "name": "don_vi_cap",
+      "desc": "Đơn vị tổ chức tập huấn và cấp giấy",
+      "annotator_hint": "Đơn vị tổ chức tập huấn và cấp giấy (thường ở tiêu đề).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    },
+    {
+      "name": "ngay_cap",
+      "desc": "Ngày cấp",
+      "annotator_hint": "Ngày cấp giấy.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    },
+    {
+      "name": "hieu_luc_tu",
+      "desc": "Có giá trị từ ngày",
+      "annotator_hint": "'Có giá trị từ ngày …'.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    },
+    {
+      "name": "ngay_het_han",
+      "desc": "Có giá trị đến ngày (thường 2 năm)",
+      "annotator_hint": "'Có giá trị đến ngày …' (thường 2 năm). Chép đúng ngày in trên giấy; KHÔNG tự cộng 2 năm từ ngày cấp.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh mặt trong thẻ)"
+    }
+  ]
+}

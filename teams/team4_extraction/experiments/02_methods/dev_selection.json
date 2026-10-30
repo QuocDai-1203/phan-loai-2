@@ -1,0 +1,196 @@
+{
+ "frozen_at": "2026-10-12T02:47:06+00:00",
+ "note": "đóng băng sau khi chạy đủ DEV (regex, filename, gliner, llm, vlm × nguồn); quy quy tắc từ chối chọn tự động: không sai nào trên DEV, nhiều trường đúng nhất",
+ "tuned_on": "DEV (76 đơn vị); luật/prompt/ngưỡng KHÔNG được chỉnh sau khi xem TEST",
+ "silver_sha_at_freeze": "d4f625c7154316d8",
+ "code_hashes": {
+  "regex_rules": "9cf87c70065d7ccc",
+  "normalize": "be447936d24d81f5",
+  "expiry_rules": "f6e2e20138ea512e",
+  "llm_prompt_module": "3c32bb23655e7fe8",
+  "methods_vlm": "bb1f8ad9b15ae43f",
+  "methods_llm": "70d71970f31a9ab4"
+ },
+ "prompts": {
+  "llm_variant": "v1",
+  "vlm_variant": "v1",
+  "llm_fingerprint": "96e83fc3f2d940df",
+  "model": "qwen3.5:4b",
+  "options": {
+   "temperature": 0,
+   "num_ctx_llm": 6144,
+   "num_ctx_vlm": 12288,
+   "num_predict": 900
+  }
+ },
+ "expiry_rule_dev_choice": "any-model=filename",
+ "expiry_rule_dev_table": [
+  {
+   "rule": "regex",
+   "n_emitted": 55,
+   "n_correct": 53,
+   "n_wrong": 2,
+   "n_spurious": 0,
+   "wrong_upper95": 0.11007944845474105
+  },
+  {
+   "rule": "llm",
+   "n_emitted": 55,
+   "n_correct": 52,
+   "n_wrong": 3,
+   "n_spurious": 0,
+   "wrong_upper95": 0.13498544570370602
+  },
+  {
+   "rule": "vlm",
+   "n_emitted": 57,
+   "n_correct": 55,
+   "n_wrong": 2,
+   "n_spurious": 0,
+   "wrong_upper95": 0.10636302593795688
+  },
+  {
+   "rule": "filename",
+   "n_emitted": 39,
+   "n_correct": 37,
+   "n_wrong": 2,
+   "n_spurious": 1,
+   "wrong_upper95": 0.15276510530744303
+  },
+  {
+   "rule": "regex=llm",
+   "n_emitted": 53,
+   "n_correct": 51,
+   "n_wrong": 2,
+   "n_spurious": 0,
+   "wrong_upper95": 0.11406472736424111
+  },
+  {
+   "rule": "llm=vlm",
+   "n_emitted": 52,
+   "n_correct": 51,
+   "n_wrong": 1,
+   "n_spurious": 0,
+   "wrong_upper95": 0.08800893075719356
+  },
+  {
+   "rule": "regex=vlm",
+   "n_emitted": 51,
+   "n_correct": 50,
+   "n_wrong": 1,
+   "n_spurious": 0,
+   "wrong_upper95": 0.08967153829142846
+  },
+  {
+   "rule": "regex=llm=vlm",
+   "n_emitted": 51,
+   "n_correct": 50,
+   "n_wrong": 1,
+   "n_spurious": 0,
+   "wrong_upper95": 0.08967153829142846
+  },
+  {
+   "rule": "2-of-3 (regex,llm,vlm)",
+   "n_emitted": 54,
+   "n_correct": 52,
+   "n_wrong": 2,
+   "n_spurious": 0,
+   "wrong_upper95": 0.11203669158882405
+  },
+  {
+   "rule": "vlm=filename",
+   "n_emitted": 35,
+   "n_correct": 35,
+   "n_wrong": 0,
+   "n_spurious": 0,
+   "wrong_upper95": 0.08203163585667045
+  },
+  {
+   "rule": "llm=filename",
+   "n_emitted": 31,
+   "n_correct": 31,
+   "n_wrong": 0,
+   "n_spurious": 0,
+   "wrong_upper95": 0.09211405994732372
+  },
+  {
+   "rule": "regex=filename",
+   "n_emitted": 31,
+   "n_correct": 31,
+   "n_wrong": 0,
+   "n_spurious": 0,
+   "wrong_upper95": 0.09211405994732372
+  },
+  {
+   "rule": "2-of-4 (regex,llm,vlm,filename)",
+   "n_emitted": 57,
+   "n_correct": 56,
+   "n_wrong": 1,
+   "n_spurious": 0,
+   "wrong_upper95": 0.08054179606307729
+  },
+  {
+   "rule": "(llm=vlm) or (any-two incl. filename)",
+   "n_emitted": 57,
+   "n_correct": 56,
+   "n_wrong": 1,
+   "n_spurious": 0,
+   "wrong_upper95": 0.08054179606307729
+  },
+  {
+   "rule": "(regex=vlm) or (llm=vlm) or (any OCR-method = filename)",
+   "n_emitted": 53,
+   "n_correct": 52,
+   "n_wrong": 1,
+   "n_spurious": 0,
+   "wrong_upper95": 0.08640681821816416
+  },
+  {
+   "rule": "any-model=filename",
+   "n_emitted": 36,
+   "n_correct": 36,
+   "n_wrong": 0,
+   "n_spurious": 0,
+   "wrong_upper95": 0.07984650951989439
+  },
+  {
+   "rule": "(llm=vlm) or any-model=filename",
+   "n_emitted": 57,
+   "n_correct": 56,
+   "n_wrong": 1,
+   "n_spurious": 0,
+   "wrong_upper95": 0.08054179606307729
+  }
+ ],
+ "expiry_rule": "any-model=filename",
+ "production": {
+  "pipeline": "regex -> llm (cascade) + expiry auto-accept rule",
+  "expiry_rule": "any-model=filename"
+ },
+ "test_configs": [
+  "regex@ocr_v2",
+  "regex@ocr_llm_haiku",
+  "regex@text_layer",
+  "filename",
+  "gliner@ocr_v2",
+  "gliner@ocr_llm_haiku",
+  "gliner@text_layer",
+  "llm@ocr_v2",
+  "llm@ocr_llm_haiku",
+  "llm@text_layer",
+  "vlm",
+  "cascade regex→llm @ocr_v2",
+  "cascade llm→regex @ocr_v2",
+  "cascade theo kiểu (văn bản: llm→luật; ngày/số/mã: luật→llm) @ocr_v2",
+  "cascade regex→llm→vlm @ocr_v2",
+  "cascade + từ chối hạn [any-model=filename]",
+  "ORACLE: VLM chỉ ở ô mà đáp án ghi viết tay/dưới dấu (không triển khai được)",
+  "regex@ocr_v2 (cùng tập đơn vị với text_layer)",
+  "gliner@ocr_v2 (cùng tập đơn vị với text_layer)",
+  "llm@ocr_v2 (cùng tập đơn vị với text_layer)"
+ ],
+ "gold_variants_reported": [
+  "all",
+  "trusted"
+ ]
+}

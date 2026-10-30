@@ -1,0 +1,18 @@
+{
+  "unit_id": "422c73c380ca_0",
+  "annotator": "sonnet",
+  "doc_type": "CC_TAP_HUAN_VC_HNH",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_gcn": {"value": "02/GCN-HH", "normalized": "02/GCN-HH", "page": 2, "evidence": "Số: 02/GCN-HH", "ink": "printed", "status": "ok", "note": null},
+    "ho_ten": {"value": "Trần Văn Tấn", "normalized": "Trần Văn Tấn", "page": 2, "evidence": "Họ và tên: Trần Văn Tấn", "ink": "printed", "status": "ok", "note": null},
+    "nam_sinh": {"value": null, "normalized": null, "page": 2, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "nghe_nghiep": {"value": "Thuyền trưởng", "normalized": "Thuyền trưởng", "page": 2, "evidence": "Nghề nghiệp: Thuyền trưởng", "ink": "printed", "status": "ok", "note": null},
+    "don_vi_cong_tac": {"value": "CTy TNHH Xăng Dầu Hòa Hưng", "normalized": "CTy TNHH Xăng Dầu Hòa Hưng", "page": 2, "evidence": "Đơn vị công tác: CTy TNHH Xăng Dầu Hòa Hưng", "ink": "printed", "status": "ok", "note": "con_dau_de_len_mot_phan"},
+    "don_vi_cap": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "ngày 12 tháng 05 năm 2022", "normalized": "2022-05-12", "page": 2, "evidence": "Bình Định, ngày 12 tháng 05 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "Từ ngày 12 tháng 05 năm 2022", "normalized": "2022-05-12", "page": 2, "evidence": "Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "đến ngày 12 tháng 05 năm 2024", "normalized": "2024-05-12", "page": 2, "evidence": "đến ngày 12 tháng 05 năm 2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "the_hai_mat_trang_1_bia_trang_2_noi_dung"
+}

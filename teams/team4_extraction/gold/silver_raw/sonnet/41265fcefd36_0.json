@@ -1,0 +1,18 @@
+{
+  "unit_id": "41265fcefd36_0",
+  "annotator": "sonnet",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2, 3],
+  "fields": {
+    "so_giay": {"value": "51 /GCNBLXD-SCT", "normalized": "51/GCNBLXD-SCT", "page": 1, "evidence": "Số: 51 /GCNBLXD-SCT", "ink": "handwritten", "status": "ok", "note": "so_viet_tay_tren_mau_in"},
+    "ngay_cap": {"value": "ngày 08 tháng 8 năm 2022", "normalized": "2022-08-08", "page": 1, "evidence": "Bình Định, ngày 08 tháng 8 năm 2022", "ink": "printed", "status": "ok", "note": "chu_so_ngay_viet_tay"},
+    "co_quan_cap": {"value": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG XĂNG DẦU MINH PHÊ (Thuyền dầu số BD-0321.H)", "normalized": "CỬA HÀNG XĂNG DẦU MINH PHÊ (Thuyền dầu số BD-0321.H)", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: CỬA HÀNG XĂNG DẦU MINH PHÊ", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Vùng SI, khu phố Thiện Chánh, phường Tam Quan Bắc, thị xã Hoài Nhơn, tỉnh Bình Định", "normalized": "Vùng SI, khu phố Thiện Chánh, phường Tam Quan Bắc, thị xã Hoài Nhơn, tỉnh Bình Định", "page": 1, "evidence": "Vùng hoạt động: Vùng SI, khu phố Thiện Chánh, phường Tam Quan Bắc", "ink": "printed", "status": "ok", "note": "vung_hoat_dong"},
+    "thuong_nhan_chu_so_huu": {"value": "Doanh nghiệp tư nhân Thương mại Minh Phê Mã số thuế: 4101251085", "normalized": "Doanh nghiệp tư nhân Thương mại Minh Phê Mã số thuế: 4101251085", "page": 1, "evidence": "Thuộc sở hữu của Doanh nghiệp tư nhân Thương mại Minh Phê", "ink": "printed", "status": "ok", "note": "ten_o_trang_1_mst_o_trang_2"},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "page": 2, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 03 tháng 8 năm 2017; Cấp lần thứ hai: ngày 08 tháng 8 năm 2022", "normalized": "Cấp lần thứ nhất: ngày 03 tháng 8 năm 2017; Cấp lần thứ hai: ngày 08 tháng 8 năm 2022", "page": 1, "evidence": "Cấp lần thứ hai: ngày 08 tháng 8 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "ngày 08 tháng 8 năm 2027", "normalized": "2027-08-08", "page": 2, "evidence": "có giá trị đến hết ngày 08 tháng 8 năm 2027", "ink": "printed", "status": "ok", "note": "chu_so_ngay_viet_tay"}
+  },
+  "unit_note": null
+}

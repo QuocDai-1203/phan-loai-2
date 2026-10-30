@@ -1,0 +1,208 @@
+{
+ "status": "dev_done",
+ "created": "2026-10-16",
+ "labels_sha1_10": "eb3348713a",
+ "candidates": [
+  "S10",
+  "S10+id",
+  "S10+tb",
+  "S10+id+tb"
+ ],
+ "baseline": "S10",
+ "reference_only": [
+  "S0",
+  "S9"
+ ],
+ "unit": "tệp trong phạm vi dev (245 tệp), đếm thô (không trọng số); các số có trọng số theo cơ cấu tệp thật chỉ để báo cáo",
+ "rule_dev": "Một biến thể X khác S10 là HỢP LỆ khi, so với S10 trên 245 tệp dev: (a) số tệp đúng hoàn toàn (c) của X >= của S10; (b) số tệp sai lặng lẽ (tự xử lý mà sai) của X <= của S10; (c) số tài liệu đáp án giao đúng và tự động của X >= của S10. Trong các biến thể hợp lệ chọn biến thể có nhiều tài liệu giao đúng và tự động nhất; hòa thì nhiều tệp đúng hoàn toàn hơn; hòa nữa thì ÍT tùy chọn bật hơn (S10 thắng mọi hòa). Không biến thể nào hợp lệ hơn S10 thì giữ S10. S9 (triage) và S0 chỉ để đối chiếu, không ứng viên mặc định.",
+ "rule_test": "TEST chấm MỘT lần cho cấu hình được chọn và cho S10 cũ (nếu chọn khác S10); chỉ dùng để kiểm 'không hại' (không dùng để chọn lại).",
+ "rule_default_change": "Đổi mặc định của pipeline sang cấu hình được chọn CHỈ KHI (i) quy tắc dev chọn khác S10 và (ii) trên TEST, số tệp đúng hoàn toàn của cấu hình chọn >= của S10 cũ và số tệp sai lặng lẽ <= của S10 cũ (đếm thô). Ngược lại giữ mặc định cũ và ghi lý do.",
+ "test_run_number": 2,
+ "test_run_reason": "cấu hình mới (model+merge+id và/hoặc rule_title_tiebreak), khác cấu hình đã chấm ở lần TEST thứ nhất của thí nghiệm toàn trình (S10)",
+ "dev_done_at": "2026-10-15T17:20:10+00:00",
+ "chosen": "S10+id+tb",
+ "counts": {
+  "S0": {
+   "n": 245,
+   "full": 224,
+   "auto": 244,
+   "silent": 20,
+   "docs_auto": 224,
+   "docs_total": 318,
+   "n_llm": 14,
+   "n_slices": 245
+  },
+  "S10": {
+   "n": 245,
+   "full": 223,
+   "auto": 237,
+   "silent": 14,
+   "docs_auto": 279,
+   "docs_total": 318,
+   "n_llm": 35,
+   "n_slices": 314
+  },
+  "S10+id": {
+   "n": 245,
+   "full": 226,
+   "auto": 237,
+   "silent": 11,
+   "docs_auto": 286,
+   "docs_total": 318,
+   "n_llm": 37,
+   "n_slices": 318
+  },
+  "S10+id+tb": {
+   "n": 245,
+   "full": 232,
+   "auto": 237,
+   "silent": 5,
+   "docs_auto": 293,
+   "docs_total": 318,
+   "n_llm": 26,
+   "n_slices": 319
+  },
+  "S10+tb": {
+   "n": 245,
+   "full": 229,
+   "auto": 237,
+   "silent": 8,
+   "docs_auto": 286,
+   "docs_total": 318,
+   "n_llm": 26,
+   "n_slices": 315
+  },
+  "S9": {
+   "n": 245,
+   "full": 224,
+   "auto": 189,
+   "silent": 4,
+   "docs_auto": 185,
+   "docs_total": 318,
+   "n_llm": 14,
+   "n_slices": 245
+  }
+ },
+ "rule_table": [
+  {
+   "variant": "S10",
+   "valid": true,
+   "n": 245,
+   "full": 223,
+   "auto": 237,
+   "silent": 14,
+   "docs_auto": 279,
+   "docs_total": 318,
+   "n_llm": 35,
+   "n_slices": 314
+  },
+  {
+   "variant": "S10+id",
+   "valid": true,
+   "n": 245,
+   "full": 226,
+   "auto": 237,
+   "silent": 11,
+   "docs_auto": 286,
+   "docs_total": 318,
+   "n_llm": 37,
+   "n_slices": 318
+  },
+  {
+   "variant": "S10+tb",
+   "valid": true,
+   "n": 245,
+   "full": 229,
+   "auto": 237,
+   "silent": 8,
+   "docs_auto": 286,
+   "docs_total": 318,
+   "n_llm": 26,
+   "n_slices": 315
+  },
+  {
+   "variant": "S10+id+tb",
+   "valid": true,
+   "n": 245,
+   "full": 232,
+   "auto": 237,
+   "silent": 5,
+   "docs_auto": 293,
+   "docs_total": 318,
+   "n_llm": 26,
+   "n_slices": 319
+  }
+ ],
+ "specs": {
+  "S10": {
+   "base": "model",
+   "tau": 0.7,
+   "merge": true,
+   "band": null,
+   "keep": 0.99,
+   "id_rule": false,
+   "tiebreak": false
+  },
+  "S10+id": {
+   "base": "model",
+   "tau": 0.7,
+   "merge": true,
+   "band": null,
+   "keep": 0.99,
+   "id_rule": true,
+   "tiebreak": false
+  },
+  "S10+tb": {
+   "base": "model",
+   "tau": 0.7,
+   "merge": true,
+   "band": null,
+   "keep": 0.99,
+   "id_rule": false,
+   "tiebreak": true
+  },
+  "S10+id+tb": {
+   "base": "model",
+   "tau": 0.7,
+   "merge": true,
+   "band": null,
+   "keep": 0.99,
+   "id_rule": true,
+   "tiebreak": true
+  },
+  "S9": {
+   "base": "none",
+   "tau": 0.5,
+   "merge": false,
+   "band": [
+    0.3,
+    1.01
+   ],
+   "keep": null,
+   "id_rule": false,
+   "tiebreak": false
+  },
+  "S0": {
+   "base": "none",
+   "tau": 0.5,
+   "merge": false,
+   "band": null,
+   "keep": null,
+   "id_rule": false,
+   "tiebreak": false
+  }
+ },
+ "n_dev_files": {
+  "negative": 155,
+  "single_page": 71,
+  "same_bb": 5,
+  "mixed": 8,
+  "same_other": 6
+ },
+ "new_llm_texts_dev": 4,
+ "llm_errors_dev": 0,
+ "s10_same_as_01": [
+  245,
+  245
+ ]
+}

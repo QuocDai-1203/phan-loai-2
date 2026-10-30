@@ -1,0 +1,2 @@
+[21:43:03] Kev server đang giữ mô hình: jaredpalmer/kev-0.8b
+[21:45:36]   kev_s1_short_c2000 / legacy_p1: 237 tài liệu, 153s, parse_fail=0.013

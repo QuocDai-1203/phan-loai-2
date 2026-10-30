@@ -1,0 +1,205 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/GIAY_UY_QUYEN",
+  "title": "GIAY_UY_QUYEN - Giấy ủy quyền",
+  "description": "Giấy ủy quyền. Trường hạn: ngay_het_han (hiệu lực đến hết ngày, nếu có). Có tên cá nhân.",
+  "type": "object",
+  "properties": {
+    "so_van_ban": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số giấy ủy quyền"
+    },
+    "ngay_ky": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày ký"
+    },
+    "to_chuc_uy_quyen": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tổ chức của bên ủy quyền"
+    },
+    "nguoi_uy_quyen": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Họ tên, chức vụ người ủy quyền"
+    },
+    "nguoi_duoc_uy_quyen": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Họ tên, chức vụ người được ủy quyền"
+    },
+    "noi_dung_uy_quyen": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Phạm vi công việc được ủy quyền"
+    },
+    "hieu_luc_tu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Hiệu lực từ ngày"
+    },
+    "ngay_het_han": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Hiệu lực đến hết ngày"
+    }
+  },
+  "required": [
+    "so_van_ban",
+    "ngay_ky",
+    "to_chuc_uy_quyen",
+    "nguoi_uy_quyen",
+    "nguoi_duoc_uy_quyen",
+    "noi_dung_uy_quyen",
+    "hieu_luc_tu",
+    "ngay_het_han"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "GIAY_UY_QUYEN",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_van_ban",
+      "desc": "Số giấy ủy quyền",
+      "annotator_hint": "Số giấy ủy quyền (thường có).",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no"
+    },
+    {
+      "name": "ngay_ky",
+      "desc": "Ngày ký",
+      "annotator_hint": "Ngày ký giấy ủy quyền.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "to_chuc_uy_quyen",
+      "desc": "Tổ chức của bên ủy quyền",
+      "annotator_hint": "Tên tổ chức của bên ủy quyền.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "nguoi_uy_quyen",
+      "desc": "Họ tên, chức vụ người ủy quyền",
+      "annotator_hint": "Họ tên và chức vụ người ủy quyền.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "personal_name",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "nguoi_duoc_uy_quyen",
+      "desc": "Họ tên, chức vụ người được ủy quyền",
+      "annotator_hint": "Họ tên và chức vụ người được ủy quyền.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "personal_name",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "noi_dung_uy_quyen",
+      "desc": "Phạm vi công việc được ủy quyền",
+      "annotator_hint": "Phạm vi công việc được ủy quyền, tóm gọn đúng cụm in đầu tiên (không chép cả đoạn).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "hieu_luc_tu",
+      "desc": "Hiệu lực từ ngày",
+      "annotator_hint": "Hiệu lực từ ngày … nếu có.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_het_han",
+      "desc": "Hiệu lực đến hết ngày",
+      "annotator_hint": "'Hiệu lực đến hết ngày …'. Chép đúng ngày in trên giấy. Nếu giấy chỉ ghi khoảng thời gian không kèm ngày: value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Không tự cộng ngày từ ngày cấp. Không ghi hạn: not_present.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    }
+  ],
+  "x-expiry_fields": [
+    "ngay_het_han"
+  ]
+}

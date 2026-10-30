@@ -1,0 +1,175 @@
+{
+ "a": {
+  "n": 28,
+  "base_ok": 22,
+  "fix_ok": 28,
+  "bb_n": 7,
+  "bb_base_ok": 1,
+  "bb_fix_ok": 7,
+  "files_ok_base": 2,
+  "files_ok_fix": 8,
+  "changed": 6
+ },
+ "c": {
+  "n_pages": 34,
+  "base_ok": 26,
+  "fix_ok": 32,
+  "bb_pages": 8,
+  "bb_base_ok": 2,
+  "bb_fix_ok": 8
+ },
+ "b": {
+  "n": 237,
+  "base": {
+   "accepted": 236,
+   "errors": 1,
+   "tiers": {
+    "rule": 181,
+    "llm": 12,
+    "tfidf": 43,
+    "human": 1
+   }
+  },
+  "fix": {
+   "accepted": 236,
+   "errors": 1,
+   "tiers": {
+    "rule": 206,
+    "llm": 8,
+    "tfidf": 22,
+    "human": 1
+   }
+  },
+  "same": 212,
+  "tier_changed": 25,
+  "label_changed": 0,
+  "tiebreak_applied": 25,
+  "cache": {
+   "hits": 22,
+   "misses": 0
+  }
+ },
+ "d": {
+  "thường": {
+   "dev_oof_acc": 0.9789029535864979,
+   "composite_bb": [
+    [
+     "PHIEU_XUAT_KHO",
+     0.634
+    ],
+    [
+     "DON_DAT_HANG",
+     0.258
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.655
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.573
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.624
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.557
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.6
+    ]
+   ]
+  },
+  "lặp 300 ký tự đầu": {
+   "dev_oof_acc": 0.9704641350210971,
+   "composite_bb": [
+    [
+     "PHIEU_XUAT_KHO",
+     0.549
+    ],
+    [
+     "DON_DAT_HANG",
+     0.226
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.571
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.515
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.536
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.479
+    ],
+    [
+     "PHIEU_XUAT_KHO",
+     0.501
+    ]
+   ]
+  }
+ },
+ "e": {
+  "n": 7,
+  "ok": 3,
+  "answers": [
+   [
+    0,
+    "NO_ANSWER",
+    null,
+    false,
+    "ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=11434): Read timed out. (read timeout=120.0)"
+   ],
+   [
+    1,
+    "BB_GIAO_NHAN_HANG_HOA",
+    0.99,
+    true,
+    ""
+   ],
+   [
+    3,
+    "NO_ANSWER",
+    null,
+    false,
+    "ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=11434): Read timed out. (read timeout=120.0)"
+   ],
+   [
+    4,
+    "NO_ANSWER",
+    null,
+    false,
+    "ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=11434): Read timed out. (read timeout=120.0)"
+   ],
+   [
+    5,
+    "NO_ANSWER",
+    null,
+    false,
+    "ReadTimeout: HTTPConnectionPool(host='127.0.0.1', port=11434): Read timed out. (read timeout=120.0)"
+   ],
+   [
+    6,
+    "BB_GIAO_NHAN_HANG_HOA",
+    0.995,
+    true,
+    ""
+   ],
+   [
+    7,
+    "BB_GIAO_NHAN_HANG_HOA",
+    0.99,
+    true,
+    ""
+   ]
+  ]
+ }
+}

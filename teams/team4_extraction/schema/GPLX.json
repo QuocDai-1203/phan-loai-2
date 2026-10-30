@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/GPLX",
+  "title": "GPLX - Giấy phép lái xe",
+  "description": "Giấy phép lái xe. Trường hạn: ngay_het_han. Số giấy phép và ngày sinh là dữ liệu cá nhân (không chép giá trị).",
+  "type": "object",
+  "properties": {
+    "so_gplx": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số giấy phép lái xe (dữ liệu cá nhân)"
+    },
+    "ho_ten": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Họ tên"
+    },
+    "ngay_sinh": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày sinh"
+    },
+    "hang": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Hạng giấy phép (B2, C, FC…)"
+    },
+    "ngay_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày cấp"
+    },
+    "noi_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Nơi cấp"
+    },
+    "ngay_het_han": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "«Có giá trị đến»"
+    }
+  },
+  "required": [
+    "so_gplx",
+    "ho_ten",
+    "ngay_sinh",
+    "hang",
+    "ngay_cap",
+    "noi_cap",
+    "ngay_het_han"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "GPLX",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_gplx",
+      "desc": "Số giấy phép lái xe (dữ liệu cá nhân)",
+      "annotator_hint": "Số giấy phép lái xe (dữ liệu cá nhân: KHÔNG chép giá trị).",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "personal_id",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "withhold_value",
+      "id_kind": "document_no"
+    },
+    {
+      "name": "ho_ten",
+      "desc": "Họ tên",
+      "annotator_hint": "Họ tên.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "personal_name",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_sinh",
+      "desc": "Ngày sinh",
+      "annotator_hint": "Ngày sinh (dữ liệu cá nhân: KHÔNG chép giá trị).",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "birth_date",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "withhold_value"
+    },
+    {
+      "name": "hang",
+      "desc": "Hạng giấy phép (B2, C, FC…)",
+      "annotator_hint": "Hạng giấy phép (B2, C, FC...), chép như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_cap",
+      "desc": "Ngày cấp",
+      "annotator_hint": "Ngày cấp.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "noi_cap",
+      "desc": "Nơi cấp",
+      "annotator_hint": "Nơi cấp.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_het_han",
+      "desc": "«Có giá trị đến»",
+      "annotator_hint": "'Có giá trị đến' (có thể ghi 'Không thời hạn': khi đó value = cụm như in, normalized = null, note = 'khong_thoi_han'). Không tự cộng ngày.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    }
+  ],
+  "x-expiry_fields": [
+    "ngay_het_han"
+  ]
+}

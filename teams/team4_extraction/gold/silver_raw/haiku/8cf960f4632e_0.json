@@ -1,0 +1,18 @@
+{
+  "unit_id": "8cf960f4632e_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "86 /GCNBL-XD-SCT", "normalized": "86/GCNBL-XD-SCT", "page": 1, "evidence": "Số 86 /GCNBL-XD-SCT", "ink": "handwritten", "status": "ok", "note": "so_viet_tay"},
+    "ngay_cap": {"value": "16 tháng 12 năm 2019", "normalized": "2019-12-16", "page": 1, "evidence": "Bình Định, ngày 16 tháng 12 năm 2019", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "co_quan_cap": {"value": "UBND TỈNH BÌNH ĐỊNH / SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH BÌNH ĐỊNH / SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG XĂNG DẦU HOÀNG MINH", "normalized": "CỬA HÀNG XĂNG DẦU HOÀNG MINH", "page": 1, "evidence": "cửa hàng bán lẻ xăng dầu: CỬA HÀNG XĂNG DẦU HOÀNG MINH", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "ĐT.639, thôn Xuân Bình, xã Mỹ An, huyện Phù Mỹ, tỉnh Bình Định", "normalized": "ĐT.639, thôn Xuân Bình, xã Mỹ An, huyện Phù Mỹ, tỉnh Bình Định", "page": 1, "evidence": "Địa chỉ kinh doanh: ĐT.639, thôn Xuân Bình, xã Mỹ An", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Doanh nghiệp tư nhân xăng dầu Hoàng Minh, Mã số thuế: 4100479746", "normalized": "Doanh nghiệp tư nhân xăng dầu Hoàng Minh, Mã số thuế: 4100479746", "page": 1, "evidence": "Thuộc sở hữu của Doanh nghiệp tư nhân xăng dầu Hoàng Minh", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ hai ngày 16 tháng 12 năm 2019", "normalized": "Cấp lần thứ hai ngày 16 tháng 12 năm 2019", "page": 1, "evidence": "Cấp lần thứ hai ngày 16 tháng 12 năm 2019", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "ngay_het_han": {"value": "15 tháng 12 năm 2024", "normalized": "2024-12-15", "page": 2, "evidence": "có giá trị đến hết ngày 15 tháng 12 năm 2024", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"}
+  },
+  "unit_note": "scan_mo_mot_phan_so_va_ngay_viet_tay"
+}

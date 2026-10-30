@@ -1,0 +1,189 @@
+{
+ "batch_id": "batch_04",
+ "instructions": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\SILVER_PROMPT.md",
+ "output_dir_template": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\silver_raw\\<annotator>\\<unit_id>.json",
+ "note": "Chú thích thứ nhất: mọi đơn vị.",
+ "n_units": 7,
+ "n_images": 24,
+ "units": [
+  {
+   "unit_id": "d941b496cb0b_0",
+   "doc_type": "HD_MUA_BAN",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\HD_MUA_BAN.json",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "n_pages": 2,
+   "images": [
+    {
+     "file": "p01_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d941b496cb0b_0\\p01_a.png"
+    },
+    {
+     "file": "p01_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d941b496cb0b_0\\p01_b.png"
+    },
+    {
+     "file": "p02_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d941b496cb0b_0\\p02_a.png"
+    },
+    {
+     "file": "p02_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d941b496cb0b_0\\p02_b.png"
+    }
+   ]
+  },
+  {
+   "unit_id": "9183f0e21332_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\GCN_DDK_BAN_LE_XD.json",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "n_pages": 2,
+   "images": [
+    {
+     "file": "p01_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_a.png"
+    },
+    {
+     "file": "p01_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_b.png"
+    },
+    {
+     "file": "p02_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_a.png"
+    },
+    {
+     "file": "p02_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_b.png"
+    }
+   ]
+  },
+  {
+   "unit_id": "61b27599823b_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\PHIEU_XUAT_KHO.json",
+   "shown_pages": [
+    1
+   ],
+   "n_pages": 1,
+   "images": [
+    {
+     "file": "p01_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\61b27599823b_0\\p01_a.png"
+    },
+    {
+     "file": "p01_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\61b27599823b_0\\p01_b.png"
+    }
+   ]
+  },
+  {
+   "unit_id": "2ed500eab40a_0",
+   "doc_type": "HD_MUA_BAN",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\HD_MUA_BAN.json",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "n_pages": 2,
+   "images": [
+    {
+     "file": "p01_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\2ed500eab40a_0\\p01_a.png"
+    },
+    {
+     "file": "p01_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\2ed500eab40a_0\\p01_b.png"
+    },
+    {
+     "file": "p02_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\2ed500eab40a_0\\p02_a.png"
+    },
+    {
+     "file": "p02_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\2ed500eab40a_0\\p02_b.png"
+    }
+   ]
+  },
+  {
+   "unit_id": "8601fc242d48_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\CC_TAP_HUAN_VC_HNH.json",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "n_pages": 2,
+   "images": [
+    {
+     "file": "p01_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\8601fc242d48_0\\p01_a.png"
+    },
+    {
+     "file": "p01_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\8601fc242d48_0\\p01_b.png"
+    },
+    {
+     "file": "p02_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\8601fc242d48_0\\p02_a.png"
+    },
+    {
+     "file": "p02_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\8601fc242d48_0\\p02_b.png"
+    }
+   ]
+  },
+  {
+   "unit_id": "caf1d38f2828_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\GCN_DDK_BAN_LE_XD.json",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "n_pages": 2,
+   "images": [
+    {
+     "file": "p01_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p01_a.png"
+    },
+    {
+     "file": "p01_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p01_b.png"
+    },
+    {
+     "file": "p02_a.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p02_a.png"
+    },
+    {
+     "file": "p02_b.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p02_b.png"
+    }
+   ]
+  },
+  {
+   "unit_id": "1195238c05fa_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\CC_TAP_HUAN_VC_HNH.json",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "n_pages": 2,
+   "images": [
+    {
+     "file": "p01.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\1195238c05fa_0\\p01.png"
+    },
+    {
+     "file": "p02.png",
+     "path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\1195238c05fa_0\\p02.png"
+    }
+   ]
+  }
+ ]
+}

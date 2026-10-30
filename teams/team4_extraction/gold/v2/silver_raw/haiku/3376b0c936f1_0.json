@@ -1,0 +1,18 @@
+{
+  "unit_id": "3376b0c936f1_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUON_BON",
+  "pages_seen": [1, 2, 6],
+  "fields": {
+    "so_hop_dong": {"value": "02/2020/HĐMB-HH", "normalized": "02/2020/HĐMB-HH", "page": 1, "evidence": "Số: 02/2020/HĐMB-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "02 tháng 01 năm 2020", "normalized": "2020-01-02", "page": 1, "evidence": "Hôm nay, ngày 02 tháng 01 năm 2020", "ink": "printed", "status": "ok", "note": null},
+    "ben_cho_muon": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế : 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế : 4100668616", "page": 1, "evidence": "Mã số thuế : 4100668616", "ink": "printed", "status": "ok", "note": null},
+    "ben_muon": {"value": "CÔNG TY TNHH TRƯỜNG HƯNG, Mã số thuế : 4100850858", "normalized": "CÔNG TY TNHH TRƯỜNG HƯNG, Mã số thuế : 4100850858", "page": 1, "evidence": "Mã số thuế : 4100850858", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_bon": {"value": "01", "normalized": "1", "page": 1, "evidence": "mượn 01 bồn chứa dầu dung tích 22.000 lít", "ink": "printed", "status": "ok", "note": null},
+    "dung_tich_bon": {"value": "22.000 lít", "normalized": "22000", "page": 1, "evidence": "dung tích 22.000 lít bằng sắt 6ly", "ink": "printed", "status": "ok", "note": null},
+    "ngay_nhan_bon": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "ngay_tra_bon": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_den": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null}
+  },
+  "unit_note": "anh_mo: p02_b; p06 trang"
+}

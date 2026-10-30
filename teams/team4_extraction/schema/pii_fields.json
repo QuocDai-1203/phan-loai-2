@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "status": "tạm thời - chờ công ty trả lời câu 12 (README nhóm 4)",
+  "generated_from": "data/taxonomy_v2.json (mọi lớp, mọi key_fields)",
+  "config_defaults": {
+    "store_personal_ids": false,
+    "store_personal_names": true
+  },
+  "categories": {
+    "personal_id": {
+      "description": "Số căn cước/CMND, số giấy phép lái xe.",
+      "default_in_output": "dropped unless store_personal_ids=true",
+      "in_logs_and_reports": "never"
+    },
+    "birth_date": {
+      "description": "Ngày/năm sinh.",
+      "default_in_output": "dropped unless store_personal_ids=true",
+      "in_logs_and_reports": "never"
+    },
+    "personal_name": {
+      "description": "Họ tên cá nhân (người được cấp, người đại diện, lái xe, người nhận...).",
+      "default_in_output": "kept unless store_personal_names=false (cần để gắn nhắc hạn với người)",
+      "in_logs_and_reports": "never"
+    }
+  },
+  "rules": [
+    "Đầu ra mặc định (filter_output) bỏ hẳn khóa của personal_id và birth_date khi store_personal_ids=false.",
+    "Log, báo cáo, bảng lỗi: giá trị của MỌI trường trong 'fields' (kể cả personal_name) được thay bằng [REDACTED] hoặc bỏ.",
+    "Đáp án silver: người chú thích không chép giá trị personal_id/birth_date (chỉ ghi có hay không và trang)."
+  ],
+  "fields": [
+    {
+      "name": "nam_sinh",
+      "category": "birth_date",
+      "doc_types": [
+        "CC_TAP_HUAN_VC_HNH",
+        "CC_HUAN_LUYEN_PCCC",
+        "CC_NGHIEP_VU_BVMT"
+      ]
+    },
+    {
+      "name": "ngay_sinh",
+      "category": "birth_date",
+      "doc_types": [
+        "GPLX",
+        "CCCD"
+      ]
+    },
+    {
+      "name": "so_dinh_danh",
+      "category": "personal_id",
+      "doc_types": [
+        "CCCD"
+      ]
+    },
+    {
+      "name": "so_gplx",
+      "category": "personal_id",
+      "doc_types": [
+        "GPLX"
+      ]
+    },
+    {
+      "name": "ho_ten",
+      "category": "personal_name",
+      "doc_types": [
+        "CC_TAP_HUAN_VC_HNH",
+        "CC_HUAN_LUYEN_PCCC",
+        "CC_NGHIEP_VU_BVMT",
+        "GPLX",
+        "CCCD"
+      ]
+    },
+    {
+      "name": "nguoi_dai_dien",
+      "category": "personal_name",
+      "doc_types": [
+        "GCN_DKDN"
+      ]
+    },
+    {
+      "name": "nguoi_duoc_bao_hiem",
+      "category": "personal_name",
+      "doc_types": [
+        "GCN_BAO_HIEM"
+      ]
+    },
+    {
+      "name": "nguoi_duoc_uy_quyen",
+      "category": "personal_name",
+      "doc_types": [
+        "GIAY_UY_QUYEN"
+      ]
+    },
+    {
+      "name": "nguoi_giao",
+      "category": "personal_name",
+      "doc_types": [
+        "BB_GIAO_NHAN_HANG_HOA"
+      ]
+    },
+    {
+      "name": "nguoi_nhan",
+      "category": "personal_name",
+      "doc_types": [
+        "BB_GIAO_NHAN_HANG_HOA"
+      ]
+    },
+    {
+      "name": "nguoi_phu_trach",
+      "category": "personal_name",
+      "doc_types": [
+        "HO_SO_QUAN_LY_PCCC"
+      ]
+    },
+    {
+      "name": "nguoi_uy_quyen",
+      "category": "personal_name",
+      "doc_types": [
+        "GIAY_UY_QUYEN"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "unit_id": "9f5884bcd428_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "47 /GCNBLXD-SCT", "normalized": "47/GCNBLXD-SCT", "page": 1, "evidence": "Số: 47 /GCNBLXD-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "ngày 29 tháng 5 năm 2023", "normalized": "2023-05-29", "page": 1, "evidence": "Bình Định, ngày 29 tháng 5 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG BÁN LẺ XĂNG DẦU NGỌC CHÂU", "normalized": "CỬA HÀNG BÁN LẺ XĂNG DẦU NGỌC CHÂU", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: CỬA HÀNG BÁN LẺ", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "ĐT 639, thôn Đức Phổ 1, xã Cát Minh, huyện Phù Cát, tỉnh Bình Định", "normalized": "ĐT 639, thôn Đức Phổ 1, xã Cát Minh, huyện Phù Cát, tỉnh Bình Định", "page": 1, "evidence": "Địa chỉ: ĐT 639, thôn Đức Phổ 1, xã Cát Minh,", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Ngọc Châu, Mã số thuế: 4100408054", "normalized": "Công ty TNHH Ngọc Châu, Mã số thuế: 4100408054", "page": 1, "evidence": "Thuộc sở hữu của Công ty TNHH Ngọc Châu", "ink": "printed", "status": "ok", "note": "ma_so_thue_o_trang_2"},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa, Mã số thuế: 4100668616", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa, Mã số thuế: 4100668616", "page": 2, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ hai: ngày29 tháng 5 năm 2023", "normalized": "Cấp lần thứ hai: ngày29 tháng 5 năm 2023", "page": 1, "evidence": "Cấp lần thứ hai: ngày29 tháng 5 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "ngày29 tháng 5 năm 2028", "normalized": "2028-05-29", "page": 2, "evidence": "có giá trị đến hết ngày29 tháng 5 năm 2028", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "mat_sau_hien_nhe_van_doc_duoc"
+}

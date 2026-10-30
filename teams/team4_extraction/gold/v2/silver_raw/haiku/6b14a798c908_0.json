@@ -1,0 +1,17 @@
+{
+  "unit_id": "6b14a798c908_0",
+  "annotator": "haiku",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_vao_so": {"value": "C337/BVMT-XD", "normalized": "C337/BVMT-XD", "page": 2, "evidence": "Số: C337/BVMT-XD", "ink": "printed", "status": "ok", "note": null},
+    "ho_ten": {"value": "Thân Như Chi", "normalized": "Thân Như Chi", "page": 2, "evidence": "Chứng nhận: Ông (Bà) Thân Như Chi", "ink": "printed", "status": "ok", "note": null},
+    "nam_sinh": {"value": null, "normalized": null, "page": 2, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "noi_dung_khoa_hoc": {"value": "khóa đào tạo nghiệp vụ về bảo vệ môi trường trong kinh doanh xăng dầu", "normalized": "khóa đào tạo nghiệp vụ về bảo vệ môi trường trong kinh doanh xăng dầu", "page": 2, "evidence": "Đã hoàn thành khóa đào tạo nghiệp vụ về bảo vệ môi trường", "ink": "printed", "status": "ok", "note": null},
+    "thoi_gian_hoc": {"value": "từ ngày 10 đến ngày 12 tháng 01 năm 2018", "normalized": "từ ngày 10 đến ngày 12 tháng 01 năm 2018", "page": 2, "evidence": "Tổ chức từ ngày 10 đến ngày 12 tháng 01 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "co_so_dao_tao": {"value": "ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH - SỞ TÀI NGUYÊN VÀ MÔI TRƯỜNG", "normalized": "ỦY BAN NHÂN DÂN TỈNH BÌNH ĐỊNH - SỞ TÀI NGUYÊN VÀ MÔI TRƯỜNG", "page": 2, "evidence": "SỞ TÀI NGUYÊN VÀ MÔI TRƯỜNG", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "30 tháng 01 năm 2018", "normalized": "2018-01-30", "page": 2, "evidence": "Bình Định, ngày 30 tháng 01 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "30/01/2023", "normalized": "2023-01-30", "page": 2, "evidence": "Có giá trị đến ngày 30/01/2023", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "trang_1_bia_xanh_trang_2_co_chung_nhan"
+}

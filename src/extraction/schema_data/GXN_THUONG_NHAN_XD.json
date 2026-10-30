@@ -1,0 +1,219 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/GXN_THUONG_NHAN_XD",
+  "title": "GXN_THUONG_NHAN_XD - Giấy xác nhận đủ điều kiện làm thương nhân đầu mối / phân phối / đại lý xăng dầu",
+  "description": "Giấy xác nhận thương nhân xăng dầu. Trường hạn: ngay_het_han.",
+  "type": "object",
+  "properties": {
+    "so_giay": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số giấy xác nhận"
+    },
+    "ngay_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày cấp"
+    },
+    "co_quan_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Cơ quan cấp"
+    },
+    "ten_thuong_nhan": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên thương nhân được xác nhận"
+    },
+    "ma_so_thue": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Mã số thuế thương nhân"
+    },
+    "loai_thuong_nhan": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "dau_moi",
+        "phan_phoi",
+        "tong_dai_ly",
+        "dai_ly_ban_le",
+        null
+      ],
+      "description": "dau_moi | phan_phoi | tong_dai_ly | dai_ly_ban_le"
+    },
+    "lan_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Cấp lần thứ mấy"
+    },
+    "ngay_het_han": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "«Có giá trị đến hết ngày…»"
+    }
+  },
+  "required": [
+    "so_giay",
+    "ngay_cap",
+    "co_quan_cap",
+    "ten_thuong_nhan",
+    "ma_so_thue",
+    "loai_thuong_nhan",
+    "lan_cap",
+    "ngay_het_han"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "GXN_THUONG_NHAN_XD",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_giay",
+      "desc": "Số giấy xác nhận",
+      "annotator_hint": "Số giấy xác nhận.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no"
+    },
+    {
+      "name": "ngay_cap",
+      "desc": "Ngày cấp",
+      "annotator_hint": "Ngày ký cấp giấy.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "co_quan_cap",
+      "desc": "Cơ quan cấp",
+      "annotator_hint": "Cơ quan cấp (Sở/Bộ Công Thương).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ten_thuong_nhan",
+      "desc": "Tên thương nhân được xác nhận",
+      "annotator_hint": "Tên thương nhân được xác nhận.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ma_so_thue",
+      "desc": "Mã số thuế thương nhân",
+      "annotator_hint": "Mã số thuế thương nhân.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "tax_code"
+    },
+    {
+      "name": "loai_thuong_nhan",
+      "desc": "dau_moi | phan_phoi | tong_dai_ly | dai_ly_ban_le",
+      "annotator_hint": "Trường phân loại: silver không điền (suy từ tiêu đề; chấm riêng nếu cần).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": false,
+      "silver_policy": "skip",
+      "enum": [
+        "dau_moi",
+        "phan_phoi",
+        "tong_dai_ly",
+        "dai_ly_ban_le"
+      ]
+    },
+    {
+      "name": "lan_cap",
+      "desc": "Cấp lần thứ mấy",
+      "annotator_hint": "'cấp lần thứ …'; chép cụm như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_het_han",
+      "desc": "«Có giá trị đến hết ngày…»",
+      "annotator_hint": "'Có giá trị đến hết ngày …'. Chép đúng ngày in trên giấy. Nếu giấy chỉ ghi khoảng thời gian không kèm ngày: value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Không tự cộng ngày từ ngày cấp. Không ghi hạn: not_present.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    }
+  ],
+  "x-expiry_fields": [
+    "ngay_het_han"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "unit_id": "5b84a6c30d75_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUON_BON",
+  "pages_seen": [1, 2, 6],
+  "fields": {
+    "so_hop_dong": {"value": "01/2018/HDMB-HI[?]", "normalized": "01/2018/HDMB-HI[?]", "page": 1, "evidence": "Số: 01/2018/HDMB-HII", "ink": "printed", "status": "ok", "note": "ky_tu_cuoi_kho_doc"},
+    "ngay_ky": {"value": "02 tháng 01 năm 2018", "normalized": "2018-01-02", "page": 1, "evidence": "Hôm nay, ngày 02 tháng 01 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "ben_cho_muon": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế 4100668616", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": "mst_theo_so_gcn_dkkd"},
+    "ben_muon": {"value": "CÔNG TY TNHH DỊCH VỤ ABS; Mã số thuế 4101409501", "normalized": "CÔNG TY TNHH DỊCH VỤ ABS; Mã số thuế 4101409501", "page": 1, "evidence": "CÔNG TY TNHH DỊCH VỤ ABS", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_bon": {"value": "02", "normalized": "2", "page": 1, "evidence": "cho bên B mượn 02 bồn chứa dầu", "ink": "printed", "status": "ok", "note": null},
+    "dung_tich_bon": {"value": "22.000 lít", "normalized": "22000", "page": 1, "evidence": "dung tích 22.000 lít bằng sắt 6ly", "ink": "printed", "status": "ok", "note": null},
+    "ngay_nhan_bon": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "ngay_tra_bon": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_den": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null}
+  },
+  "unit_note": "anh_mo: p02_b; trang_trong: p06_a,p06_b"
+}

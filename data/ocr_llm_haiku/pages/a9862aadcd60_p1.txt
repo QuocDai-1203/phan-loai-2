@@ -1,0 +1,39 @@
+[trang xoay]
+1 ... 10M BOONG
+200x150x5
+5
+2
+3
+45x5
+6
+7
+9
+Ø[?]
+GIOANG CAO SU
+A-A
+ĐÃ THẨM DUYỆT THIẾT KẾ
+VỀ PHÒNG CHÁY VÀ CHỮA CHÁY
+CÔNG AN TỈNH BÌNH ĐỊNH
+PHÒNG CẢNH SÁT PCCC & CNCH
+Số: [?]-TD-PCCC-[?]
+[dấu]
+ĐÃ THẨM ĐỊNH
+Số: [?]/15/ĐKTĐ
+Ngày: 31-12-15
+[dấu]
+[chữ ký]
+CÔNG TY CỔ PHẦN CÔNG NGHỆ KỸ THUẬT VINASHIP
+VINASHIP TECHNOLOGY TECHNICAL JOINT STOCK COMPANY
+TD-07-15	NẮP HẦM GIẢN NỞ	TÀU DẦU	3
+Ngày vẽ: 12/2015	Tỷ lệ: 1/5
+TT	Tên thiết bị	Kích thước	Vật liệu	Số lượng	Ghi chú
+9	Tấm đỡ	[?]	Thép cấp AS	06
+8	Đinh tán	Đồng	06
+7	Chốt bản lề	Ø[?]	Thép cấp AS	02
+6	Tấm bản lề	Ø20	Thép cấp AS	02
+5	Tai hồng	D20	Đồng	06 bộ
+4	Bulong	D20x100	Thép C45	06 bộ
+3	Gioăng	30x50	Cao su	01
+2	Nắp hầm hàng	[?]	Thép cấp AS	01
+1	Thanh hãm hàng	[?]	Thép cấp AS	01
+Được quét bằng CamScanner

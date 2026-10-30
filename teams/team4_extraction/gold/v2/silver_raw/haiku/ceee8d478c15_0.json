@@ -1,0 +1,16 @@
+{
+  "unit_id": "ceee8d478c15_0",
+  "annotator": "haiku",
+  "doc_type": "GPLX",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_gplx": {"value": null, "normalized": null, "page": 1, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "ho_ten": {"value": "NGUYỄN HỮU HUY", "normalized": "NGUYỄN HỮU HUY", "page": 1, "evidence": "Họ tên/Full name: NGUYỄN HỮU HUY", "ink": "printed", "status": "ok", "note": null},
+    "ngay_sinh": {"value": null, "normalized": null, "page": 1, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "hang": {"value": "FC", "normalized": "FC", "page": 1, "evidence": "Hạng/Class: FC", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "17 tháng/month 06 năm/year 2020", "normalized": "2020-06-17", "page": 1, "evidence": "Bình Định, ngày/date 17 tháng/month 06 năm/year 2020", "ink": "printed", "status": "ok", "note": null},
+    "noi_cap": {"value": "Bình Định", "normalized": "Bình Định", "page": 1, "evidence": "Bình Định, ngày/date 17 tháng/month", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "17/06/2025", "normalized": "2025-06-17", "page": 1, "evidence": "Có giá trị đến Expires: 17/06/2025", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "mat_sau_danh_muc_hang_xe"
+}

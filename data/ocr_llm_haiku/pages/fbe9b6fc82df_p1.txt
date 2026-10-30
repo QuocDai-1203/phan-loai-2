@@ -1,0 +1,55 @@
+[trang xoay]
+BẢNG KÝ HIỆU
+Ký hiệu	Ý nghĩa
+[ký hiệu van]	Van 1 chiều
+[ký hiệu van]	Van an toàn
+	Miệng hút
+	Chân ống dò - rót
+	Ống thông hai có lưới phòng hoả và thiết bị phòng sóng
+	Bầu lọc dầu
+	Ống phân nhánh - ống chéo nhau
+	Đầu nối ống qua boong, qua vách TCVN 3629-81.Kiểu IV
+CÔNG AN TỈNH [?]
+PHÒNG CẢNH SÁT PCCC VÀ CNCH
+ĐÃ THẨM DUYỆT THIẾT KẾ
+VỀ PHÒNG CHÁY VÀ CHỮA CHÁY
+Số: ....../TD-PCCC ngày ... / ... / ...
+ĐÃ THẨM ĐỊNH
+Số: 03885/TS/ĐM15
+Ngày: 31.12.15
+Người thẩm định: BUI QUOC DINH
+[dấu]
+[chữ ký]
+TÀU DẦU
+SƠ ĐỒ HỆ THỐNG DẦU NHỜN
+TD 07-15
+Ngày tháng 12/2015	Tỉ lệ 1/75	Số tờ 3
+Thiết kế / Vẽ / Kiểm tra / Duyệt: [?]
+CÔNG TY CỔ PHẦN CÔNG NGHỆ KỸ THUẬT VINASHIP
+VINASHIP TECHNOLOGY TECHNICAL JOINT STOCK COMPANY
+Địa chỉ: Số 10, ngõ 80 đường Hoàng Đạo Thành, phường Kim Giang, quận Thanh Xuân, TP Hà Nội
+Điện thoại: +84 6285 3636	Fax: +84 6285 3636
+Email: vinaship.vns@gmail.com
+Website: vinashipisc.com
+[trang xoay]
+Bơm tay dầu nhờn trước khi khởi động (M)
+Đường ống xả dầu nhờn
+Về các te
+Bơm dầu nhờn tuần hoàn (M)
+Bầu lọc dầu (M)
+Sinh hàn dầu (M)
+Máy chính: 6PH-HT
+125cv; 2100vg/ph
+Đường ống cấp dầu nhờn vào các te
+Về két dầu bẩn
+Ø60.5x5.5
+300
+Boong chính
+Két dầu nhờn dự trữ V=35 lít
+CHÚ Ý
+1. Đường ống không ghi kích thước là có sẵn trên máy.
+2. Tại các vị trí có thể bị rò dầu phải bố trí các khay hứng.
+3. Đánh số và gắn biển các ống thông hơi trên boong chính.
+4. Thử kín: P= 6 kG/cm2
+5. Hệ thống phải trang bị báo động bằng âm thanh và ánh sáng khi có hư hỏng ở việc cấp dầu bôi trơn hoặc áp suất dầu bôi trơn giảm đáng kể và thiết bị dừng động cơ một cách tự động do áp suất thấp hơn sau khi báo động.
+Được quét bằng CamScanner

@@ -1,0 +1,40 @@
+# Cau hinh SUY DIEN (inference) cua VietOCR vgg_seq2seq, dung de chay OFFLINE.
+# Thu vien vietocr 0.3.13 mac dinh TAI cau hinh nay tu vocr.vn moi lan khoi dong (Cfg.load_config_from_name), nen khong chay
+# duoc khi mat mang. Tep nay duoc DUNG LAI bang tay (khong tai tu mang) tu cau hinh cong khai cua vietocr va duoc kiem bang:
+#   (1) vocab co 229 ky tu = 233 (so dong embedding trong checkpoint) - 4 token dac biet;
+#   (2) load_state_dict(strict=True) khong loi;
+#   (3) van ban dau ra tren 6 tai lieu (GPU) trung tung ky tu voi data/ocr_v2.jsonl (teams/team1_ocr/experiments/07_src_engine/RESULTS.md).
+# Co the doi chieu voi cau hinh chinh thuc bang: python scripts/setup_ocr_models.py --download-config (can mang, khong ghi de tep nay).
+vocab: 'aAàÀảẢãÃáÁạẠăĂằẰẳẲẵẴắẮặẶâÂầẦẩẨẫẪấẤậẬbBcCdDđĐeEèÈẻẺẽẼéÉẹẸêÊềỀểỂễỄếẾệỆfFgGhHiIìÌỉỈĩĨíÍịỊjJkKlLmMnNoOòÒỏỎõÕóÓọỌôÔồỒổỔỗỖốỐộỘơƠờỜởỞỡỠớỚợỢpPqQrRsStTuUùÙủỦũŨúÚụỤưƯừỪửỬữỮứỨựỰvVwWxXyYỳỲỷỶỹỸýÝỵỴzZ0123456789!"#$%&''()*+,-./:;<=>?@[\]^_`{|}~ '
+device: cpu
+backbone: vgg19_bn
+cnn:
+  pretrained: false
+  ss:
+    - [2, 2]
+    - [2, 2]
+    - [2, 1]
+    - [2, 1]
+    - [1, 1]
+  ks:
+    - [2, 2]
+    - [2, 2]
+    - [2, 1]
+    - [2, 1]
+    - [1, 1]
+  hidden: 256
+seq_modeling: seq2seq
+transformer:
+  encoder_hidden: 256
+  decoder_hidden: 256
+  img_channel: 256
+  decoder_embedded: 256
+  dropout: 0.1
+dataset:
+  image_height: 32
+  image_min_width: 32
+  image_max_width: 512
+predictor:
+  beamsearch: false
+quiet: true
+weights: vgg_seq2seq.pth

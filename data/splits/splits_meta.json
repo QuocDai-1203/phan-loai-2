@@ -1,0 +1,11 @@
+{
+  "labels_file": "data\\labels_v2.csv",
+  "labels_sha1_10": "eb3348713a",
+  "min_docs": 10,
+  "split_seed": 42,
+  "max_group_size_main": 5,
+  "n_dev": 237,
+  "n_test": 59,
+  "n_excluded_composite_unique": 8,
+  "generated": "2026-10-11T23:15:53"
+}

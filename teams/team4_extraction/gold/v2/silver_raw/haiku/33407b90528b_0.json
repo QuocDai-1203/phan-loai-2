@@ -1,0 +1,16 @@
+{
+  "unit_id": "33407b90528b_0",
+  "annotator": "haiku",
+  "doc_type": "GP_KD_VAN_TAI",
+  "pages_seen": [1],
+  "fields": {
+    "so_giay_phep": {"value": "52220056/GPKDVT", "normalized": "52220056/GPKDVT", "page": 1, "evidence": "Số: 52220056/GPKDVT Cấp lần thứ: 2", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "28 tháng 06 năm 2022", "normalized": "2022-06-28", "page": 1, "evidence": "Bình Định, Ngày 28 tháng 06 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "UBND TỈNH, TP BÌNH ĐỊNH - SỞ GIAO THÔNG VẬN TẢI", "normalized": "UBND TỈNH, TP BÌNH ĐỊNH - SỞ GIAO THÔNG VẬN TẢI", "page": 1, "evidence": "UBND TỈNH, TP BÌNH ĐỊNH SỞ GIAO THÔNG VẬN TẢI", "ink": "printed", "status": "ok", "note": null},
+    "don_vi_duoc_cap": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "loai_hinh_van_tai": {"value": "- Kinh doanh vận tải hàng hóa bằng Công-ten-nơ. - Kinh doanh vận tải hàng hóa bằng xe ô tô.", "normalized": "- Kinh doanh vận tải hàng hóa bằng Công-ten-nơ. - Kinh doanh vận tải hàng hóa bằng xe ô tô.", "page": 1, "evidence": "Kinh doanh vận tải hàng hóa bằng Công-ten-nơ.", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "2", "normalized": "2", "page": 1, "evidence": "Cấp lần thứ: 2", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null}
+  },
+  "unit_note": null
+}

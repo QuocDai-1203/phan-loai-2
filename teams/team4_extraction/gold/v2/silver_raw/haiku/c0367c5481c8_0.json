@@ -1,0 +1,20 @@
+{
+  "unit_id": "c0367c5481c8_0",
+  "annotator": "haiku",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "bien_so": {"value": "77C-173.10", "normalized": "77C-173.10", "page": 1, "evidence": "Biển số đăng ký (N°Plate) 77C-173.10", "ink": "printed", "status": "ok", "note": null},
+    "loai_phuong_tien": {"value": "Đầu kéo", "normalized": "Đầu kéo", "page": 1, "evidence": "Loại xe (Type): Đầu kéo", "ink": "printed", "status": "ok", "note": null},
+    "chu_so_huu": {"value": "CÔNG TY CP TM DV HIỆP HÒA", "normalized": "CÔNG TY CP TM DV HIỆP HÒA", "page": 1, "evidence": "Tên chủ xe (Owner's full name): CÔNG TY CP TM DV HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "nhan_hieu": {"value": "INTERNATIONAL", "normalized": "INTERNATIONAL", "page": 1, "evidence": "Nhãn hiệu (Brand): INTERNATIONAL", "ink": "printed", "status": "ok", "note": null},
+    "so_khung": {"value": "SJR4EN759778", "normalized": "SJR4EN759778", "page": 1, "evidence": "Số khung (Chassis N°): SJR4EN759778", "ink": "printed", "status": "ok", "note": null},
+    "so_may": {"value": "5HM2Y4178348", "normalized": "5HM2Y4178348", "page": 1, "evidence": "Số máy (Engine N°): 5HM2Y4178348", "ink": "printed", "status": "ok", "note": null},
+    "nam_san_xuat": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "so_chung_nhan": {"value": "028888", "normalized": "028888", "page": 2, "evidence": "Số (Number): 028888", "ink": "printed", "status": "ok", "note": null},
+    "ngay_dang_ky": {"value": "15/01/2018", "normalized": "2018-01-15", "page": 1, "evidence": "Đăng ký lần đầu ngày: 15/01/2018", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "CÔNG AN TỈNH BÌNH ĐỊNH - PHÒNG CẢNH SÁT GIAO THÔNG", "normalized": "CÔNG AN TỈNH BÌNH ĐỊNH - PHÒNG CẢNH SÁT GIAO THÔNG", "page": 2, "evidence": "CÔNG AN TỈNH BÌNH ĐỊNH PHÒNG CẢNH SÁT GIAO THÔNG", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "31/12/2038", "normalized": "2038-12-31", "page": 1, "evidence": "Đăng ký xe có giá trị đến ngày 31/12/2038", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

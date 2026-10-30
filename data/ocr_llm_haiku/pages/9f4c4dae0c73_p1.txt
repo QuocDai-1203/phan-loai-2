@@ -1,0 +1,38 @@
+PHIẾU XUẤT KHO THÀNH PHẨM | VHSX
+Ngày: 06/10/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2629763
+[dấu: M.S.N: 40[?]378569 ... PETROVIETNAM ... TỔNG CÔNG TY BSR ... LỌC HÓA DẦU VIỆT NAM ... TỈNH ... NGÃI]
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1872/HĐKT/BSR-MIPEC/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty Cổ phần Hóa dầu Quân đội
+Lệnh xuất hàng: 7309/LXHXB-DO-061026-55-0 (8000177143)
+Xuất tại bồn số: TK-5207B | Kho: Trạm xuất xe bồn NMLD Dung Quất
+Bên giao: Công ty cổ phần - Tổng Công ty Lọc hóa dầu Việt Nam
+Đại diện bên giao: NGUYỄN KHÁNH PHƯƠNG
+Bên nhận: Công ty Cổ phần Hóa dầu Quân đội
+Địa chỉ: Tầng 5, Tòa nhà Mipec Long Biên số 2 phố Long Biên 2 Phường Bồ Đề Thành phố Hà Nội.
+Đại diện bên nhận: NGÔ THỊ HỒNG SA
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 002/2026/GGT-MIPEX
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77C-080.01(77R-026.45) | Đến kho lúc: 09 giờ 38 phút ngày 06 tháng 10 năm 2026
+Bắt đầu lúc: 10 giờ 17 phút ngày 06 tháng 10 năm 2026 | Kết thúc lúc: 11 giờ 24 phút ngày 06 tháng 10 năm 2026
+2. Số lượng xuất:
+Số lượng
+Tên thành phẩm - Quy cách | Bbls (thùng) | M3 (tại 15⁰C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 257,025 | 40,843 | 33,847 | 41,615
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm năm mươi bảy phẩy không hai mươi lăm thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI010 | 1,000110 | 1,000019 | 0,999638 | 1,000461 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15⁰C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (⁰C)
+DO-204-202610050398 | 01 | 0,984300 | 0,8298 | 5,90 | 33,3
+DO-204-202610050398 | 02 | 0,983200 | 0,8298 | 6,10 | 34,6
+DO-204-202610050398 | 03 | 0,981600 | 0,8298 | 5,90 | 36,4
+DO-204-202610050398 | 04 | 0,980800 | 0,8298 | 6,40 | 37,2
+DO-204-202610050398 | 05 | 0,980500 | 0,8298 | 6,50 | 37,6
+DO-204-202610050398 | 06 | 0,980200 | 0,8298 | 6,20 | 37,9
+DO-204-202610050398 | 07 | 0,980300 | 0,8298 | 6,20 | 37,7
+DO-204-202610050398 | 08 | 0,980300 | 0,8298 | 6,00 | 37,8
+1 / 2
+Văn bản được tải lên hệ thống eoffice.bsr.com.vn. Với số định danh: BSR/PXK/DO

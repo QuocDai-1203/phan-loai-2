@@ -1,0 +1,2 @@
+[21:36:56]   q35_s1_name_c2000 / ocr_v2_p12: 237 tài liệu, 169s, parse_fail=0.000
+[21:39:37]   q35_s1_short_c800 / ocr_v2_p12: 237 tài liệu, 161s, parse_fail=0.000

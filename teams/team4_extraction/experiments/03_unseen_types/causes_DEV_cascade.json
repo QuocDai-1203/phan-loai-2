@@ -1,0 +1,1127 @@
+[
+ {
+  "unit_id": "08256d7db7e0_0",
+  "doc_type": "HD_NHUONG_QUYEN_DAI_LY",
+  "field": "cua_hang",
+  "type": "text",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "1551ba55fb79_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ngay_nhan_bon",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "1eedbefce352_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ben_cho_muon",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "280b2345986c_0",
+  "doc_type": "CC_HUAN_LUYEN_PCCC",
+  "field": "noi_lam_viec",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "280b2345986c_0",
+  "doc_type": "CC_HUAN_LUYEN_PCCC",
+  "field": "noi_dung_huan_luyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "280b2345986c_0",
+  "doc_type": "CC_HUAN_LUYEN_PCCC",
+  "field": "co_quan_cap",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "280b2345986c_0",
+  "doc_type": "CC_HUAN_LUYEN_PCCC",
+  "field": "ngay_cap",
+  "type": "date",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "2829275a2ce5_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "ben_chu_hang",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "2829275a2ce5_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "ben_van_chuyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "2829275a2ce5_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "gia_cuoc",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "truncated",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "2829275a2ce5_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "hieu_luc_den",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "28a4940bd394_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "ben_chu_hang",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "28a4940bd394_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "28a4940bd394_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "gia_cuoc",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "2d02cc44dda9_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "2d02cc44dda9_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "gia_cuoc",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "2edba020eae5_0",
+  "doc_type": "HD_NHUONG_QUYEN_DAI_LY",
+  "field": "cua_hang",
+  "type": "text",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "3376b0c936f1_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ben_muon",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "3376b0c936f1_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ngay_nhan_bon",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "3600c9ec3036_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "cong_ty_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "44e9ed288f9f_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "ben_chu_hang",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "44e9ed288f9f_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "44e9ed288f9f_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "gia_cuoc",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "46de162a60f9_0",
+  "doc_type": "GPLX",
+  "field": "noi_cap",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "4b0824ef0964_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "ben_van_chuyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "4b0824ef0964_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "4b0824ef0964_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "gia_cuoc",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "5139035b5c3f_0",
+  "doc_type": "GIAY_UY_QUYEN",
+  "field": "so_van_ban",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "5b84a6c30d75_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ngay_nhan_bon",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "61d855bda6e1_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "doi_tuong_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "61d855bda6e1_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "so_tien_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "61d855bda6e1_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "phi_bao_hiem",
+  "type": "number",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "61d855bda6e1_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "61d855bda6e1_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "67788b715358_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "so_hop_dong",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "67788b715358_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ngay_nhan_bon",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "6a8d8484ec29_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "6b14a798c908_0",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "field": "so_vao_so",
+  "type": "id",
+  "outcome": "empty",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "6b14a798c908_0",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "field": "co_so_dao_tao",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "6b14a798c908_0",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "7bbc9f2bf3ef_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "so_gcn_bao_hiem",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "7bbc9f2bf3ef_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "doi_tuong_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "7bbc9f2bf3ef_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "so_tien_bao_hiem",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "7bbc9f2bf3ef_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "7bbc9f2bf3ef_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "7eee57af35d4_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "hieu_luc_den",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "82b7cef9062b_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "ben_chu_hang",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "8db9cca49a9d_0",
+  "doc_type": "HD_NHUONG_QUYEN_DAI_LY",
+  "field": "cua_hang",
+  "type": "text",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "91d8c499df3b_0",
+  "doc_type": "GP_VC_HANG_NGUY_HIEM",
+  "field": "so_giay_phep",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "91d8c499df3b_0",
+  "doc_type": "GP_VC_HANG_NGUY_HIEM",
+  "field": "bien_so_phuong_tien",
+  "type": "id",
+  "outcome": "empty",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "91d8c499df3b_0",
+  "doc_type": "GP_VC_HANG_NGUY_HIEM",
+  "field": "ten_hang",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "920c2d44f32f_0",
+  "doc_type": "GP_VC_HANG_NGUY_HIEM",
+  "field": "so_giay_phep",
+  "type": "id",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "920c2d44f32f_0",
+  "doc_type": "GP_VC_HANG_NGUY_HIEM",
+  "field": "co_quan_cap",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "920c2d44f32f_0",
+  "doc_type": "GP_VC_HANG_NGUY_HIEM",
+  "field": "bien_so_phuong_tien",
+  "type": "id",
+  "outcome": "empty",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "920c2d44f32f_0",
+  "doc_type": "GP_VC_HANG_NGUY_HIEM",
+  "field": "ten_hang",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "98603f76bfe8_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "so_hop_dong",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "98603f76bfe8_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "ben_chu_hang",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "98603f76bfe8_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "a40578e63517_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "doi_tuong_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "a40578e63517_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "so_tien_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "a40578e63517_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "phi_bao_hiem",
+  "type": "number",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "a40578e63517_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "a40578e63517_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "a76ae560baf3_0",
+  "doc_type": "GPLX",
+  "field": "hang",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "a76ae560baf3_0",
+  "doc_type": "GPLX",
+  "field": "noi_cap",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "a76ae560baf3_0",
+  "doc_type": "GPLX",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "a76c35cddb4e_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "bien_so",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "a76c35cddb4e_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "loai_phuong_tien",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "a76c35cddb4e_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "so_khung",
+  "type": "id",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "a76c35cddb4e_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "co_quan_cap",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "aea7913cbe71_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "b2a6e5564140_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "so_hop_dong",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "b2a6e5564140_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "ben_van_chuyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "b2a6e5564140_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "b640e255862b_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "so_hop_dong",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "b640e255862b_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ben_muon",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "b8b72c553653_0",
+  "doc_type": "GIAY_UY_QUYEN",
+  "field": "so_van_ban",
+  "type": "id",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "b8b72c553653_0",
+  "doc_type": "GIAY_UY_QUYEN",
+  "field": "to_chuc_uy_quyen",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "bad0237be552_0",
+  "doc_type": "GPLX",
+  "field": "ngay_cap",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "bad0237be552_0",
+  "doc_type": "GPLX",
+  "field": "noi_cap",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "baebf72f798f_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "doi_tuong_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "baebf72f798f_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "so_tien_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "baebf72f798f_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "phi_bao_hiem",
+  "type": "number",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "baebf72f798f_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "baebf72f798f_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "bcf218315fa4_0",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "field": "noi_dung_khoa_hoc",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "bcf218315fa4_0",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "field": "thoi_gian_hoc",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "bcf218315fa4_0",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "field": "co_so_dao_tao",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "bcf218315fa4_0",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "field": "ngay_cap",
+  "type": "date",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "bfbfb743b8d5_0",
+  "doc_type": "HD_NHUONG_QUYEN_DAI_LY",
+  "field": "cua_hang",
+  "type": "text",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "c0367c5481c8_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "bien_so",
+  "type": "id",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "c0367c5481c8_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "so_khung",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "c0367c5481c8_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "so_may",
+  "type": "id",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "cc3992cb23d7_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "bien_so",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "under_stamp"
+ },
+ {
+  "unit_id": "cc3992cb23d7_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "so_khung",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "cc3992cb23d7_0",
+  "doc_type": "DANG_KY_PHUONG_TIEN",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "ceee8d478c15_0",
+  "doc_type": "GPLX",
+  "field": "noi_cap",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "d244fbe93911_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "gia_cuoc",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "d88b2ec4ccd1_0",
+  "doc_type": "CC_HUAN_LUYEN_PCCC",
+  "field": "co_quan_cap",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "d88b2ec4ccd1_0",
+  "doc_type": "CC_HUAN_LUYEN_PCCC",
+  "field": "ngay_cap",
+  "type": "date",
+  "outcome": "wrong",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "dcec81062942_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ngay_nhan_bon",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "dcec81062942_0",
+  "doc_type": "HD_MUON_BON",
+  "field": "ngay_tra_bon",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "ddb1f96a7c61_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "deab4d6d4713_0",
+  "doc_type": "GXN_THUONG_NHAN_XD",
+  "field": "so_giay",
+  "type": "id",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "e3c762fa235e_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "so_hop_dong",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "e3c762fa235e_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "e3c762fa235e_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "gia_cuoc",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "e59cf5cafa04_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "so_gcn_bao_hiem",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "e59cf5cafa04_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "cong_ty_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "e59cf5cafa04_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "doi_tuong_bao_hiem",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "e59cf5cafa04_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "phi_bao_hiem",
+  "type": "number",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "e59cf5cafa04_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "e59cf5cafa04_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "e7b64bbee692_0",
+  "doc_type": "CC_HUAN_LUYEN_PCCC",
+  "field": "ngay_cap",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ocr_missing",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "e7b64bbee692_0",
+  "doc_type": "CC_HUAN_LUYEN_PCCC",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "spurious",
+  "cause": "spurious_gold_absent",
+  "ink": null
+ },
+ {
+  "unit_id": "f16c838b365a_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "tuyen_van_chuyen",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "f16c838b365a_0",
+  "doc_type": "HD_VAN_CHUYEN",
+  "field": "gia_cuoc",
+  "type": "text",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "f59a351ba852_0",
+  "doc_type": "CCCD",
+  "field": "ngay_cap",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "fa759d839df8_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "so_gcn_bao_hiem",
+  "type": "id",
+  "outcome": "wrong",
+  "cause": "llm_miss",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "fa759d839df8_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "cong_ty_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "extent",
+  "ink": "printed"
+ },
+ {
+  "unit_id": "fa759d839df8_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "doi_tuong_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "fa759d839df8_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "so_tien_bao_hiem",
+  "type": "text",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "fa759d839df8_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "phi_bao_hiem",
+  "type": "number",
+  "outcome": "wrong",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "fa759d839df8_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ },
+ {
+  "unit_id": "fa759d839df8_0",
+  "doc_type": "GCN_BAO_HIEM",
+  "field": "ngay_het_han",
+  "type": "date",
+  "outcome": "empty",
+  "cause": "ink",
+  "ink": "handwritten"
+ }
+]

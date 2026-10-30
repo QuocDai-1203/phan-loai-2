@@ -1,0 +1,149 @@
+{
+  "system_evaluated": "rule_gate_only (KEV OFFLINE - KHÔNG phải kết quả của mô hình)",
+  "kev_online": false,
+  "kev_error": "ConnectTimeout: HTTPConnectionPool(host='127.0.0.1', port=8009): Max retries exceeded with url: /v1/systemone (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000002126227B230>, 'Connection to 127.0.0.1 timed out. (connect timeout=0.5)'))",
+  "kev_endpoint": "http://127.0.0.1:8009/v1/systemone",
+  "allow_heuristic_fallback": false,
+  "warning": "Kev server không khả dụng: số liệu dưới đây là của cổng luật từ khóa (tier 'rule'); các tài liệu luật không quyết định được đều bị abstain (UNKNOWN).",
+  "input": "data\\baseline_ocr_335.jsonl",
+  "taxonomy": {
+    "version": "legacy-19",
+    "source": "builtin_legacy_19",
+    "num_classes": 19
+  },
+  "unmapped_true_labels": {},
+  "abstain_reasons": {
+    "kev_error": 145
+  },
+  "total": 334,
+  "correct": 98,
+  "accuracy": 0.2934131736526946,
+  "macro_f1": 0.26113015381591237,
+  "coverage": 0.5658682634730539,
+  "covered": 189,
+  "accuracy_on_covered": 0.5185185185185185,
+  "tier_counts": {
+    "rule": 189,
+    "none": 145
+  },
+  "tier_accuracy_on_covered": {
+    "rule": 0.5185185185185185,
+    "none": null
+  },
+  "per_class": {
+    "10. GCN VC HNH": {
+      "precision": 0.45454545454545453,
+      "recall": 1.0,
+      "f1": 0.625,
+      "support": 20
+    },
+    "5. TỔNG HỢP HỒ SƠ XE": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 20
+    },
+    "6. CUA HANG - BB MAU- VÂN": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 10
+    },
+    "6. HOP DONG MUON BON": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 7
+    },
+    "6. HOP DONG THUE KHO- Vi": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 6
+    },
+    "8. CUA HANG - TU K.TRA PCCC- VÂN": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 5
+    },
+    "8. GCN Lop dao tao van chuyen hang chay no": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 20
+    },
+    "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 25
+    },
+    "TU K.TRA PCCC- VÂN": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 5
+    },
+    "_1. Giay DKKD khach hang": {
+      "precision": 0.2073170731707317,
+      "recall": 0.7391304347826086,
+      "f1": 0.3238095238095238,
+      "support": 23
+    },
+    "_1. HOP DONG DAI LY NHUONG QUYEN": {
+      "precision": 1.0,
+      "recall": 0.2,
+      "f1": 0.3333333333333333,
+      "support": 25
+    },
+    "_2. Giay Du Dieu Kien Khach hang": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 25
+    },
+    "_2. HOP DONG KINH TE": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 25
+    },
+    "_3. HOP DONG DAU VAO-Diem": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 20
+    },
+    "_4. THANH LÝ HỢP ĐỒNG": {
+      "precision": 1.0,
+      "recall": 0.21428571428571427,
+      "f1": 0.35294117647058826,
+      "support": 14
+    },
+    "_5. HOP DONG VAN CHUYEN": {
+      "precision": 0.875,
+      "recall": 0.2916666666666667,
+      "f1": 0.4375,
+      "support": 24
+    },
+    "_Biên bản giao nhận 2026": {
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 20
+    },
+    "_PHIẾU XUẤT KHO MUA HÀNG 2026": {
+      "precision": 1.0,
+      "recall": 0.8,
+      "f1": 0.8888888888888888,
+      "support": 20
+    },
+    "_Đơn đặt hàng - mua vào 2026": {
+      "precision": 1.0,
+      "recall": 1.0,
+      "f1": 1.0,
+      "support": 20
+    }
+  }
+}

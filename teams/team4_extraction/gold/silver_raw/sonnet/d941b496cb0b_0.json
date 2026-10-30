@@ -1,0 +1,18 @@
+{
+  "unit_id": "d941b496cb0b_0",
+  "annotator": "sonnet",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "233/2018/HĐKT-HH", "normalized": "233/2018/HĐKT-HH", "page": 1, "evidence": "Số: 233/2018/HĐKT-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "ngày 01 tháng 10 năm 2018", "normalized": "2018-10-01", "page": 1, "evidence": "Hôm nay, ngày 01 tháng 10 năm 2018, tại văn phòng Công ty", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA Mã số thuế : 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA Mã số thuế : 4100668616", "page": 1, "evidence": "I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": "ben_A_la_ben_ban_theo_dieu_1.1"},
+    "ben_mua": {"value": "CÔNG TY TNHH ĐẦU TƯ TM VÀ DV DU LỊCH HOÀNG HẢI Mã số thuế : 4101461967", "normalized": "CÔNG TY TNHH ĐẦU TƯ TM VÀ DV DU LỊCH HOÀNG HẢI Mã số thuế : 4101461967", "page": 1, "evidence": "II/ BÊN B: CÔNG TY TNHH ĐẦU TƯ TM VÀ DV DU LỊCH HOÀNG HẢI", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "xăng dầu các loại", "normalized": "xăng dầu các loại", "page": 1, "evidence": "Bên A đồng ý xuất bán cho bên B mặt hàng sau: xăng dầu các loại", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực", "normalized": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực", "page": 2, "evidence": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực", "ink": "printed", "status": "ok", "note": "khong_co_han_muc_so_tien"},
+    "hieu_luc_tu": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": "chi_ghi_tu_ngay_ky"},
+    "hieu_luc_den": {"value": "31/12/2018", "normalized": "2018-12-31", "page": 2, "evidence": "Hợp đồng này có hiệu lực từ ngày ký đến ngày 31/12/2018", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

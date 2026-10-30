@@ -1,0 +1,56 @@
+{
+  "version": "v0 (machine, NOT human verified)",
+  "labels_file": "labels_v2.csv",
+  "labels_sha1_10": "eb3348713a",
+  "manifest_sha1_10": "d6599c4ebe",
+  "splits_sha1_10": "f5c3e07db6",
+  "totals": {
+    "pages": 1113,
+    "positions": 809,
+    "boundaries": 145
+  },
+  "expected": {
+    "pages": 1113,
+    "positions": 809,
+    "boundaries": 145
+  },
+  "per_group": {
+    "mixed": {
+      "files": 8,
+      "pages": 34,
+      "positions": 26,
+      "boundaries": 20
+    },
+    "same_other": {
+      "files": 6,
+      "pages": 17,
+      "positions": 11,
+      "boundaries": 7
+    },
+    "same_bb": {
+      "files": 7,
+      "pages": 125,
+      "positions": 118,
+      "boundaries": 118
+    },
+    "negative": {
+      "files": 191,
+      "pages": 845,
+      "positions": 654,
+      "boundaries": 0
+    },
+    "single_page": {
+      "files": 92,
+      "pages": 92,
+      "positions": 0,
+      "boundaries": 0
+    }
+  },
+  "check_composite_files": [
+    "36aff038b19e",
+    "57374da27cae",
+    "72449aceeff3",
+    "87c88bf6d0f1",
+    "9f4c4dae0c73"
+  ]
+}

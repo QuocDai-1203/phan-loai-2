@@ -1,0 +1,84 @@
+{
+ "unit_id": "72449aceeff3_1",
+ "annotator": "sonnet",
+ "doc_type": "CC_NGHIEP_VU_BVMT",
+ "pages_seen": [
+  3,
+  4
+ ],
+ "fields": {
+  "so_vao_so": {
+   "value": "91399",
+   "normalized": "91399",
+   "page": 3,
+   "evidence": "Vào sổ số: 91399",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "ho_ten": {
+   "value": "Lưu Thái Nguyên",
+   "normalized": null,
+   "page": 3,
+   "evidence": "Cấp cho: Lưu Thái Nguyên",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "nam_sinh": {
+   "value": null,
+   "normalized": null,
+   "page": 3,
+   "evidence": null,
+   "ink": null,
+   "status": "ok",
+   "note": null
+  },
+  "noi_dung_khoa_hoc": {
+   "value": "Nghiệp vụ bảo vệ môi trường trong kinh doanh xăng dầu theo Nghị định số: 83/2014/NĐ-CP",
+   "normalized": null,
+   "page": 3,
+   "evidence": "Nghiệp vụ bảo vệ môi trường trong kinh doanh xăng dầu",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "thoi_gian_hoc": {
+   "value": "Từ ngày 11/12/2019 Đến ngày 16/12/2019",
+   "normalized": null,
+   "page": 3,
+   "evidence": "Từ ngày 11/12/2019 Đến ngày 16/12/2019",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "co_so_dao_tao": {
+   "value": "TRƯỜNG CAO ĐẲNG THƯƠNG MẠI",
+   "normalized": null,
+   "page": 3,
+   "evidence": "BỘ CÔNG THƯƠNG TRƯỜNG CAO ĐẲNG THƯƠNG MẠI",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "17/12/2019",
+   "normalized": "2019-12-17",
+   "page": 3,
+   "evidence": "Ngày: 17/12/2019",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

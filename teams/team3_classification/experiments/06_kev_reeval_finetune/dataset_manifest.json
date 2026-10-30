@@ -1,0 +1,46 @@
+{
+  "source": "ocr_v2_p12",
+  "chars": 2000,
+  "n_docs_dev": 237,
+  "n_orig": 237,
+  "n_aug": 42,
+  "n_hardneg": 98,
+  "n_total": 377,
+  "n_types": 32,
+  "n_rare_types_present": 22,
+  "k_folds": 5,
+  "orig_per_fold": {
+    "0": 47,
+    "1": 48,
+    "2": 47,
+    "3": 48,
+    "4": 47
+  },
+  "rare_orig_per_fold": {
+    "0": 9,
+    "1": 6,
+    "2": 15,
+    "3": 18,
+    "4": 15
+  },
+  "n_groups": 168,
+  "max_group_size": 18,
+  "groups_split_across_folds": 0,
+  "dev_docs_sharing_group_with_test": 31,
+  "rows_over_2048_tokens_est": 0,
+  "criteria_tokens_all_choices": 870,
+  "max_n_tokens_est": 1984,
+  "mean_n_tokens_est": 1292.1697612732096,
+  "confusion_pairs_used": [
+    "HO_SO_QUAN_LY_PCCC->CONG_VAN_THONG_BAO",
+    "BB_GIAO_NHAN_HANG_HOA->HD_VAN_CHUYEN",
+    "BAN_VE_KY_THUAT->OTHER",
+    "CC_NGHIEP_VU_BVMT->OTHER",
+    "DON_DAT_HANG->HD_MUA_BAN",
+    "GP_VC_HANG_NGUY_HIEM->HD_VAN_CHUYEN",
+    "HD_MUA_BAN->OTHER"
+  ],
+  "seed": 0,
+  "includes_test": false,
+  "note": "Dữ liệu văn bản nằm ở _data/ (gitignore). Nhãn là nhãn máy (labels_v2.csv), chưa người kiểm."
+}

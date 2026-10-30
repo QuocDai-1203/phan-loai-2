@@ -1,0 +1,102 @@
+doc_id,doc_type,is_composite,segments,confidence,evidence,note
+3a74922446fc,PHIEU_XUAT_KHO,1,,high,PHIẾU XUẤT KHO THÀNH PHẨM (tr.1); BIÊN BẢN GIAO NHẬN HÀNG (tr.2),"tr.1 phiếu xuất kho, tr.2 BB giao nhận hàng; 4 trang, chưa xem hết trang 3-4 nên chưa ghi segments"
+b012a638ea9a,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - DOANH NGHIỆP TƯ NHÂN,bản sao chứng thực
+dd4db1b56778,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi nhà cung cấp, căn cứ HĐ mua bán xăng dầu",
+f11ae51c74f9,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi nhà cung cấp, căn cứ HĐ mua bán xăng dầu",
+e3c762fa235e,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),
+9c9585b77c4a,GCN_DDK_BAN_LE_XD,0,,high,GIẤY CHỨNG NHẬN CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU - Sở Công Thương,bản sao chứng thực; trang 3 chưa xem (có thể là Những điều quy định)
+fb2902b6b028,GXN_THUONG_NHAN_XD,0,,high,GIẤY XÁC NHẬN ĐỦ ĐIỀU KIỆN LÀM THƯƠNG NHÂN PHÂN PHỐI XĂNG DẦU - Bộ Công Thương,tên tệp CamScanner không liên quan
+a67e85a3c2e6,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY TNHH HAI THÀNH VIÊN TRỞ LÊN,
+4dd7e35bbd9a,HD_MUA_BAN,0,,high,"HỢP ĐỒNG MUA BÁN HÀNG HÓA, Bên A/Bên B, hạn mức công nợ",
+dc25cb8bab8a,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+ea1a77fe8ee7,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY TNHH MỘT THÀNH VIÊN,
+bf89d7cbbb3a,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong"
+2c8ea80d39f8,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+ed9b06c8b985,GCN_ATKT_BVMT_PT,0,,high,GIẤY CHỨNG NHẬN AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN THỦY NỘI ĐỊA,tr.2 là phần thông số/trang thiết bị; xoay ngang
+74022f3b5755,BB_THANH_LY_HD,0,,high,BIÊN BẢN THANH LÝ HỢP ĐỒNG (hợp đồng đại lý bao tiêu XD),hợp đồng gốc là đại lý; tiêu đề thanh lý nên giữ BB_THANH_LY_HD
+f35e74ca0451,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong"
+b620b2ecbd91,PHIEU_XUAT_KHO,0,,high,"PHIẾU XUẤT KHO THÀNH PHẨM, Lý do xuất kho",
+06f6e533b7c7,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),
+36dd62ca607c,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+7a8cbcc46988,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong; người được cấp là thủ kho"
+2da681df11bc,HD_MUA_BAN,0,,high,HỢP ĐỒNG MUA BÁN HÀNG HÓA (HỘ CÔNG NGHIỆP),
+6c5d851bee62,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong"
+ba5ba0eb057d,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+507b47ad121b,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),
+1195238c05fa,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong"
+8eb01470d0be,HD_MUA_BAN,0,,high,HỢP ĐỒNG MUA BÁN HÀNG HÓA (HỘ CÔNG NGHIỆP),
+ef39bb3714e1,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY TNHH MỘT THÀNH VIÊN,"7 trang, chỉ xem tr.1-2; chưa xem hết trang (tr.3-7 có thể là công bố nội dung đăng ký, cùng tài liệu)"
+dcec81062942,HD_MUON_BON,0,,high,HỢP ĐỒNG MƯỢN BỒN CHỨA DẦU,"6 trang, chưa xem hết trang (tr.3-6 dự kiến biên bản nhận/trả bồn, không tách)"
+e217397abc7a,BB_THANH_LY_HD,0,,high,BIÊN BẢN THANH LÝ HỢP ĐỒNG (hợp đồng đại lý),hợp đồng gốc là đại lý; tiêu đề thanh lý
+5715c445b68f,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi nhà cung cấp, căn cứ HĐ mua bán xăng dầu",
+1bdaf73c61e5,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY TNHH MỘT THÀNH VIÊN,tên tệp 'GIẤY PHÉP KINH DOANH CTY MẸ'
+cc6eee8adab8,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi nhà cung cấp, căn cứ HĐ mua bán xăng dầu",
+5ba5e56ee934,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi Chi nhánh Đà Nẵng - Hóa dầu Quân đội; căn cứ hợp đồng mua bán",bảng nhiều xe/người nhận; có ô xác nhận nhà cung cấp
+f59a351ba852,CCCD,0,,high,CĂN CƯỚC CÔNG DÂN / Citizen Identity Card,"tr.1 mặt trước, tr.2 mặt sau (vân tay, MRZ)"
+2edba020eae5,HD_NHUONG_QUYEN_DAI_LY,0,,high,"HỢP ĐỒNG NHƯỢNG QUYỀN BÁN LẺ XĂNG DẦU, GIỮA BÊN NHƯỢNG QUYỀN VÀ BÊN NHẬN NHƯỢNG QUYỀN","tr.1 bìa, tr.2 trắng; 10 trang, chưa xem hết trang"
+cb4d4cd19136,HD_MUA_BAN,0,,high,HỢP ĐỒNG MUA BÁN HÀNG HÓA,
+87c88bf6d0f1,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN NGHIỆM THU, BÀN GIAO HÀNG HÓA","5 trang, chỉ xem tr.1-2 (hết nội dung biên bản nghiệm thu); chưa xem hết trang 3-5 - nghi còn biên bản thanh lý/bảng kê đi kèm (GUIDE: ví dụ 7.4 #4 trùng tên tệp này)"
+618d1a827dff,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi Chi nhánh Đà Nẵng - Hóa dầu Quân đội; căn cứ hợp đồng mua bán",bảng nhiều xe/người nhận
+10055b46ac7b,BB_THANH_LY_HD,0,,high,BIÊN BẢN THANH LÝ HỢP ĐỒNG (hợp đồng đại lý bán lẻ),hợp đồng gốc là đại lý; tiêu đề thanh lý
+c5b5157a16a2,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong"
+910efc6c8e44,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),"3 trang, chưa xem hết trang 3"
+741b37405405,PHIEU_XUAT_KHO,0,,high,"PHIẾU XUẤT KHO THÀNH PHẨM, Lý do xuất kho",
+0567ee057de3,GIAY_PHEP_XAY_DUNG,0,,high,GIẤY PHÉP XÂY DỰNG - CÔNG TRÌNH: CỬA HÀNG XĂNG DẦU - Sở Xây dựng,
+81c6e933b541,GCN_DDK_BAN_LE_XD,0,,high,GIẤY CHỨNG NHẬN CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ DẦU - Sở Công Thương,đối tượng là tàu bán dầu (BSĐK); tr.2 NHỮNG ĐIỀU QUY ĐỊNH không tách
+03baaeec961e,CONG_VAN_THONG_BAO,0,,high,QUYẾT ĐỊNH ban hành Quy chế hoạt động của Ban Chỉ đạo dán tem (UBND tỉnh),"QĐ + quy chế kèm theo = một tài liệu; 9 trang, chưa xem hết trang"
+99d705b12444,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - DOANH NGHIỆP TƯ NHÂN,bản sao chứng thực
+57374da27cae,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),"4 trang, chỉ xem tr.1-2; chưa xem hết trang 3-4 (có thể còn giấy tờ đối tác đi kèm)"
+228e06f4536e,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi Chi nhánh PETEC Bình Định, có phần xác nhận của nhà cung cấp",mẫu có cột phần đặt hàng + phần xác nhận
+477e767342cf,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong; người được cấp là thủ kho"
+074b1ddb4dc3,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),
+10bea683d0fd,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong"
+f8048de5a956,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+9d62b9e6e2f2,GCN_DDK_BAN_LE_XD,0,,high,GIẤY CHỨNG NHẬN CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU - Sở Công Thương,
+8cf960f4632e,GCN_DDK_BAN_LE_XD,0,,high,GIẤY CHỨNG NHẬN CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU - Sở Công Thương,
+91e3dcb5fa4e,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong; nghề nghiệp thuyền trưởng"
+5ac8cfb0d9c7,PHIEU_XUAT_KHO,0,,high,"PHIẾU XUẤT KHO THÀNH PHẨM, Lý do xuất kho",
+d941b496cb0b,HD_MUA_BAN,0,,high,HỢP ĐỒNG MUA BÁN HÀNG HÓA (Số .../HĐKT),
+dfc6b34476ae,HD_MUA_BAN,0,,high,HỢP ĐỒNG MUA BÁN HÀNG HÓA (HỘ CÔNG NGHIỆP),
+596b4f4c5bda,BB_LAY_MAU,1,,high,"Mẫu 2. BBLM-BGM-KTNP - BIÊN BẢN LẤY MẪU, BÀN GIAO MẪU VÀ KIỂM TRA NIÊM PHONG",10 trang; tr.1 (23/02/2023) và tr.2 (17/02/2023) là hai biên bản khác nhau (composite cùng loại); chưa xem hết trang nên chưa ghi segments
+a40578e63517,GCN_BAO_HIEM,0,,high,Giấy chứng nhận bảo hiểm (Số GCNBH) xe cơ giới/rơ moóc - Bảo hiểm Hàng không,tr.2 là điều khoản/lưu ý
+ddb1f96a7c61,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA,
+67788b715358,HD_MUON_BON,0,,high,HỢP ĐỒNG MƯỢN BỒN CHỨA DẦU,"6 trang, chưa xem hết trang (tr.3-6 dự kiến biên bản nhận/trả bồn, không tách)"
+297c0d94ec78,HO_SO_QUAN_LY_PCCC,0,,medium,"SỔ THEO DÕI PHƯƠNG TIỆN PHÒNG CHÁY VÀ CHỮA CHÁY (tr.1, tập 53 trang)","53 trang, chưa xem hết trang; tr.1 là bìa sổ theo dõi chứ không phải bìa 'Hồ sơ quản lý' - tập thiếu bìa chung, xếp theo mục 6.23"
+2a14bd33fd68,GCN_PCCC_CO_SO,0,,high,GIẤY CHỨNG NHẬN THẨM DUYỆT THIẾT KẾ VỀ PHÒNG CHÁY VÀ CHỮA CHÁY (Phòng Cảnh sát PCCC),"đối tượng là tàu chở dầu; tr.2 là danh mục bản vẽ được thẩm duyệt, không tách"
+a8d26371c344,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY TNHH HAI THÀNH VIÊN TRỞ LÊN,"bản sao; 4 trang, chưa xem hết trang 3-4"
+973e134940c3,HD_MUA_BAN,0,,high,"HỢP ĐỒNG MUA BÁN HÀNG HÓA (bên bán là thương nhân phân phối, công ty là bên mua)",
+b8b72c553653,GIAY_UY_QUYEN,0,,high,"GIẤY UỶ QUYỀN - Bên ủy quyền / Bên được ủy quyền, thời hạn ủy quyền",
+c18fdc67df00,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - DOANH NGHIỆP TƯ NHÂN,
+ff2d2c80270f,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi nhà cung cấp, căn cứ HĐ mua bán xăng dầu",
+1700fb51ee4b,BIEN_PHAP_UNG_PHO_SU_CO,0,,high,"BIỆN PHÁP PHÒNG NGỪA, ỨNG PHÓ SỰ CỐ HÓA CHẤT CỦA CỬA HÀNG XĂNG DẦU SỐ 1","21 trang, có bìa + mở đầu; chưa xem hết trang"
+8db9cca49a9d,HD_NHUONG_QUYEN_DAI_LY,0,,high,"HỢP ĐỒNG NHƯỢNG QUYỀN BÁN LẺ XĂNG DẦU, GIỮA BÊN NHƯỢNG QUYỀN VÀ BÊN NHẬN NHƯỢNG QUYỀN","tr.1 bìa, tr.2 trắng; 10 trang, chưa xem hết trang"
+66f789c7d0e0,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - DOANH NGHIỆP TƯ NHÂN,
+82b7cef9062b,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),
+7eee57af35d4,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN THUÊ VẬN CHUYỂN / BÊN VẬN CHUYỂN),công ty là bên vận chuyển
+6badbe617d07,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+98d9bec84dcc,PHIEU_XUAT_KHO,1,,high,PHIẾU XUẤT KHO THÀNH PHẨM (tr.1); BIÊN BẢN GIAO NHẬN HÀNG (tr.2),"tr.1 phiếu xuất kho, tr.2 BB giao nhận hàng; 4 trang, chưa xem hết trang 3-4 nên chưa ghi segments"
+447c5ea610e9,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY TNHH MỘT THÀNH VIÊN,
+bac5fbfbdf06,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY TNHH MỘT THÀNH VIÊN,bản sao chứng thực
+18e0019f740d,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+ceee8d478c15,GPLX,0,,high,"GIẤY PHÉP LÁI XE / DRIVER'S LICENSE, hạng FC","tr.1 mặt trước, tr.2 mặt sau (bảng hạng xe)"
+919de06497d5,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),
+b640e255862b,HD_MUON_BON,0,,high,HỢP ĐỒNG MƯỢN BỒN CHỨA DẦU,
+f33a31d4f24b,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+3b84aa09975d,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+0f637d0d40be,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi nhà cung cấp, căn cứ HĐ mua bán xăng dầu",
+caf1d38f2828,GCN_DDK_BAN_LE_XD,0,,high,GIẤY CHỨNG NHẬN CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU - Sở Công Thương,tên tệp DDK; trang 2 là phần tiếp của giấy
+8c286654ff61,BB_LAY_MAU,0,,high,"Mẫu 2. BBLM-BGM-KTNP - BIÊN BẢN LẤY MẪU, BÀN GIAO MẪU VÀ KIỂM TRA NIÊM PHONG",
+e7b64bbee692,CC_HUAN_LUYEN_PCCC,0,,high,"CHỨNG NHẬN HUẤN LUYỆN NGHIỆP VỤ PHÒNG CHÁY, CHỮA CHÁY, CỨU NẠN, CỨU HỘ","tr.1 bìa, tr.2 mặt trong; Phòng CS PCCC và CNCH cấp cho cá nhân"
+4a2c79baea8d,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY TNHH MỘT THÀNH VIÊN,
+492786321ef5,CC_TAP_HUAN_VC_HNH,0,,high,GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM,"tr.1 bìa thẻ, tr.2 mặt trong"
+6c50528f7f4f,GCN_KIEM_DINH_DO_LUONG,1,,high,GIẤY CHỨNG NHẬN KIỂM ĐỊNH / CERTIFICATE OF VERIFICATION - Cột đo (Số K.176/2024; K.177/2024),3 trang; tr.1 và tr.2 là hai giấy khác số (hai cột đo) => composite cùng loại; chưa xem tr.3 nên chưa ghi segments
+568a16a4eaf8,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN CHỦ HÀNG / BÊN VẬN CHUYỂN),
+4f3f0793516b,GCN_DKDN,0,,high,GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP - CÔNG TY CỔ PHẦN,
+8af369ea50f5,HD_MUA_BAN,0,,high,HỢP ĐỒNG NGUYÊN TẮC MUA BÁN XĂNG DẦU,4 trang nhưng chân trang ghi 'Trang 1/5'; chưa xem hết trang 3-4
+c937939735f2,CC_NGHIEP_VU_BVMT,0,,high,GIẤY CHỨNG NHẬN - Đã dự lớp bồi dưỡng: Bảo vệ môi trường trong KD xăng dầu (Trường CĐ Thương mại),"tr.1 mặt trong, tr.2 bìa (xoay thứ tự so với thông thường)"
+44e9ed288f9f,HD_VAN_CHUYEN,0,,high,HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA (BÊN THUÊ VẬN CHUYỂN / BÊN VẬN CHUYỂN),công ty là bên vận chuyển
+defbf93a78b4,HD_MUA_BAN,0,,high,HỢP ĐỒNG MUA BÁN HÀNG HÓA (HỘ CÔNG NGHIỆP),
+8ff979a61664,BB_GIAO_NHAN_HANG_HOA,0,,high,"BIÊN BẢN GIAO HÀNG (mẫu của công ty, bảng tên hàng - số lượng)",
+a6640bcc1462,DON_DAT_HANG,0,,high,"ĐƠN ĐẶT HÀNG, Kính gửi nhà cung cấp, căn cứ HĐ mua bán xăng dầu",
+9a70617c73a1,GCN_PCCC_CO_SO,0,,high,GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN VỀ PHÒNG CHÁY VÀ CHỮA CHÁY (Mẫu PC4),cấp cho cửa hàng xăng dầu số 2
+889bd01a2f5e,HD_MUA_BAN,0,,high,HỢP ĐỒNG MUA BÁN HÀNG HÓA (HỘ CÔNG NGHIỆP),

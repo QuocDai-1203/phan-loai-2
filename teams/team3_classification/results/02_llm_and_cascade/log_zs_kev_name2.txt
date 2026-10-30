@@ -1,0 +1,3 @@
+[21:45:58] Kev server đang giữ mô hình: jaredpalmer/kev-0.8b
+[21:48:27]   kev_s2_name_c2000 / ocr_v2_p12: 237 tài liệu, 149s, parse_fail=0.000
+[21:51:01]   kev_s1_name_c800 / ocr_v2_p12: 237 tài liệu, 154s, parse_fail=0.000

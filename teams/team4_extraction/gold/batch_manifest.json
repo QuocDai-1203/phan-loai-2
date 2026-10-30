@@ -1,0 +1,35 @@
+{
+ "n_units": 104,
+ "n_images": 412,
+ "n_batches": 18,
+ "n_second_units": 40,
+ "n_second_batches": 6,
+ "n_second_images": 140,
+ "by_type": {
+  "CC_TAP_HUAN_VC_HNH": {
+   "DEV": 19,
+   "images": 88,
+   "shown_pages": 48,
+   "TEST": 5
+  },
+  "GCN_DDK_BAN_LE_XD": {
+   "DEV": 21,
+   "images": 104,
+   "shown_pages": 52,
+   "TEST": 6
+  },
+  "HD_MUA_BAN": {
+   "TEST": 6,
+   "images": 172,
+   "shown_pages": 86,
+   "DEV": 26
+  },
+  "PHIEU_XUAT_KHO": {
+   "TEST": 5,
+   "images": 48,
+   "shown_pages": 24,
+   "EXCLUDED": 6,
+   "DEV": 10
+  }
+ }
+}

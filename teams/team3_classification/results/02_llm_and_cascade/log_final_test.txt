@@ -1,0 +1,2 @@
+[22:47:17] TEST: chấm một lần các cấu hình đã chốt trên DEV
+[23:03:55] TEST xong.

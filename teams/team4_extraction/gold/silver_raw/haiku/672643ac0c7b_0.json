@@ -1,0 +1,18 @@
+{
+  "unit_id": "672643ac0c7b_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "83 /GCNĐĐK-SCT", "normalized": "83/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 83 /GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "09 tháng 11 năm 2018", "normalized": "2018-11-09", "page": 1, "evidence": "Gia Lai, ngày 09 tháng 11 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "normalized": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng Xăng dầu Gio an", "normalized": "Cửa hàng Xăng dầu Gio an", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: Cửa hàng Xăng dầu Gio an", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Thôn 1, thị trấn Đăk Pơ, huyện Đăk Pơ, tỉnh Gia Lai", "normalized": "Thôn 1, thị trấn Đăk Pơ, huyện Đăk Pơ, tỉnh Gia Lai", "page": 1, "evidence": "Địa chỉ: Thôn 1, thị trấn Đăk Pơ, huyện Đăk Pơ", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH MTV Thắng Thiên; Mã số thuế: 5900401885", "normalized": "Công ty TNHH MTV Thắng Thiên; Mã số thuế: 5900401885", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH MTV Thắng Thiên", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Xăng dầu Bình Định", "normalized": "Công ty Xăng dầu Bình Định", "page": 1, "evidence": "Tên thương nhân: Công ty Xăng dầu Bình Định", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 09/11/2018", "normalized": "Cấp lần thứ nhất: ngày 09/11/2018", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 09/11/2018.", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "09 tháng 11 năm 202[?]", "normalized": null, "page": 1, "evidence": "có giá trị đến hết ngày 09 tháng 11 năm 202", "ink": "under_stamp", "status": "ok", "note": "mot_phan_bi_con_dau"}
+  },
+  "unit_note": "scan_mo; con_dau_de_len_dieu_3; trang_2_chi_quy_dinh"
+}

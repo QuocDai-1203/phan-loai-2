@@ -1,0 +1,18 @@
+{
+  "unit_id": "fcb3bcb6035c_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "07 /GCNBLXD-SCT", "normalized": "07/GCNBLXD-SCT", "page": 1, "evidence": "Số: 07 /GCNBLXD-SCT", "ink": "handwritten", "status": "ok", "note": "so_viet_tay_07"},
+    "ngay_cap": {"value": "21 tháng 01 năm 2022", "normalized": "2022-01-21", "page": 1, "evidence": "Bình Định, ngày 21 tháng 01 năm 2022", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG", "normalized": "SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG BÁN LẺ XĂNG DẦU XUÂN THIẾT", "normalized": "CỬA HÀNG BÁN LẺ XĂNG DẦU XUÂN THIẾT", "page": 1, "evidence": "CỬA HÀNG BÁN LẺ XĂNG DẦU XUÂN THIẾT", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Xuân Thiết; Mã số thuế: 4101251078", "normalized": "Công ty TNHH Xuân Thiết; Mã số thuế: 4101251078", "page": 2, "evidence": "Thuộc sở hữu Công ty TNHH Xuân Thiết", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "page": 2, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ hai: ngày 21 tháng 01 năm 2022", "normalized": "Cấp lần thứ hai: ngày 21 tháng 01 năm 2022", "page": 1, "evidence": "Cấp lần thứ hai: ngày21 tháng 01 năm 2022", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "ngay_het_han": {"value": "21 tháng 01 năm 2027", "normalized": "2027-01-21", "page": 2, "evidence": "đến hết ngày 21 tháng 01 năm 2027", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"}
+  },
+  "unit_note": "vung_hoat_dong_khong_phai_dia_chi_cua_hang; mot_so_viet_tay"
+}

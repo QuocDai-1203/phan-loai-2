@@ -1,0 +1,139 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/CCCD",
+  "title": "CCCD - Căn cước công dân / chứng minh nhân dân",
+  "description": "Căn cước công dân/CMND. Trường hạn: ngay_het_han. Số định danh và ngày sinh là dữ liệu cá nhân (không chép giá trị).",
+  "type": "object",
+  "properties": {
+    "so_dinh_danh": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số căn cước/CMND (dữ liệu cá nhân nhạy cảm — chỉ trích khi nghiệp vụ yêu cầu)"
+    },
+    "ho_ten": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Họ tên"
+    },
+    "ngay_sinh": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày sinh"
+    },
+    "ngay_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày cấp"
+    },
+    "ngay_het_han": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "«Có giá trị đến»"
+    }
+  },
+  "required": [
+    "so_dinh_danh",
+    "ho_ten",
+    "ngay_sinh",
+    "ngay_cap",
+    "ngay_het_han"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "CCCD",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_dinh_danh",
+      "desc": "Số căn cước/CMND (dữ liệu cá nhân nhạy cảm — chỉ trích khi nghiệp vụ yêu cầu)",
+      "annotator_hint": "Số căn cước/CMND (dữ liệu cá nhân: KHÔNG chép giá trị).",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "personal_id",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "withhold_value",
+      "id_kind": "document_no"
+    },
+    {
+      "name": "ho_ten",
+      "desc": "Họ tên",
+      "annotator_hint": "Họ tên.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "personal_name",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_sinh",
+      "desc": "Ngày sinh",
+      "annotator_hint": "Ngày sinh (dữ liệu cá nhân: KHÔNG chép giá trị).",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "birth_date",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "withhold_value"
+    },
+    {
+      "name": "ngay_cap",
+      "desc": "Ngày cấp",
+      "annotator_hint": "Ngày cấp.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_het_han",
+      "desc": "«Có giá trị đến»",
+      "annotator_hint": "'Có giá trị đến' (có thể là 'Không thời hạn': value = cụm như in, normalized = null, note = 'khong_thoi_han'). Không tự cộng ngày.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    }
+  ],
+  "x-expiry_fields": [
+    "ngay_het_han"
+  ]
+}

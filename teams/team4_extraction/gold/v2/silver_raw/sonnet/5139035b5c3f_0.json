@@ -1,0 +1,83 @@
+{
+ "unit_id": "5139035b5c3f_0",
+ "annotator": "sonnet",
+ "doc_type": "GIAY_UY_QUYEN",
+ "pages_seen": [
+  1
+ ],
+ "fields": {
+  "so_van_ban": {
+   "value": "77/HK-UQ",
+   "normalized": "77/HK-UQ",
+   "page": 1,
+   "evidence": "Số: 77/HK-UQ",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "so_viet_tay_kho_doc"
+  },
+  "ngay_ky": {
+   "value": "ngày 07 tháng 05 năm 2025",
+   "normalized": "2025-05-07",
+   "page": 1,
+   "evidence": "Đà Nẵng, ngày 07 tháng 05 năm 2025",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "to_chuc_uy_quyen": {
+   "value": "Công ty TNHH Thương mại và Dịch vụ Tổng hợp Hòa Khánh",
+   "normalized": "Công ty TNHH Thương mại và Dịch vụ Tổng hợp Hòa Khánh",
+   "page": 1,
+   "evidence": "Đơn vị: Công ty TNHH Thương mại và Dịch vụ Tổng hợp Hòa Khánh",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "nguoi_uy_quyen": {
+   "value": "Ông NGUYỄN VĂN PHÚC, Giám đốc",
+   "normalized": "Ông NGUYỄN VĂN PHÚC, Giám đốc",
+   "page": 1,
+   "evidence": "Người ủy quyền: Ông NGUYỄN VĂN PHÚC Chức vụ: Giám đốc",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "nguoi_duoc_uy_quyen": {
+   "value": "Bà CAO THỊ NHƯ TUYẾT, Kế toán trưởng",
+   "normalized": "Bà CAO THỊ NHƯ TUYẾT, Kế toán trưởng",
+   "page": 1,
+   "evidence": "Người được ủy quyền: Bà CAO THỊ NHƯ TUYẾT Chức vụ: Kế toán trưởng",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "noi_dung_uy_quyen": {
+   "value": "Người được ủy quyền được quyền đại diện Công ty ký xác nhận các Biên bản đối chiếu công nợ",
+   "normalized": "Người được ủy quyền được quyền đại diện Công ty ký xác nhận các Biên bản đối chiếu công nợ",
+   "page": 1,
+   "evidence": "được quyền đại diện Công ty ký xác nhận các Biên bản đối chiếu công nợ",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hieu_luc_tu": {
+   "value": "07/05/2025",
+   "normalized": "2025-05-07",
+   "page": 1,
+   "evidence": "có hiệu lực kể từ ngày 07/05/2025 đến khi có văn bản khác",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "đến khi có văn bản khác thay thế",
+   "normalized": null,
+   "page": 1,
+   "evidence": "đến khi có văn bản khác thay thế",
+   "ink": "printed",
+   "status": "ok",
+   "note": "chi_ghi_thoi_han"
+  }
+ },
+ "unit_note": null
+}

@@ -1,0 +1,10 @@
+{
+  "item_id": "32d81c4d2ed6_0__ngay_cap",
+  "verdict": "both_equivalent",
+  "value": "ngày 20 tháng 5 năm 2021",
+  "normalized": "2021-05-20",
+  "page": 1,
+  "ink": "handwritten",
+  "status": "ok",
+  "reason": "chi khac chu 'ngay' dau cum; ngay va thang viet tay doc duoc"
+}

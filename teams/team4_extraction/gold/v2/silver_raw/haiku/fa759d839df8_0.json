@@ -1,0 +1,18 @@
+{
+  "unit_id": "fa759d839df8_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_BAO_HIEM",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_gcn_bao_hiem": {"value": "BB21/0246163", "normalized": "BB21/0246163", "page": 1, "evidence": "Số GCNBH: BB21/ 0246163", "ink": "printed", "status": "ok", "note": null},
+    "cong_ty_bao_hiem": {"value": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "normalized": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "page": 2, "evidence": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "ink": "printed", "status": "ok", "note": null},
+    "loai_bao_hiem": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "nguoi_duoc_bao_hiem": {"value": "Công ty Cổ phần TM-DV Hiệp Hòa", "normalized": "Công ty Cổ phần TM-DV Hiệp Hòa", "page": 1, "evidence": "Chủ xe: Công ty Cổ phần TM-DV Hiệp Hòa", "ink": "handwritten", "status": "ok", "note": null},
+    "doi_tuong_bao_hiem": {"value": "77C-02699", "normalized": "77C-02699", "page": 1, "evidence": "Biển kiểm soát: 77c-02699", "ink": "handwritten", "status": "ok", "note": null},
+    "so_tien_bao_hiem": {"value": "Số tiền bảo hiểm: 280.000.000 đồng; TNDS hàng hóa: 15.000.000 đồng/tấn", "normalized": "Số tiền bảo hiểm: 280.000.000 đồng; TNDS hàng hóa: 15.000.000 đồng/tấn", "page": 1, "evidence": "Số tiền bảo hiểm 280.000.000 đồng", "ink": "handwritten", "status": "ok", "note": null},
+    "phi_bao_hiem": {"value": "6.921.000", "normalized": "6921000", "page": 1, "evidence": "Tổng phí bảo hiểm thanh toán: 6.921.000 đồng", "ink": "handwritten", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "04 tháng 06 năm 2022", "normalized": "2022-06-04", "page": 1, "evidence": "Từ 07 giờ 00, ngày 04 tháng 06 năm 2022", "ink": "handwritten", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "04 tháng 06 năm 2023", "normalized": "2023-06-04", "page": 1, "evidence": "Đến 07 giờ 00, ngày 04 tháng 06 năm 2023", "ink": "handwritten", "status": "ok", "note": null}
+  },
+  "unit_note": "nua_duoi_trang_giay_viet_tay"
+}

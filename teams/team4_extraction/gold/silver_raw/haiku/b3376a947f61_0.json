@@ -1,0 +1,18 @@
+{
+  "unit_id": "b3376a947f61_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1],
+  "fields": {
+    "so_giay": {"value": null, "normalized": null, "page": 1, "evidence": null, "ink": "handwritten", "status": "illegible", "note": "so_viet_tay_kho_doc"},
+    "ngay_cap": {"value": "27 tháng 8 năm 2021", "normalized": "2021-08-27", "page": 1, "evidence": "Quảng Ngãi, ngày 27 tháng 8 năm 2021", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI", "normalized": "SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng bán lẻ xăng dầu Hương Sơn", "normalized": "Cửa hàng bán lẻ xăng dầu Hương Sơn", "page": 1, "evidence": "Cửa hàng bán lẻ xăng dầu Hương Sơn", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Thôn Làng Cá, xã Nghĩa Phú, thành phố Quảng Ngãi, tỉnh Quảng Ngãi", "normalized": "Thôn Làng Cá, xã Nghĩa Phú, thành phố Quảng Ngãi, tỉnh Quảng Ngãi", "page": 1, "evidence": "Thôn Làng Cá, xã Nghĩa Phú, thành phố Quảng Ngãi", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Một thành viên Xăng dầu Hương Sơn; Mã số thuế: 4300773424", "normalized": "Công ty TNHH Một thành viên Xăng dầu Hương Sơn; Mã số thuế: 4300773424", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH Một thành viên", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại - Dịch vụ Hiệp Hòa; Mã số thuế: 4100668616", "normalized": "Công ty Cổ phần Thương mại - Dịch vụ Hiệp Hòa; Mã số thuế: 4100668616", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại - Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lại lần thứ hai: Ngày 10 tháng 5 năm 2021; Cấp sửa đổi, bổ sung lần thứ nhất: Ngày 27 tháng 8 năm 2021", "normalized": "Cấp lại lần thứ hai: Ngày 10 tháng 5 năm 2021; Cấp sửa đổi, bổ sung lần thứ nhất: Ngày 27 tháng 8 năm 2021", "page": 1, "evidence": "Cấp lại lần thứ hai: Ngày 10 tháng 5 năm 2021", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "10 tháng 5 năm 2026", "normalized": "2026-05-10", "page": 1, "evidence": "có giá trị đến hết ngày 10 tháng 5 năm 2026", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_mo_nhe, so_giay_viet_tay"
+}

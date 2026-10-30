@@ -1,0 +1,42 @@
+{
+  "server": {
+    "name": "kev-latest",
+    "run": "jaredpalmer/kev-0.8b",
+    "base": "Qwen/Qwen3.5-0.8B-Base",
+    "lora": 16,
+    "temperature": 2.3510958125672174,
+    "release_date": "2026-10-01",
+    "dtype": "bfloat16",
+    "backend": "torch"
+  },
+  "agree_with_old_labels": 1.0,
+  "max_abs_conf_diff_vs_old": 0.010599999999999943,
+  "median_abs_conf_diff_vs_old": 0.0029000000000000137,
+  "perm_unstable_share": 0.08016877637130802,
+  "perm_first_order_accuracy": 0.9620253164556962,
+  "perm_mean_accuracy": 0.9620253164556962,
+  "perm_accuracy_per_order": [
+    0.9620253164556962,
+    0.9620253164556962,
+    0.9535864978902954,
+    0.9535864978902954,
+    0.9282700421940928,
+    0.9746835443037974
+  ],
+  "crossfit_factor_chosen": [
+    4.0,
+    4.0,
+    4.0,
+    4.0,
+    4.0
+  ],
+  "crossfit_ece": 0.022540222692267287,
+  "served_ece": 0.4413889204851404,
+  "n_err_name": 9,
+  "n_pairs_name": 7,
+  "pairs_with_ge2": 1,
+  "err_in_repeated_pairs": 3,
+  "err_in_template_groups_ge2": 0,
+  "err_with_template_group": 2,
+  "share_dev_in_template_group": 0.4177215189873418
+}

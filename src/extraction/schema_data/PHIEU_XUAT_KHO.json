@@ -1,0 +1,351 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/PHIEU_XUAT_KHO",
+  "title": "PHIEU_XUAT_KHO - Phiếu xuất kho",
+  "description": "Phiếu xuất kho (chứng từ kế toán). Không có trường hạn.",
+  "type": "object",
+  "properties": {
+    "so_phieu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số phiếu"
+    },
+    "ky_hieu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ký hiệu phiếu"
+    },
+    "ngay_xuat": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày xuất kho"
+    },
+    "ben_giao": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Bên giao (kho/nhà máy)"
+    },
+    "ben_nhan": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Bên nhận"
+    },
+    "hop_dong_can_cu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số, ngày hợp đồng"
+    },
+    "lenh_xuat_hang": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số lệnh xuất hàng"
+    },
+    "bon_xuat": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Bồn/kho xuất"
+    },
+    "bien_so_phuong_tien": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Biển số xe/rơ moóc nhận hàng"
+    },
+    "mat_hang": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên thành phẩm"
+    },
+    "so_luong_m3_15c": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số lượng m3 tại 15°C"
+    },
+    "so_luong_tan": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số lượng tấn"
+    },
+    "so_luong_m3_thuc_te": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số lượng m3 thực tế"
+    },
+    "so_chung_thu_chat_luong": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số chứng thư chất lượng (COQ) ghi trên phiếu"
+    }
+  },
+  "required": [
+    "so_phieu",
+    "ky_hieu",
+    "ngay_xuat",
+    "ben_giao",
+    "ben_nhan",
+    "hop_dong_can_cu",
+    "lenh_xuat_hang",
+    "bon_xuat",
+    "bien_so_phuong_tien",
+    "mat_hang",
+    "so_luong_m3_15c",
+    "so_luong_tan",
+    "so_luong_m3_thuc_te",
+    "so_chung_thu_chat_luong"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "PHIEU_XUAT_KHO",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_phieu",
+      "desc": "Số phiếu",
+      "annotator_hint": "Số phiếu xuất kho (in/đóng số).",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "ky_hieu",
+      "desc": "Ký hiệu phiếu",
+      "annotator_hint": "Ký hiệu/mẫu số phiếu (nếu có).",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "generic",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "ngay_xuat",
+      "desc": "Ngày xuất kho",
+      "annotator_hint": "Ngày xuất kho.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "ben_giao",
+      "desc": "Bên giao (kho/nhà máy)",
+      "annotator_hint": "Bên giao (kho/nhà máy/đơn vị xuất).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "ben_nhan",
+      "desc": "Bên nhận",
+      "annotator_hint": "Bên nhận (khách hàng/đơn vị nhận hàng).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "hop_dong_can_cu",
+      "desc": "Số, ngày hợp đồng",
+      "annotator_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "lenh_xuat_hang",
+      "desc": "Số lệnh xuất hàng",
+      "annotator_hint": "Số lệnh xuất hàng.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "bon_xuat",
+      "desc": "Bồn/kho xuất",
+      "annotator_hint": "Bồn/kho xuất.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "bien_so_phuong_tien",
+      "desc": "Biển số xe/rơ moóc nhận hàng",
+      "annotator_hint": "Biển số xe (và rơ moóc nếu có). Nếu có hai biển, ghi cả hai cách nhau '; '.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": true,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "plate",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "mat_hang",
+      "desc": "Tên thành phẩm",
+      "annotator_hint": "Tên thành phẩm (xăng RON 95-III, dầu DO 0,05S-II...).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "so_luong_m3_15c",
+      "desc": "Số lượng m3 tại 15°C",
+      "annotator_hint": "Số lượng m3 quy về 15°C.",
+      "type": "number",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "so_luong_tan",
+      "desc": "Số lượng tấn",
+      "annotator_hint": "Số lượng tấn.",
+      "type": "number",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "so_luong_m3_thuc_te",
+      "desc": "Số lượng m3 thực tế",
+      "annotator_hint": "Số lượng m3 thực tế (ở nhiệt độ đo).",
+      "type": "number",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1, bản số hóa)"
+    },
+    {
+      "name": "so_chung_thu_chat_luong",
+      "desc": "Số chứng thư chất lượng (COQ) ghi trên phiếu",
+      "annotator_hint": "Số chứng thư chất lượng (COQ) ghi trên phiếu.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "unit_id": "08256d7db7e0_0",
+  "annotator": "haiku",
+  "doc_type": "HD_NHUONG_QUYEN_DAI_LY",
+  "pages_seen": [1, 2, 6, 8, 9, 10],
+  "fields": {
+    "so_hop_dong": {"value": "13/2024/NQBLXD", "normalized": "13/2024/NQBLXD", "page": 1, "evidence": "Số: 13/2024/NQBLXD", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "21 tháng 11 năm 2023", "normalized": "2023-11-21", "page": 1, "evidence": "Ký ngày 21 tháng 11 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "ben_nhuong_quyen": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA", "page": 1, "evidence": "BÊN NHƯỢNG QUYỀN CÔNG TY CP THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ben_nhan_nhuong_quyen": {"value": "CÔNG TY TNHH XĂNG DẦU THÀNH LIÊN", "normalized": "CÔNG TY TNHH XĂNG DẦU THÀNH LIÊN", "page": 1, "evidence": "BÊN NHẬN NHƯỢNG QUYỀN CÔNG TY TNHH XĂNG DẦU THÀNH LIÊN", "ink": "printed", "status": "ok", "note": null},
+    "cua_hang": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_tu": {"value": "01/01/2024", "normalized": "2024-01-01", "page": 1, "evidence": "Hiệu lực từ ngày 01/01/2024 đến hết ngày 31/12/2026", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "31/12/2026", "normalized": "2026-12-31", "page": 1, "evidence": "đến hết ngày 31/12/2026", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "nua_duoi_trang"
+}

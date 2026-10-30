@@ -1,0 +1,23 @@
+{
+  "unit_id": "3a74922446fc_0",
+  "annotator": "haiku",
+  "doc_type": "PHIEU_XUAT_KHO",
+  "pages_seen": [1],
+  "fields": {
+    "so_phieu": {"value": "2602232", "normalized": "2602232", "page": 1, "evidence": "Số: 2602232", "ink": "printed", "status": "ok", "note": null},
+    "ky_hieu": {"value": "BSR/PXK/DO", "normalized": "BSR/PXK/DO", "page": 1, "evidence": "Ký hiệu: BSR/PXK/DO", "ink": "printed", "status": "ok", "note": null},
+    "ngay_xuat": {"value": "19/01/2026", "normalized": "2026-01-19", "page": 1, "evidence": "Ngày: 19/01/2026", "ink": "printed", "status": "ok", "note": null},
+    "ben_giao": {"value": "Công ty cổ phần Lọc hóa dầu Bình Sơn (BSR)", "normalized": "Công ty cổ phần Lọc hóa dầu Bình Sơn (BSR)", "page": 1, "evidence": "Bên giao: Công ty cổ phần Lọc hóa dầu Bình Sơn (BSR)", "ink": "printed", "status": "ok", "note": null},
+    "ben_nhan": {"value": "Công ty Cổ phần Hóa dầu Quân đội", "normalized": "Công ty Cổ phần Hóa dầu Quân đội", "page": 1, "evidence": "Bên nhận: Công ty Cổ phần Hóa dầu Quân đội", "ink": "printed", "status": "ok", "note": null},
+    "hop_dong_can_cu": {"value": "theo hợp đồng số 1872/HĐKT/BSR-MIPEC/2026 ngày 31 tháng 12 năm 2025", "normalized": "theo hợp đồng số 1872/HĐKT/BSR-MIPEC/2026 ngày 31 tháng 12 năm 2025", "page": 1, "evidence": "số 1872/HĐKT/BSR-MIPEC/2026 ngày 31 tháng 12", "ink": "printed", "status": "ok", "note": null},
+    "lenh_xuat_hang": {"value": "430/LXHXB-DO-190126-170-0 (8000147489)", "normalized": "430/LXHXB-DO-190126-170-0 (8000147489)", "page": 1, "evidence": "Lệnh xuất hàng: 430/LXHXB-DO-190126-170-0 (8000147489)", "ink": "printed", "status": "ok", "note": null},
+    "bon_xuat": {"value": "TK-5207B", "normalized": "TK-5207B", "page": 1, "evidence": "Xuất tại bồn số: TK-5207B", "ink": "printed", "status": "ok", "note": null},
+    "bien_so_phuong_tien": {"value": "77R-01942; 77C-10179", "normalized": "77R-01942; 77C-10179", "page": 1, "evidence": "Phương tiện: 77R-01942(77C-10179)", "ink": "printed", "status": "ok", "note": null},
+    "mat_hang": {"value": "Nhiên liệu điêzen (DO 0,05S) mức 2", "normalized": "Nhiên liệu điêzen (DO 0,05S) mức 2", "page": 1, "evidence": "Nhiên liệu điêzen (DO 0,05S) mức 2", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_m3_15c": {"value": "41,275", "normalized": "41.275", "page": 1, "evidence": "41,275 34,164 42,002", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_tan": {"value": "34,164", "normalized": "34.164", "page": 1, "evidence": "41,275 34,164 42,002", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_m3_thuc_te": {"value": "42,002", "normalized": "42.002", "page": 1, "evidence": "34,164 42,002", "ink": "printed", "status": "ok", "note": null},
+    "so_chung_thu_chat_luong": {"value": "DO-019-202601180827", "normalized": "DO-019-202601180827", "page": 1, "evidence": "DO-019-202601180827 01 0,982900", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "con_dau_do_goc_trai_khong_che_truong"
+}

@@ -1,0 +1,508 @@
+{
+ "batch_id": "queue_batch_02",
+ "instructions": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\adjudication\\ADJUDICATION_PROMPT.md",
+ "output_dir": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\adjudication\\out",
+ "do_not_open": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\adjudication\\key.json",
+ "n_units": 5,
+ "n_items": 14,
+ "n_images": 24,
+ "units": [
+  {
+   "unit_id": "deab4d6d4713_0",
+   "doc_type": "GXN_THUONG_NHAN_XD",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\GXN_THUONG_NHAN_XD.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\deab4d6d4713_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\deab4d6d4713_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\deab4d6d4713_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\deab4d6d4713_0\\p02_b.png"
+   ],
+   "items": [
+    {
+     "item_id": "deab4d6d4713_0__so_giay",
+     "field": "so_giay",
+     "field_type": "id",
+     "field_desc": "Số giấy xác nhận",
+     "field_hint": "Số giấy xác nhận.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "83 -TNĐM/QĐ-BCT",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Số: 83 -TNĐM/QĐ-BCT",
+      "note": "so_viet_tay_phan_con_lai_in"
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "83 -TNĐM/QĐ-BCT",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Số: 83 -TNĐM/QĐ-BCT",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "deab4d6d4713_0__ngay_cap",
+     "field": "ngay_cap",
+     "field_type": "date",
+     "field_desc": "Ngày cấp",
+     "field_hint": "Ngày ký cấp giấy.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "29 tháng 5 năm 2024",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Hà Nội, ngày 29 tháng 5 năm 2024",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "29 tháng 5 năm 2024",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Hà Nội, ngày 29 tháng 5 năm 2024",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "deab4d6d4713_0__ngay_het_han",
+     "field": "ngay_het_han",
+     "field_type": "date",
+     "field_desc": "«Có giá trị đến hết ngày…»",
+     "field_hint": "'Có giá trị đến hết ngày …'. Chép đúng ngày in trên giấy. Nếu giấy chỉ ghi khoảng thời gian không kèm ngày: value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Không tự cộng ngày từ ngày cấp. Không ghi hạn: not_present.",
+     "is_expiry": true,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "29 tháng 5 năm 2029",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "có giá trị đến hết ngày 29 tháng 5 năm 2029",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "29 tháng 5 năm 2029",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "có giá trị đến hết ngày 29 tháng 5 năm 2029",
+      "note": null
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "4d9f145f7932_0",
+   "doc_type": "HD_THUE_TAI_SAN",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\HD_THUE_TAI_SAN.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p03_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p04_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p04_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p05_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p05_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p06_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\4d9f145f7932_0\\p06_b.png"
+   ],
+   "items": [
+    {
+     "item_id": "4d9f145f7932_0__ngay_ky",
+     "field": "ngay_ky",
+     "field_type": "date",
+     "field_desc": "Ngày ký",
+     "field_hint": "Ngày ký hợp đồng.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "ngày 0[?] tháng 02 năm 2023",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Hôm nay, ngày 0[?] tháng 02 năm 2023",
+      "note": "chu_so_ngay_viet_tay_khong_chac"
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "01 tháng 02 năm 2023",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "ngày 01 tháng 02 năm 2023",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "4d9f145f7932_0__gia_thue",
+     "field": "gia_thue",
+     "field_type": "text",
+     "field_desc": "Giá thuê và kỳ thanh toán",
+     "field_hint": "Giá thuê và kỳ thanh toán, chép cụm như in.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "5.000.000 đồng/tháng, đã bao gồm thuế VAT, trả 1 lần trong năm",
+      "page": 2,
+      "ink": "printed",
+      "evidence": "Giá cho thuê cửa hàng là 5.000.000 đồng/tháng",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "5.000.000 đồng/tháng (Bằng chữ: Năm triệu đồng/tháng) – Đã bao gồm thuế VAT. Thống nhất thời gian thanh toán: trả 1 lần trong năm.",
+      "page": 2,
+      "ink": "printed",
+      "evidence": "5.000.000 đồng/tháng (Bằng chữ",
+      "note": null
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "91d8c499df3b_0",
+   "doc_type": "GP_VC_HANG_NGUY_HIEM",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\GP_VC_HANG_NGUY_HIEM.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\91d8c499df3b_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\91d8c499df3b_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\91d8c499df3b_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\91d8c499df3b_0\\p02_b.png"
+   ],
+   "items": [
+    {
+     "item_id": "91d8c499df3b_0__so_giay_phep",
+     "field": "so_giay_phep",
+     "field_type": "id",
+     "field_desc": "Số giấy phép",
+     "field_hint": "Số giấy phép.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "113 /PCCC",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Số: 113 /PCCC",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "113 /PCCC",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Số: 113 /PCCC",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "91d8c499df3b_0__ngay_cap",
+     "field": "ngay_cap",
+     "field_type": "date",
+     "field_desc": "Ngày cấp",
+     "field_hint": "Ngày cấp.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "ngày 07 tháng 06 năm 2022",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Bình Định, ngày 07 tháng 06 năm 2022",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "ngày 07 tháng 06 năm 2022",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Bình Định, ngày 07 tháng 06 năm 2022",
+      "note": "ngay_sua_tay"
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "cc3992cb23d7_0",
+   "doc_type": "DANG_KY_PHUONG_TIEN",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\DANG_KY_PHUONG_TIEN.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\cc3992cb23d7_0\\p01.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\cc3992cb23d7_0\\p02.png"
+   ],
+   "items": [
+    {
+     "item_id": "cc3992cb23d7_0__bien_so",
+     "field": "bien_so",
+     "field_type": "id",
+     "field_desc": "Biển số đăng ký / số đăng ký phương tiện thủy",
+     "field_hint": "Biển số đăng ký / số đăng ký phương tiện thủy. Nhiều biển: cách nhau '; '.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "77R-009.3[?]",
+      "page": 1,
+      "ink": "under_stamp",
+      "evidence": "Biển số đăng ký (N° Plate): 77R-009.3",
+      "note": "mot_phan_bi_che"
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "77R-009.34",
+      "page": 1,
+      "ink": "under_stamp",
+      "evidence": "Biển số đăng ký (N°Plate) 77R-009.34",
+      "note": "mot_phan_bi_con_dau_de"
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "7bab6a204ff9_0",
+   "doc_type": "CC_NGHIEP_VU_BVMT",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\CC_NGHIEP_VU_BVMT.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\7bab6a204ff9_0\\p01.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\7bab6a204ff9_0\\p02.png"
+   ],
+   "items": [
+    {
+     "item_id": "7bab6a204ff9_0__so_vao_so",
+     "field": "so_vao_so",
+     "field_type": "id",
+     "field_desc": "Số vào sổ / số chứng nhận",
+     "field_hint": "Số vào sổ / số chứng nhận.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "96297",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Vào sổ số: 96297",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "96297",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Vào sổ số: 96297",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "7bab6a204ff9_0__ho_ten",
+     "field": "ho_ten",
+     "field_type": "text",
+     "field_desc": "Họ tên người được cấp",
+     "field_hint": "Họ tên người được cấp.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "Bùi Đảo Trọng",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Cấp cho: Bùi Đảo Trọng",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "Bùi Đắc Trọng",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Cấp cho: Bùi Đắc Trọng",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "7bab6a204ff9_0__nam_sinh",
+     "field": "nam_sinh",
+     "field_type": "date",
+     "field_desc": "Ngày/năm sinh",
+     "field_hint": "Ngày/năm sinh (dữ liệu cá nhân: KHÔNG chép giá trị).",
+     "is_expiry": false,
+     "silver_policy": "withhold_value",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": null,
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": null,
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": null,
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": null,
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "7bab6a204ff9_0__noi_dung_khoa_hoc",
+     "field": "noi_dung_khoa_hoc",
+     "field_type": "text",
+     "field_desc": "Tên lớp/nội dung bồi dưỡng",
+     "field_hint": "Tên lớp/nội dung bồi dưỡng, chép cụm như in.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "Bảo vệ môi trường trong kinh doanh xăng dầu theo nghị định 83/2014/NĐ-CP",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Bảo vệ môi trường trong kinh doanh xăng dầu",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "Bảo vệ môi trường trong kinh doanh xăng dầu theo nghị định 83/2014/NĐ-CP",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Đã dự lớp bồi dưỡng: Bảo vệ môi trường trong kinh doanh",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "7bab6a204ff9_0__thoi_gian_hoc",
+     "field": "thoi_gian_hoc",
+     "field_type": "text",
+     "field_desc": "Từ ngày – đến ngày",
+     "field_hint": "Từ ngày – đến ngày, chép cụm như in.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "Từ ngày 8/8/2023 Đến ngày 13/8/2023",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Từ ngày: 8/8/2023 Đến ngày: 13/8/2023",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "Từ ngày 8/8/2023 đến ngày 13/8/2023",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Từ ngày 8/8/2023 Đến ngày: 13/8/2023",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "7bab6a204ff9_0__ngay_cap",
+     "field": "ngay_cap",
+     "field_type": "date",
+     "field_desc": "Ngày cấp",
+     "field_hint": "Ngày cấp.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "18/8/2023",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Ngày: 18/8/2023",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "18 tháng 8 năm 2023",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Đà Nẵng, ngày 18 tháng 8 năm 2023",
+      "note": null
+     },
+     "single_candidate": false
+    }
+   ]
+  }
+ ]
+}

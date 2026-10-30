@@ -1,0 +1,45 @@
+{
+  "eb3348713a": {
+    "time": "2026-10-11T18:52:06",
+    "run_id": "20261011T115155Z-de4249",
+    "configs": {
+      "legacy_p1": [
+        "tfidf_word_cnb_fold_C0.1",
+        "tfidf_word_cnb_fold_C0.5"
+      ],
+      "haiku_p1": [
+        "tfidf_word_lr_fold_C1",
+        "tfidf_word_lr_raw_C1"
+      ],
+      "haiku_p12": [
+        "tfidf_word_cnb_fold_C0.1",
+        "tfidf_word_cnb_raw_C0.1"
+      ],
+      "ocr_v2_p1": [
+        "tfidf_word_cnb_fold_C0.5",
+        "tfidf_word_cnb_fold_C0.1"
+      ],
+      "ocr_v2_p12": [
+        "tfidf_word_cnb_raw_C0.1",
+        "tfidf_word_cnb_fold_C0.1"
+      ]
+    },
+    "sources_scored": [
+      "haiku_p1",
+      "haiku_p12",
+      "legacy_p1",
+      "ocr_v2_p1",
+      "ocr_v2_p12"
+    ],
+    "scored_log": [
+      {
+        "time": "2026-10-11T19:22:07",
+        "run_id": "20261011T122200Z-eedb37",
+        "sources": [
+          "ocr_v2_p1",
+          "ocr_v2_p12"
+        ]
+      }
+    ]
+  }
+}

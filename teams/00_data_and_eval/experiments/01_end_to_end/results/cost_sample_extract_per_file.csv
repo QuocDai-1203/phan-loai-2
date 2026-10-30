@@ -1,0 +1,15 @@
+doc_id,group,pages,slices,decision,n_field_review,llm_calls,extracted,no_schema,split_ms,classify_ms,extract_ms,total_ms
+492786321ef5,negative,2,1,auto_file,0,0,1,0,99.9,15.0,4230.9,4346.133300103247
+6bba6e19b224,negative,2,1,auto_file,0,0,1,0,25.4,13.8,3453.7,3493.060200009495
+91e3dcb5fa4e,negative,2,1,auto_file,0,0,1,0,20.3,6.4,3136.6,3163.3493000408635
+9c9585b77c4a,negative,3,1,auto_file,0,0,1,0,35.6,13.6,4844.1,4893.493099953048
+caf1d38f2828,negative,2,1,auto_file,0,0,1,0,30.8,6.7,4890.8,4928.3525000792
+cee444373ad8,negative,2,1,auto_file,0,0,1,0,27.3,9.6,4624.9,4661.8673000484705
+640b0f506936,negative,2,1,auto_file,1,0,1,0,34.4,13.7,4138.0,4186.223099939525
+9b190bfd6ec1,negative,2,1,auto_file,1,0,1,0,32.7,22.1,3818.6,3873.525800067
+dfc6b34476ae,negative,2,1,auto_file,1,0,1,0,32.0,6.9,3961.6,4000.639699981548
+23ee3e156af2,single_page,1,1,auto_file,0,0,1,0,8.7,4.7,7.5,20.95739997457713
+61b27599823b,single_page,1,1,auto_file,0,0,1,0,9.1,4.4,6649.9,6663.515999913216
+b620b2ecbd91,single_page,1,1,auto_file,0,0,1,0,8.0,4.7,3.0,15.864699962548912
+11133174f271,mixed,4,4,auto_file,0,0,2,2,50.1,75.7,11930.1,12056.207000045106
+9f4c4dae0c73,mixed,5,4,auto_file,0,0,2,2,51.5,41.1,12069.7,12162.517699995078

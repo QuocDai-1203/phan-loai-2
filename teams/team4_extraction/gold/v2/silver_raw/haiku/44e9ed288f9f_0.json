@@ -1,0 +1,18 @@
+{
+  "unit_id": "44e9ed288f9f_0",
+  "annotator": "haiku",
+  "doc_type": "HD_VAN_CHUYEN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "07/2023/HĐVC-HH", "normalized": "07/2023/HĐVC-HH", "page": 1, "evidence": "Số: 07/2023/HĐVC-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "ngày 21 tháng 12 năm 2022", "normalized": "2022-12-21", "page": 1, "evidence": "Hôm nay, ngày 21 tháng 12 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ben_chu_hang": {"value": "CÔNG TY TNHH MỘT THÀNH VIÊN XĂNG DẦU DƯƠNG ĐÔNG- MIỀN TRUNG (BÊN THUÊ VẬN CHUYỂN), Mã số thuế : 4500572267", "normalized": "CÔNG TY TNHH MỘT THÀNH VIÊN XĂNG DẦU DƯƠNG ĐÔNG- MIỀN TRUNG (BÊN THUÊ VẬN CHUYỂN), Mã số thuế : 4500572267", "page": 1, "evidence": "Mã số thuế : 4500572267", "ink": "printed", "status": "ok", "note": null},
+    "ben_van_chuyen": {"value": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN), Mã số thuế : 4100668616", "normalized": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN), Mã số thuế : 4100668616", "page": 1, "evidence": "Mã số thuế : 4100668616", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "tuyen_van_chuyen": {"value": "Bên B chịu trách nhiệm nhận hàng tại kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định và vận chuyển đến giao tại các địa điểm theo yêu cầu của bên A.", "normalized": "Bên B chịu trách nhiệm nhận hàng tại kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định và vận chuyển đến giao tại các địa điểm theo yêu cầu của bên A.", "page": 1, "evidence": "nhận hàng tại kho của công ty xăng dầu đầu mối", "ink": "printed", "status": "ok", "note": null},
+    "gia_cuoc": {"value": "Giá cả do hai bên thỏa thuận theo từng thời điểm. Phương thức tính: theo lít vận chuyển hoặc theo chuyến.", "normalized": "Giá cả do hai bên thỏa thuận theo từng thời điểm. Phương thức tính: theo lít vận chuyển hoặc theo chuyến.", "page": 1, "evidence": "Giá cả do hai bên thỏa thuận theo từng thời điểm.", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "01/01/2023", "normalized": "2023-01-01", "page": 2, "evidence": "có hiệu lực từ ngày 01/01/2023 đến ngày", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "31/12/2023", "normalized": "2023-12-31", "page": 2, "evidence": "đến ngày 31/12/2023 hoặc hai bên hoàn thành", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

@@ -1,0 +1,110 @@
+{
+ "unit_id": "4ad1c01d6262_1",
+ "annotator": "sonnet",
+ "doc_type": "BIEN_NHAN_THE_CHAP_PT",
+ "pages_seen": [
+  2
+ ],
+ "fields": {
+  "so_bien_nhan": {
+   "value": "04/2023/HH",
+   "normalized": "04/2023/HH",
+   "page": 2,
+   "evidence": "Số: 04/2023/HH",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "ngày 09 tháng 02 năm 2023",
+   "normalized": "2023-02-09",
+   "page": 2,
+   "evidence": "Quy Nhơn, ngày 09 tháng 02 năm 2023",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngan_hang": {
+   "value": "NGÂN HÀNG TMCP PHÁT TRIỂN TP.HCM - CHI NHÁNH BÌNH ĐỊNH",
+   "normalized": "NGÂN HÀNG TMCP PHÁT TRIỂN TP.HCM - CHI NHÁNH BÌNH ĐỊNH",
+   "page": 2,
+   "evidence": "NGÂN HÀNG TMCP PHÁT TRIỂN TP.HCM - CHI NHÁNH BÌNH ĐỊNH",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_the_chap": {
+   "value": "CÔNG TY CỔ PHẦN TM&DV HIỆP HÒA",
+   "normalized": "CÔNG TY CỔ PHẦN TM&DV HIỆP HÒA",
+   "page": 2,
+   "evidence": "Thông tin Bên thế chấp: CÔNG TY CỔ PHẦN TM&DV HIỆP HÒA",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "bien_so": {
+   "value": "77R-009.34",
+   "normalized": "77R-009.34",
+   "page": 2,
+   "evidence": "Biển kiểm soát của phương tiện: 77R-009.34",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "loai_phuong_tien": {
+   "value": "Xe đầu kéo nhãn hiệu CHUSHENG",
+   "normalized": "Xe đầu kéo nhãn hiệu CHUSHENG",
+   "page": 2,
+   "evidence": "Loại phương tiện giao thông: Xe đầu kéo nhãn hiệu CHUSHENG",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_khung": {
+   "value": "VRG7F0CSC026",
+   "normalized": "VRG7F0CSC026",
+   "page": 2,
+   "evidence": "Số khung: VRG7F0CSC026",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_may": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "so_gcn_dang_ky": {
+   "value": "000882",
+   "normalized": "000882",
+   "page": 2,
+   "evidence": "Giấy chứng nhận đăng ký xe ô tô số 000882",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "lan_cap": {
+   "value": "Cấp lần 2",
+   "normalized": "Cấp lần 2",
+   "page": 2,
+   "evidence": "Cấp lần 2. Có hiệu lực đến hết ngày 15/02/2024",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "15/02/2024",
+   "normalized": "2024-02-15",
+   "page": 2,
+   "evidence": "Có hiệu lực đến hết ngày 15/02/2024",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": null
+}

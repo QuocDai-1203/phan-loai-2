@@ -1,0 +1,23 @@
+{
+  "unit_id": "61b27599823b_0",
+  "annotator": "sonnet",
+  "doc_type": "PHIEU_XUAT_KHO",
+  "pages_seen": [1],
+  "fields": {
+    "so_phieu": {"value": "2601387", "normalized": "2601387", "page": 1, "evidence": "Số: 2601387", "ink": "printed", "status": "ok", "note": null},
+    "ky_hieu": {"value": "BSR/PXK/MG95", "normalized": "BSR/PXK/MG95", "page": 1, "evidence": "Ký hiệu: BSR/PXK/MG95", "ink": "printed", "status": "ok", "note": null},
+    "ngay_xuat": {"value": "13/01/2026", "normalized": "2026-01-13", "page": 1, "evidence": "Ngày: 13/01/2026", "ink": "printed", "status": "ok", "note": null},
+    "ben_giao": {"value": "Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "normalized": "Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "page": 1, "evidence": "Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "ink": "printed", "status": "ok", "note": null},
+    "ben_nhan": {"value": "Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "normalized": "Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "page": 1, "evidence": "Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "ink": "printed", "status": "ok", "note": null},
+    "hop_dong_can_cu": {"value": "hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025", "normalized": "hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025", "page": 1, "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025", "ink": "printed", "status": "ok", "note": "mot_phan_duoi_con_dau"},
+    "lenh_xuat_hang": {"value": "295/LXHXB-MG95-130126-84-0 (8000146622)", "normalized": "295/LXHXB-MG95-130126-84-0 (8000146622)", "page": 1, "evidence": "Lệnh xuất hàng: 295/LXHXB-MG95-130126-84-0 (8000146622)", "ink": "printed", "status": "ok", "note": null},
+    "bon_xuat": {"value": "TK-5203B", "normalized": "TK-5203B", "page": 1, "evidence": "Xuất tại bồn số: TK-5203B", "ink": "printed", "status": "ok", "note": null},
+    "bien_so_phuong_tien": {"value": "77C-253.09", "normalized": "77C-253.09", "page": 1, "evidence": "Phương tiện: 77C-253.09", "ink": "printed", "status": "ok", "note": null},
+    "mat_hang": {"value": "Xăng không chì RON 95 mức 3", "normalized": "Xăng không chì RON 95 mức 3", "page": 1, "evidence": "Xăng không chì RON 95 mức 3", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_m3_15c": {"value": "12,861", "normalized": "12.861", "page": 1, "evidence": "M3 (tại 15°C) 12,861", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_tan": {"value": "9,467", "normalized": "9.467", "page": 1, "evidence": "MT (tấn) 9,467", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_m3_thuc_te": {"value": "12,998", "normalized": "12.998", "page": 1, "evidence": "M3 thực tế 12,998", "ink": "printed", "status": "ok", "note": null},
+    "so_chung_thu_chat_luong": {"value": "RON 95-012-202601120834", "normalized": "RON 95-012-202601120834", "page": 1, "evidence": "RON 95-012-202601120834", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

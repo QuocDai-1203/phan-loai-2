@@ -1,0 +1,59 @@
+{
+ "created": "2026-10-12T02:58:30+00:00",
+ "chosen": "S10",
+ "spec": {
+  "name": "S10",
+  "base": "model",
+  "tau": 0.7,
+  "merge": true,
+  "band": null,
+  "keep": 0.99
+ },
+ "n": 59,
+ "n_by_group": {
+  "negative": 36,
+  "single_page": 21,
+  "same_bb": 2
+ },
+ "labels_sha1_10": "eb3348713a",
+ "dev_selection_sha1_10": "e71d0a2226",
+ "new_llm_texts": 1,
+ "note": "Chấm TEST MỘT lần, cấu hình đóng băng trên dev; không dùng để chỉnh gì. Khác lần mở TEST phân loại (đã dùng ở 02/03).",
+ "run2": {
+  "created": "2026-10-15T17:21:18+00:00",
+  "chosen": "S10+id+tb",
+  "n": 59,
+  "n_by_group": {
+   "negative": 36,
+   "single_page": 21,
+   "same_bb": 2
+  },
+  "labels_sha1_10": "eb3348713a",
+  "dev_selection_v2_sha1_10": "71e1baca50",
+  "new_llm_texts": 0,
+  "counts": {
+   "S10": {
+    "n": 59,
+    "full": 56,
+    "auto": 58,
+    "silent": 2,
+    "docs_auto": 65,
+    "docs_total": 68,
+    "n_llm": 5,
+    "n_slices": 70
+   },
+   "S10+id+tb": {
+    "n": 59,
+    "full": 56,
+    "auto": 58,
+    "silent": 2,
+    "docs_auto": 65,
+    "docs_total": 68,
+    "n_llm": 5,
+    "n_slices": 70
+   }
+  },
+  "reason": "cấu hình mới (model+merge+id và/hoặc rule_title_tiebreak), khác cấu hình đã chấm ở lần TEST thứ nhất của thí nghiệm toàn trình (S10)",
+  "note": "Lần chạy TEST thứ hai của thí nghiệm toàn trình (experiments/03_end_to_end_v2): chấm MỘT lần cấu hình đóng băng trên dev và S10 cũ để đặt cạnh nhau; không dùng để chỉnh gì."
+ }
+}

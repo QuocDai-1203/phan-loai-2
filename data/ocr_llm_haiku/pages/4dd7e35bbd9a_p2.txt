@@ -1,0 +1,24 @@
+- Giá thanh toán được hiểu là giá Bên B thanh toán cho Bên A (Đã bao gồm thuế Giá trị gia tăng theo quy định của nhà nước) và được thể hiện trên hóa đơn bán hàng của Bên A.
+1.5. Chất lượng hàng hoá:
+Theo tiêu chuẩn quy định hiện hành của nhà nước đối với xăng dầu.
+ĐIỀU 2. ĐỊA ĐIỂM GIAO HÀNG
+Bên A giao hàng cho Bên B tại các Cửa hàng xăng dầu trực thuộc bên A.
+ĐIỀU 3. THANH TOÁN
+3.1 Hình thức thanh toán
+Thanh toán bằng tiền mặt hoặc chuyển khoản theo quy định của pháp luật.
+3.2 Hạn mức công nợ
+- Hạn mức công nợ tối đa là 150.000.000 VNĐ ( Một trăm năm mươi triệu đồng ).
+- Hạn mức công nợ của tháng sau được xác định bằng 70% tổng giá trị tiền hàng của tháng trước liền kề và không vượt quá hạn mức công nợ tối đa.
+- Tại mọi thời điểm tổng công nợ của bên B không được vượt quá hạn mức công nợ. Trường hợp giá trị hàng hóa vượt hạn mức công nợ thì bên B phải thanh toán phần giá trị vượt quá công nợ khi nhận hàng.
+3.3 Đối chiếu công nợ
+- Định kỳ Bên A chịu trách nhiệm thống kê hàng hóa, công nợ và hai bên A, B đối chiếu để làm cơ sở cho việc thanh toán. Đợt 1 vào ngày 16 : cho các giao dịch phát sinh đến ngày 15 của tháng, và đợt 2 vào ngày 1 của tháng sau: cho những giao dịch đến ngày cuối cùng của tháng.
+- Trong vòng 5 ngày kể từ khi nhận được biên bản đối chiếu công nợ nếu bên B không có ý kiến phản hồi hoặc không ký xác nhận đối chiếu công nợ mà không có lý do chính đáng thì xem như bên B đã chấp nhận công nợ do bên A lập.
+3.4 Thời hạn thanh toán
+- Công nợ đối chiếu ở 3.3 được thanh toán dứt điểm trước ngày 25 (đối với công nợ đã đối chiếu đợt 1 đến ngày 15) và trước ngày 10 của tháng liền sau (đối với công nợ được đối chiếu đợt 2 đến cuối tháng).
+- Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực.
+ĐIỀU 4. TRÁCH NHIỆM VÀ QUYỀN HẠN CỦA MỖI BÊN
+4.1 Trách nhiệm và quyền hạn của Bên A
+- Chịu trách nhiệm bàn giao đầy đủ hàng hóa theo đúng số lượng, chủng loại, chất lượng, nhưng không chịu trách nhiệm khi hàng hóa bên B đã mang đi khỏi cửa hàng xăng dầu của bên A.
+- Bên A có quyền từ chối cung cấp xăng dầu nếu Bên B không có người đại diện, hoặc người có trách nhiệm ký nhận hoặc giấy giới thiệu của Bên B.
+- Bên A có quyền đơn phương hủy hợp đồng nếu Bên B vi phạm các điều khoản của hợp đồng. Bên A sẽ thông báo cho Bên B trước 05 ngày.
+4.2 Trách nhiệm và quyền hạn của Bên B

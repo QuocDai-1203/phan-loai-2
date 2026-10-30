@@ -1,0 +1,22 @@
+Tên chủ xe (Owner's full name):
+CÔNG TY CP TM DV HIỆP HÒA
+Địa chỉ (Address):
+112 Hai Bà Trưng, Quy Nhơn
+Nhãn hiệu (Brand): INTERNATIONAL
+Loại xe (Type): Đầu kéo
+Màu sơn (Color): Đỏ
+Tải trọng: Hàng hoá: 15056 kg; Số chỗ ngồi(Sit): 2 đứng(Stand): nằm(Lie):
+Đăng ký xe có giá trị đến ngày (date of expiry): 31/12/2038
+Bình Định, ngày (date) 15 tháng 01 năm 2019
+TRƯỞNG PHÒNG
+Biển số đăng ký (N°Plate) (T)
+77C-173.10
+Đăng ký lần đầu ngày:
+Date of first registration 15/01/2018
+Thượng tá Võ Văn Chín
+[dấu]
+[chữ ký]
+Số máy (Engine N°): 5HM2Y4178348
+Số khung (Chassis N°): 5JR4EN759778
+Số loại (Model code): PROSTAR
+Dung tích (Capacity): 12405

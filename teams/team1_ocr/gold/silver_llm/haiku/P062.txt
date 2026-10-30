@@ -1,0 +1,37 @@
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN | PETROVIETNAM BSR | BÌNH SƠN | TỈNH QUẢNG NGÃI | M.S.D.N: 4300378569]
+PHIẾU XUẤT KHO THÀNH PHẨM | VHSX
+Ngày: 29/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2603468
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty TNHH Thương mại và Dịch vụ tổng hợp Hòa Khánh
+Lệnh xuất hàng: 753/LXHXB-DO-290126-297-0 (8000148753)
+Xuất tại bồn số: TK-5207A | Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: NGUYỄN VĂN LUÂN
+Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Địa chỉ: 14 Nguyễn Tri Phương Phường Thanh Khê Thành phố Đà Nẵng.
+Đại diện bên nhận: LÊ ĐÌNH VÂN
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 188/UQ-HK
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77C-253.09 | Đến kho lúc: 06 giờ 13 phút ngày 29 tháng 01 năm 2026
+Bắt đầu lúc: 07 giờ 04 phút ngày 29 tháng 01 năm 2026 | Kết thúc lúc: 07 giờ 34 phút ngày 29 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng
+ | Bbls (thùng) | M3 (tại 15⁰C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 80,859 | 12,849 | 10,630 | 13,009
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Tám mươi phẩy tám trăm năm mươi chín thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI070 | 0,998917 | 0,999056 | 0,999779 | 1,001906 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15⁰C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (⁰C)
+DO-026-202601250373 | 01 | 0,989300 | 0,8284 | 5,50 | 28,0
+DO-026-202601250373 | 04 | 0,987100 | 0,8284 | 5,40 | 30,5
+DO-026-202601250373 | 05 | 0,986700 | 0,8284 | 5,20 | 30,9
+Người lập phiếu | Đại diện bên giao | Đại diện bên nhận
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký] | [chữ ký]
+Nguyễn Văn Luân | Nguyễn Văn Luân | Lê Đình Vân
+Biểu mẫu BSR-PMD-PRO-084/F-022, rev 0, 26/08/2025 | 1 / 1
+Văn bản được tải lên hệ thống eoffice.bsr.com.vn. Với số định danh: BSR/PXK/DO

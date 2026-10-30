@@ -1,0 +1,117 @@
+{
+ "n_units": 84,
+ "n_images": 365,
+ "n_batches": 16,
+ "n_second_batches": 16,
+ "by_type": {
+  "BIEN_NHAN_THE_CHAP_PT": {
+   "EXCLUDED": 4,
+   "units": 4,
+   "images": 8,
+   "shown_pages": 4
+  },
+  "CCCD": {
+   "DEV": 1,
+   "units": 1,
+   "images": 4,
+   "shown_pages": 2
+  },
+  "CC_HUAN_LUYEN_PCCC": {
+   "DEV": 3,
+   "units": 3,
+   "images": 6,
+   "shown_pages": 6
+  },
+  "CC_NGHIEP_VU_BVMT": {
+   "DEV": 4,
+   "units": 7,
+   "images": 26,
+   "shown_pages": 14,
+   "EXCLUDED": 2,
+   "TEST": 1
+  },
+  "DANG_KY_PHUONG_TIEN": {
+   "DEV": 3,
+   "units": 3,
+   "images": 8,
+   "shown_pages": 6
+  },
+  "GCN_ATKT_BVMT_PT": {
+   "DEV": 1,
+   "units": 1,
+   "images": 4,
+   "shown_pages": 2
+  },
+  "GCN_BAO_HIEM": {
+   "DEV": 7,
+   "units": 7,
+   "images": 23,
+   "shown_pages": 15
+  },
+  "GCN_KIEM_DINH_DO_LUONG": {
+   "EXCLUDED": 3,
+   "units": 4,
+   "images": 10,
+   "shown_pages": 5,
+   "TEST": 1
+  },
+  "GIAY_UY_QUYEN": {
+   "DEV": 3,
+   "units": 3,
+   "images": 8,
+   "shown_pages": 4
+  },
+  "GPLX": {
+   "DEV": 4,
+   "units": 5,
+   "images": 10,
+   "shown_pages": 10,
+   "TEST": 1
+  },
+  "GP_KD_VAN_TAI": {
+   "TEST": 1,
+   "units": 1,
+   "images": 2,
+   "shown_pages": 1
+  },
+  "GP_VC_HANG_NGUY_HIEM": {
+   "DEV": 2,
+   "units": 2,
+   "images": 8,
+   "shown_pages": 4
+  },
+  "GXN_THUONG_NHAN_XD": {
+   "DEV": 2,
+   "units": 2,
+   "images": 8,
+   "shown_pages": 4
+  },
+  "HD_MUON_BON": {
+   "DEV": 7,
+   "units": 9,
+   "images": 52,
+   "shown_pages": 26,
+   "TEST": 2
+  },
+  "HD_NHUONG_QUYEN_DAI_LY": {
+   "DEV": 5,
+   "units": 5,
+   "images": 60,
+   "shown_pages": 30
+  },
+  "HD_THUE_TAI_SAN": {
+   "TEST": 1,
+   "units": 1,
+   "images": 12,
+   "shown_pages": 6
+  },
+  "HD_VAN_CHUYEN": {
+   "DEV": 20,
+   "units": 26,
+   "images": 116,
+   "shown_pages": 58,
+   "TEST": 5,
+   "EXCLUDED": 1
+  }
+ }
+}

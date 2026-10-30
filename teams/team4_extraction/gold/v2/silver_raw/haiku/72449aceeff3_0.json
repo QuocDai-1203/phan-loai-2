@@ -1,0 +1,17 @@
+{
+  "unit_id": "72449aceeff3_0",
+  "annotator": "haiku",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_vao_so": {"value": "812/QĐ - [?]", "normalized": "812/QĐ-[?]", "page": 1, "evidence": "Số: 812/QĐ - ", "ink": "under_stamp", "status": "ok", "note": "mot_phan_bi_che"},
+    "ho_ten": {"value": "Hồ Thanh Chính", "normalized": "Hồ Thanh Chính", "page": 1, "evidence": "Chứng nhận: Ông (Bà) Hồ Thanh Chính", "ink": "printed", "status": "ok", "note": null},
+    "nam_sinh": {"value": null, "normalized": null, "page": 1, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "noi_dung_khoa_hoc": {"value": "khóa đào tạo nghiệp vụ về bảo vệ môi trường trong kinh doanh xăng dầu", "normalized": "khóa đào tạo nghiệp vụ về bảo vệ môi trường trong kinh doanh xăng dầu", "page": 1, "evidence": "Đã hoàn thành khóa đào tạo nghiệp vụ về bảo vệ môi trường", "ink": "printed", "status": "ok", "note": null},
+    "thoi_gian_hoc": {"value": "từ ngày 30 tháng 10 đến ngày 01 tháng 11 năm 2020", "normalized": "từ ngày 30 tháng 10 đến ngày 01 tháng 11 năm 2020", "page": 1, "evidence": "Tổ chức từ ngày 30 tháng 10 đến ngày 01 tháng 11 năm 2020", "ink": "printed", "status": "ok", "note": null},
+    "co_so_dao_tao": {"value": "Sở Tài nguyên và Môi trường tỉnh Bình Định", "normalized": "Sở Tài nguyên và Môi trường tỉnh Bình Định", "page": 1, "evidence": "SỞ TÀI NGUYÊN VÀ MÔI TRƯỜNG", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "ngày 20 tháng 11 năm 2020", "normalized": "2020-11-20", "page": 1, "evidence": "Bình Định, ngày 20 tháng 11 năm 2020", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "20/11/2025", "normalized": "2025-11-20", "page": 1, "evidence": "Có giá trị đến: 20/11/2025", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "nua_duoi_trang"
+}

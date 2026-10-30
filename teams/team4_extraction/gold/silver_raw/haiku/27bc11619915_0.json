@@ -1,0 +1,18 @@
+{
+  "unit_id": "27bc11619915_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": null, "normalized": null, "page": 1, "evidence": "/GCN-SCT", "ink": null, "status": "illegible", "note": "so_bi_mo_tren_tieu_de"},
+    "ngay_cap": {"value": "[?] tháng 8 năm 2020", "normalized": null, "page": 1, "evidence": "Gia Lai, ngày tháng 8 năm 2020", "ink": "printed", "status": "ok", "note": "mot_phan_bi_che"},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "normalized": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng Xăng dầu Phú Hưng", "normalized": "Cửa hàng Xăng dầu Phú Hưng", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: Cửa hàng Xăng dầu Phú Hưng", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "QL 19, thôn 1, xã Hà Tam, huyện Đăk Pơ, tỉnh Gia Lai", "normalized": "QL 19, thôn 1, xã Hà Tam, huyện Đăk Pơ, tỉnh Gia Lai", "page": 1, "evidence": "Địa chỉ: QL 19, thôn 1, xã Hà Tam, huyện Đăk Pơ", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Xăng dầu Hòa Tâm Gia Lai; Mã số thuế: 5901023724", "normalized": "Công ty TNHH Xăng dầu Hòa Tâm Gia Lai; Mã số thuế: 5901023724", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH Xăng dầu Hòa Tâm Gia Lai", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 14/8/2018; Cấp lại lần thứ hai ngày....8/2020", "normalized": "Cấp lần thứ nhất: ngày 14/8/2018; Cấp lại lần thứ hai ngày....8/2020", "page": 1, "evidence": "Cấp lại lần thứ hai ngày....8/2020", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "04 tháng 8 năm 2025", "normalized": "2025-08-04", "page": 1, "evidence": "có giá trị đến hết ngày 04 tháng 8 năm 2025", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_mo; so_va_ngay_cap_bi_mo_mot_phan; trang_2_quy_dinh"
+}

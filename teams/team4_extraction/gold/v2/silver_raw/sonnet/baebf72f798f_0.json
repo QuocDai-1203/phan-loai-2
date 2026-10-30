@@ -1,0 +1,93 @@
+{
+ "unit_id": "baebf72f798f_0",
+ "annotator": "sonnet",
+ "doc_type": "GCN_BAO_HIEM",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_gcn_bao_hiem": {
+   "value": "AD22/ 0527241",
+   "normalized": "AD22/0527241",
+   "page": 1,
+   "evidence": "Số: AD22/ 0527241",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "cong_ty_bao_hiem": {
+   "value": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG",
+   "normalized": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG",
+   "page": 1,
+   "evidence": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "loai_bao_hiem": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "nguoi_duoc_bao_hiem": {
+   "value": "Công Ty Cổ phần TM DV Hiệp Hòa",
+   "normalized": "Công Ty Cổ phần TM DV Hiệp Hòa",
+   "page": 2,
+   "evidence": "TÊN CHỦ XE: Công Ty Cổ phần TM DV Hiệp Hòa",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "doi_tuong_bao_hiem": {
+   "value": "77C - 13420",
+   "normalized": "77C-13420",
+   "page": 2,
+   "evidence": "SỐ BIỂN KIỂM SOÁT: 77C - 13420",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "chu_viet_tay_kho_doc"
+  },
+  "so_tien_bao_hiem": {
+   "value": "Về người: 150 triệu đồng/1 người/1 vụ; Về tài sản: 100 triệu đồng/1 vụ",
+   "normalized": "Về người: 150 triệu đồng/1 người/1 vụ; Về tài sản: 100 triệu đồng/1 vụ",
+   "page": 2,
+   "evidence": "Về người: 150 triệu đồng/1 người/1 vụ",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "phi_bao_hiem": {
+   "value": "5.280.00[?]",
+   "normalized": null,
+   "page": 2,
+   "evidence": "Phí bảo hiểm (gồm VAT): 5.280.00 đồng",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "mot_phan_khong_chac"
+  },
+  "hieu_luc_tu": {
+   "value": "02 tháng 01 năm 2022",
+   "normalized": "2022-01-02",
+   "page": 2,
+   "evidence": "Từ 07 giờ 00 ngày 02 tháng 01 năm 2022",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "02 tháng 01 năm 2023",
+   "normalized": "2023-01-02",
+   "page": 2,
+   "evidence": "Đến 07 giờ 00 ngày 02 tháng 01 năm 2023",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": null
+}

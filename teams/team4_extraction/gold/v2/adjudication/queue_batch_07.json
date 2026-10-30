@@ -1,0 +1,600 @@
+{
+ "batch_id": "queue_batch_07",
+ "instructions": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\adjudication\\ADJUDICATION_PROMPT.md",
+ "output_dir": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\adjudication\\out",
+ "do_not_open": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\adjudication\\key.json",
+ "n_units": 6,
+ "n_items": 17,
+ "n_images": 24,
+ "units": [
+  {
+   "unit_id": "6a8d8484ec29_0",
+   "doc_type": "HD_VAN_CHUYEN",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\HD_VAN_CHUYEN.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\6a8d8484ec29_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\6a8d8484ec29_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\6a8d8484ec29_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\6a8d8484ec29_0\\p02_b.png"
+   ],
+   "items": [
+    {
+     "item_id": "6a8d8484ec29_0__tuyen_van_chuyen",
+     "field": "tuyen_van_chuyen",
+     "field_type": "text",
+     "field_desc": "Nơi nhận hàng, nơi giao hàng",
+     "field_hint": "Nơi nhận hàng và nơi giao hàng, chép cụm như in.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "Kho Nhà Máy Lọc Dầu Dung Quất; Tỉnh Quảng Nam",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Kho Nhà Máy Lọc Dầu Dung Quất",
+      "note": "bang_tach_trang"
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "Kho Nhà Máy Lọc - Tỉnh Quảng Nam",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Kho Nhà Máy Lọc Tỉnh Quảng Nam",
+      "note": "tu_bang_don_gia"
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "f16c838b365a_0",
+   "doc_type": "HD_VAN_CHUYEN",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\HD_VAN_CHUYEN.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\f16c838b365a_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\f16c838b365a_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\f16c838b365a_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\f16c838b365a_0\\p02_b.png"
+   ],
+   "items": [
+    {
+     "item_id": "f16c838b365a_0__hieu_luc_tu",
+     "field": "hieu_luc_tu",
+     "field_type": "date",
+     "field_desc": "Ngày bắt đầu hiệu lực",
+     "field_hint": "Ngày bắt đầu hiệu lực nếu điều khoản nêu ngày cụ thể.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "từ ngày ký",
+      "page": 2,
+      "ink": "printed",
+      "evidence": "Hợp đồng này có hiệu lực từ ngày ký đến ngày 31/12/2022",
+      "note": "tinh_tu_ngay_ky"
+     },
+     "candidate_y": {
+      "status": "not_present",
+      "value": null,
+      "page": null,
+      "ink": null,
+      "evidence": null,
+      "note": null
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "5b84a6c30d75_0",
+   "doc_type": "HD_MUON_BON",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\HD_MUON_BON.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\5b84a6c30d75_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\5b84a6c30d75_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\5b84a6c30d75_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\5b84a6c30d75_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\5b84a6c30d75_0\\p06_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\5b84a6c30d75_0\\p06_b.png"
+   ],
+   "items": [
+    {
+     "item_id": "5b84a6c30d75_0__so_hop_dong",
+     "field": "so_hop_dong",
+     "field_type": "id",
+     "field_desc": "Số/ký hiệu hợp đồng",
+     "field_hint": "Số/ký hiệu hợp đồng.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2,
+      6
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "01/2018/HDMB-HH",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Số: 01/2018/HDMB-HH",
+      "note": "scan_mo_ky_tu_cuoi"
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "01/2018/HDMB-HI[?]",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Số: 01/2018/HDMB-HII",
+      "note": "ky_tu_cuoi_kho_doc"
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "a40578e63517_0",
+   "doc_type": "GCN_BAO_HIEM",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\GCN_BAO_HIEM.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\a40578e63517_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\a40578e63517_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\a40578e63517_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\a40578e63517_0\\p02_b.png"
+   ],
+   "items": [
+    {
+     "item_id": "a40578e63517_0__nguoi_duoc_bao_hiem",
+     "field": "nguoi_duoc_bao_hiem",
+     "field_type": "text",
+     "field_desc": "Chủ xe/người được bảo hiểm",
+     "field_hint": "Chủ xe/người được bảo hiểm, chép như in.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "Công Ty cổ phần TM DV Hiệp Hòa",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Chủ xe: Công Ty cổ phần TM DV Hiệp Hòa",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "Công ty cổ phần TM DV Hiệp Hòa",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Chủ xe: Công ty cổ phần TM DV Hiệp Hòa",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "a40578e63517_0__doi_tuong_bao_hiem",
+     "field": "doi_tuong_bao_hiem",
+     "field_type": "text",
+     "field_desc": "Biển số xe, hoặc tên cơ sở/cửa hàng/tàu được bảo hiểm — dùng cho định tuyến",
+     "field_hint": "Biển số xe hoặc tên cơ sở/cửa hàng/tàu được bảo hiểm, chép như in.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "77R - 01492",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Biển kiểm soát: 77R - 01492",
+      "note": "chu_viet_tay_kho_doc"
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "77R-01192",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Biển kiểm soát: 77R-01192",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "a40578e63517_0__so_tien_bao_hiem",
+     "field": "so_tien_bao_hiem",
+     "field_type": "text",
+     "field_desc": "Số tiền/mức trách nhiệm bảo hiểm",
+     "field_hint": "Số tiền/mức trách nhiệm bảo hiểm, chép cụm như in (có thể nhiều mức).",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "300.000.000 đồng",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Số tiền bảo hiểm: 300.000.000 đồng",
+      "note": "chi_vat_chat_xe"
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "300.000.000 đồng",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Số tiền bảo hiểm: 300.000.000 đồng",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "a40578e63517_0__phi_bao_hiem",
+     "field": "phi_bao_hiem",
+     "field_type": "number",
+     "field_desc": "Tổng phí bảo hiểm",
+     "field_hint": "Tổng phí bảo hiểm (một số tiền).",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "5.664.000",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Tổng phí bảo hiểm thanh toán: 5.664.000 đồng",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "5.664.000",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Tổng phí bảo hiểm thanh toán: 5.664.000 đồng",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "a40578e63517_0__hieu_luc_tu",
+     "field": "hieu_luc_tu",
+     "field_type": "date",
+     "field_desc": "Thời hạn bảo hiểm từ",
+     "field_hint": "Thời hạn bảo hiểm từ (có thể kèm giờ: chỉ ngày).",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "ngày 27 tháng 08 năm 2022",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Từ 07 giờ 00, ngày 27 tháng 08 năm 2022",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "27 tháng 08 năm 2022",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Từ 07 giờ 00, ngày 27 tháng 08 năm 2022",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "a40578e63517_0__ngay_het_han",
+     "field": "ngay_het_han",
+     "field_type": "date",
+     "field_desc": "Thời hạn bảo hiểm đến",
+     "field_hint": "Thời hạn bảo hiểm đến (có thể kèm giờ: chỉ ngày). Chép đúng ngày in trên giấy. Nếu giấy chỉ ghi khoảng thời gian không kèm ngày: value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Không tự cộng ngày từ ngày cấp. Không ghi hạn: not_present.",
+     "is_expiry": true,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "27 tháng 08 năm 2023",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Đến 07 giờ 00, ngày 27 tháng 08 năm 2023",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "ngày 27 tháng 08 năm 2023",
+      "page": 1,
+      "ink": "handwritten",
+      "evidence": "Đến 07 giờ 00, ngày 27 tháng 08 năm 2023",
+      "note": null
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "bcf218315fa4_0",
+   "doc_type": "CC_NGHIEP_VU_BVMT",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\CC_NGHIEP_VU_BVMT.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\bcf218315fa4_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\bcf218315fa4_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\bcf218315fa4_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\bcf218315fa4_0\\p02_b.png"
+   ],
+   "items": [
+    {
+     "item_id": "bcf218315fa4_0__so_vao_so",
+     "field": "so_vao_so",
+     "field_type": "id",
+     "field_desc": "Số vào sổ / số chứng nhận",
+     "field_hint": "Số vào sổ / số chứng nhận.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "89309",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Vào sổ số: 89309",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "89309",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Vào sổ số: 89309",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "bcf218315fa4_0__ho_ten",
+     "field": "ho_ten",
+     "field_type": "text",
+     "field_desc": "Họ tên người được cấp",
+     "field_hint": "Họ tên người được cấp.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "Nguyễn Huỳnh Dông",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Cấp cho: Nguyễn Huỳnh Dông",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "Nguyễn [?] Đông",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Cấp cho: Nguyễn [?] Đông",
+      "note": "mot_phan_mo"
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "bcf218315fa4_0__nam_sinh",
+     "field": "nam_sinh",
+     "field_type": "date",
+     "field_desc": "Ngày/năm sinh",
+     "field_hint": "Ngày/năm sinh (dữ liệu cá nhân: KHÔNG chép giá trị).",
+     "is_expiry": false,
+     "silver_policy": "withhold_value",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": null,
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": null,
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": null,
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": null,
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "bcf218315fa4_0__noi_dung_khoa_hoc",
+     "field": "noi_dung_khoa_hoc",
+     "field_type": "text",
+     "field_desc": "Tên lớp/nội dung bồi dưỡng",
+     "field_hint": "Tên lớp/nội dung bồi dưỡng, chép cụm như in.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "Nghiệp vụ Bảo vệ môi trường trong kinh doanh xăng dầu theo nghị định 83/2014/NĐ-CP",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Đã dự lớp bồi dưỡng: Nghiệp vụ Bảo vệ môi trường trong",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "Nghiệp vụ Bảo vệ môi trường trong kinh doanh xăng dầu theo nghị định 83/2014/NĐ-CP",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Nghiệp vụ Bảo vệ môi trường trong kinh doanh xăng dầu",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "bcf218315fa4_0__thoi_gian_hoc",
+     "field": "thoi_gian_hoc",
+     "field_type": "text",
+     "field_desc": "Từ ngày – đến ngày",
+     "field_hint": "Từ ngày – đến ngày, chép cụm như in.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "từ ngày 28/03/2019 đến ngày 02/04/2019",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Từ ngày: 28/03/2019 Đến ngày: 02/04/2019",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "Từ ngày: 28/03/2019 Đến ngày: 02/04/2019",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Từ ngày: 28/03/2019 Đến ngày: 02/04/2019",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "bcf218315fa4_0__ngay_cap",
+     "field": "ngay_cap",
+     "field_type": "date",
+     "field_desc": "Ngày cấp",
+     "field_hint": "Ngày cấp.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "ngày 04 tháng 4 năm 2019",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Đà Nẵng, ngày 04 tháng 4 năm 2019",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "04 tháng 4 năm 2019",
+      "page": 2,
+      "ink": "handwritten",
+      "evidence": "Đà Nẵng, ngày 04 tháng 4 năm 2019",
+      "note": null
+     },
+     "single_candidate": false
+    }
+   ]
+  },
+  {
+   "unit_id": "c0367c5481c8_0",
+   "doc_type": "DANG_KY_PHUONG_TIEN",
+   "schema_path": "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\schema\\DANG_KY_PHUONG_TIEN.json",
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\c0367c5481c8_0\\p01.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\v2\\pages_v2\\c0367c5481c8_0\\p02.png"
+   ],
+   "items": [
+    {
+     "item_id": "c0367c5481c8_0__so_khung",
+     "field": "so_khung",
+     "field_type": "id",
+     "field_desc": "Số khung",
+     "field_hint": "Số khung.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "[?]JR4EN759778",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Số khung (Chassis N°): SJR4EN759778",
+      "note": "ky_tu_dau_khong_chac"
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "SJR4EN759778",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Số khung (Chassis N°): SJR4EN759778",
+      "note": null
+     },
+     "single_candidate": false
+    },
+    {
+     "item_id": "c0367c5481c8_0__so_may",
+     "field": "so_may",
+     "field_type": "id",
+     "field_desc": "Số máy",
+     "field_hint": "Số máy.",
+     "is_expiry": false,
+     "silver_policy": "transcribe",
+     "shown_pages": [
+      1,
+      2
+     ],
+     "candidate_x": {
+      "status": "ok",
+      "value": "5HM2Y4178348",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Số máy (Engine N°): 5HM2Y4178348",
+      "note": null
+     },
+     "candidate_y": {
+      "status": "ok",
+      "value": "[?]HM2Y4178348",
+      "page": 1,
+      "ink": "printed",
+      "evidence": "Số máy (Engine N°): 5HM2Y4178348",
+      "note": "ky_tu_dau_khong_chac"
+     },
+     "single_candidate": false
+    }
+   ]
+  }
+ ]
+}

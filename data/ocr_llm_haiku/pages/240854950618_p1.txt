@@ -1,0 +1,39 @@
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN - PETROVIETNAM - BSR - M.S.D.N: 4300378569 - TỈNH QUẢNG NGÃI]
+PHIẾU XUẤT KHO THÀNH PHẨM
+VHSX
+Ngày: 05/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2600493
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Lệnh xuất hàng: 61/LXHXB-DO-050126-29-0 (8000145683)
+Xuất tại bồn số: TK-5207B          Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: MAI HỮU DUY
+Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Địa chỉ: 14 Nguyễn Tri Phương Phường Thanh Khê Thành phố Đà Nẵng.
+Đại diện bên nhận: VŨ QUANG DŨNG
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 188/UQ-HK
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77R-01942(77C-10179)          Đến kho lúc: 18 giờ 42 phút ngày 05 tháng 01 năm 2026
+Bắt đầu lúc: 18 giờ 46 phút ngày 05 tháng 01 năm 2026          Kết thúc lúc: 19 giờ 40 phút ngày 05 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng
+ | Bbls (thùng) | M3 (tại 15⁰C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 241,746 | 38,415 | 31,743 | 39,020
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm bốn mươi một phẩy bảy trăm bốn mươi sáu thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI070 | 0,998917 | 0,999056 | 0,999779 | 1,001906 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15⁰C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (⁰C)
+DO-003-202601040051 | 01 | 0,984900 | 0,8274 | 4,00 | 32,8
+DO-003-202601040051 | 02 | 0,984500 | 0,8274 | 4,70 | 33,2
+DO-003-202601040051 | 03 | 0,984500 | 0,8274 | 4,80 | 33,3
+DO-003-202601040051 | 05 | 0,984400 | 0,8274 | 4,90 | 33,4
+DO-003-202601040051 | 06 | 0,984400 | 0,8274 | 5,10 | 33,5
+Người lập phiếu (Ký, ghi rõ họ tên) | Đại diện bên giao (Ký, ghi rõ họ tên) | Đại diện bên nhận (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký] | [chữ ký]
+Mai Hữu Duy | Mai Hữu Duy | Vũ Quang Dũng
+Biểu mẫu BSR-PMD-PRO-084/F-022, rev 0, 26/08/2025 | 1 / 1
+Văn bản được tải lên hệ thống eoffice.bsr.com.vn. Với số định danh: BSR/PXK/DO

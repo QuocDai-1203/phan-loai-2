@@ -1,0 +1,9 @@
+[19:22:58] embedding ocr_v2_p12 n=512: 237 tài liệu trong 21s
+[19:23:41] embedding ocr_v2_p12 n=2000: 237 tài liệu trong 30s
+[19:23:52] E1 ocr_v2_p12: S tốt nhất (0.9548553651854426, {'n_chars': 2000, 'method': 'lr_C100'}), Z few-shot tốt nhất (0.8941440590616871, {'n_chars': 2000, 'method': 'centroid_min2'})
+[19:24:12] embedding haiku_p12 n=512: 237 tài liệu trong 20s
+[19:24:50] embedding haiku_p12 n=2000: 237 tài liệu trong 27s
+[19:25:01] E1 haiku_p12: S tốt nhất (0.9612394905218734, {'n_chars': 2000, 'method': 'lr_C100'}), Z few-shot tốt nhất (0.9106902462742866, {'n_chars': 2000, 'method': 'centroid_min2'})
+[19:25:21] embedding legacy_p1 n=512: 237 tài liệu trong 19s
+[19:25:53] embedding legacy_p1 n=2000: 237 tài liệu trong 24s
+[19:26:00] E1 legacy_p1: S tốt nhất (0.9253187640023586, {'n_chars': 2000, 'method': 'lr_C100'}), Z few-shot tốt nhất (0.8094436366731598, {'n_chars': 2000, 'method': 'centroid_min2'})

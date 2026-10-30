@@ -1,0 +1,16 @@
+{
+ "frozen_at": "2026-10-16T00:15:45",
+ "note": "Một vòng cải tiến chung chỉ chỉnh trên DEV v2: luật ngày chung cho loại chưa có luật riêng (methods/generic_date_rules.py). LLM/VLM/prompt/quy tắc tự nhận hạn giữ nguyên như giai đoạn 2.",
+ "expiry_rule": "regex=llm",
+ "expiry_rule_phase2": "any-model=filename",
+ "expiry_rule_selection": "Chọn trên DEV v2 sau khi có luật chung: trong các quy tắc cần >= 2 nguồn đồng thuận (giữ tinh thần giai đoạn 2: không bao giờ một nguồn đơn), lấy quy tắc KHÔNG sai trường nào trên DEV và tự nhận nhiều nhất = regex=llm (35/45 đúng, 0 sai trên DEV). Quy tắc giai đoạn 2 (any-model=filename) vẫn được báo cạnh để so sánh.",
+ "hashes": {
+  "generic_date_rules.py": "dec331e0b4",
+  "regex_rules.py": "1941440cad",
+  "src/extraction/field_rules.py": "a983d43d0b",
+  "src/extraction/expiry_rules.py": "c65e2af34e",
+  "fields_silver_v2.jsonl": "45d6384f3d",
+  "labels_v2.csv": "eb3348713a"
+ },
+ "dev_units": 62
+}

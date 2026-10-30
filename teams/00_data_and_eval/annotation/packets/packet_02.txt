@@ -1,0 +1,3843 @@
+===== doc_id: 3a74922446fc | tệp: 20260119-03.pdf | số trang: 4 =====
+--- trang 1 (bị cắt bớt) ---
+PHIẾU XUẤT KHO THÀNH PHẨM | VHSX
+Ngày: 19/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2602232
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN TỈNH QUẢNG NGÃI M.S.D.N: 4300378569]
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1872/HĐKT/BSR-MIPEC/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty Cổ phần Hóa dầu Quân đội
+Lệnh xuất hàng: 430/LXHXB-DO-190126-170-0 (8000147489)
+Xuất tại bồn số: TK-5207B | Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: DOAN ANH DUC
+Bên nhận: Công ty Cổ phần Hóa dầu Quân đội
+Địa chỉ: Nhà N1, 33b Phạm Ngũ Lão Phường Cửa Nam Thành phố Hà Nội.
+Đại diện bên nhận: NGO THI HONG SA
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 002/2026/GGT-MIPEX
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77R-01942(77C-10179) | Đến kho lúc: 18 giờ 23 phút ngày 19 tháng 01 năm 2026
+Bắt đầu lúc: 18 giờ 38 phút ngày 19 tháng 01 năm 2026 | Kết thúc lúc: 19 giờ 32 phút ngày 19 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng: Bbls (thùng) | M3 (tại 15°C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 259,744 | 41,275 | 34,164 | 42,002
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm năm mươi chín phẩy bảy trăm bốn mươi bốn thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI010 | 1,000359 | 1,000032 | 1,000075 | 1,000005 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15°C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (°C)
+DO-019-202601180827 | 01 | 0,982900 | 0,8288 | 5,70 | 34,8
+DO-019-202601180827 | 02 | 0,982800 | 0,8288 | 5,60 | 34,9
+DO-019-202601180827 | 03 | 0,982500 | 0,8288 | 5,50 | 35,3
+DO-019-202601180827 | 04 | 0,982500 | 0,8288 | 5,70 | 35,3
+DO-019-202601
+--- trang 2 (bị cắt bớt) ---
+BM08C-QĐ06-XD
+[dấu: CHI NHÁNH ĐÀ NẴNG CÔNG TY CỔ PHẦN HÓA DẦU QUÂN ĐỘI Q. SƠN TRÀ - TP. ĐÀ NẴNG M.S.C.N: 0101436307-004]
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+---------*****---------
+BIÊN BẢN GIAO NHẬN HÀNG
+Hôm nay, ngày 19 tháng 01 năm 2026. Chúng tôi gồm:
+Bên Giao hàng : CHI NHÁNH ĐÀ NẴNG - CÔNG TY CỔ PHẦN HÓA DẦU QUÂN ĐỘI
+Địa chỉ : 264 Xô Viết Nghệ Tĩnh, P.Cẩm Lệ, TP. Đà Nẵng
+Điện thoại : 0236.3656365 Fax: 0236.3838363
+Đại diện : Kho nhà máy lọc dầu Dung Quất ( Xuất hộ)
+STT | LOẠI HÀNG HÓA | SỐ LƯỢNG XUẤT KHO: Lít thực tế | Kg | Lít 15oC | TỶ TRỌNG Ở NHIỆT ĐỘ THỰC TẾ
+1 | Dầu Điêzen 0,05S Mức 2 | 42.002 | 34.164 | 41.275 | 0.8288 / 35°C
+2 | Xăng RON95 Mức 3 |  |  |  |
+Bên nhận hàng : CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA
+Địa chỉ: 112 Hai Bà Trưng, Phường Quy Nhơn, Tỉnh Gia Lai, Việt Nam
+Điện thoại : 0905111101
+Đại diện nhận hàng : NGUYỄN MINH THÔNG
+Số CMND/CCCD : 0520
+
+===== doc_id: b012a638ea9a | tệp: GPKD-TRUNG KIÊN.pdf | số trang: 2 =====
+--- trang 1 ---
+13
+[BẢN SAO]
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+TỈNH BÌNH ĐỊNH
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+DOANH NGHIỆP TƯ NHÂN
+Mã số doanh nghiệp: 4100616921
+Đăng ký lần đầu: ngày 20 tháng 09 năm 2006
+Đăng ký thay đổi lần thứ 1: ngày 05 tháng 03 năm 2015
+1. Tên doanh nghiệp
+Tên doanh nghiệp viết bằng tiếng Việt: DOANH NGHIỆP TƯ NHÂN XĂNG DẦU TRUNG KIÊN
+Tên doanh nghiệp viết bằng tiếng nước ngoài:
+Tên doanh nghiệp viết tắt:
+2. Địa chỉ trụ sở chính
+Thôn 8 Đông, Xã Mỹ Thắng, Huyện Phù Mỹ, Tỉnh Bình Định, Việt Nam
+Điện thoại: 0985 945 207 | Fax:
+Email: | Website:
+3. Ngành, nghề kinh doanh
+STT | Tên ngành | Mã ngành
+1 | Bán lẻ nhiên liệu động cơ trong các cửa hàng chuyên doanh. Chi tiết: Mua bán xăng, dầu và các sản phẩm liên quan | 4730 (Chính)
+4. Vốn đầu tư 350.000.000 đồng
+Bằng chữ: Ba trăm năm mươi triệu đồng
+5. Vốn pháp định
+6. Chủ doanh nghiệp
+Họ và tên: HUỲNH THỊ CHÚT | Giới tính: Nữ
+Sinh ngày: 01/01/1958 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy chứng thực cá nhân: Giấy chứng minh nhân dân
+Số: 211705149
+Ngày cấp: 24/12/2013 | Nơi cấp: Công an tỉnh Bình Định
+Nơi đăng ký hộ khẩu thường trú: Thôn 8 Đông, Xã Mỹ Thắng, Huyện Phù Mỹ, Tỉnh Bình Định, Việt Nam
+Chỗ ở hiện tại: Thôn 8 Đông, Xã Mỹ Thắng, Huyện Phù Mỹ, Tỉnh Bình Định, Việt Nam
+--- trang 2 ---
+[trang xoay]
+7. Thông tin về chi nhánh
+8. Thông tin về văn phòng đại diện
+9. Thông tin về địa điểm kinh doanh
+TRƯỞNG PHÒNG
+[dấu: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM - PHÒNG ĐĂNG KÝ KINH DOANH - SỞ KẾ HOẠCH VÀ ĐẦU TƯ TỈNH BÌNH ĐỊNH]
+KT.TRƯỞNG PHÒNG
+PHÓ TRƯỞNG PHÒNG
+[chữ ký]
+CHỨNG THỰC BẢN SAO ĐÚNG VỚI BẢN CHÍNH
+Số chứng thực: 8082 | Quyển số: 01
+UBND/CT - SCT/BSGT
+Ngày 12 tháng 10 năm 2018
+KT/CHỦ TỊCH
+PHÓ CHỦ TỊCH
+[dấu: UBND XÃ MỸ THẮNG H. PHÙ MỸ T. BÌNH ĐỊNH]
+[chữ ký]
+[không đọc được phần còn lại]
+
+===== doc_id: dd4db1b56778 | tệp: don-hang_2606-0019.pdf | số trang: 1 =====
+--- trang 1 ---
+CT CP TM-DV HIỆP HÒA
+Số: PO-20260608-XDBINHDINH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+ĐƠN ĐẶT HÀNG
+Ngày 08 tháng 06 năm 2026
+Kính gửi: CÔNG TY TNHH MTV PETROLIMEX GIA LAI
+- Căn cứ Hợp đồng mua bán xăng dầu số: 04/PLXGL-HĐTNPP ngày 25/12/2025 giữa CT CP TM-DV HIỆP HÒA và Công Ty TNHH MTV Petrolimex Gia Lai
+Chúng tôi trân trọng đề nghị Quý công ty cung cấp các mặt hàng dưới đây:
+STT | Mặt hàng | ĐVT | Số lượng | Đơn giá thanh toán | Thành tiền
+1 | Dầu Điêzen 0,001S Mức 5 | Lít | 4.000 | 28.400 | 113.600.000
+TỔNG CỘNG | | | 4.000 | | 113.600.000
+(*) Đơn giá thanh toán đã bao gồm VAT.
+Bằng chữ: Một trăm mười ba triệu sáu trăm nghìn đồng
+Thời gian nhận hàng: Ngày 09/06/2026
+ĐẠI DIỆN BÊN MUA
+Phó giám đốc
+[chữ ký]
+Đặng Nhơn Hòa
+Signature valid
+Được ký bởi: CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA
+Ngày ký: 08/06/2026
+
+===== doc_id: f11ae51c74f9 | tệp: don-hang_2604-0016.pdf | số trang: 1 =====
+--- trang 1 ---
+CT CP TM-DV HIỆP HÒA
+Số: PO-20260413-HKHANHGL
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+ĐƠN ĐẶT HÀNG
+Ngày 13 tháng 04 năm 2026
+Kính gửi: CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH - CHI NHÁNH GIA LAI
+- Căn cứ Hợp đồng mua bán xăng dầu số: 10/HĐTNPP-CNGL-2026 ngày 29/12/2025 giữa CT CP TM-DV HIỆP HÒA và Công Ty TNHH Thương Mại Và Dịch Vụ Tổng Hợp Hòa Khánh - Chi Nhánh Gia Lai
+Chúng tôi trân trọng đề nghị Quý công ty cung cấp các mặt hàng dưới đây:
+STT | Mặt hàng | ĐVT | Số lượng | Đơn giá thanh toán | Thành tiền
+1 | Xăng RON 95 Mức 3 | Lít | 21.000 | 23.290 | 489.090.000
+2 | Dầu Điêzen 0,05S Mức 2 | Lít | 3.000 | 32.060 | 96.180.000
+TỔNG CỘNG | | 24.000 | | 585.270.000
+(*) Đơn giá thanh toán đã bao gồm VAT.
+Bằng chữ: Năm trăm tám mươi lăm triệu hai trăm bảy mươi nghìn đồng
+Thời gian nhận hàng: Ngày 14/04/2026
+ĐẠI DIỆN BÊN MUA
+Phó giám đốc
+Đặng Nhơn Hòa
+Signature valid
+Được ký bởi: CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA
+Ngày ký: 13/04/2026
+
+===== doc_id: e3c762fa235e | tệp: HDVC 2020-HOA HIEP-01.03-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số: 09/2020/HĐVC-HH | Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 03 năm 2020, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: TRẠM DỪNG NGHỈ HÒA HIỆP BÌNH ĐỊNH – CHI NHÁNH DOANH NGHIỆP TN THƯƠNG MẠI - DỊCH VỤ TỔNG HỢP HÒA HIỆP (BÊN CHỦ HÀNG)
+Địa chỉ : Thôn Thanh Liêm, Xã An Nhơn, TX. An Nhơn, Tỉnh Bình Định, VN.
+Điện thoại : 0946.925.678
+Tài Khoản : ....................................
+Mã số thuế : 0400126624-001
+Giấy chứng nhận đăng ký kinh doanh số: 0400126624-001 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 29/04/2002. Đăng ký thay đổi lần thứ 5 ngày 07/08/2019.
+Do Ông/ Bà : NGUYỄN PHI SƠN - Chức vụ: Giám đốc chi nhánh
+II/ BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 056. 3821400 -0983 848 211 Fax: 056. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 05 ngày 06 tháng 08 năm 2018.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A t
+--- trang 2 (bị cắt bớt) ---
+- Giá cả do hai bên thỏa thuận theo từng thời điểm.
+- Phương thức tính theo lít vận chuyển.
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên A.
+- Bảo đảm hàng còn niêm nguyên vẹn từ lúc nhận đến lúc giao.
+-
+
+===== doc_id: 9c9585b77c4a | tệp: DDK-BAO AN PHAT-30.8.23.pdf | số trang: 3 =====
+--- trang 1 ---
+[?]
+UBND THÀNH PHỐ ĐÀ NẴNG CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+SỞ CÔNG THƯƠNG Độc lập - Tự do - Hạnh phúc
+Số: [?]/GCNĐĐK-SCT Đà Nẵng, ngày 30 tháng 10 năm 2018
+[dấu: BẢN SAO]
+GIẤY CHỨNG NHẬN
+CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU
+GIÁM ĐỐC SỞ CÔNG THƯƠNG THÀNH PHỐ ĐÀ NẴNG
+Căn cứ Quyết định số 8989/QĐ-UBND ngày 7 tháng 12 năm 2015 của UBND thành phố Đà Nẵng quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương;
+Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu;
+Xét hồ sơ đề nghị cấp bổ sung, sửa đổi Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu của Công ty TNHH MTV Bảo Ân Phát;
+Theo đề nghị của Trưởng Phòng Quản lý Thương mại,
+QUYẾT ĐỊNH:
+Điều 1. Cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu
+1. Tên cửa hàng bán lẻ xăng dầu: Cửa hàng xăng dầu Thái Quang
+Địa chỉ: 02 đường Vân Đồn, phường Nại Hiên Đông, quận Sơn Trà, thành phố Đà Nẵng.
+Điện thoại: 0903502076 Fax:
+Thuộc sở hữu doanh nghiệp: Công ty TNHH MTV Bảo Ân Phát
+Tên giao dịch đối ngoại:
+Địa chỉ trụ sở chính: 02 đường Vân Đồn, phường Nại Hiên Đông, quận Sơn Trà, thành phố Đà Nẵng.
+Điện thoại: 0903502076 Fax:
+Giấy chứng nhận đăng ký doanh nghiệp số: 0401590701 do Sở Kế hoạch và Đầu tư thành phố Đà Nẵng cấp (thay đổi lần thứ 2) ngày 28 tháng 9 năm 2017.
+Mã số thuế: 0401590701.
+Đủ điều kiện bán lẻ xăng dầu.
+2.Thương nhân cung cấp xăng dầu
+Tên thương nhân: Công ty Cổ phần Thương mại – Dịch vụ Hiệp Hòa
+Địa chỉ trụ sở chính: 112 Hai Bà Trưng, phường Lê Lợi, thành phố Qui Nhơn, tỉnh Bình Định.
+Điện thoại: 0256.3821400 Fax: 0256.3821400
+[dấu: CỘNG HÒA X.H.C.N SỞ CÔNG THƯƠNG THÀNH PH[?]]
+[dấu]
+--- trang 2 (bị cắt bớt) ---
+Giấy chứng nhận đăng ký doanh nghiệp số: 4100668616 do Sở Kế hoạch và Đầu tư tỉnh Bình Định cấp (thay đổi lần thứ 3) ngày 29 tháng 4 năm 2014.
+Mã số thuế: 4100668616
+Điều 2. Công ty TNHH MTV Bảo Ân Phát phải thực hiện đúng các quy định tại Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu và các quy định khác của pháp luật có liên quan.
+Điều 3. Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu này có giá trị đến hết ngày 30 tháng 8 năm 2023; thay thế cho Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu số 365/GCNĐĐK-SCT ngày 30 tháng 8 năm 2018 của Giám đốc Sở Công Thương./.
+[chữ ký]
+Nơi nhận:
+- Cty TNHH MTV Bảo Ân Phát;
+- Bộ Công Thương (b/c);
+- Lưu: VT, P.QLTM.
+GIÁM ĐỐC
+[dấu: CỘNG HÒA X.H.C.N VIỆT NAM SỞ CÔNG THƯƠNG THÀNH PHỐ ĐÀ NẴNG]
+[chữ ký]
+[dấu]
+CHỨNG THỰC
+Bản sao đúng với bản chính
+Số: 18133 Quyển Số: 01
+Ngày: 31-10-2018
+CHỦ TỊCH
+[dấ
+
+===== doc_id: fb2902b6b028 | tệp: CamScanner 31-05-24 21.21 (1).pdf | số trang: 2 =====
+--- trang 1 ---
+BỘ CÔNG THƯƠNG | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số: 452 - TNPP/QĐ-BCT | Độc lập - Tự do - Hạnh phúc
+Hà Nội, ngày 24 tháng 11 năm 2021
+GIẤY XÁC NHẬN ĐỦ ĐIỀU KIỆN
+LÀM THƯƠNG NHÂN PHÂN PHỐI XĂNG DẦU
+BỘ TRƯỞNG BỘ CÔNG THƯƠNG
+Căn cứ Nghị định số 98/2017/NĐ-CP ngày 18 tháng 8 năm 2017 của Chính phủ quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Bộ Công Thương;
+Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu;
+Căn cứ Nghị định số 08/2018/NĐ-CP ngày 15 tháng 01 năm 2018 của Chính phủ sửa đổi một số Nghị định liên quan đến điều kiện đầu tư kinh doanh thuộc phạm vi quản lý nhà nước của Bộ Công Thương;
+Xét hồ sơ đề nghị cấp Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu của Công ty TNHH thương mại dịch vụ vận tải Bắc Nam;
+Theo đề nghị của Vụ trưởng Vụ Thị trường trong nước.
+QUYẾT ĐỊNH:
+Điều 1. Cấp Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu
+1. Tên doanh nghiệp: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI BẮC NAM
+Địa chỉ trụ sở chính: Số 292 Vườn Lài, phường An Phú Đông, quận 12, Thành phố Hồ Chí Minh, Việt Nam
+Số điện thoại: 0905220755
+Tên giao dịch đối ngoại:
+Giấy chứng nhận đăng ký doanh nghiệp số: 0312154171 do Sở Kế hoạch và Đầu tư Thành phố Hồ Chí Minh cấp lần đầu, ngày 06 tháng 02 năm 2013, đăng ký thay đổi lần thứ 8, ngày 14 tháng 01 năm 2021
+Mã số thuế: 0312154171
+Đủ điều kiện làm thương nhân phân phối xăng dầu
+Địa bàn hoạt động: Thành phố Hồ Chí Minh, tỉnh Gia Lai, tỉnh Đắk Lắk, tỉnh Kon Tum
+Được quét bằng CamScanner
+--- trang 2 ---
+2
+2. Thương nhân đầu mối bán xăng dầu
+Công ty TNHH thương mại dịch vụ vận tải Bắc Nam được mua xăng dầu từ nhiều thương nhân đầu mối theo quy định tại Khoản 1, Điều 15 Nghị định số 83/2014/NĐ-CP.
+Điều 2. Công ty TNHH thương mại dịch vụ vận tải Bắc Nam phải thực hiện đúng các quy định tại Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu và các quy định khác của pháp luật có liên quan.
+Điều 3. Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu này có giá trị đến hết ngày 24 tháng 11 năm 2026./.
+Nơi nhận:
+- Công ty TNHH TM DV vận tải Bắc Nam;
+- Bộ trưởng (để b/c);
+- Bộ Tài chính;
+- Sở Công Thương các tỉnh, thành phố: Thành phố Hồ Chí Minh; Gia Lai, Đắk Lắk; Kon Tum;
+- Lưu: VT, TTTN.
+KT. BỘ TRƯỞNG
+THỨ TRƯỞNG
+[dấu]
+[chữ ký]
+Đỗ Thắng Hải
+Được quét bằng CamScanner
+
+===== doc_id: a67e85a3c2e6 | tệp: GPKD-LỢI HUỲNH.pdf | số trang: 1 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BÌNH ĐỊNH          Độc lập – Tự do – Hạnh phúc
+PHÒNG ĐĂNG KÝ KINH DOANH
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY TRÁCH NHIỆM HỮU HẠN HAI THÀNH VIÊN TRỞ LÊN
+Mã số doanh nghiệp: 4101444087
+Đăng ký lần đầu: ngày 23 tháng 05 năm 2015
+Đăng ký thay đổi lần thứ: 1, ngày 04 tháng 07 năm 2019
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TRÁCH NHIỆM HỮU HẠN LỢI HUỲNH
+Tên công ty viết bằng tiếng nước ngoài:
+Tên công ty viết tắt: CÔNG TY TNHH LỢI HUỲNH
+2. Địa chỉ trụ sở chính
+Thôn Vân Sơn, Xã Nhơn Hậu, Thị xã An Nhơn, Tỉnh Bình Định, Việt Nam
+Điện thoại: 0914139183          Fax:
+Email:          Website:
+3. Vốn điều lệ          9.500.000.000 đồng.
+Bằng chữ: Chín tỷ năm trăm triệu đồng
+4. Danh sách thành viên góp vốn
+STT | Tên thành viên | Nơi đăng ký hộ khẩu thường trú đối với cá nhân, địa chỉ trụ sở chính đối với tổ chức | Giá trị phần vốn góp (VNĐ và giá trị tương đương theo đơn vị tiền nước ngoài, nếu có) | Tỷ lệ (%) | Số CMND (hoặc chứng thực cá nhân hợp pháp khác) đối với cá nhân; MSDN đối với doanh nghiệp; Số Quyết định thành lập đối với tổ chức | Ghi chú
+1 | HUỲNH VĂN LỢI | Thôn Vân Sơn, Xã Nhơn Hậu, Thị xã An Nhơn, Tỉnh Bình Định, Việt Nam | 5.278.200.000 | 55,560 | 211090428 |
+2 | NGUYỄN THỊ NHUNG | Thôn Vân sơn, Xã Nhơn Hậu, Thị xã An Nhơn, Tỉnh Bình Định, Việt Nam | 4.221.800.000 | 44,440 | 211130589 |
+5. Người đại diện theo pháp luật của công ty
+
+===== doc_id: 4dd7e35bbd9a | tệp: KT-104.2023-KHANH HUNG-1.1.23-31.12.24.pdf | số trang: 3 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số:104/2023/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 21 tháng 12 năm 2022, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0983 848 211 Fax: 0256. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 06 ngày 20 tháng 10 năm 2020.
+Do bà : DƯƠNG THỊ THANH LỰU Chức vụ: Giám đốc làm đại diện
+[dấu: CÔNG TY ... THƯƠ... DỊ... HIỆP ... TP.QUY NH...]
+II/ BÊN B: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI TỔNG HỢP KHÁNH HƯNG
+Địa chỉ : Lô 8-9 Đường Hoàng Văn Thái, P. Đống Đa, TP. Quy Nhơn, T. Bình Định
+Điện thoại : 0903510246
+Tài Khoản : 1017237556 tại NH Vietcombank CN Bình Định
+Mã số thuế : 4101576446
+Giấy chứng nhận đăng ký kinh doanh số: 4101576446 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày: 12/10/2020, đăng ký thay đổi lần thứ : 1, ngày 23/12/2021
+Do ông/bà : NGÔ TRƯƠNG KHÁNH Chức vụ: Giám đốc làm đại diện
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU 1. ĐỐI TƯỢNG HỢP ĐỒNG, GIÁ CẢ
+1.1 . Mặt
+--- trang 2 (bị cắt bớt) ---
+- Giá thanh toán được hiểu là giá Bên B thanh toán cho Bên A (Đã bao gồm thuế Giá trị gia tăng theo quy định của nhà nước) và được thể hiện trên hóa đơn bán hàng của Bên A.
+1.5. Chất lượng hàng hoá:
+Theo tiêu chuẩn quy định hiện hành của nhà nước đối với xăng dầu.
+ĐIỀU 2. ĐỊA ĐIỂM GIAO HÀNG
+Bên A giao hàng cho Bên B tại các Cửa hàng xăng dầu trực thuộc bên A.
+ĐIỀU 3. THANH TOÁN
+3.1 Hình thức thanh toán
+Thanh toán bằng tiền mặt hoặc chuyển khoản theo quy định của pháp luật.
+3.2 Hạn mức công nợ
+- Hạn mức công nợ tối đa là 150.000.000 VNĐ ( Một trăm năm mươi triệu đồng ).
+- Hạn mức công nợ của tháng sau được xác định bằng 70% tổng giá trị tiền hàng của tháng trước liền kề và không vượt quá hạn mức công nợ tối đa.
+- Tại mọi thời điểm tổng công nợ của bên B không được vượt quá hạn mức công nợ. Trường hợp giá trị hàng hóa vượt hạn mức công nợ thì bên B phải thanh toán phần giá trị vượt quá côn
+
+===== doc_id: dc25cb8bab8a | tệp: bbgn-260127-11.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – P. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+……………………, ngày 27 tháng 1 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: DNTN Anh [?]
+Địa chỉ: 33 [?] - Phường Quy Nhơn
+Điện thoại: | Fax:
+Mã số thuế:
+Nơi giao hàng: Cây [?] Tơ
+Phương tiện giao hàng: 77R-025.6[?]
+Người nhận: Nguyễn Văn Nam | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | Dầu [?] | lít | 6200 |
+2 | | |  |
+ | | |  |
+TỔNG | | 6200 |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển ( giao hàng )
+(Ký, ghi rõ họ tên)
+[chữ ký]
+Người nhận hàng
+(Ký, ghi rõ họ tên)
+[chữ ký]
+
+===== doc_id: ea1a77fe8ee7 | tệp: GPKD-SÁU LIÊM.pdf | số trang: 2 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+TỈNH GIA LAI
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN
+Mã số doanh nghiệp: 5900305250
+Đăng ký lần đầu: ngày 17 tháng 02 năm 2004
+Đăng ký thay đổi lần thứ: 2, ngày 13 tháng 06 năm 2018
+(CHUYỂN ĐỔI TỪ DNTN NGUYỄN HUỆ)
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH MỘT THÀNH VIÊN SÂU LIÊM GIA LAI
+Tên công ty viết bằng tiếng nước ngoài:
+Tên công ty viết tắt: CTY TNHH MTV SÂU LIÊM GL
+2. Địa chỉ trụ sở chính
+Thôn 5, Xã Song An, Thị xã An Khê, Tỉnh Gia Lai, Việt Nam
+Điện thoại: 0979376402 | Fax:
+Email: | Website:
+3. Vốn điều lệ 1.900.000.000 đồng
+Bằng chữ: Một tỷ chín trăm triệu đồng
+4. Thông tin về chủ sở hữu
+Họ và tên: PHẠM THANH LIÊM | Giới tính: Nam
+Sinh ngày: 16/07/1974 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 211448166
+Ngày cấp: 23/04/2016 | Nơi cấp: Công an tỉnh Bình Định
+Nơi đăng ký hộ khẩu thường trú: Khối Phú Xuân, Thị Trấn Phú Phong, Huyện Tây Sơn, Tỉnh Bình Định, Việt Nam
+Chỗ ở hiện tại: Thôn Thượng An 2, Xã Song An, Thị xã An Khê, Tỉnh Gia Lai, Việt Nam
+5. Người đại diện theo pháp luật của công ty
+--- trang 2 ---
+Họ và tên: PHẠM THANH LIÊM | Giới tính: Nam
+Chức danh: Chủ tịch công ty kiêm giám đốc
+Sinh ngày: 16/07/1974 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 211448166
+Ngày cấp: 23/04/2016 | Nơi cấp: Công an tỉnh Bình Định
+Nơi đăng ký hộ khẩu thường trú: Khối Phú Xuân, Thị Trấn Phú Phong, Huyện Tây Sơn, Tỉnh Bình Định, Việt Nam
+Chỗ ở hiện tại: Thôn Thượng An 2, Xã Song An, Thị xã An Khê, Tỉnh Gia Lai, Việt Nam
+TRƯỞNG PHÒNG
+[dấu: PHÒNG ĐĂNG KÝ KINH DOANH - SỞ KẾ HOẠCH VÀ ĐẦU TƯ [?]]
+[chữ ký]
+
+===== doc_id: bf89d7cbbb3a | tệp: 63. GCN VC HNH Trung ĐK (12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 (bị cắt bớt) ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+----- oOo -----
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Nguyễn Văn Trung
+Nam/ Nữ: Nam
+Ngày Sinh: 20/06/1988
+CMND/CCCD/hộ chiếu số:
+215045872
+Nghề nghiệp: Tài xế
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+Số: 21/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng
+hóa nguy hiểm: Xăng dầu cho Người điều
+khiển phương tiện do Công Ty Cổ Phần
+Thương Mại Dịch Vụ Hiệp Hòa tổ chức từ
+ngày: 06/05/2022 đến ngày 07/05/2022 và
+kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+[chữ ký]
+Dương T
+
+===== doc_id: 2c8ea80d39f8 | tệp: bbgn-260418-3.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – Tp. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+Gia Lai, ngày 18 tháng 4 năm 202[?]
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: CTy TNHH Lợi Huỳnh
+Địa chỉ: An Nhơn - Gia Lai
+Điện thoại: | Fax:
+Mã số thuế:
+Nơi giao hàng: CHXD Lợi Huỳnh
+Phương tiện giao hàng: 77C-171-27
+Người nhận: | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | Xăng RON 95-3 | lít | 4000 | [?]
+2 | | | [?] |
+3 | | | |
+4 | | | |
+ | | | |
+TỔNG | | | 4000 |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển | Người nhận hàng
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký]
+
+===== doc_id: ed9b06c8b985 | tệp: 4. ATKT  Và BVMT GH1_3.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+[trang xoay]
+BỘ GIAO THÔNG VẬN TẢI
+CỤC ĐĂNG KIỂM VIỆT NAM
+CHI CỤC ĐĂNG KIỂM SỐ 4
+Số: 01080/24V43
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+BV 093743
+GIẤY CHỨNG NHẬN AN TOÀN KỸ THUẬT VÀ
+BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN THỦY NỘI ĐỊA
+Tên phương tiện: HIỆP HÒA 01
+Số ĐKHC: BĐ-0153H
+Công dụng: Chở dầu loại II
+Số Đăng kiểm: V77-00022
+Chủ phương tiện: Công ty cổ phần thương mại dịch vụ Hiệp Hòa
+Địa chỉ: Phường Lê Lợi, TP. Quy Nhơn, Bình Định
+Năm và nơi đóng: 2001, Quy Nhơn
+Kích thước cơ bản: L x B x D x d: 14,8 x 4,3 x 2,1 x 1,25
+L max x B max: 15,5 x 4,5 m
+Vật liệu: Gỗ
+Mạn khô F: 900 mm
+Số lượng máy chính/phụ: 1/1
+Tổng công suất: sức ngựa
+Tổng dung tích (GT): 55/18
+Căn cứ báo cáo kiểm tra kỹ thuật số 01080/24V43 ngày 19 tháng 7 năm 2024
+CHI CỤC ĐĂNG KIỂM SỐ 4
+Chứng nhận phương tiện có đặc tính kỹ thuật và ngăn ngừa ô nhiễm ghi trong giấy chứng nhận này có trạng thái kỹ thuật thỏa mãn các yêu cầu của quy chuẩn, quy định hiện hành và được trao cấp:
+VR-SII
+Vùng hoạt động: Vùng SII
+Lượng hàng: 25 (tấn)
+Khả năng khai thác:
+-Phương tiện chỉ được phép hoạt động từ cửa sông trở vào đất liền, hồ, kênh rạch, đầm phá.
+-Phương tiện không được phép chở xăng hoặc các loại dầu có điểm chớp cháy từ 60 độ C trở xuống.
+-Luôn tuân thủ Luật PCCC khi hoạt động.
+-Theo Nghị định 111/2014/NĐ-CP, niên hạn sử dụng của phương tiện đến hết ngày 17/06/2026.
+Giấy chứng nhận này có hiệu lực đến ngày 17 tháng 12 năm 2024
+Cấp tại
+Đà Nẵng, ngày 19 tháng 7 năm 2024
+LÃNH ĐẠO ĐƠN VỊ ĐĂNG KIỂM
+(ký, ghi rõ họ tên, đóng dấu)
+[dấu: CHI CỤC ĐĂNG KIỂM SỐ 4 - CỤC ĐĂNG KIỂM VIỆT NAM]
+[chữ ký]
+KS Lê Anh Tuấn
+Số KS VR01006627
+SI-01
+-1-
+[trang xoay]
+Trang bị chạy tàu
+Ống nhòm: [x];	Đồng hồ: [x];
+Thiết bị đo sâu đơn giản: [x];	Chuông lệnh: [-];
+Thiết bị đo nghiêng: [x];	Thước đo mức nước: [x];
+GPS hoặc thiế
+--- trang 2 (bị cắt bớt) ---
+[trang xoay]
+Thiết kế phương tiện
+Ký hiệu thiết kế: MDG
+Năm thiết kế: 2002
+Số GCN: 0023/V77-02CN
+Số thẩm định:
+Năm và nơi hoán cải:
+Thiết bị neo
+Neo mũi, kiểu: Neo hàn; SL(chiếc): 1; Tổng khối lượng neo: 50 kg
+Neo đuôi, kiểu: Neo hàn; SL(chiếc): 1; Tổng khối lượng neo: 50 kg
+Chiều dài/ đường kính xích, cáp: Mũi: 30/28; Đuôi: 30/28
+Kéo tay: /
+Thiết bị lái
+Tấm: số lượng (chiếc): 1; Tổng diện tích (m²): 0,8
+Vô lăng: Mô men lái (tm): 0,32
+Lái cần: Mô men lái (tm): 0,36
+Bánh lái: Kiểu [?]
+Máy lái chính: Kiểu [?]
+Máy lái dự phòng: Kiểu [?]
+Thiết bị chằng buộc
+Dây buộc: số lượng (chiếc): 2
+Tổng chiều dài (m): 60
+Bít đơn: số lượng (chiếc): 4
+Cột buộc dây: Kiểu [?]
+Thiết bị kéo
+Cột kéo: Kiểu [?]
+Móc kéo: Kiểu [?]
+Tời thu dây: kiểu [?]
+Dây kéo loại: [?]
+Đường kính (mm): [?]
+Lực kéo định mức (KN): [?]
+Chiều dài (m): [?]
+Máy chính số 1
+YANMAR
+Mác
+Năm chế tạo
+Số chế tạo: 0001
+Công suất (sức ngựa/kW):
+
+===== doc_id: 74022f3b5755 | tệp: TLHD 2021-QUOC DAT.pdf | số trang: 1 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN PETEC
+BÌNH ĐỊNH
+******
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+*******************
+BIÊN BẢN THANH LÝ HỢP ĐỒNG
+* Căn cứ hợp đồng đại lý bao tiêu XD số 07/ĐL-XD ngày 01/01/2021
+* Căn cứ tình hình thực hiện và thỏa thuận của hai bên.
+Hôm nay, ngày 26 tháng 03 năm 2021 tại văn phòng Công ty CP PETEC Bình Định. Chúng tôi gồm có:
+Bên A: CÔNG TY CỔ PHẦN PETEC BÌNH ĐỊNH
+* Ông Lương Duy Vân    Chức vụ : Phó tổng giám đốc
+Bên B: DNTN QUỐC ĐẠT
+* Ông Nguyễn Minh Hùng    Chức vụ : Chủ doanh nghiệp
+Sau khi đối chiếu cụ thể, hai bên thống nhất thanh lý hợp đồng số 07/ĐL-XD ngày 01/01/2021 với nội dung sau :
+1) Về hàng hóa :
+* Số dư đầu kỳ bên B còn nợ bên A:    695.680.908 đồng
+* Tổng trị giá hàng mua từ ngày 01/01/2021 đến 26/03/2021 của bên B là`:
+STT | Tên hàng | ĐVT | Số lượng | Tổng trị giá thanh toán (đồng)
+1 | Xăng 95 | lít | 0 | 0
+2 | Dầu Diezel | " | 165.000 | 2.114.202.200
+CỘNG | | | | 2.114.202.200
+* Trong thời gian trên bên B đã thanh toán cho bên A là :    2.809.883.108 đồng
+* Đến cuối 26/03/2021 bên B còn nợ tiền hàng của bên A là :    0 đồng
+II) Về lãi vay : đến 26/03/2021 bên B còn nợ tiền lãi vay của bên A là :    0 đồng
+III) Kết luận : * Bên B đã thanh toán dứt điểm tiền hàng và tiền lãi vay cho bên A
+* Hợp đồng số 07/ĐL-XD ngày 01/01/2021 đã được hai bên thống nhất thanh lý và không còn hiệu lực kể từ ngày ký thanh lý.
+Biên bản thanh lý được lập thành 02 bản . Mỗi bên giữ 01 bản , có giá trị pháp lý như nhau.
+ĐẠI DIỆN BÊN B    ĐẠI DIỆN BÊN A
+[dấu]    [dấu: CÔNG TY [?] PETEC [?] BÌNH ĐỊNH]
+[chữ ký]    PHÓ TỔNG GIÁM ĐỐC
+[chữ ký]
+
+===== doc_id: f35e74ca0451 | tệp: 67. GCN VC HNH Hao (12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 (bị cắt bớt) ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+----- oOo -----
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Nguyễn Thanh Hào
+Nam/ Nữ: Nam
+Ngày Sinh: 10/08/1985
+CMND/CCCD/hộ chiếu số:
+215012584
+Nghề nghiệp: Tài xế
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+Số: 25/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng
+hóa nguy hiểm: Xăng dầu cho Người điều
+khiển phương tiện do Công Ty Cổ Phần
+Thương Mại Dịch Vụ Hiệp Hòa tổ chức từ
+ngày: 06/05/2022 đến ngày 07/05/2022 và
+kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+[chữ ký]
+Dương T
+
+===== doc_id: b620b2ecbd91 | tệp: 20260122-03.pdf | số trang: 1 =====
+--- trang 1 (bị cắt bớt) ---
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN M.S.D.N: 4300378569 PETROVIETNAM BSR BÌNH SƠN TỈNH QUẢNG NGÃI]
+PHIẾU XUẤT KHO THÀNH PHẨM
+VHSX
+Ngày: 22/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2602681
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng
+12 năm 2025 giữa BSR và Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Lệnh xuất hàng: 551/LXHXB-DO-220126-215-0 (8000147936)
+Xuất tại bồn số: TK-5207C    Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: NGUYỄN VĂN LUÂN
+Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Địa chỉ:  14 Nguyễn Tri Phương Phường Thanh Khê Thành phố Đà Nẵng.
+Đại diện bên nhận: LE DINH VAN
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 188/UQ-HK
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77R-035.62    Đến kho lúc: 19 giờ 42 phút ngày 22 tháng 01 năm 2026
+Bắt đầu lúc: 20 giờ 59 phút ngày 22 tháng 01 năm 2026    Kết thúc lúc: 22 giờ 04 phút ngày 22 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng
+ | Bbls (thùng) | M3 (tại 15⁰C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 254,231 | 40,399 | 33,490 | 41,020
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm năm mươi bốn phẩy hai trăm ba mươi một thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI010 | 1,000359 | 1,000032 | 1,000075 | 1,000005 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15⁰C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (⁰C)
+DO-022-202601210384 | 01 | 0,984600 | 0,8301 | 6,20 | 33,2
+DO-022-202601210384 | 02 | 0,985300 | 0,8301 | 6,00 | 32,3
+DO-022-202601210384 | 03 | 0,985500 | 0,8301 | 6,10 | 32,2
+DO-022-202601210384 
+
+===== doc_id: 06f6e533b7c7 | tệp: HDVC 2020-NGOC ANH-01.01-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 01/2020/HĐVC-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 01 năm 2020, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: DOANH NGHIỆP TƯ NHÂN NGỌC ANH    (BÊN CHỦ HÀNG)
+Địa chỉ : Thôn Văn Trường Tây, Xã Mỹ Phong, H. Phù Mỹ, Tỉnh Bình Định.
+Điện thoại : 0935 717 449
+Tài Khoản : ……………………………………………………………………
+Mã số thuế : 4100578433
+Giấy chứng nhận đăng ký kinh doanh số: 4100578433 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 10/10/2005. Đăng ký thay đổi lần thứ 04 ngày 31 tháng 07 năm 2017.
+Do Ông/ Bà : ĐẶNG DƯƠNG THANH THẢO    - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA    (BÊN VẬN CHUYỂN)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0983 848 211    Fax: 0256. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 06 ngày 20 tháng 10 năm 2020.
+Do Ông/ Bà : DƯƠNG THỊ THANH LỰU    - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A thuê Bên B vận chuyển xăng dầu bằng phương tiện ôtô xitec.
+- Khối
+--- trang 2 (bị cắt bớt) ---
+ĐIỀU III: GIÁ VÀ PHƯƠNG THỨC THANH TOÁN
+- Giá cả do hai bên thỏa thuận theo từng thời điểm.
+- Phương thức tính theo lít vận chuyển.
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên A.
+- Bảo đảm hàng còn niê
+
+===== doc_id: 36dd62ca607c | tệp: bbgn-260324-2.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – Tp. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+Gia Lai, ngày 23 tháng 03 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: Cty DVMHH Lâm Nghiệp Quyền Thắng
+Địa chỉ:
+Điện thoại: | Fax:
+Mã số thuế:
+Nơi giao hàng: CHXD Quyền Thắng
+Phương tiện giao hàng: [?]C-05301
+Người nhận: Võ Nguyễn Lê Hoàng | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | Dầu DO 0,05S | Lít | 16.000 |
+2 | | | |
+ | | | |
+TỔNG | | | |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển(giao hàng) | Người nhận hàng
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký]
+
+===== doc_id: 7a8cbcc46988 | tệp: 15. GCN VC HNH Dong (12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+----- oOo -----
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Nguyễn Huỳnh Đông
+Nam/ Nữ: Nam
+Ngày Sinh: 22/01/1981
+CMND/CCCD/hộ chiếu số:
+211714404
+Nghề nghiệp: Thủ kho
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+Số: 51/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng
+hóa nguy hiểm: Xăng dầu cho Thủ kho do
+Công Ty Cổ Phần Thương Mại Dịch Vụ Hiệp
+Hòa tổ chức từ ngày: 06/05/2022 đến ngày
+07/05/2022 và kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+[chữ ký]
+Dương Thị Thanh Lựu
+
+===== doc_id: 2da681df11bc | tệp: HDKT 2022-HUY HOANG-29.4-31.12.pdf | số trang: 3 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 81/2022/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+(HỘ CÔNG NGHIỆP)
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 29 tháng 04 năm 2022, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0983 848 211 Fax: 0256. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 06 ngày 20 tháng 10 năm 2020.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+[dấu: M.S.D.N:410066[?] CÔNG TY CỔ P[?] THƯƠNG[?] DỊCH[?] HIỆP[?] TP.QUY NHƠ[?]]
+II/ BÊN B: CÔNG TY TNHH DỊCH VỤ - VẬN TẢI - THƯƠNG MẠI HUY HOÀNG
+Địa chỉ : Quốc lộ 1A, Thôn Hòa Dõng, Xã Cát Tân, Huyện Phù Cát, Tỉnh Bình Định
+Điện thoại : 0333013149
+Tài Khoản : ..............................................................................
+Mã số thuế : 4101431095
+Giấy chứng nhận đăng ký kinh doanh số: 4101431095 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày: 04/09/2014.
+Do Ông : HÀ VĂN HƯƠNG - Chức vụ: Giám Đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+Điều I: Mặt hàng, số lượng, mục đíc
+--- trang 2 (bị cắt bớt) ---
+Điều II : Địa điểm và thời gian giao nhận hàng:
+2.1. Địa điểm giao nhận hàng:
+Bên A giao hàng cho bên B tại các địa điểm:
+- Cửa hàng xăng dầu số 2 Phước Mỹ - Công ty CP TM DV Hiệp Hòa thuộc xã Phước Mỹ, TP.Quy Nhơn, tỉnh Bình Định.
+- Cửa hàng xăng dầu số 12 - Công ty CP TM DV Hiệp Hòa thuộc QL 19, khu vực Huỳnh Kim, phường Nhơn Hòa, thị xã An Nhơn, tỉnh Bình Định.
+2.2. Thời gian giao nhận hàng:
+- Tại Cửa hàng xăng dầu số 2 Phước Mỹ từ 05h00 đến 21h00 hàng ngày (kể cả thứ 7, chủ nhật và ngày lễ).
+- Tại Cửa hàng xăng dầu số 12 Nhơn Hòa 24/24 giờ hàng ngày (kể cả thứ 7, chủ nhật và ngày lễ).
+Điều III: Phương thức và thời gian thanh toán:
+3.1. Hình thức thanh toán:
+- Thanh toán bằng tiền mặt hoặc chuyển khoản theo quy định của pháp luật hiện hành.
+3.2. Đối chiếu và hạn mức công nợ:
+- Đối chiếu công nợ: Định kỳ cuối tháng Bên A chịu trách nhiệm thống kê hàng hóa, công nợ và hai bên A, B đối c
+
+===== doc_id: 6c5d851bee62 | tệp: 60. GCN VC HNH Hung (12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+vehicle.
+--- trang 2 (bị cắt bớt) ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+----- oOo -----
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Trần Văn Hùng
+Nam/ Nữ: Nam
+Ngày Sinh: 01/01/1975
+CMND/CCCD/hộ chiếu số:
+211564726
+Nghề nghiệp: Tài xế
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+Số: 18/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng
+hóa nguy hiểm: Xăng dầu cho Người điều
+khiển phương tiện do Công Ty Cổ Phần
+Thương Mại Dịch Vụ Hiệp Hòa tổ chức từ
+ngày: 06/05/2022 đến ngày 07/05/2022 và
+kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+[chữ ký]
+Dương Thị 
+
+===== doc_id: ba5ba0eb057d | tệp: bbgn-260204-3.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – P. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+Gia Lai, ngày 4 tháng 2 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: CTy TNHH xD Hưng Lực
+Địa chỉ: An [?] - Gia Lai
+Điện thoại: | Fax:
+Mã số thuế:
+Nơi giao hàng: CHXD Hưng Lực
+Phương tiện giao hàng: 77-171-27
+Người nhận: | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | Xăng RON 95-3 | lít | 6.000 | [?]
+2 | | | [?] |
+ | | | |
+TỔNG | | | 6.000 |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển (giao hàng) | Người nhận hàng
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký]
+
+===== doc_id: 507b47ad121b | tệp: HDVC 2018-VIET LINH-01.01-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CTY CP TM DV HIỆP HÒA
+Số: 03/2018/HĐVC
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự số 33/2005/QH 11 và Bộ Luật Thương Mại số 36/2005/QH 11 của Nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam ban hành ngày 14/06/2005;
+- Căn cứ nhu cầu và khả năng của hai bên.
+Hôm nay, ngày 01 tháng 01 năm 2018. Chúng tôi gồm có :
+BÊN A : CTY CỔ PHẦN TM DV HIỆP HÒA    (BÊN CHỦ HÀNG)
+Đại Diện : Dương Thị Thanh Lựu    Chức vụ : Giám đốc
+Địa chỉ : 112 Hai Bà Trưng, P Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định.
+Điện thoại : 056. 3848211 - 0905111101    Fax: 056. 3648211
+Tài khoản : 4309 211 360 115 tại ngân hàng NN và PTNT CN Phú Tài, Bình Định
+Mã Số Thuế : 4100668616
+BÊN B : DOANH NGHIỆP TƯ NHÂN VIỆT LINH    (BÊN VẬN CHUYỂN)
+Đại Diện : Lương Thị Thủy    Chức vụ : Chủ doanh nghiệp
+Địa chỉ : 01 Nguyễn Lương Bằng, P.Lý Thường Kiệt, Tp. Quy Nhơn, Bình Định.
+Điện thoại : 0905623799    Fax: ……………………….
+Tài khoản : ……………………………………………………………………
+Mã Số Thuế : 4100656120
+Sau khi bàn bạc, hai bên thống nhất ký kết HĐKT theo các điều khoản sau :
+ĐIỀU I : CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A thuê Bên B vận chuyển xăng dầu bằng phương tiện ôtô xitec.
+- Khối lượng hàng theo quy định vận chuyển của xe.
+- Bên B chịu trách nhiệm đầy đủ các thủ tục pháp lý của xe liên quan đến lưu hành phương tiện vận chuyển xăng dầu chuyên dùng theo quy định của Nhà nước. Số xe vận chuyển sẽ thông báo trước cho bên A.
+ĐIỀU II : PHƯƠNG THỨC VÀ THỜI GIAN VẬN CHUYỂN
+1-Phương thức giao nhận hàng :
+- Bên B chịu trách nhiệm nhận hàng tại kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định và vận chuyển đến giao tại các địa điểm theo yêu cầu của bên A.
+2-Thời gian và địa điểm giao nhận hàng:
+- Bên A thông báo cho bên B biết kế hoạch nhận hàng, vận chuyển trước 12h. sau kh
+--- trang 2 (bị cắt bớt) ---
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên A.
+- Bảo đảm hàng còn niêm nguyên vẹn từ lúc nhận đến lúc giao.
+- Đền bù và chịu mọi chi phí nếu có hành vi gian lận khi bên nhận từ chối không nhận hàng.
+- Khi giao hàng xong, bên B phải có chứng từ giấy nhận hàng của bên nhận để giao lại cho bên A.
+3/ Quyền hạn của B:
+- Có quyền từ chối vận chuyển nếu bên A buộc bên B giao hàng không đúng luật đường bộ quy định như vào đường cấm, đường không vào được,….
+4/ Q
+
+===== doc_id: 1195238c05fa | tệp: 70. GCN VC HNH Toan (12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 (bị cắt bớt) ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+- - - - - oOo - - - - -
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Trương Quang Toàn
+Nam/ Nữ: Nam
+Ngày Sinh: 01/01/1985
+CMND/CCCD/hộ chiếu số: 211807762
+Nghề nghiệp: Tài xế
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+[dấu: CÔNG TY THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA, QUY NHƠN T.BÌNH]
+Số: 28/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng hóa nguy hiểm: Xăng dầu cho Người điều khiển phương tiện do Công Ty Cổ Phần Thương Mại Dịch Vụ Hiệp Hòa tổ chức từ ngày: 06/05/2022 đến ngày 07/05/2022 và kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA TP. QUY NHƠN BÌNH ĐỊNH]
+[chữ ký]
+Dương Thị Than
+
+===== doc_id: 8eb01470d0be | tệp: KT-51.2023-BINH AN PHAT PETRO-1.1-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+[chữ viết tay: Hiệp Hòa 2[?]]
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 51/2023/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+(HỘ CÔNG NGHIỆP)
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 21 tháng 12 năm 2022, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0983 848 211 Fax: 0256. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank Quy Nhơn
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 06 ngày 20 tháng 10 năm 2020.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY CỔ PHẦN BÌNH AN PHÁT PETRO
+Địa chỉ : 385/90 Lê Văn Thọ, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh, Việt Nam
+Điện thoại : ....................
+Tài Khoản : ..............................................................................................
+Mã số thuế : 0316252571
+Giấy chứng nhận đăng ký kinh doanh số: 0316252571 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh TP Hồ Chí Minh cấp đăng ký lần đầu ngày: 28/04/2020.
+Do Ông/ Bà : HOÀNG THẾ ANH - Chức vụ: Giám Đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+Điều I: Mặt hàng, số lượng, mục đích sử dụng, giá cả & chất lượng:
+1.1 . Mặt hàng:
+B
+--- trang 2 (bị cắt bớt) ---
+2.2. Thời gian giao hàng:
+- Khi cần giao hàng với số lượng lớn bên B sẽ phải có đơn đặt hàng hoặc thông báo cho bên A trước 01 ngày khi cần giao hàng.
+Điều III: Phương thức và thời gian thanh toán:
+- Thanh toán tiền mặt hoặc chuyển khoản theo quy định của pháp luật hiện hành
+- Thanh toán trước khi nhận hàng hoặc thoả thuận theo từng thời điểm.
+- Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực.
+- Định kỳ (hàng tháng hoặc hàng quý) Bên A chịu trách nhiệm thống kê hàng hóa, công nợ và hai bên A, B đối chiếu công nợ để làm cơ sở cho việc thanh toán. Trong vòng 7 ngày kể từ khi nhận được biên bản đối chiếu công nợ nếu bên B không xác nhận đối chiếu công nợ mà không có lý do chính đáng thì xem như bên B đã chấp nhận công nợ.
+Điều IV: Trách nhiệm của mỗi bên:
+4.1. Trách nhiệm của bên A:
+- Đảm bảo đủ số lượng và đúng chất lượng hàng hoá theo tiêu chuẩ
+
+===== doc_id: ef39bb3714e1 | tệp: GPKD-THÀNH LIÊN.pdf | số trang: 7 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+TỈNH PHÚ YÊN
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN
+Mã số doanh nghiệp: 4400334501
+Đăng ký lần đầu: ngày 29 tháng 12 năm 2003
+Đăng ký thay đổi lần thứ: 5, ngày 31 tháng 10 năm 2017
+(Doanh nghiệp TN xăng dầu Thành Liên chuyển đổi thành Công ty TNHH xăng dầu Thành Liên (Công ty TNHH một thành viên) ngày 31/10/2017.
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH XĂNG DẦU THÀNH LIÊN
+Tên công ty viết bằng tiếng nước ngoài:
+Tên công ty viết tắt:
+2. Địa chỉ trụ sở chính
+Thôn Thạch Khê, Xã Xuân Lộc, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+Điện thoại: 0982124915 | Fax:
+Email: | Website:
+3. Vốn điều lệ 4.500.000.000 đồng
+Bằng chữ: Bốn tỷ năm trăm triệu đồng
+4. Thông tin về chủ sở hữu
+Họ và tên: TRẦN THỊ LIÊN | Giới tính: Nữ
+Sinh ngày: 20/05/1964 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 220623732
+Ngày cấp: 07/06/2012 | Nơi cấp: Công an tỉnh Phú Yên
+Nơi đăng ký hộ khẩu thường trú: Thôn Thạch Khê, Xã Xuân Lộc, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+Chỗ ở hiện tại: Thôn Thạch Khê, Xã Xuân Lộc, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+5. Người đại diện theo pháp luật của công ty
+--- trang 2 ---
+* Họ và tên: TRẦN THỊ LIÊN | Giới tính: Nữ
+Chức danh: Giám đốc
+Sinh ngày: 20/05/1964 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 220623732
+Ngày cấp: 07/06/2012 | Nơi cấp: Công an tỉnh Phú yên
+Nơi đăng ký hộ khẩu thường trú: Thôn Thạch Khê, Xã Xuân Lộc, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+Chỗ ở hiện tại: Thôn Thạch Khê, Xã Xuân Lộc, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+TRƯỞNG PHÒNG
+[dấu]
+[chữ ký]
+
+===== doc_id: dcec81062942 | tệp: HDMBCD-05.2016-TAM PHUC PHU-01-09-2016.pdf | số trang: 6 =====
+--- trang 1 (bị cắt bớt) ---
+CTCP TM-DV HIỆP HÒA
+Số: 05/2016/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MƯỢN BỒN CHỨA DẦU
+- Căn cứ quy định tại Bộ luật dân sự nước Cộng hòa xã hội chủ nghĩa Việt Nam số: 33/2005/QH11, có hiệu lực ngày 14/06/2005.
+- Căn cứ Luật Thương mại của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam ban hành ngày 14/06/2005 (Luật số: 36/2005-QH11).
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 09 năm 2016, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 056. 3821400 -0983 848 211    Fax: 056. 3648211
+Tài khoản : 102010000623801 tại Ngân hàng Vietinbank - CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ tư ngày 07 tháng 12 năm 2015.
+Do Bà : DƯƠNG THỊ THANH LỰU    - Chức vụ: Giám đốc
+II/ BÊN B: DOANH NGHIỆP TƯ NHÂN TÂM PHÚC PHÚ
+Địa chỉ : Số 116 Ý Lan, TP Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 056 3813 276
+Tài Khoản : ........................................................................
+Mã số thuế : 4100575633
+Do Ông/Bà : HUỲNH TRỌNG TÂM
+- Chức vụ: Chủ Doanh nghiệp làm đại diện theo pháp luật của Công ty.
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+Điều I: Bên A đồng ý cho bên B mượn 01 bồn chứa dầu dung tích 20.000 lít bằng sắt 5ly, Tình trạng hoạt động tốt (không thủng, chảy) để bê
+--- trang 2 (bị cắt bớt) ---
+Điều IV: Điều khoản chung:
+5.1. Hai bên cam kết thực hiện đầy đủ các điều khoản được ghi trong hợp đồng, trong quá trình thực hiện nếu có phát sinh vướng mắc, tranh chấp 2 bên sẽ chủ động thông báo cho nhau giải quyết trên cơ sở đảm bảo lợi ích của nhau và được bổ sung bằng phụ lục hợp đồng. Mọi sự thay đổi đơn phương đều không có giá trị thực hiện. Nếu không giải quyết bằng thương lượng thì một trong hai bên có quyền khởi kiện đến tòa án nhân dân cấp có thẩm quyền. Quyết định của toà án là quyết định cuối cùng hai bên phải chấp hành thực hiện và án phí do bên thua kiện chịu.
+5.2. Hợp đồng này có hiệu lực từ ngày ký
+5.3. Hợp đồng được lập thành 02 bản, mỗi bên giữ 01 bản có giá trị pháp lý như nhau.
+ĐẠI DIỆN BÊN A    ĐẠI DIỆN BÊN B
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA, TP.QUY NHƠN T.BÌNH ĐỊNH]
+[dấu: GIÁM ĐỐC]
+[chữ ký]
+[dấu: CÔNG TY TNHH TÂM PHÚC PHÚ, TỈNH BÌNH ĐỊNH, M.S.D.N:
+
+===== doc_id: e217397abc7a | tệp: TLHD 2019-XUAN THIET.pdf | số trang: 1 =====
+--- trang 1 ---
+CÔNG TY TNHH TM TH CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+VIỆT HƯNG Độc Lập – Tự Do – Hạnh Phúc
+Số : 02/TL-VH
+BIÊN BẢN THANH LÝ HỢP ĐỒNG
+- Căn cứ Hợp đồng Đại lý số 05/2018/XD-ĐL ký ngày 31 tháng 12 năm 2017 giữa Công ty TNHH TM TH Việt Hưng và Công ty TNHH Xuân Thiết.
+- Căn cứ vào nhu cầu, khả năng của hai bên.
+Hôm nay ngày 12 tháng 07 năm 2019, tại văn phòng CTY TNHH TMTH Việt Hưng chúng tôi gồm có:
+BÊN BÁN: ( Bên A ) CÔNG TY TNHH TM TH VIỆT HƯNG.
+Ông : HUỲNH BÌNH Chức vụ : Giám đốc Công ty.
+Địa chỉ : Tân thành 1, Tam Quan Bắc, Hoài Nhơn, Bình Định.
+Điện thoại : (056) 3765 789 – Fax: (056) 3965 199
+Tài khoản số : 5821 00000 60459 NH ĐT&PT Phú Tài – PGD Hoài Nhơn.
+MST : 4101411356.
+BÊN MUA: ( Bên B) CÔNG TY TNHH XUÂN THIẾT
+Ông : NGUYỄN TÚ Chức vụ : Giám đốc
+Địa chỉ : Thôn Tân Thành 2, Xã Tam Quan Bắc, Hoài Nhơn, Bình Định
+Điện thoại : (0256) 3865187
+MST : 4101251078
+Cùng tiến hành thanh lý hợp đồng với nội dung như sau :
+1) Bên A: cung cấp cho Bên B các loại hàng hoá, dịch vụ đảm bảo số lượng và chất lượng theo đúng các điều khoản trong hợp đồng Đại lý số 05/2018/XD-ĐL ngày 31/12/2017.
+2) Bên B: Đến ngày 12 tháng 07 năm 2019 Công ty TNHH TM Xuân Thiết đã thanh toán hết nợ cho Công ty TNHH TM TH Việt Hưng số tiền tại thời điểm ngày 12/07/2019 là: 366.148.600 (Ba trăm sáu mươi sáu triệu một trăm bốn mươi tám nghìn sáu trăm đồng).
+3) Biên bản thanh lý hợp đồng này được lập thành 02 bản, mỗi bên giữ 01 bản có giá trị pháp lý như nhau để thực hiện.
+ĐẠI DIỆN BÊN A ĐẠI DIỆN BÊN B
+[dấu: CÔNG TY TNHH THƯƠNG MẠI TỔNG HỢP VIỆT HƯNG [?]] [dấu] GIÁM ĐỐC
+[chữ ký] [chữ ký]
+
+===== doc_id: 5715c445b68f | tệp: don-hang_2605-0022.pdf | số trang: 1 =====
+--- trang 1 ---
+CT CP TM-DV HIỆP HÒA
+Số: PO-20260518-HKHANHGL
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+ĐƠN ĐẶT HÀNG
+Ngày 18 tháng 05 năm 2026
+Kính gửi: CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH - CHI NHÁNH GIA LAI
+- Căn cứ Hợp đồng mua bán xăng dầu số: 10/HĐTNPP-CNGL-2026 ngày 29/12/2025 giữa CT CP TM-DV HIỆP HÒA và Công Ty TNHH Thương Mại Và Dịch Vụ Tổng Hợp Hòa Khánh - Chi Nhánh Gia Lai
+Chúng tôi trân trọng đề nghị Quý công ty cung cấp các mặt hàng dưới đây:
+STT | Mặt hàng | ĐVT | Số lượng | Đơn giá thanh toán | Thành tiền
+1 | Dầu Điêzen 0,05S Mức 2 | Lít | 22.000 | 26.920 | 592.240.000
+2 | Dầu Điêzen 0,05S Mức 2 | Lít | 40.000 | 26.920 | 1.076.800.000
+3 | Dầu Điêzen 0,05S Mức 2 | Lít | 41.000 | 26.920 | 1.103.720.000
+4 | Dầu Điêzen 0,05S Mức 2 | Lít | 41.300 | 26.920 | 1.111.796.000
+TỔNG CỘNG | | | 144.300 | | 3.884.556.000
+(*) Đơn giá thanh toán đã bao gồm VAT.
+Bằng chữ: Ba tỷ tám trăm tám mươi bốn triệu năm trăm năm mươi sáu nghìn đồng
+Thời gian nhận hàng: Ngày 19/05/2026
+ĐẠI DIỆN BÊN MUA
+Phó giám đốc
+[chữ ký]
+Đặng Nhơn Hòa
+Signature valid
+Được ký bởi: CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA
+Ngày ký: 18/05/2026
+
+===== doc_id: 1bdaf73c61e5 | tệp: GIẤY PHÉP KINH DOANH CTY MẸ.pdf | số trang: 2 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+THÀNH PHỐ HỒ CHÍ MINH | Độc lập – Tự do – Hạnh phúc
+PHÒNG ĐĂNG KÝ KINH DOANH
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN
+Mã số doanh nghiệp: 0312154171
+Đăng ký lần đầu: ngày 06 tháng 02 năm 2013
+Đăng ký thay đổi lần thứ: 9, ngày 21 tháng 05 năm 2022
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI BẮC NAM
+Tên công ty viết bằng tiếng nước ngoài:
+Tên công ty viết tắt:
+2. Địa chỉ trụ sở chính
+292 Vườn Lài, Phường An Phú Đông, Quận 12, Thành phố Hồ Chí Minh, Việt Nam
+Điện thoại: 0905 220 755 Fax:
+Email: ntmh_1409@yahoo.com.vn Website:
+3. Vốn điều lệ 24.000.000.000 đồng
+Bằng chữ: Hai mươi bốn tỷ đồng
+4. Thông tin về chủ sở hữu
+Họ và tên: NGUYỄN THỊ HƯƠNG Giới tính: Nữ
+Sinh ngày: 01/01/1975 Dân tộc: Kinh Quốc tịch: Việt Nam
+Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
+Số giấy tờ pháp lý của cá nhân: 052175000322
+Ngày cấp: 22/10/2019 Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ thường trú: 92 Đường số 1 KDC City Land, Phường 7, Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ liên lạc: 92 Đường số 1 KDC City Land, Phường 7, Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam
+5. Người đại diện theo pháp luật của công ty
+Được quét bằng CamScanner
+--- trang 2 ---
+* Họ và tên: NGUYỄN THỊ HƯƠNG Giới tính: Nữ
+Chức danh: Giám đốc
+Sinh ngày: 01/01/1975 Dân tộc: Kinh Quốc tịch: Việt Nam
+Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
+Số giấy tờ pháp lý của cá nhân: 052175000322
+Ngày cấp: 22/10/2019 Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ thường trú: 92 Đường số 1 KDC City Land, Phường 7, Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam
+Địa chỉ liên lạc: 92 Đường số 1 KDC City Land, Phường 7, Quận Gò Vấp, Thành phố Hồ Chí Minh, Việt Nam
+[chữ ký]
+TRƯỞNG PHÒNG
+Phó Trưởng Phòng
+[dấu: SỞ KẾ HOẠCH VÀ ĐẦU TƯ THÀNH PHỐ HỒ CHÍ MINH - PHÒNG ĐĂNG KÝ KINH DOANH]
+[chữ ký]
+Hồ Hoành Sơn
+Được quét bằng CamScanner
+
+===== doc_id: cc6eee8adab8 | tệp: don-hang_2603-0019.pdf | số trang: 1 =====
+--- trang 1 ---
+CT CP TM-DV HIỆP HÒA
+Số: PO-20260315-XDBINHDINH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+ĐƠN ĐẶT HÀNG
+Ngày 15 tháng 03 năm 2026
+Kính gửi: CÔNG TY TNHH MTV PETROLIMEX GIA LAI
+- Căn cứ Hợp đồng mua bán xăng dầu số: 04/PLXGL-HĐTNPP ngày 25/12/2025 giữa CT CP TM-DV HIỆP HÒA và Công Ty TNHH MTV Petrolimex Gia Lai
+Chúng tôi trân trọng đề nghị Quý công ty cung cấp các mặt hàng dưới đây:
+STT | Mặt hàng | ĐVT | Số lượng | Đơn giá thanh toán | Thành tiền
+1 | Dầu Điêzen 0,001S Mức 5 | Lít | 4.000 | 27.630 | 110.520.000
+2 | Dầu Điêzen 0,05S Mức 2 | Lít | 4.000 | 27.430 | 109.720.000
+TỔNG CỘNG | | | 8.000 | | 220.240.000
+(*) Đơn giá thanh toán đã bao gồm VAT.
+Bằng chữ: Hai trăm hai mươi triệu hai trăm bốn mươi nghìn đồng
+Thời gian nhận hàng: Ngày 16/03/2026
+ĐẠI DIỆN BÊN MUA
+Phó giám đốc
+[chữ ký]
+Đặng Nhơn Hòa
+Signature valid
+Được ký bởi: CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA
+Ngày ký: 15/03/2026
+
+===== doc_id: 5ba5e56ee934 | tệp: don-hang_2026-0046.pdf | số trang: 1 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số: 10-03/ĐĐH/HH | Độc lập - Tự do - Hạnh phúc
+Gia Lai, ngày 16/3/2026
+ĐƠN ĐẶT HÀNG
+Kính gửi: CHI NHÁNH ĐÀ NẴNG - CÔNG TY CỔ PHẦN HÓA DẦU QUÂN ĐỘI
+- Căn cứ hợp đồng mua bán: 002/2025/HĐMB/MIPECĐN –HIEPHOA giữa Chi nhánh Đà Nẵng - Công ty Cổ phần Hóa dầu Quân đội và Công ty Cổ phần thương mại - dịch vụ Hiệp Hòa ký ngày 26/07/2025
+- Căn cứ theo nhu cầu của đơn vị, đề nghị Quý Chi nhánh cung cấp lô hàng nhiên liệu sau:
+Người nhận hàng - phương tiện nhận hàng:
+SỐ TT | KHO HÀNG | TÊN HÀNG | SỐ LƯỢNG (LÍT) | Giá bán lẻ | Chiết khấu | Thành tiền | SỐ XE | NGƯỜI NHẬN HÀNG | SỐ CCCD
+1 | BSR | Dầu D.O 0,05S | 42.000 | 27.020 | 100 | 1.130.640.000 | 77C 10179 - 77R 01942 | Nguyễn Minh Thông | 052081003894
+2 | BSR | Dầu D.O 0,05S | 41.000 | 27.020 | 100 | 1.103.720.000 | 77C 17098-77R 02569 | Lâm Quốc Đạt | 052085006282
+3 | BSR | Xăng ron 95 | 24.000 | 25.570 | 100 | 611.280.000 | 77C 17127 | Nguyễn Thành Trung | 052084019756
+4 |  |  |  |  |  | - |  |  |
+5 |  |  |  |  |  | - |  |  |
+6 |  |  |  |  |  | - |  |  |
+7 |  |  |  |  |  | - |  |  |
+TỔNG CỘNG | 107.000 |  |  | 2.845.640.000 |  |  |  |
+Ghi chú: Số lượng hàng thực tế có thể tăng giảm 2% do phương thức cấp hàng từ nhà máy Lọc dầu Dung Quất, công nợ và hoá đơn tài chính do MIPEC cung cấp sẽ căn cứ vào số lượng hàng thực tế nhận
+Đơn giá trên đã bao gồm thuế VAT và thuế Bảo vệ Môi Trường.
+Hình thức thanh toán: Thanh toán trước khi nhận hàng.
+Nơi nhận hàng: Kho nhà máy lọc dầu Dung Quất
+Thời gian giao hàng : 16/3/2026
+Đề nghị Chi Nhánh Đà Nẵng-Công ty CP Hoá Dầu Quân Đội cho chúng tôi nhận hàng theo kế hoạch.
+Xin trân trọng cảm ơn!
+XÁC NHẬN NHÀ CUNG CẤP | CÔNG TY CP TM - DV HIỆP HÒA
+[chữ ký] | [dấu: CỘNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY 
+
+===== doc_id: f59a351ba852 | tệp: 72. HA THANH NHAN.pdf | số trang: 2 =====
+--- trang 1 ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+SOCIALIST REPUBLIC OF VIET NAM
+Independence - Freedom - Happiness
+CĂN CƯỚC CÔNG DÂN
+Citizen Identity Card
+Số / No.: 052095007592
+Họ và tên / Full name:
+HÀ THANH NHÀN
+Ngày sinh / Date of birth: 01/06/1995
+Giới tính / Sex: Nam Quốc tịch / Nationality: Việt Nam
+Quê quán / Place of origin:
+Mỹ Chánh, Phù Mỹ, Bình Định
+Nơi thường trú / Place of residence: Thôn Đông An
+Mỹ Chánh, Phù Mỹ, Bình Định
+Có giá trị đến: 01/06/2035
+Date of expiry
+--- trang 2 ---
+Đặc điểm nhân dạng / Personal identification:
+Seo thẳng 1cm C.3cm trên trước
+đuôi mày trái
+Ngày, tháng, năm / Date, month, year: 04/10/2022
+CỤC TRƯỞNG CỤC CẢNH SÁT
+QUẢN LÝ HÀNH CHÍNH VỀ TRẬT TỰ XÃ HỘI
+DIRECTOR GENERAL OF THE POLICE DEPARTMENT
+FOR ADMINISTRATIVE MANAGEMENT OF SOCIAL ORDER
+[dấu: BỘ CÔNG AN [?] QUẢN LÝ HÀNH CHÍNH [?]]
+[chữ ký]
+Ngón trỏ trái / Left index finger
+Ngón trỏ phải / Right index finger
+Nguyễn Quốc Hùng
+IDVNM0950075923052095007592<<0
+9506011M3506019VNM<<<<<<<<<<<0
+HA<<THANH<NHAN<<<<<<<<<<<<<<<
+
+===== doc_id: 2edba020eae5 | tệp: NQ-17-2022-QUYEN THANG-01.01.2022-31.12.2024.pdf | số trang: 10 =====
+--- trang 1 ---
+HỢP ĐỒNG
+NHƯỢNG QUYỀN BÁN LẺ XĂNG DẦU
+Số: 17/2022/NQBLXD
+GIỮA
+BÊN NHƯỢNG QUYỀN - THƯƠNG NHÂN PHÂN PHỐI
+CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA
+VÀ
+BÊN NHẬN NHƯỢNG QUYỀN
+CÔNG TY TNHH LÂM NGHIỆP QUYÊN THẮNG
+Ký ngày 15 tháng 11 năm 2021
+Hiệu lực từ ngày 01/01/2022 đến hết ngày 31/12/2024
+--- trang 2 ---
+[trang trắng]
+
+===== doc_id: cb4d4cd19136 | tệp: HDKT 51.2020-MINH HIEU-01.01-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 51/2020/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 01 năm 2020, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại: 056. 3821400 -0983 848 211 Fax: 056. 3648211
+Tài khoản : 4011100832007 tại Ngân hàng TMCP Quân đội- CN BìnhĐịnh
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế: 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 05 ngày 06 tháng 08 năm 2018.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY TNHH XÂY DỰNG TỔNG HỢP MINH HIẾU
+Địa chỉ: Lô D1, Cụm Công Nghiệp Phường Bình Định, TX An Nhơn, Tỉnh Bình Định
+Điện thoại :0256.3736528 Fax: 0256.3736528
+Tài Khoản : 58110000304947 tại Ngân hàng BIDV CN Phú Tài
+Mã số thuế : 4100443482
+Giấy chứng nhận đăng ký kinh doanh số: 4100443482 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 09/05/2002. Đăng ký thay đổi lần thứ 6 ngày 09/07/2019.
+Do Ông/ Bà : NGUYỄN MINH HIẾU - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+Điều I: Mặt hàng, số lượng, mục đích sử dụng, giá cả & chất l
+--- trang 2 (bị cắt bớt) ---
+Điều II : Điều kiện và thời gian giao hàng:
+2.1. Nơi giao hàng:
+- Bên A giao hàng cho bên B tại địa điểm công trình do bên B thông báo và thỏa thuận.
+- Trường hợp bên B có xe tự vận chuyển, hoặc nhận trực tiếp: thì được nhận tại kho do bên A thông báo.
+- Về việc giao hàng: Đường xe vận chuyển phải là đường được lưu hành theo quy định của luật giao thông.
+2.2. Thời gian giao hàng:
+- Khi cần giao hàng với số lượng lớn bên B sẽ phải có đơn đặt hàng hoặc thông báo cho bên A trước 01 ngày khi cần giao hàng.
+Điều III: Phương thức và thời gian thanh toán:
+- Thanh toán tiền mặt hoặc chuyển khoản theo quy định của pháp luật hiện hành
+- Thanh toán trước khi nhận hàng hoặc thoả thuận theo từng thời điểm.
+- Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trướckhi hợp đồng hết hiệu lực.
+Điều IV: Trách nhiệm của mỗi bên:
+4.1. Trách nhiệm của bên A:
+- Đảm bảo đủ số lượng và đúng chất lượng
+
+===== doc_id: 87c88bf6d0f1 | tệp: TLHD 11.20-SU DOAN 31.pdf | số trang: 5 =====
+--- trang 1 ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Bình Định, ngày tháng 11 năm 2020
+BIÊN BẢN NGHIỆM THU, BÀN GIAO HÀNG HÓA
+Căn cứ Hợp đồng cung cấp hàng hóa số 10/ HĐ-CCHH ngày tháng 11 năm 2020 giữa Sư đoàn 31 và Công ty cổ phần thương mại dịch vụ Hiệp Hòa.
+Hôm nay ngày tháng 11 năm 2020 tại Sư đoàn 31
+Địa chỉ: Phước Thành – Tuy Phước – Bình Định
+Chúng tôi gồm:
+Bên mời thầu (Sau đây gọi là bên A)
+Tên bên mời thầu: Sư đoàn 31, Quân đoàn 3
+Địa chỉ: Phước Thành - Tuy Phước - Bình định
+Điện thoại: 056.281.983
+Tài khoản: 3711.1.9021850.00000 tại kho bạc nhà nước Bình Định.
+Đại diện là Ông: Nguyễn Khang Yên - Cấp bậc: Đại tá.
+Chức vụ: Sư đoàn trưởng
+Nhà thầu (Sau đây gọi là bên B)
+Tên nhà thầu: công ty cổ phần thương mại dịch vụ Hiệp Hòa
+Địa chỉ: 112 Hai Bà Trưng- Phường Lê lợi - TP Qui Nhon - Bình Định
+Mã số thuế: 4100668616
+Tài khoản: 58010000422189 Ngân hàng đầu tư phát triển Bình Định.
+Đại diện là Bà: Dương Thị Thanh Lựu
+Chức vụ: Giám đốc công ty
+Điều 1. Bên B bàn giao cho bên A số lượng hàng hóa như sau.
+TT | Tên hàng hóa, vật tư, trang bị mua sắm | Xuất xứ, ký, mã, nhãn hiệu, thông số kỹ thuật, năm sản xuất | Số lượng | ĐVT | Đơn giá | Thành tiền
+1 | Xăng E5 RON 92 - II | Việt Nam | 5.600 | Lít | 14.150 | 79.240.000
+ | Tổng cộng | | | | | 79.240.000
+--- trang 2 ---
+Tổng giá trị hàng hóa bàn giao: 79.240.000
+Bằng chữ: Bảy mươi chín triệu,hai trăm bốn mươi nghìn đồng
+Điều 2. Kết luận
+- Bên A đã kiểm tra, thẩm định kỹ lưỡng chất lượng hàng hóa của bên B bàn giao. Chất lượng hàng hóa đúng nhãn hiệu, chủng loại theo hợp đồng đã ký kết.
+- Bên A phải thanh toán hết cho bên B ngay sau khi biên bản nghiệm thu ký kết.
+Biên bản nghiệm thu hàng hóa được lập thành 02 bản, mỗi bên giữ 01 bản có giá trị pháp lý như nhau./.
+ĐẠI DIỆN HỢP PHÁP CỦA NHÀ THẦU ĐẠI DIỆN HỢP PHÁP CỦA BÊN MỜI THẦU
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH M.S.D.N:4100668616-C.T.C.P] [dấu: BỘ TƯ LỆNH [?] KẾ TOÁN 31]
+GIÁM ĐỐC
+[chữ ký] [chữ ký]
+
+===== doc_id: 618d1a827dff | tệp: don-hang_2026-0004.pdf | số trang: 1 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số: 04-01/ĐĐH/HH | Độc lập - Tự do – Hạnh phúc
+Gia Lai, ngày 12/1/2026
+ĐƠN ĐẶT HÀNG
+Kính gửi: CHI NHÁNH ĐÀ NẴNG - CÔNG TY CỔ PHẦN HÓA DẦU QUÂN ĐỘI
+- Căn cứ hợp đồng mua bán: 002/2025/HĐMB/MIPECĐN –HIEPHOA giữa Chi nhánh Đà Nẵng - Công ty Cổ phần Hóa dầu Quân đội và Công ty Cổ phần thương mại - dịch vụ Hiệp Hòa ký ngày 26/07/2025
+- Căn cứ theo nhu cầu của đơn vị, đề nghị Quý Chi nhánh cung cấp lô hàng nhiên liệu sau:
+Người nhận hàng - phương tiện nhận hàng:
+SỐ TT | KHO HÀNG | TÊN HÀNG | SỐ LƯỢNG (LÍT) | Giá bán lẻ | Chiết khấu | Thành tiền | SỐ XE | NGƯỜI NHẬN HÀNG | SỐ CCCD
+1 | BSR | Xăng ron 95 | 22.000 | 18.560 | 1.250 | 380.820.000 | 77C 05300 | Phạm Xuân Bình | 052075014536
+2 | BSR | Dầu D.O 0,05S | 24.000 | 17.060 | 1.200 | 380.640.000 | 77C 17127 | Nguyễn Thành Trung | 052084019756
+3 | BSR | Dầu D.O 0,05S | 41.000 | 17.060 | 1.200 | 650.260.000 | 77C 17098-77R 02569 | Lâm Quốc Đạt | 052085006282
+4 | BSR | Dầu D.O 0,05S | 41.600 | 17.060 | 1.200 | 659.776.000 | 77C 08001 - 77R 02645 | Từ Minh Tiễn | 052084006964
+5 | BSR | Dầu D.O 0,05S | 40.000 | 17.060 | 1.200 | 634.400.000 | 77C 13583-77R 01926 | Nguyễn Hữu Huy | 052082007860
+6 | BSR | Dầu D.O 0,05S | 41.000 | 17.060 | 1.200 | 650.260.000 | 77C 13420 - 77R 01375 | Nguyễn Văn Trung | 052088007294
+TỔNG CỘNG | | | 209.600 | | | 3.356.156.000 | | |
+Ghi chú: Số lượng hàng thực tế có thể tăng giảm 2% do phương thức cấp hàng từ nhà máy Lọc dầu Dung Quất, công nợ và hoá đơn tài chính do MIPEC cung cấp sẽ căn cứ vào số lượng hàng thực tế nhận
+Đơn giá trên đã bao gồm thuế VAT và thuế Bảo vệ Môi Trường.
+Hình thức thanh toán: Thanh toán trước khi nhận hàng.
+Nơi nhận hàng: Kho nhà máy lọc dầu Dung Quất
+Thời gian giao hàng : 12/1/2026
+Đề nghị Ch
+
+===== doc_id: 10055b46ac7b | tệp: TLHD 2020-HOANG HOA PHUC.pdf | số trang: 1 =====
+--- trang 1 ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+-------o0o-------
+BIÊN BẢN THANH LÝ HỢP ĐỒNG
+- Căn cứ hợp đồng số:20-ĐLBL/2017 ký ngày 02 tháng 01 năm 2017 giữa Công Ty TNHH Nhân Đạt và Cty TNHH Hoàng Hoa Phúc;
+- Căn cứ điều kiện, khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 14 tháng 01 năm 2020 tại văn phòng Công Ty TNHH Nhân Đạt, chúng tôi gồm có:
+BÊN BÁN (BÊN A): CÔNG TY TNHH NHÂN ĐẠT
+Địa chỉ : thôn Tân Thành - xã Cam Thành Bắc - huyện Cam Lâm - tỉnh Khánh Hoà
+Điện thoại : 058.3859262 | Fax: 058.3859757
+Mã số thuế : 4200623390
+Đại diện : Ông Nguyễn Thế Hùng | Chức vụ: Giám Đốc
+BÊN B (BÊN ĐẠI LÝ): CÔNG TY TNHH HOÀNG HOA PHÚC
+Địa chỉ: : 213 Lê Thánh Tôn, Phường 4, TP Tuy Hoà, Tình Phú Yên
+Điện thoại : 0986953604
+Đại diện : Bà Ngô Thị Hồng Hoa | Chức vụ: Giám đốc
+Mã số thuế : 4400997259
+Đến hết ngày 14 tháng 01 năm 2020 Bên B không còn nợ Bên A nữa.
+Hai bên thống nhất ký thanh lý hợp đồng số: 20-ĐLBL/2017 ký ngày 02 tháng 01 năm 2017.
+Biên bản thanh lý hợp đồng này được thành lập 02 bản, mỗi bên giữ 01 bản và có giá trị như nhau.
+ĐẠI DIỆN BÊN A | ĐẠI DIỆN BÊN B
+[dấu: CÔNG TY TRÁCH NHIỆM HỮU HẠN NHÂN ĐẠT, M.S.D.N: 4200623390, [?] CAM LÂM [?] KHÁNH HÒA]
+[chữ ký] |
+
+===== doc_id: c5b5157a16a2 | tệp: 69. GCN VCHNH Trung (12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 (bị cắt bớt) ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+- - - - - oOo - - - - -
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Nguyễn Thành Trung
+Nam/ Nữ: Nam
+Ngày Sinh: 17/07/1984
+CMND/CCCD/hộ chiếu số: 211795927
+Nghề nghiệp: Tài xế
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP. QUY NHƠN T.BÌNH]
+Số: 27/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng hóa nguy hiểm: Xăng dầu cho Người điều khiển phương tiện do Công Ty Cổ Phần Thương Mại Dịch Vụ Hiệp Hòa tổ chức từ ngày: 06/05/2022 đến ngày 07/05/2022 và kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA TP. QUY NHƠN BÌNH ĐỊNH]
+[chữ ký]
+Dư
+
+===== doc_id: 910efc6c8e44 | tệp: HDVC 2022-QUAN DOI 3-18.8-31.12.pdf | số trang: 3 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 09/2022/HĐVC-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 18 tháng 08 năm 2022, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY XĂNG DẦU QUÂN ĐỘI KHU VỰC 3 (BÊN CHỦ HÀNG)
+Địa chỉ : 15 Hoàng Diệu, P. Vĩnh Nguyên, TP. Nha Trang, T. Khánh Hòa, VN
+Điện thoại : 0258.3883895 – 0258.3883889
+Email : khthkv3@gmail.com; congtyxdqdkv3@gmail.com
+Tài Khoản : 4701211000109 Tại Ngân Hàng Agribank TP. Nha Trang
+Mã số thuế : 0100108688-016
+Do Ông : ĐẬU HUY HÀ - Cấp bậc: Đại tá - Chức vụ: Giám đốc
+(Theo Giấy uỷ quyền số: 14/UQ-CT ngày 01/01/2022 do Tổng Giám đốc ký)
+[dấu: S.B.K.A.B:0100108[?], CÔ[?], XĂ[?], QU[?], KH[?], TP NHA TR[?]]
+II/ BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0905111101
+Tài khoản : 110000033767 tại Ngân hàng TMCP Công thương VN- CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+Mã số thuế : 4100668616
+Theo Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu số: 326-TNPP/QĐ-BCT ngày 29/07/2020 của Bộ Công thương.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+[dấu: M.S.D.N:41006[?], CỘ[?], CỔ[?], THƯƠ[?], DỊ[?], HIỆ[?], TP QUY NH[?]]
+ĐIỀU I: CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A thuê Bên B vận chuyển xăng dầu bằng phương tiện ôtô xitec.
+- Khối lượng hàng th
+--- trang 2 (bị cắt bớt) ---
+- Bên A thông báo cho bên B biết kế hoạch nhận hàng, vận chuyển trước 12h. Sau khi nhận xong, bên B vận chuyển đến giao hàng tại địa điểm theo sự hướng dẫn của bên A.
+ĐIỀU III: GIÁ VÀ PHƯƠNG THỨC THANH TOÁN
+- Giá cả do hai bên thỏa thuận theo từng thời điểm.
+- Phương thức tính theo lít vận chuyển:
++ Hàng vận chuyển cho các Đơn vị Quân Đội và các trạm xăng dầu trực thuộc của bên A: Hàng hoá giao nhận theo đơn vị tính lít 15⁰C tại kho Bên A, theo chỉ số đồng hồ lưu lượng kế và theo barem dung tích hợp lệ trên phương tiện của bên B (có niêm phong kẹp chì theo qui định).
++ Hàng hoá vận chuyển cho các đại lý kinh tế, khách hàng: Hàng hoá giao nhận theo lít thực tế, theo chỉ số đồng hồ lưu lượng kế và Barem dung tích hợp lệ trên phương tiện của bên B (có niêm phong kẹp chì theo qui định). Trong trường hợp khách hàng bên A yêu cầu giao nhận theo lít 15⁰C thì bên A sẽ thông báo cho bên B và bên 
+
+===== doc_id: 741b37405405 | tệp: 20260103-02.pdf | số trang: 1 =====
+--- trang 1 (bị cắt bớt) ---
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN - PETROVIETNAM - BSR - M.S.D.N: 4300378569 - TỈNH QUẢNG NGÃI]
+PHIẾU XUẤT KHO THÀNH PHẨM
+VHSX
+Ngày: 03/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2600238
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Lệnh xuất hàng: 28/LXHXB-DO-030126-13-0 (8000145400)
+Xuất tại bồn số: TK-5207C          Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: NGUYỄN TRUNG THÔNG
+Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Địa chỉ: 14 Nguyễn Tri Phương Phường Thanh Khê Thành phố Đà Nẵng.
+Đại diện bên nhận: LÊ ĐÌNH VÂN
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 188/UQ-HK
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77R-035.62          Đến kho lúc: 07 giờ 46 phút ngày 03 tháng 01 năm 2026
+Bắt đầu lúc: 08 giờ 26 phút ngày 03 tháng 01 năm 2026          Kết thúc lúc: 09 giờ 23 phút ngày 03 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng
+ | Bbls (thùng) | M3 (tại 15⁰C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 254,671 | 40,469 | 33,573 | 41,025
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm năm mươi bốn phẩy sáu trăm bảy mươi một thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI030 | 1,000227 | 0,999959 | 0,999933 | 0,999472 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15⁰C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (⁰C)
+DO-195-202512310401 | 01 | 0,986500 | 0,8307 | 5,10 | 31,0
+DO-195-202512310401 | 02 | 0,986300 | 0,8307 | 4,90 | 31,2
+DO-195-202512310401 | 03 | 0,986500 | 0,8307 | 5,10 | 31,0
+DO
+
+===== doc_id: 0567ee057de3 | tệp: 9. GPXD Ba Phú (BC).pdf | số trang: 2 =====
+--- trang 1 ---
+UBND TỈNH GIA LAI	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+SỞ XÂY DỰNG	Độc lập - Tự do - Hạnh phúc
+Số: 42 /SXD-GP	Pleiku, ngày 12 tháng 5 năm 2010
+GIẤY PHÉP XÂY DỰNG
+CÔNG TRÌNH: CỬA HÀNG XĂNG DẦU
+CÔNG TY TNHH MỘT THÀNH VIÊN BA PHÚ
+GIÁM ĐỐC SỞ XÂY DỰNG
+- Căn cứ Nghị định số 12/2009/NĐ-CP ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình; Nghị định số 83/2009/NĐ-CP ngày 15/10/2009 của Chính phủ về sửa đổi, bổ sung một số điều của Nghị định số 12/2009/NĐ-CP ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình;
+- Căn cứ Thông tư số 03/2009/TT-BXD ngày 26/3/2009 của Bộ Xây dựng quy định chi tiết một số nội dung của Nghị định số 12/2009/NĐ-CP ngày 12/02/2009 của Chính phủ về quản lý dự án đầu tư xây dựng công trình;
+- Trên cơ sở Hồ sơ thiết kế xin phép xây dựng do Công ty TNHH tư vấn xây dựng Việt Tiến lập và Hồ sơ xin cấp phép xây dựng của Công ty TNHH một thành viên Ba Phú;
+- Theo đề nghị của Phòng Quản lý kiến trúc, quy hoạch và đô thị Sở Xây dựng,
+[dấu]
+CẤP PHÉP XÂY DỰNG CÔNG TRÌNH
+I/ Tên công trình: Cửa hàng xăng dầu - Công ty TNHH một thành viên Ba Phú.
+- Địa điểm xây dựng: Bản Quyết Thắng - Nghĩa An, huyện K'Bang, tỉnh Gia Lai.
+- Chủ đầu tư: Công ty TNHH một thành viên Ba Phú.
+- Các hạng mục công trình: Mái che cột bơm - Nhà bán hàng; khu bể chôn ngầm; bể nước - bể cát.
+- Quy mô xây dựng:
++ Mái che cột bơm - Nhà bán hàng: Công trình cấp IV, 01 tầng; DTXD: 168 m²; cao độ đỉnh mái: + 5,9 m.
++ Khu bể chôn ngầm: 348 m³ (02 bể).
++ Bể nước - Bể cát: 3m³.
+Chỉ giới xây dựng được tính từ tim đường Tỉnh lộ 669 đến chân cột bơm là 22 m; Các hạng mục xin phép xây dựng nằm trong phạm vi đất ở sơ đồ thửa đất tại Giấy chứng nhận Quyền sử dụng đất số AB 952761 ngày 19/5/2005 của UBND huyện K'Bang.
+--- trang 2 (bị cắt bớt) ---
+II/ Khi tiến hành thi công chủ đầu tư phải thực hiện các quy định sau:
+1/ Hồ sơ thiết kế: Chủ đầu tư, đơn vị tư vấn (Tư vấn thiết kế và Tư vấn thẩm tra) tự chịu trách nhiệm về chất lượng hồ sơ thiết kế, chất lượng công trình trong quá trình thi công;
+2/ Việc thi công phải do đơn vị có tư cách pháp nhân thực hiện, trước khi thi công phải báo cho Phòng Công thương huyện K'Bang đến để định vị công trình. Đơn vị thi công phải tuân thủ các yêu cầu về an toàn lao động, vệ sinh môi trường, đảm bảo các quy định khác trong quá trình thi công;
+3/ Định vị công trình theo đúng vị trí trên tổng mặt bằng của hồ sơ thiết kế đã được duyệt hoặc đã được thẩm tra và tuân thủ theo trích lục đất. Thi công theo đúng hồ sơ thiết kế được duyệt hoặc thẩm tra;
+4/ Chủ đầu tư, đơn vị thi công phải chịu trách nhiệm do việc thi công công trình gây ảnh hưởng đến chất lượng các công trình lân cận;
+5/ Xuất trình giấy ph
+
+===== doc_id: 81c6e933b541 | tệp: DDK-BÌNH CHÁNH.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+[dấu]
+Ký bởi: SỞ CÔNG THƯƠNG
+Cơ quan: ỦY BAN NHÂN DÂN TỈNH QUẢNG NGÃI
+Thời gian ký: 03/04/2023 11:12:46
+UBND TỈNH QUẢNG NGÃI CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+SỞ CÔNGTHƯƠNG Độc lập - Tự do - Hạnh phúc
+Số: 697/GCNĐĐK-SCT Quảng Ngãi, ngày 03 tháng 4 năm 2023
+GIẤY CHỨNG NHẬN
+CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ DẦU
+Cấp lại lần thứ năm: Ngày 03 tháng 4 năm 2023
+GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI
+Căn cứ Quyết định số 19/2022/QĐ-UBND ngày 20/5/2022 của UBND tỉnh Quảng Ngãi về việc ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Quảng Ngãi;
+Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu;
+Căn cứ Nghị định số 95/2021/NĐ-CP ngày 01 tháng 11 năm 2021 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 về kinh doanh xăng dầu;
+Xét hồ sơ đề nghị cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu của Công ty TNHH Một thành viên Thịnh Vượng Bình Chánh;
+Theo đề nghị của Phòng Quản lý thương mại,
+QUYẾT ĐỊNH:
+Điều 1. Cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ dầu
+1.Tên cửa hàng bán lẻ dầu: Tàu Ngọc Toàn, BSĐK: QNg-0353.
+Địa chỉ: Khu vực sông Trà Bồng, xã Bình Đông, huyện Bình Sơn, tỉnh Quảng Ngãi.
+Điện thoại: 0913051151 Số Fax:
+Thuộc sở hữu doanh nghiệp: Công ty TNHH Một thành viên Thịnh Vượng Bình Chánh.
+Tên giao dịch đối ngoại: Công ty TNHH Một thành viên Thịnh Vượng Bình Chánh.
+Địa chỉ trụ sở chính: Xã Bình Chánh, huyện Bình Sơn, tỉnh Quảng Ngãi.
+Số điện thoại: 0913051151 Số Fax:
+Giấy chứng nhận đăng ký doanh nghiệp số: 4300717356 do Phòng đăng ký kinh doanh – Sở Kế hoạch và Đầu tư Quảng Ngãi cấp lần đầu ngày 05/7/2013.
+Mã số thuế: : 4300717356.
+Đủ điều kiện bán lẻ dầu.
+2. Thương nhân cung cấp dầu
+Tên thương nhân: Công ty cổ phần 
+--- trang 2 (bị cắt bớt) ---
+NHỮNG ĐIỀU QUY ĐỊNH
+Trong quá trình kinh doanh xăng dầu, thương nhân phải tuân thủ các quy định sau đây:
+1. Niêm yết công khai tại cửa hàng bán lẻ xăng dầu:
+- Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu;
+- Giấy chứng nhận kiểm định phương tiện, thiết bị đo lường;
+- Nội quy về an toàn phòng cháy chữa cháy do cấp có thẩm quyền ban hành.
+- Giá bán các loại xăng dầu và bán đúng giá niêm yết.
+2. Thường xuyên bảo đảm các điều kiện quy định tại Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 của Chính phủ về kinh doanh xăng dầu và Nghị định số 95/2021/NĐ-CP ngày 01/11/2021 của Chính phủ về việc sửa đổi, bổ sung một số điều của Nghị định số 83/2014/NĐ-CP ngày 03 tháng 9 năm 2014 về kinh doanh xăng dầu.
+3. Bảo quản, sử dụng phương tiện đo lường theo đúng quy trình kỹ thuật quy định và chịu trách nhiệm về tính nguyên vẹn của niêm phong.
+4. Nghiêm cấm sử dụng phương tiện đo lường chưa
+
+===== doc_id: 03baaeec961e | tệp: Quy che dan tem Thue - 2016-11-01.pdf | số trang: 9 =====
+--- trang 1 ---
+ỦY BAN NHÂN DÂN
+TỈNH BÌNH ĐỊNH
+Số: 3785/QĐ-UBND
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Bình Định, ngày 26 tháng 10 năm 2016
+QUYẾT ĐỊNH
+Ban hành Quy chế hoạt động của Ban Chỉ đạo dán tem và tổ chức dán tem niêm phong đồng hồ đếm tổng cột đo xăng dầu
+CHỦ TỊCH UỶ BAN NHÂN DÂN TỈNH
+Căn cứ Luật Tổ chức chính quyền địa phương ngày 19/6/2015;
+Căn cứ Chỉ thị số 22/2016/CT-UBND ngày 11/10/2016 của Chủ tịch UBND tỉnh về việc tăng cường các biện pháp quản lý thu thuế trong lĩnh vực kinh doanh xăng dầu trên địa bàn tỉnh;
+Căn cứ Quyết định số 3675/QĐ-UBND ngày 18/10/2016 của UBND tỉnh về việc thành lập Ban chỉ đạo triển khai dán tem niêm phong đồng hồ đếm tổng các cột đo xăng dầu trên địa bàn tỉnh;
+Xét đề nghị của Trưởng Ban chỉ đạo theo Quyết định số 3675/QĐ-UBND ngày 18/10/2016 của UBND tỉnh,
+QUYẾT ĐỊNH:
+Điều 1. Ban hành kèm theo Quyết định này Quy chế hoạt động của Ban Chỉ đạo dán tem và tổ chức dán tem niêm phong đồng hồ đếm tổng cột đo xăng dầu.
+Điều 2. Giao Cục trưởng Cục Thuế tỉnh (Trưởng Ban chỉ đạo theo Quyết định số 3675/QĐ-UBND ngày 18/10/2016 của UBND tỉnh) tổ chức triển khai thực hiện có hiệu quả Quyết định này.
+Điều 3. Chánh Văn phòng UBND tỉnh, Giám đốc Sở Công Thương, Giám đốc Sở Khoa học và Công nghệ, Cục trưởng Cục Thuế tỉnh, Chủ tịch UBND các huyện, thị xã, thành phố và Thủ trưởng các đơn vị, cá nhân có liên quan chịu trách nhiệm thi hành Quyết định này kể từ ngày ký./.
+Nơi nhận:
+- Như Điều 3;
+- CT, PCT UBND tỉnh;
+- Thành viên BCĐ theo QĐ 3675;
+- UBND các Huyện,TX, TP;
+- Chi cục TCĐLCL, Chi cục QLTT;
+- CVP, các PCVP UBND tỉnh;
+- Chi cục Thuế các Huyện, TX, TP;
+- Lưu VT, K6, K7, K20.
+KT. CHỦ TỊCH
+PHÓ CHỦ TỊCH
+[dấu: ỦY BAN NHÂN DÂN ... TỈNH ... BÌNH ...]
+[chữ ký]
+Phan Cao Thắng
+--- trang 2 (bị cắt bớt) ---
+ỦY BAN NHÂN DÂN
+TỈNH BÌNH ĐỊNH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+QUY CHẾ HOẠT ĐỘNG CỦA BAN CHỈ ĐẠO DÁN TEM VÀ TỔ CHỨC DÁN TEM NIÊM PHONG CỘT ĐO XĂNG DẦU
+(Ban hành kèm theo Quyết định số 3785/QĐ-UBND ngày 26/10/2016 của UBND tỉnh)
+Chương I
+NHỮNG QUY ĐỊNH CHUNG
+Điều 1. Phạm vi điều chỉnh
+Quy chế này xác định chức năng, nhiệm vụ của Ban Chỉ đạo dán tem niêm phong đồng hồ đếm tổng trên cột đo xăng dầu (gọi tắt là Ban chỉ đạo); trình tự dán tem niêm phong đồng hồ đếm tổng trên cột đo xăng dầu tại các doanh nghiệp kinh doanh xăng dầu trên địa bàn tỉnh.
+Điều 2. Đối tượng áp dụng
+1. Cục Thuế tỉnh, Sở Công Thương, Sở Khoa học và Công nghệ, Chi cục Quản lý thị trường, Chi cục Tiêu chuẩn đo lường chất lượng, Chi cục Thuế các huyện, thị xã, thành phố, cán bộ, công chức được phân công thực hiện nhiệm vụ dán tem niêm phong và các tổ chức, cá nhân khác có liên quan.
+2. Các 
+
+===== doc_id: 99d705b12444 | tệp: GĐKKD HOA PHÚC.pdf | số trang: 2 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+TỈNH PHÚ YÊN
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+[dấu: BẢN SAO]
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+DOANH NGHIỆP TƯ NHÂN
+Mã số doanh nghiệp: 4400443451
+Đăng ký lần đầu: ngày 28 tháng 10 năm 2008
+Đăng ký thay đổi lần thứ 1: ngày 11 tháng 11 năm 2013
+1. Tên doanh nghiệp
+Tên doanh nghiệp viết bằng tiếng Việt: DOANH NGHIỆP TN VẬN TẢI THƯƠNG MẠI HOA PHÚC
+Tên doanh nghiệp viết bằng tiếng nước ngoài:
+Tên doanh nghiệp viết tắt:
+2. Địa chỉ trụ sở chính
+Số 213 Lê Thánh Tôn, Phường 3, TP Tuy Hoà, Tỉnh Phú Yên, Việt Nam
+Điện thoại: 0573826426 Fax:
+Email: Website:
+3. Ngành, nghề kinh doanh
+STT | Tên ngành | Mã ngành
+1 | Bán buôn nhiên liệu rắn, lỏng, khí và các sản phẩm liên quan
+Chi tiết ngành nghề kinh doanh là: Mua bán xăng dầu và các sản phẩm có liên quan. | 4661 (Chính)
+2 | Vận tải hàng hóa bằng đường bộ
+*Lưu ý: Doanh nghiệp chỉ được hoạt động kinh doanh các ngành nghề đăng ký nêu trên khi thực hiện đầy đủ các điều kiện theo quy định pháp luật và phù hợp với quy hoạch phát triển kinh tế xã hội của địa phương. | 4933
+4. Vốn đầu tư 1.900.000.000 đồng
+Bằng chữ: Một tỷ chín trăm triệu đồng
+5. Vốn pháp định
+--- trang 2 (bị cắt bớt) ---
+6. Chủ doanh nghiệp
+Họ và tên: NGÔ THỊ HỒNG HOA Giới tính: Nữ
+Sinh ngày: 21/01/1967 Dân tộc: Kinh Quốc tịch: Việt Nam
+Loại giấy chứng thực cá nhân: Giấy chứng minh nhân dân
+Số: 220619193
+Ngày cấp: 06/08/2007 Nơi cấp: Công an tỉnh Phú Yên.
+Nơi đăng ký hộ khẩu thường trú:
+Số 42 Lê Lợi, Phường 3, TP Tuy Hoà, Tỉnh Phú Yên, Việt Nam
+Chỗ ở hiện tại:
+Số 42 Lê Lợi, Phường 3, TP Tuy Hoà, Tỉnh Phú Yên, Việt Nam
+7. Thông tin về chi nhánh
+8. Thông tin về văn phòng đại diện
+9. Thông tin về địa điểm kinh doanh
+1. Tên địa điểm kinh doanh: CỬA HÀNG XĂNG DẦU ĐÔNG TÁC - DOANH NGHIỆP TƯ NHÂN VẬN TẢI THƯƠNG MẠI HOA PHÚC
+Địa chỉ địa điểm kinh doanh: Khu phố 6, Phường Phú Đông, TP Tuy Hoà, Tỉnh Phú Yên, Việt Nam
+Mã số địa điểm kinh doanh: 00001
+TRƯỞNG PHÒNG
+PHÓ TRƯỞNG PHÒNG
+[dấu: SỞ KẾ HOẠCH VÀ ĐẦU TƯ PHÒNG ĐĂNG KÝ KINH DOANH TỈNH PHÚ YÊN]
+[chữ ký]
+CHỨNG THỰC BẢN SAO NÀY DÙNG VỚI BẢN CHÍNH
+Số: [?] Quyển số: 0
+
+===== doc_id: 57374da27cae | tệp: HDVC 2020-TOAN THINH-01.01-31.12.pdf | số trang: 4 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 07/2020/HĐVC-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 01 năm 2020, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY TNHH MTV KINH DOANH XĂNG DẦU TOÀN THỊNH    (BÊN CHỦ HÀNG)
+Địa chỉ : Tổ Dân phố 1, Thị trấn Châu Ô, Huyện Bình Sơn, Tỉnh Quảng Ngãi
+Điện thoại : 0916893174- 0979341156
+Tài Khoản : 6531100007484 tại Ngân hàng TMCP Quân Đội- PGD Bình Sơn
+57310005288889 tại Ngân hàng BIDV- PGD Bình Sơn, Quảng Ngãi
+Mã số thuế : 4300756926
+Giấy chứng nhận đăng ký kinh doanh số: 4300756926 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Quảng Ngãi cấp đăng ký lần đầu ngày 17/04/2015. Đăng ký thay đổi lần thứ 2 ngày 06/06/2016.
+Do Ông/ Bà : LÊ QUÝ TOÀN    - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA    (BÊN VẬN CHUYỂN)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 056. 3821400 -0983 848 211    Fax: 056. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 05 ngày 06 tháng 08 năm 2018.
+Do Bà : DƯƠNG THỊ THANH LỰU    - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC KH
+--- trang 2 (bị cắt bớt) ---
+ĐIỀU III: GIÁ VÀ PHƯƠNG THỨC THANH TOÁN
+- Giá cả do hai bên thỏa thuận theo từng thời điểm.
+- Phương thức tính theo lít vận chuyển.
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên A.
+- Bảo đảm hàng còn niê
+
+===== doc_id: 228e06f4536e | tệp: don-hang_2605-0043.pdf | số trang: 1 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Điện thoại: 0256 3848211 | Mã số thuế: 4100668616
+Địa chỉ: Số 112 Hai Bà Trưng, phường Quy Nhơn, tinh Gia Lai
+ĐƠN ĐẶT HÀNG
+Ngày đặt hàng: 15/05/2026 | Số hợp đồng: 5605/PETEC.PTCBĐ-TMHH/07-25/B
+Số đơn hàng: 3 | Ngày hợp đồng: 29/07/2025
+Kính gửi: Chi nhánh Tổng Công ty Thương mại Kỹ thuật & Đầu tư (PETEC) - CTCP tại Bình Định
+Địa chỉ: 104 Chương Dương, phường Quy Nhơn Nam, tinh Gia Lai
+Điện thoại: 0256 3816168 | Fax: 0256 3820268 | Mã số thuế: 0300649476 012
+Công ty cổ phần Thương Mại Dịch Vụ Hiệp Hòa đăng ký mua hàng của Chi nhánh PETEC Bình Định với nội dung như sau:
+1. Kho nhận hàng, mặt hàng, số lượng, đơn giá thanh toán:
+Kho nhận hàng | Mặt hàng | Phần đặt hàng: Số lượng (lít tt) | Phần đặt hàng: Đơn giá (đồng) | Phần xác nhận Chi nhánh PETEC Bình Định: Số lượng (lít tt) | Phần xác nhận Chi nhánh PETEC Bình Định: Đơn giá (đồng) | Trị giá thanh toán (đồng)
+Vũng Rô | RON95-III |  |  |  |  |
+ | E10 RON95-III |  |  |  |  |
+ | E5 RON92-II |  |  |  |  |
+ | DO 0,05S-II | 6.000 | 26.820,00 | 6.000 | 26.820,00 | 160.920.000
+ | DO 0,001S-V |  |  |  |  |
+Tổng cộng |  | 6.000 |  | 6.000 |  | 160.920.000
+2. Các điều kiện khác:
++ Phương thức thanh toán: [✓] Trả trước | [ ] Trả chậm | Ngày tín chấp: [ô trống] | Ngày bảo lãnh: [ô trống]
++ Phương thức nhận hàng: [ ] Nhận hàng ngay | [✓] Hàng gửi
++ Hình thức đảm bảo giá: [ ] Có đảm bảo giá | [✓] Không có đảm bảo giá
++ Địa bàn tiêu thụ:
++ Địa điểm nhận hàng: Vũng Rô | + Thời gian nhận hàng: ……………………
++ Phương tiện nhận hàng: [✓] Xe bồn | [ ] Xà lan, tàu
+3. Người nhận hóa đơn, người nhận hàng, xe nhận hàng và cơ cấu hầm hàng :
++ Người nhận hóa đơn: | + CMND : ……………………
++ Giấy giới thiệu số: ……………………
++ Người nhận hàng và xe nhận hàng:
+Đvt : m³/tấn ( t° tt )
+STT | HỌ VÀ TÊN | SỐ CMND | SỐ XE | S
+
+===== doc_id: 477e767342cf | tệp: 35. GCN VCHNH Bac (BC-12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+----- oOo -----
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Nguyễn Thành Bắc
+Nam/ Nữ: Nam
+Ngày Sinh: 29/07/1998
+CMND/CCCD/hộ chiếu số:
+215447362
+Nghề nghiệp: Thủ kho
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+Số: 12/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng
+hóa nguy hiểm: Xăng dầu cho Thủ kho do
+Công Ty Cổ Phần Thương Mại Dịch Vụ Hiệp
+Hòa tổ chức từ ngày: 06/05/2022 đến ngày
+07/05/2022 và kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+[chữ ký]
+Dương Thị Thanh Lựu
+
+===== doc_id: 074b1ddb4dc3 | tệp: TOÀN THỊNH (TVC) (31-12-2024).pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số: 04/2024/HĐTVC-HH | Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 21 tháng 11 năm 2023, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN CHỦ HÀNG)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định.
+Điện thoại : 0256. 3821400 - 0983 848 211 Fax: 0256. 3648211
+Tài Khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định.
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 06 ngày 20 tháng 10 năm 2020.
+Do Ông/ Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+II/ BÊN B: : CÔNG TY TNHH MTV KINH DOANH XĂNG DẦU TOÀN THỊNH (BÊN VẬN CHUYỂN)
+Địa chỉ : Tổ Dân phố 1, Thị trấn Châu Ổ, Huyện Bình Sơn, Tỉnh Quảng Ngãi
+Điện thoại : 0916893174- 0979341156
+Tài khoản : 6531100007484 tại Ngân hàng TMCP Quân Đội- PGD Bình Sơn
+57310005288889 tại Ngân hàng BIDV- PGD Bình Sơn, Quảng Ngãi
+Mã số thuế : 4300756926
+Giấy chứng nhận đăng ký kinh doanh số: 4300756926 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Quảng Ngãi cấp đăng ký lần đầu ngày 17/04/2015. Đăng ký thay đổi lần thứ 2 ngày 06/06/2016.
+Do Ông/Bà : LÊ QUÝ TOÀN - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC K
+--- trang 2 (bị cắt bớt) ---
+ĐIỀU III: GIÁ VÀ PHƯƠNG THỨC THANH TOÁN
+- Giá cả do hai bên thỏa thuận theo từng thời điểm.
+- Phương thức tính theo lít vận chuyển.
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên A.
+- Bảo đảm hàng còn niê
+
+===== doc_id: 10bea683d0fd | tệp: 66. GCN VCHNH- Hoàng.pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 (bị cắt bớt) ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+- - - - - oOo - - - - -
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Phạm Ngọc Hoàng
+Nam/ Nữ: Nam
+Ngày Sinh: 15/06/1975
+CMND/CCCD/hộ chiếu số: 21[?]702740
+Nghề nghiệp: Tài xế
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA - M.S.D.N: 41... - TP.QUY NHƠN T.BÌNH ĐỊNH]
+Số: 24/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng hóa nguy hiểm: Xăng dầu cho Người điều khiển phương tiện do Công Ty Cổ Phần Thương Mại Dịch Vụ Hiệp Hoà tổ chức từ ngày: 06/05/2022 đến ngày 07/05/2022 và kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[chữ ký]
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA - M.
+
+===== doc_id: f8048de5a956 | tệp: bbgn-260221-4.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – Tp. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+Vạn Đức, ngày 21 tháng 2 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: HTX Nông Nghiệp Ân Tín
+Địa chỉ: Vạn Đức - Gia Lai
+Điện thoại: | Fax:
+Nơi giao hàng: CH bán lẻ xăng dầu Ân Tín
+Phương tiện giao hàng: 77C-053-00
+Người nhận: | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | Xăng RON 95-III | Lít | 7.000, | (bảy nghìn)
+2 | | | |
+ | | | |
+TỔNG | | | |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển(giao hàng) | Người nhận hàng
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký]
+
+===== doc_id: 9d62b9e6e2f2 | tệp: DDK-HÒA TÂM GL 4.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+UBND TỈNH GIA LAI
+SỞ CÔNG THƯƠNG
+Số:        /GCN-SCT
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Gia Lai, ngày    tháng 12 năm 2020
+GIẤY CHỨNG NHẬN
+CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU
+Cấp lần thứ nhất: ngày 22/12/2015.
+Cấp bổ sung, sửa đổi lần thứ nhất ngày .../.../...
+Cấp lại lần thứ hai ngày /12/2020
+GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI
+Căn cứ Quyết định số 36/2015/QĐ-UBND ngày 04/12/2015 của UBND tỉnh Gia Lai, quy định chức năng, nhiệm vụ, quyền hạn, cơ cấu tổ chức của Sở Công Thương tỉnh Gia Lai
+Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu;
+Xét hồ sơ đề nghị cấp/cấp bổ sung, sửa đổi/cấp lại Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu của Công ty TNHH Xăng dầu Hòa Tâm Gia Lai.
+Theo đề nghị của phòng Quản lý Thương mại,
+QUYẾT ĐỊNH:
+Điều 1. Cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu
+1. Tên cửa hàng bán lẻ xăng dầu: Cửa hàng Xăng dầu Hòa Tâm
+Địa chỉ: Thôn Phú Yên, xã Hà Ra, huyện Mang Yang, tỉnh Gia Lai.
+Điện thoại: 0909603008 ; Fax:
+Thuộc sở hữu doanh nghiệp: Công ty TNHH Xăng dầu Hòa Tâm Gia Lai
+Tên giao dịch đối ngoại:
+Địa chỉ trụ sở chính: Thôn 1, xã Nghĩa An, huyện Kbang, tỉnh Gia Lai.
+Số điện thoại: 0909603008 , số Fax:
+Giấy chứng nhận đăng ký doanh nghiệp số: 5901023724, do phòng Đăng ký kinh doanh – Sở Kế hoạch và Đầu tư tỉnh Gia Lai cấp thay đổi lần thứ nhất, ngày: 10/9/2019
+Mã số thuế: 5901023724
+Đủ điều kiện bán lẻ xăng dầu.
+2. Thương nhân cung cấp xăng dầu:
+Tên thương nhân: Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa
+Địa chỉ trụ sở chính: 112 Hai Bà Trưng, phường Lê Lợi, Tp Quy Nhơn, tỉnh Bình Định
+Số điện thoại: 02563848211 - 0909630008 ; Số Fax: 02563848211
+Giấy chứng nhận đăng ký doanh nghiệp số: 4100668616, do phòng Đăng ký kinh doanh, Sở Kế hoạch và Đầu tư tỉnh Bình Đ
+--- trang 2 (bị cắt bớt) ---
+NHỮNG ĐIỀU QUY ĐỊNH
+Trong quá trình kinh doanh xăng dầu, thương nhân phải tuân thủ các quy định sau đây:
+1. Niêm yết công khai tại cửa hàng bán lẻ xăng dầu:
+- Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu;
+- Giấy chứng nhận kiểm định phương tiện, thiết bị đo lường;
+- Nội quy về an toàn phòng cháy chữa cháy do cấp có thẩm quyền ban hành.
+2. Thường xuyên bảo đảm các điều kiện quy định tại Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu.
+3. Bảo quản, sử dụng phương tiện đo lường theo đúng quy trình kỹ thuật quy định và chịu trách nhiệm về tính nguyên vẹn của niêm phong.
+4. Nghiêm cấm sử dụng phương tiện đo lường chưa qua kiểm định hoặc hết thời hạn sử dụng. Khi phát hiện phương tiện đo lường bị hư hỏng phải ngừng ngay việc sử dụng và báo cơ quan quản lý về tiêu chuẩn đo lường chất lượng sửa chữa và kiểm định lại.
+5. Nếu có sự thay đổi tình trạng pháp l
+
+===== doc_id: 8cf960f4632e | tệp: DDK-HOANG MINH-15.12.24.pdf | số trang: 2 =====
+--- trang 1 ---
+UBND TỈNH BÌNH ĐỊNH          CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+SỞ CÔNG THƯƠNG          Độc lập - Tự do - Hạnh phúc
+Số 86 /GCN[?]XD-SCT          Bình Định, ngày 16 tháng 12 năm 2019
+GIẤY CHỨNG NHẬN
+CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU
+Cấp lần thứ nhất: ngày 22 tháng 12 năm 2017
+Cấp lần thứ hai: ngày 16 tháng 12 năm 2019
+GIÁM ĐỐC SỞ CÔNG THƯƠNG
+Căn cứ Quyết định số 3501/QĐ-UBND ngày 08/10/2015 của UBND tỉnh Bình Định về việc ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Bình Định;
+Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu; Thông tư số 38/2014/TT-BCT ngày 26/10/2014 của Bộ Công Thương quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu;
+Xét hồ sơ đề nghị cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu của Doanh nghiệp tư nhân xăng dầu Hoàng Minh;
+Theo đề nghị của Trưởng phòng Phòng Quản lý Thương mại,
+QUYẾT ĐỊNH:
+Điều 1. Cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu
+1. Tên cửa hàng bán lẻ xăng dầu: CỬA HÀNG XĂNG DẦU HOÀNG MINH
+Địa chỉ kinh doanh: ĐT.639, thôn Xuân Bình, xã Mỹ An, huyện Phù Mỹ, tỉnh Bình Định
+Điện thoại số: 0384.936.623
+Thuộc sở hữu của Doanh nghiệp tư nhân xăng dầu Hoàng Minh.
+Địa chỉ trụ sở chính: Thôn Xuân Bình, xã Mỹ An, huyện Phù Mỹ, tỉnh Bình Định
+Điện thoại số: 0384.936.623
+Giấy chứng nhận đăng ký doanh nghiệp số 4100479746 do Sở Kế hoạch và Đầu tư Bình Định cấp lần đầu ngày 02 tháng 01 năm 2004
+Mã số thuế: 4100479746
+Đủ điều kiện bán lẻ xăng dầu.
+2. Thương nhân cung cấp xăng dầu
+Tên thương nhân: Công ty cổ phần thương mại - dịch vụ Hiệp Hòa
+Địa chỉ trụ sở chính: số 112 Hai Bà Trưng, phường Lê Lợi, thành phố Quy Nhơn, tỉnh Bình Định
+Số điện thoại: 02563.821.400
+--- trang 2 ---
+Giấy chứng nhận đăng ký doanh nghiệp số 4100668616 do Sở Kế hoạch và Đầu tư Bình Định cấp lần đầu ngày 17 tháng 12 năm 2007
+Mã số thuế: 4100668616
+Điều 2. Doanh nghiệp tư nhân xăng dầu Hoàng Minh phải thực hiện đúng các quy định tại Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu và các quy định khác của pháp luật có liên quan.
+Điều 3. Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu này có giá trị đến hết ngày 15 tháng 12 năm 2024./. [chữ ký]
+Nơi nhận:
+- DNTN xăng dầu Hoàng Minh;
+- Cty CP TMDV Hiệp Hòa;
+- Bộ Công Thương;
+- Cục QLTT tỉnh;
+- UBND H. Phù Mỹ;
+- Lưu VT, QLTM (07b)
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+[dấu: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM; SỞ CÔNG THƯƠNG; [?]]
+[chữ ký]
+Trần Ánh Tuyết
+
+===== doc_id: 91e3dcb5fa4e | tệp: 38. GCN VC HNH Nguyen (BC-12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 (bị cắt bớt) ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+----- oOo -----
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Lưu Thái Nguyên
+Nam/ Nữ: Nam
+Ngày Sinh: 18/02/1986
+CMND/CCCD/hộ chiếu số:
+211086321
+Nghề nghiệp: Thuyền trưởng
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+Số: 14/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng
+hóa nguy hiểm: Xăng dầu cho Người điều
+khiển phương tiện do Công Ty Cổ Phần
+Thương Mại Dịch Vụ Hiệp Hòa tổ chức từ
+ngày: 06/05/2022 đến ngày 07/05/2022 và
+kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+[chữ ký]
+D
+
+===== doc_id: 5ac8cfb0d9c7 | tệp: 20260114-05.pdf | số trang: 1 =====
+--- trang 1 (bị cắt bớt) ---
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN M.S.D.N: 4300378569 PETROVIETNAM BSR BÌNH SƠN TỈNH QUẢNG NGÃI]
+PHIẾU XUẤT KHO THÀNH PHẨM
+VHSX
+Ngày: 14/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2601884
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng
+12 năm 2025 giữa BSR và Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Lệnh xuất hàng: 328/LXHXB-DO-140126-130-0 (8000146957)
+Xuất tại bồn số: TK-5207A    Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: NGUYỄN VĂN LUÂN
+Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Địa chỉ:  14 Nguyễn Tri Phương Phường Thanh Khê Thành phố Đà Nẵng.
+Đại diện bên nhận: LÊ ĐÌNH VÂN
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 188/UQ-HK
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77C-095.67(77R-049.13)    Đến kho lúc: 21 giờ 47 phút ngày 14 tháng 01 năm 2026
+Bắt đầu lúc: 22 giờ 11 phút ngày 14 tháng 01 năm 2026    Kết thúc lúc: 23 giờ 13 phút ngày 14 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng
+ | Bbls (thùng) | M3 (tại 15⁰C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 256,194 | 40,711 | 33,444 | 41,276
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm năm mươi sáu phẩy một trăm chín mươi bốn thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI070 | 0,998917 | 0,999056 | 0,999779 | 1,001906 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15⁰C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (⁰C)
+DO-011-202601110873 | 01 | 0,986300 | 0,8226 | 5,40 | 31,1
+DO-011-202601110873 | 02 | 0,986400 | 0,8226 | 5,30 | 31,0
+DO-011-202601110873 | 03 | 0,986200 | 0,8226 | 5,50 | 31,2
+DO-011
+
+===== doc_id: d941b496cb0b | tệp: HDKT 2018-HOANG HAI-01.10-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CTCP TM-DV HIỆP HÒA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số: 233/2018/HĐKT-HH | Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+- Căn cứ Luật dân sự số 91/2015/QH13 được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XIII , kỳ họp thứ 10 thông qua ngày 24/11/2015, có hiệu lực ngày 01/01/2017.
+- Căn cứ Luật Thương mại số 36/2005-QH11 được Quốc hội nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam khóa XI, kỳ họp thứ 7 thông qua ngày 14/06/2005, có hiệu lực từ ngày 01/01/2006
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 10 năm 2018, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy  Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy  Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3848211 -0983 848 211    Fax: 0256. 3648211
+Tài khoản : 110000033767 tại Ngân hàng TMCP Công Thương VN - CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Quy Nhơn, Bình Định
+4309211360115 tại ngân hàng NN & PTNT- KCN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ tư ngày 07 tháng 12 năm 2015.
+Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu Số 39/QĐ-BCT do Bộ Công Thương cấp lần thứ nhất ngày 29/07/2015
+Do Bà : DƯƠNG THỊ THANH LỰU    - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY TNHH ĐẦU TƯ TM VÀ DV DU LỊCH HOÀNG HẢI
+Địa chỉ : 34 A Điện Biên Phủ, Phường Nhơn Bình, TP Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 4101461967
+Tài Khoản : ........................................................
+Mã số thuế : 4101461967
+D
+--- trang 2 (bị cắt bớt) ---
+2.1. Nơi giao hàng:
+- Bên A giao hàng cho bên B tại địa điểm do bên B chỉ định.
+- Trường hợp bên B có xe tự vận chuyển, hoặc nhận trực tiếp: thì được nhận tại kho do bên A thông báo.
+- Về việc giao hàng: Đường xe vận chuyển phải là đường được lưu hành theo quy định của luật giao thông.
+2.2. Phương tiện và số lượng giao nhận:
+- Trường hợp bên A vận chuyển: Theo barem phương tiện vận chuyển Bên A
+- Trường hợp do bên B nhận hàng tại kho bên A: Theo lưu lượng kế tại kho xuất hàng của bên A
+2.3. Thời gian giao hàng:
+Khi cần giao hàng với số lượng lớn bên B sẽ phải có đơn đặt hàng hoặc thông báo cho bên A trước 01 ngày khi cần giao hàng.
+2.4. Phát hành hóa đơn:
+Để tránh tình trạng thất lạc hóa đơn, bên A phát hành hóa đơn và gửi bản photo/fax liên 2 giao cho Tài xế đi đường, bản chính sẽ được gửi trực tiếp cho người có trách nhiệm của bên B hoặc gửi chuyển phát nhanh qua đường bưu điện cho bên
+
+===== doc_id: dfc6b34476ae | tệp: HDKT 04.2020-ACE QUI NHON-01.01-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 04/2020/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+(HỘ CÔNG NGHIỆP)
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 01 năm 2020, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0983 848 211 Fax: 0256. 3648211
+Tài khoản : 110000033767 tại Ngân Hàng TMCP Công thương VN- CN Bình Định
+4301201005598 tại Ngân hàng NN & PTNT-CN Quy Nhơn, Bình Định
+4011100832007 tại Ngân hàng TMCP Quân đội- CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại NH TMCP Ngoại thương VN- CN Quy Nhơn, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 05 ngày 06 tháng 08 năm 2018.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY CỔ PHẦN NĂNG LƯỢNG ACE QUI NHƠN
+Địa chỉ : Lô AI-1-AI-2 KCN Long Mỹ, xã Phước Mỹ, Tp. Quy Nhơn, tỉnh Bình Định
+Điện thoại :
+Tài Khoản : ..............................................................................
+Mã số thuế : 4101394830
+Giấy chứng nhận đăng ký kinh doanh số: 4101394830 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 28/12/2012. Đăng ký thay đổi lần thứ 9. ngày 25/10/2019.
+Do Ông : NGUYỄN TRẦN VŨ - Chức vụ: Giám đốc
+Hai bên 
+--- trang 2 (bị cắt bớt) ---
+- Giá thanh toán được hiểu là giá Bên B thanh toán cho Bên A (Đã bao gồm thuế Giá trị gia tăng theo quy định của nhà nước) và được thể hiện trên hóa đơn bán hàng của Bên A.
+1.5. Chất lượng hàng hoá:
+Theo tiêu chuẩn quy định hiện hành của nhà nước đối với xăng dầu.
+Điều II : Điều kiện và thời gian giao hàng:
+2.1. Nơi giao hàng:
+- Bên A giao hàng cho bên B tại địa điểm do bên B thông báo và thoả thuận.
+- Trường hợp bên B có xe tự vận chuyển, hoặc nhận trực tiếp: thì được nhận tại kho do bên A thông báo.
+- Về việc giao hàng: Đường xe vận chuyển phải là đường được lưu hành theo quy định của luật giao thông.
+2.2. Thời gian giao hàng:
+- Khi cần giao hàng với số lượng lớn bên B sẽ phải có đơn đặt hàng hoặc thông báo cho bên A trước 01 ngày khi cần giao hàng.
+Điều III: Phương thức và thời gian thanh toán:
+- Thanh toán tiền mặt hoặc chuyển khoản theo quy định của pháp luật hiện hành
+- Thanh toán 
+
+===== doc_id: 596b4f4c5bda | tệp: T1+2+3.pdf | số trang: 10 =====
+--- trang 1 ---
+Mẫu 2. BBLM-BGM-KTNP
+15/2015/TT-BKHCN
+Cty CP TM-DV Hiệp Hòa | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CH số 05 Cù Mông | Độc lập - Tự do - Hạnh phúc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA M.S.D.N:4100668616-C.T.C.P TP.QUY NHƠN T.BÌNH ĐỊNH]
+Quy Nhơn, ngày 23 tháng 02 năm 2023
+BIÊN BẢN LẤY MẪU, BÀN GIAO MẪU
+VÀ KIỂM TRA NIÊM PHONG
+Số: ...........
+1. Tên, loại xăng dầu: ........ DO 0,05S
+2. Tên thương nhân xuất hàng: Cty CP TM.DV Hiệp Hòa
+3. Số lượng xăng dầu nhập: ........ 8.000 lít
+4. Tên doanh nghiệp vận chuyển: Cty CP TM.DV Hiệp Hòa
+5. Loại phương tiện vận chuyển, biển kiểm soát: 77C-0.001 - 77R - 02645
+6. Số niêm phong trên phương tiện vận chuyển (ghi toàn bộ số niêm trên phương tiện vận chuyển): ........ 0070517 → 0070540
+7. Số mẫu của Bên giao xăng dầu được chuyển theo phương tiện vận chuyển: 01 đơn vị mẫu. Số niêm phong trên bình mẫu (chai mẫu): ........ 0070541
+8. Số mẫu lấy trước khi nhập hàng: 01 mẫu (không chia thành đơn vị mẫu). Số niêm phong bình mẫu (chai mẫu):
+........ 2219930
+Sau khi kiểm tra, hai bên thống nhất xác nhận các niêm phong trên phương tiện vận chuyển, bình mẫu (chai mẫu) do Bên giao xăng dầu gửi và bình mẫu (chai mẫu) lấy từ phương tiện vận chuyển trước khi nhập hàng còn nguyên vẹn, đủ niêm phong và các số niêm phong trùng với các số niêm phong được nêu trong Biên bản lấy mẫu, niêm phong, bàn giao mẫu và cam kết chất lượng số: .... ngày 23 tháng 02 năm 2023.. của Cty CP TM.DV Hiệp Hòa.
+Mẫu lưu tại CH số 05 Cù Mông là mẫu đại diện trong trường hợp xảy ra tranh chấp về chất lượng.
+Biên bản này được lập thành 02 bản, mỗi bên giữ một bản và có giá trị pháp lý như nhau.
+Đại diện Bên vận chuyển | Đại diện Bên nhận xăng dầu
+(Họ tên, chữ ký) | (Họ tên, chữ ký, đóng dấu)
+[chữ ký] | [chữ ký]
+[?] Minh-Cường | Thúy Trang
+--- trang 2 (bị cắt bớt) ---
+Mẫu 2. BBLM-BGM-KTNP
+15/2015/TT-BKHCN
+Cty CP TM.DV Hiệp Hòa | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CH số 05 Cù Mông | Độc lập - Tự do - Hạnh phúc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA M.S.D.N:4100668616-C.T.C.P TP.QUY NHƠN T.BÌNH ĐỊNH]
+Quy Nhơn, ngày 17 tháng 02 năm 2023
+BIÊN BẢN LẤY MẪU, BÀN GIAO MẪU
+VÀ KIỂM TRA NIÊM PHONG
+Số: ...........
+1. Tên, loại xăng dầu: ........ DO 0,05S
+2. Tên thương nhân xuất hàng: Cty CP TM.DV Hiệp Hòa
+3. Số lượng xăng dầu nhập: ........ 12.000 lít
+4. Tên doanh nghiệp vận chuyển: Cty CP TM.DV Hiệp Hòa
+5. Loại phương tiện vận chuyển, biển kiểm soát: 77C-10179 - 77R - 01942
+6. Số niêm phong trên phương tiện vận chuyển (ghi toàn bộ số niêm trên phương tiện vận chuyển): ........ 0053691 - 0053700
+7. Số mẫu của Bên giao xăng dầu được chuyển theo phương tiện vận chuyển: 01 đơn vị mẫu. Số niêm phong trên bình mẫu (chai mẫu):
+........ 0053591
+8. Số mẫu lấy 
+
+===== doc_id: a40578e63517 | tệp: 2b. BHVC 01942 (27-8-23).pdf | số trang: 2 =====
+--- trang 1 ---
+Số GCNBH: BB21/ 0246987
+Chủ xe: Công ty cổ phần TM Dv Hiệp Hòa
+Địa chỉ: 112 Hai Bà Trưng, Tp Quy Nhơn
+Điện thoại:
+Biển kiểm soát: 77R-01192 Tháng/năm sản xuất: 2016
+Số khung: C8C910[?] Số máy: 0
+Hãng sản xuất: CNHTC Hiệu xe: Rơ moóc
+Trọng tải: Số chỗ ngồi: 1
+Mục đích sử dụng xe: Kinh doanh [X] Không kinh doanh [ ]
+A. PHẠM VI BẢO HIỂM
+1. Bảo hiểm trách nhiệm dân sự (TNDS) tự nguyện (tăng thêm ngoài mức TNDS bắt buộc): [gạch chéo]
+Mức trách nhiệm bảo hiểm:
+- Về người: đồng/người/vụ
+- Về tài sản: đồng/vụ
+- Tổng hạn mức trách nhiệm: đồng/vụ
+Phí bảo hiểm (chưa VAT): đồng
+2. Bảo hiểm TNDS của chủ xe đối với hàng hóa trên xe:
+Trọng tải: 29,6 tấn
+Mức trách nhiệm bảo hiểm: 15.000.000 đồng/tấn
+Phí bảo hiểm (chưa VAT): 2.664.000 đồng
+3. Bảo hiểm tai nạn lái, phụ xe và người ngồi trên xe: [gạch chéo]
+Số người: người
+Mức trách nhiệm bảo hiểm: đồng/người/vụ
+Phí bảo hiểm: đồng
+4. Bảo hiểm vật chất xe
+Giá trị xe khai báo: 300.000.000 đồng
+Số tiền bảo hiểm: 300.000.000 đồng
+Mức miễn thường có khấu trừ: 500.000 đồng/vụ
+Điều khoản bổ sung: BS01; BS02
+Phí bảo hiểm (chưa VAT): đồng
+B. TỔNG PHÍ BẢO HIỂM
+Phí bảo hiểm (chưa VAT): đồng
+VAT: 3.000.000[?] đồng
+Tổng phí bảo hiểm thanh toán: 5.664.000 đồng
+Thời hạn thanh toán phí:
+C. THỜI HẠN BẢO HIỂM
+Từ 07 giờ 00, ngày 27 tháng 08 năm 2022
+Đến 07 giờ 00, ngày 27 tháng 08 năm 2023
+Cấp [?]: 7 giờ 00, ngày 16 tháng 8 năm 2022
+NGƯỜI MUA BẢO HIỂM
+(Ký, ghi rõ họ tên)
+TỔNG CÔNG TY CP BẢO HIỂM HÀNG KHÔNG
+(Đại diện bên cấp ký, ghi rõ họ tên, đóng dấu của nơi cấp)
+[dấu: TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG - CÔNG TY BẢO HIỂM HÀNG KHÔNG BÌNH ĐỊNH]
+GIÁM ĐỐC
+[chữ ký]
+NGƯỜI CẤP GCNBH
+(Ký, ghi rõ họ tên)
+Giấy CNBH này [?]
+[?] cấp trước ngày:
+--- trang 2 (bị cắt bớt) ---
+HAI BÊN ĐỒNG Ý VÀ HIỂU RẰNG
+1. Giấy chứng nhận bảo hiểm (GCNBH) này được cấp theo yêu cầu và thông tin do Chủ xe/Người mua bảo hiểm cung cấp; áp dụng theo các điều khoản quy định tại Quy tắc bảo hiểm kết hợp xe cơ giới hiện hành của Tổng Công ty Cổ phần Bảo hiểm Hàng không (VNI).
+2. Mọi dấu hiệu tẩy xóa, sửa chữa các thông tin trên GCNBH này đều không hợp lệ.
+3. GCNBH này chỉ có hiệu lực và trách nhiệm bảo hiểm chỉ phát sinh khi Người mua bảo hiểm đã thanh toán phí bảo hiểm cho VNI tại thời điểm cấp GCNBH hoặc theo thỏa thuận về việc thanh toán phí giữa VNI và người mua bảo hiểm.
+4. Quy tắc bảo hiểm được đăng tải tại website: bhhk.com.vn.
+5. Khi xảy ra tai nạn:
+- Chủ xe/lái xe cần áp dụng mọi biện pháp để cứu chữa người và tài sản bị thiệt hại.
+- Chủ xe/lái xe cần báo ngay cho cảnh sát giao thông hoặc cơ quan chức năng và đại diện của VNI để giải quyết.
+- Không được tự ý di dời xe bị tai
+
+===== doc_id: ddb1f96a7c61 | tệp: HDVC 2022-ANH PHAT PETRO-20.5-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 06/2022/HĐVC-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 20 tháng 05 năm 2022, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN ANH PHÁT PETRO- CHI NHÁNH ĐÀ NẴNG
+(BÊN CHỦ HÀNG)
+Địa chỉ : Tòa 3 Tòa nhà Cường Thịnh, Số 278 đường 2/9, Phường Hòa Cường Bắc, Quận Hải Châu, TP Đà Nẵng, VN
+Điện thoại : 0236 220 0202
+Tài Khoản : 2007111167777 tại NH Agribank- CN Ông Ích Khiêm, Nam Đà Nẵng
+Mã số thuế : 2802493498-002
+Theo Giấy phép kinh doanh xuất khẩu, nhập khẩu xăng số: 37/GPXD-BCT ngày 24/10/2019 của Bộ Công thương
+Do Ông : TRƯƠNG THÀNH BẮC - Chức vụ: Giám đốc
+(Giấy ủy quyền số: 03/GUQ-AP PETRO ngày 11 tháng 01 năm 2022 của Giám đốc Công ty Cổ Phần Anh Phát Petro)
+[dấu: [?]-002-C.T.C.P, [?]TY, [?]ẦN, [?]T PETRO, [?]HÁNH, [?]ẴNG, [?]Ố ĐÀ NẴNG]
+II/ BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA
+(BÊN VẬN CHUYỂN)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0905111101
+Tài khoản : 110000033767 tại Ngân hàng TMCP Công thương VN- CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+Mã số thuế : 4100668616
+Theo Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu số: 326-TNPP/QĐ-BCT ngày 29/07/2020 của Bộ Công thương.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A thuê Bên B vận chuyển xăn
+--- trang 2 (bị cắt bớt) ---
+- Giá cả do hai bên thỏa thuận theo từng thời điểm.
+- Phương thức tính theo lít vận chuyển.
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III.
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên nhận.
+- Bảo đảm hàng còn niêm nguyên vẹn từ lúc nhận đến lúc giao.
+-
+
+===== doc_id: 67788b715358 | tệp: HDMBCD-04.2020-PHUC VINH- 01.02.2020.pdf | số trang: 6 =====
+--- trang 1 (bị cắt bớt) ---
+CTCP TM-DV HIỆP HÒA
+Số: 04/2020/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MƯỢN BỒN CHỨA DẦU
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 02 năm 2020, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 056. 3821400 -0983 848 211    Fax: 056. 3648211
+Tài khoản : 102010000623801 tại Ngân hàng Vietinbank - CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ tư ngày 07 tháng 12 năm 2015.
+Do Bà : DƯƠNG THỊ THANH LỰU    - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI PHÚC VINH
+Địa chỉ : 38 Tây Sơn, Phường Nguyễn Văn Cừ, TP Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0914124181
+Tài Khoản : 4011101019008 tại Ngân hàng TMCP Quân đội- CN Bình Định
+Mã số thuế : 4101454180
+Giấy chứng nhận đăng ký kinh doanh số: 4101454180 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 16/12/2015. Đăng ký thay đổi lần thứ 5 ngày 10/07/2019.
+Do Ông/ Bà : LÊ HOÀI LINH    - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+Điều I: Bên A đồng ý cho bên B mượn 01 bồn chứa dầu dung 
+--- trang 2 (bị cắt bớt) ---
+5.1. Hai bên cam kết thực hiện đầy đủ các điều khoản được ghi trong hợp đồng, trong quá trình thực hiện nếu có phát sinh vướng mắc, tranh chấp 2 bên sẽ chủ động thông báo cho nhau giải quyết trên cơ sở đảm bảo lợi ích của nhau và được bổ sung bằng phụ lục hợp đồng. Mọi sự thay đổi đơn phương đều không có giá trị thực hiện. Nếu không giải quyết bằng thương lượng thì một trong hai bên có quyền khởi kiện đến tòa án nhân dân cấp có thẩm quyền. Quyết định của toà án là quyết định cuối cùng hai bên phải chấp hành thực hiện và án phí do bên thua kiện chịu.
+5.2. Hợp đồng này có hiệu lực từ ngày ký
+5.3. Hợp đồng được lập thành 02 bản, mỗi bên giữ 01 bản có giá trị pháp lý như nhau.
+ĐẠI DIỆN BÊN A    ĐẠI DIỆN BÊN B
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA, TP.QUY NHƠN T.BÌNH ĐỊNH, M.S.D.N:4100668616]
+[dấu: GIÁM ĐỐC]
+[chữ ký]
+[dấu: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI PHÚC VINH, TỈNH BÌ
+
+===== doc_id: 297c0d94ec78 | tệp: PCCC CH5-22.pdf | số trang: 53 =====
+--- trang 1 ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+SỔ THEO DÕI
+PHƯƠNG TIỆN PHÒNG CHÁY VÀ CHỮA CHÁY
+Tên cơ sở: Cửa hàng xăng dầu số 05.
+Địa chỉ: Tổ 5, Khu Vực 8, Phường Bùi Thị Xuân, Tp Quy Nhơn, Tỉnh Bình Định.
+Điện thoại: 0989 050 935
+Lập sổ, ngày 07 tháng 01 năm 2022.
+Người lập sổ: Bùi Thụy Thùy Trang.
+Người phụ trách công tác PCCC của cơ sở: Nguyễn Huỳnh Đông.
+--- trang 2 ---
+[trang trắng]
+
+===== doc_id: 2a14bd33fd68 | tệp: Thẩm duyệt PCCC GH3_4.pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG AN TỈNH NAM ĐỊNH	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+PHÒNG CẢNH SÁT PCCC&CNCH	Độc lập – Tự do – Hạnh phúc
+Số: 111 /TD-PCCC
+GIẤY CHỨNG NHẬN
+THẨM DUYỆT THIẾT KẾ VỀ PHÒNG CHÁY VÀ CHỮA CHÁY
+Căn cứ Nghị định số 136/2020/NĐ-CP ngày 24 tháng 11 năm 2020 của Chính phủ quy định chi tiết một số điều và biện pháp thi hành Luật Phòng cháy và chữa cháy và Luật sửa đổi, bổ sung một số điều của Luật Phòng cháy và chữa cháy;
+Xét hồ sơ và văn bản đề nghị thẩm duyệt thiết kế về phòng cháy và chữa cháy số 01/TD, ngày 17/06/2021 của công ty cổ phần thương mại dịch vụ Hiệp Hòa.
+Người đại diện theo pháp luật là bà: Dương Thị Thanh Lựu, chức vụ: Giám đốc.
+PHÒNG CẢNH SÁT PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU NẠN, CỨU HỘ
+CHỨNG NHẬN:
+Phương tiện: Tàu chở dầu/ PNS-504.
+Địa điểm đóng tàu: Xã Nghĩa Hải, huyện Nghĩa Hưng, tỉnh Nam Định.
+Chủ đầu tư/ Chủ phương tiện: Công ty cổ phần thương mại dịch vụ Hiệp Hòa.
+Đơn vị tư vấn thiết kế: Công ty TNHH kỹ thuật và thương mại Phương Nam; Công ty TNHH Sao Vàng Đại Việt.
+Đã được thẩm duyệt thiết kế về phòng cháy và chữa cháy các nội dung sau: Giải pháp kết cấu của tàu; Các giải pháp ngăn cháy chống cháy lan; Hệ thống thông gió của tàu; Hệ thống chữa cháy và làm mát bằng nước; Hệ thống chữa cháy tự động bằng khí CO2; Phương tiện chữa cháy ban đầu; Hệ thống chống sét.
+Quy mô công trình và danh mục các tài liệu, bản vẽ được thẩm duyệt thiết kế về phòng cháy và chữa cháy ghi tại trang 2./.
+Nơi nhận:
+- Chủ đầu tư;
+- Lưu: HSTD.	Nam Định, ngày 29 tháng 7 năm 2021
+TRƯỞNG PHÒNG
+[dấu: CÔNG AN TỈNH NAM ĐỊNH - PHÒNG CẢNH SÁT PCCC VÀ CỨU NẠN, CỨU HỘ]
+[chữ ký]
+Thượng tá Vũ Quyết Chiến
+--- trang 2 (bị cắt bớt) ---
+2
+QUY MÔ CÔNG TRÌNH VÀ DANH MỤC TÀI LIỆU, BẢN VẼ
+ĐƯỢC THẨM DUYỆT THIẾT KẾ VỀ PHÒNG CHÁY VÀ CHỮA CHÁY
+(Kèm theo Giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy số	/TD-PCCC ngày	/	/2021 của Phòng Cảnh sát PCCC và CNCH, Công an tỉnh Nam Định)
+TT	NỘI DUNG	GHI CHÚ
+I	QUY MÔ CÔNG TRÌNH
+	Tàu chở dầu/ PNS-504 đã được thẩm định thiết kế phương tiện thuỷ nội địa theo Giấy chứng nhận số 02131/21TS, ngày 20/5/2021 của Cục Đăng kiểm Việt Nam.
+II	DANH MỤC TÀI LIỆU, BẢN VẼ
+1.	Văn bản số 01/TD, ngày 17/06/2021 về việc đề nghị thẩm duyệt thiết kế về PCCC của Chủ phương tiện.	Công ty cổ phần thương mại dịch vụ Hiệp Hòa
+2.	Hồ sơ thiết kế kỹ thuật thi công
+-	Bản vẽ bố trí chung – Bố trí thiết bị	- Công ty TNHH kỹ thuật và thương mại Phương Nam
+-	Bản vẽ bố trí lái	- Công ty TNHH Sao Vàng Đại Việt
+-	Bản vẽ kết cấu cơ bản
+-	Bản vẽ sơ đồ hệ ống hút khô
+-	Bản vẽ kết cấu bệ máy
+-	Bản vẽ sơ đồ ống đo
+
+===== doc_id: a8d26371c344 | tệp: GPKD-NGỌC CHÂU.pdf | số trang: 4 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+TỈNH BÌNH ĐỊNH
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+53
+[BẢN SAO]
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY TRÁCH NHIỆM HỮU HẠN HAI THÀNH VIÊN TRỞ LÊN
+Mã số doanh nghiệp: 4100408054
+Đăng ký lần đầu: ngày 28 tháng 03 năm 2001
+Đăng ký thay đổi lần thứ: 9, ngày 03 tháng 07 năm 2015
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TRÁCH NHIỆM HỮU HẠN NGỌC CHÂU
+Tên công ty viết bằng tiếng nước ngoài: NGOC CHAU COMPANY LIMITED
+Tên công ty viết tắt: NGOC CHAU CO., LTD.
+2. Địa chỉ trụ sở chính
+Thôn Đức Phổ 1, Xã Cát Minh, Huyện Phù Cát, Tỉnh Bình Định, Việt Nam
+Điện thoại: 056.3854 118 - 0905 854 118 | Fax:
+Email: | Website:
+3. Vốn điều lệ 16.100.000.000 đồng
+Bằng chữ: Mười sáu tỷ một trăm triệu đồng
+4. Danh sách thành viên góp vốn
+STT | Tên thành viên | Nơi đăng ký hộ khẩu thường trú đối với cá nhân; địa chỉ trụ sở chính đối với tổ chức | Giá trị phần vốn góp (VNĐ; và giá trị tương đương theo đơn vị tiền nước ngoài, nếu có) | Tỷ lệ (%) | Số CMND (hoặc chứng thực cá nhân hợp pháp khác) đối với cá nhân; MSDN đối với doanh nghiệp; Số Quyết định thành lập đối với tổ chức | Ghi chú
+1 | NGUYỄN NGỌC CHÂU | Tổ 25, khu vực 5, Phường Đống Đa, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam | 10.500.000.000 | 65,22 | 210006718 |
+2 | TRẦN THỊ GIỌNG | Thôn Đức Phổ 1, Xã Cát Minh, Huyện Phù Cát, Tỉnh Bình Định, Việt Nam | 1.200.000.000 | 7,45 | 210904756 |
+3 | NGUYỄN TẤT TÙNG | Thôn Đức Phổ 1 , Xã Cát Minh, Huyện Phù Cát, Tỉnh Bình Định, Việt Nam | 3.000.000.000 | 18,63 | 211886555 |
+[dấu]
+--- trang 2 ---
+[trang xoay]
+4 | NGUYỄN TƯỜNG VI | Thôn Đức Phổ 1, Xã Cát Minh, Huyện Phù Cát, Tỉnh Bình Định, Việt Nam | 1.400.000.000 | 8,70 | 211803822 |
+5. Người đại diện theo pháp luật của công ty
+* Họ và tên: NGUYỄN NGỌC CHÂU | Giới tính: Nam
+Chức danh: Giám đốc
+Sinh ngày: 23/12/1957 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 210006718
+Ngày cấp: 17/07/2001 | Nơi cấp: Công an tỉnh Bình Định.
+Nơi đăng ký hộ khẩu thường trú: Tổ 25, khu vực 5, Phường Đống Đa, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam
+Chỗ ở hiện tại: Thôn Đức Phổ 1, Xã Cát Minh, Huyện Phù Cát, Tỉnh Bình Định, Việt Nam
+TRƯỞNG PHÒNG
+[dấu: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM - PHÒNG ĐĂNG KÝ KINH DOANH - SỞ KẾ HOẠCH VÀ ĐẦU TƯ TỈNH BÌNH ĐỊNH]
+[chữ ký]
+[không đọc được phần còn lại]
+
+===== doc_id: 973e134940c3 | tệp: XD MAX.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV XĂNG DẦU MAX CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số: 23/2023/MAX-HIEPHOA Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu;
+- Căn cứ Thông tư số 38/2014/TT-BCT ngày 24/10/2014 của Bộ Công Thương quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP;
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 17 tháng 03 năm 2023, tại văn phòng Công ty CP TM DV Xăng Dầu Max, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN TMDV XĂNG DẦU MAX
+Địa chỉ : Số 04.66, Tầng 4. Khối Đế, Tòa nhà Rivergate Residence 151-155 Bến Vân Đồn, Phường 6, Quận 4, Tp.HCM
+Điện thoại : 028 3535 8639
+Tài Khoản : 060268589999 NH: Sacombank - PGD Đại Nam - CN Tân Định
+88.81.81.68.68 NH: MB Bank - CN Tân Định
+Mã số thuế : 0316809862
+Giấy chứng nhận đăng ký kinh doanh số: 0316809862 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư TP Hồ Chí Minh cấp đăng ký lần đầu ngày: 15/04/2021. Đăng ký thay đổi lần thứ 2 ngày 13/01/2022.
+Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu số 554-TNPP/QĐ-BCT do Bộ Công Thương cấp ngày 18/01/2023.
+Do Ông : LƯU VĂN NÚI - Chức vụ: Phó Giám Đốc
+(Theo giấy ủy quyền số : 01/UQ-2023/MAX của Tổng Giám Đốc Công Ty Cổ Phần TMDV Xăng Dầu MAX ký ngày 01 tháng 02 năm 2023).
+II/ BÊN B: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0983 848 211 Fax: 0256. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+[
+--- trang 2 (bị cắt bớt) ---
+- Giá thanh toán được hiểu là giá Bên B thanh toán cho Bên A (Đã bao gồm thuế Giá trị gia tăng theo quy định của nhà nước) và được thể hiện trên hóa đơn bán hàng của Bên A.
+1.4. Chất lượng hàng hoá:
+Theo tiêu chuẩn quy định hiện hành của nhà nước đối với xăng dầu.
+Điều II : Điều kiện và thời gian giao hàng:
+2.1. Nơi giao hàng:
+- Bên A giao hàng cho bên B tại địa điểm do bên B thông báo và thỏa thuận.
+- Trường hợp bên B có xe tự vận chuyển, hoặc nhận trực tiếp: thì được nhận tại kho do bên A thông báo.
+- Về việc giao hàng: Đường xe vận chuyển phải là đường được lưu hành theo quy định của luật giao thông.
+2.2. Thời gian giao hàng:
+- Khi cần giao hàng với số lượng lớn bên B sẽ phải có đơn đặt hàng hoặc thông báo cho bên A trước 01 ngày khi cần giao hàng.
+Điều III: Phương thức và thời gian thanh toán:
+- Thanh toán tiền mặt hoặc chuyển khoản theo quy định của pháp luật hiện hành
+- Thanh toán 
+
+===== doc_id: b8b72c553653 | tệp: GIAY UY QUYEN PETROLIMEX.pdf | số trang: 2 =====
+--- trang 1 ---
+TẬP ĐOÀN XĂNG DẦU VIỆT NAM | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CÔNG TY TNHH MỘT THÀNH VIÊN | Độc lập - Tự do - Hạnh phúc
+PETROLIMEX GIA LAI
+Số: 789A/PLXGL-GUQ Gia Lai, ngày 01 tháng 10 năm 2025
+GIẤY UỶ QUYỀN
+Căn cứ Bộ luật Dân sự ngày 24 tháng 11 năm 2015;
+Căn cứ Luật Doanh nghiệp ngày 17 tháng 6 năm 2020;
+Căn cứ Quyết định số 1038/PLX-QĐ-HĐQT ngày 25 tháng 9 năm 2025 của Hội đồng quản trị Tập đoàn Xăng dầu Việt Nam về việc ban hành điều lệ tổ chức và hoạt động của Công ty TNHH MTV Petrolimex Gia Lai.
+[dấu]
+Chúng tôi gồm có:
+I. BÊN ỦY QUYỀN
+- Ông: BÙI NGHĨA THẢO.
+- Chức vụ: Giám đốc Công ty TNHH MTV Petrolimex Gia Lai.
+- Số CCCD: 052077016622 do Cục Cảnh sát QLHC về TTXH cấp ngày 28/6/2021.
+- Địa chỉ cơ quan: 85 Trần Hưng đạo, phường Quy Nhơn, tỉnh Gia Lai.
+II. BÊN ĐƯỢC ỦY QUYỀN
+- Ông: NGUYỄN VĂN THẮNG.
+- Chức vụ: Phó giám đốc Công ty TNHH MTV Petrolimex Gia Lai
+- Số CCCD: 040068046002 do Cục CS QLHC về TTXH cấp ngày 27/12/2021.
+- Địa chỉ cơ quan: 85 Trần Hưng đạo, phường Quy Nhơn, tỉnh Gia Lai
+III. NỘI DUNG UỶ QUYỀN
+Bằng giấy uỷ quyền này, Giám đốc Công ty đồng ý để Ông Nguyễn Văn Thắng được thay mặt Giám đốc Công ty thực hiện các công việc sau:
+- Ký các văn bản điều hành hàng ngày về công tác Kinh doanh Xăng dầu sáng trong toàn Công ty;
+- Ký Quyết định giá bán nội bộ đối với Chi nhánh Petrolimex Pleiku theo từng thời điểm, trên cơ sở Tập đoàn quy định "Giá bán nội bộ áp dụng cho phương thức bán lẻ và các phương thức khác";
+- Ký ban hành quyết định giá bán lẻ, giá bán cho phương thức khác; Phê duyệt định mức công nợ bán hàng (xăng dầu); Ký hợp đồng mua bán Xăng dầu; Ký thanh lý hợp đồng mua bán Xăng dầu và biên bản đối chiếu công nợ;
+--- trang 2 ---
+- Sử dụng con dấu Công ty trong phạm vi ủy quyền nêu trên.
+Ông Nguyễn Văn Thắng tổ chức thực hiện các công việc, nhiệm vụ được ủy quyền theo đúng quy định của pháp luật, chịu trách nhiệm trước Giám đốc Công ty, trước pháp luật về việc thực hiện công việc được ủy quyền.
+IV. THỜI HẠN UỶ QUYỀN
+Giấy uỷ quyền có hiệu lực kể từ ngày 01/10/2025 đến hết ngày 31/12/2025.
+NGƯỜI ĐƯỢC ỦY QUYỀN | NGƯỜI ỦY QUYỀN
+[chữ ký] | [dấu: CÔNG TY TNHH MTV PETROLIMEX GIA LAI, P.QUY NHƠN T.GIA LAI, M.S.D.N:4100259....] [chữ ký]
+NGUYỄN VĂN THẮNG | BÙI NGHĨA THẢO
+Nơi nhận:
+- Chủ tịch Công ty (thay b/c)
+- Ban Giám đốc Cty;
+- CN Petrolimex Pleiku;
+- Các phòng nghiệp vụ Cty;
+- Lưu: VT, P.KD.
+Trang: 2/2
+
+===== doc_id: c18fdc67df00 | tệp: GPKD-QUỐC TOÀN.pdf | số trang: 1 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+TỈNH BÌNH ĐỊNH
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+DOANH NGHIỆP TƯ NHÂN
+Mã số doanh nghiệp: 4100267283
+Đăng ký lần đầu: ngày 26 tháng 10 năm 1995
+Đăng ký thay đổi lần thứ: 5, ngày 24 tháng 12 năm 2018
+1. Tên doanh nghiệp
+Tên doanh nghiệp viết bằng tiếng Việt: DOANH NGHIỆP TƯ NHÂN QUỐC TOÀN
+Tên doanh nghiệp viết bằng tiếng nước ngoài:
+Tên doanh nghiệp viết tắt:
+2. Địa chỉ trụ sở chính
+Số 27 đường Hàm Tử, Phường Hải Cảng, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam
+Điện thoại: 0256. 3893 069 - 0905 567 655 | Fax: 0256. 3891 736
+Email: | Website:
+3. Chủ doanh nghiệp
+Họ và tên: PHẠM QUỐC ÂN | Giới tính: Nam
+Sinh ngày: 1974 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 211607626
+Ngày cấp: 08/11/2012 | Nơi cấp: Công an tỉnh Bình Định
+Nơi đăng ký hộ khẩu thường trú: Số 08 đường Nguyễn Du, Phường Lê Lợi, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam
+Chỗ ở hiện tại: Số 08 đường Nguyễn Du, Phường Lê Lợi, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam
+TRƯỞNG PHÒNG
+KT. TRƯỞNG PHÒNG
+PHÓ TRƯỞNG PHÒNG
+[dấu: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM - PHÒNG ĐĂNG KÝ KINH DOANH - SỞ KẾ HOẠCH VÀ ĐẦU TƯ TỈNH]
+[chữ ký]
+
+===== doc_id: ff2d2c80270f | tệp: don-hang_2601-0002.pdf | số trang: 1 =====
+--- trang 1 ---
+CT CP TM-DV HIỆP HÒA
+Số: PO-20260102-HKHANHGL
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+ĐƠN ĐẶT HÀNG
+Ngày 02 tháng 01 năm 2026
+Kính gửi: CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH - CHI NHÁNH GIA LAI
+- Căn cứ Hợp đồng mua bán xăng dầu số: 10/HĐTNPP-CNGL-2026 ngày 29/12/2025 giữa CT CP TM-DV HIỆP HÒA và Công Ty TNHH Thương Mại Và Dịch Vụ Tổng Hợp Hòa Khánh - Chi Nhánh Gia Lai
+Chúng tôi trân trọng đề nghị Quý công ty cung cấp các mặt hàng dưới đây:
+STT | Mặt hàng | ĐVT | Số lượng | Đơn giá thanh toán | Thành tiền
+1 | Dầu Điêzen 0,05S Mức 2 | Lít | 34.000 | 16.400 | 557.600.000
+2 | Dầu Điêzen 0,05S Mức 2 | Lít | 7.000 | 16.400 | 114.800.000
+3 | Dầu Điêzen 0,05S Mức 2 | Lít | 42.000 | 16.400 | 688.800.000
+4 | Dầu Điêzen 0,05S Mức 2 | Lít | 41.000 | 16.400 | 672.400.000
+5 | Dầu Điêzen 0,05S Mức 2 | Lít | 13.300 | 16.400 | 218.120.000
+6 | Dầu Điêzen 0,05S Mức 2 | Lít | 27.800 | 16.400 | 455.920.000
+TỔNG CỘNG | | 165.100 | | 2.707.640.000
+(*) Đơn giá thanh toán đã bao gồm VAT.
+Bằng chữ: Hai tỷ bảy trăm lẻ bảy triệu sáu trăm bốn mươi nghìn đồng
+Thời gian nhận hàng: Ngày 03/01/2026
+ĐẠI DIỆN BÊN MUA
+Phó giám đốc
+Đặng Nhơn Hòa
+Signature valid
+Được ký bởi: CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA
+Ngày ký: 02/01/2026
+
+===== doc_id: 1700fb51ee4b | tệp: 16. UPSC hóa chất (photo).pdf | số trang: 21 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ
+HIỆP HÒA
+BIỆN PHÁP
+PHÒNG NGỪA, ỨNG PHÓ SỰ CỐ HÓA CHẤT CỦA
+CỬA HÀNG XĂNG DẦU SỐ 1
+CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA
+Quy Nhơn, tháng 12 năm 2014
+--- trang 2 (bị cắt bớt) ---
+Công ty Cổ phần Thương Mại – Dịch Vụ Hiệp Hòa. Cửa hàng số 2 Phước Mỹ
+MỞ ĐẦU
+- Xuất xứ dự án:
+Xăng dầu và các sản phẩm hóa dầu đóng vai trò hết sức quan trọng trong nền kinh tế quốc dân. Là sản phẩm mang tính chiến lược đối với tất cả các quốc gia trên thế giới. Bên cạnh những lợi ích to lớn thì xăng dầu và các sản phẩm hóa dầu lại là những mặt hàng tiềm ẩn nguy cơ cháy nổ, ô nhiễm môi trường và ảnh hưởng tới sức khỏe con người.
+Cửa hàng xăng dầu Hiệp Hòa được xây dựng trên địa bàn thôn Thanh Long, xã Phước Mỹ nhằm phục vụ nhu cầu tiêu dùng của nhân dân trên địa bàn và khách vãng lai.
+- Tính cần thiết phải lập Biện pháp phòng ngừa, ứng phó sự cố hóa chất:
+Việc xây dựng Biện pháp phòng ngừa, ứng phó sự cố hóa chất cho Cửa hàng xăng dầu là trách nhiệm của chủ dự án, đồng thời sẽ giúp cho những người lãnh đạo quản lý và lao động tại cơ sở chủ động sẵn sàng xử lý các tình huống khi có sự cố 
+
+===== doc_id: 8db9cca49a9d | tệp: NĂM THIẾT (31-12-2026).pdf | số trang: 10 =====
+--- trang 1 ---
+HỢP ĐỒNG
+NHƯỢNG QUYỀN BÁN LẺ XĂNG DẦU
+Số: 10/2024/NQBLXD
+GIỮA
+BÊN NHƯỢNG QUYỀN - THƯƠNG NHÂN PHÂN PHỐI
+CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA
+VÀ
+BÊN NHẬN NHƯỢNG QUYỀN
+CÔNG TY TNHH NĂM THIẾT
+Ký ngày 21 tháng 11 năm 2023
+Hiệu lực từ ngày 01/01/2024 đến hết ngày 31/12/2026
+--- trang 2 ---
+[trang trắng]
+
+===== doc_id: 66f789c7d0e0 | tệp: GPKD-HAI THẢO.pdf | số trang: 1 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH BÌNH ĐỊNH | Độc lập – Tự do – Hạnh phúc
+PHÒNG ĐĂNG KÝ KINH DOANH
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+DOANH NGHIỆP TƯ NHÂN
+Mã số doanh nghiệp: 4100134910
+Đăng ký lần đầu: ngày 13 tháng 01 năm 2004
+Đăng ký thay đổi lần thứ: 1, ngày 19 tháng 07 năm 2017
+1. Tên doanh nghiệp
+Tên doanh nghiệp viết bằng tiếng Việt: DOANH NGHIỆP TƯ NHÂN HAI THẢO
+Tên doanh nghiệp viết bằng tiếng nước ngoài:
+Tên doanh nghiệp viết tắt:
+2. Địa chỉ trụ sở chính
+Thôn Chánh Trực, Xã Mỹ Thọ, Huyện Phù Mỹ, Tỉnh Bình Định, Việt Nam
+Điện thoại: 0256.3659687 | Fax:
+Email: | Website:
+3. Chủ doanh nghiệp
+Họ và tên: NGÔ HÀ THẢO | Giới tính: Nam
+Sinh ngày: 1951 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 210464493
+Ngày cấp: 28/07/2014 | Nơi cấp: Công an tỉnh Bình Định
+Nơi đăng ký hộ khẩu thường trú: Thôn Chánh Trực, Xã Mỹ Thọ, Huyện Phù Mỹ, Tỉnh Bình Định, Việt Nam
+Chỗ ở hiện tại: Thôn Chánh Trực, Xã Mỹ Thọ, Huyện Phù Mỹ, Tỉnh Bình Định, Việt Nam
+TRƯỞNG PHÒNG
+KT. TRƯỞNG PHÒNG
+PHÓ TRƯỞNG PHÒNG
+[dấu: CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM ... PHÒNG ĐĂNG KÝ KINH DOANH ... SỞ KẾ HOẠCH VÀ ĐẦU TƯ TỈNH BÌNH ĐỊNH]
+[chữ ký]
+Nguyễn Th[?] Vũ
+
+===== doc_id: 82b7cef9062b | tệp: HDVC HOÀNG GIA HÂN-HIEP HOA.PDF | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Số: 01/2026/HĐTVC-HH | Độc Lập – Tự Do – Hạnh Phúc
+----[biểu tượng]---- | -----[biểu tượng]-----
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 29 tháng 12 năm 2025, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, Phường Quy Nhơn, Tỉnh Gia Lai, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN CHỦ HÀNG)
+Địa chỉ : 112 Hai Bà Trưng, Phường Quy Nhơn, Tỉnh Gia Lai.
+Điện thoại : 0256. 3821400 - 0983 848 211
+Tài Khoản : 5800422189 tại Ngân hàng BIDV CN Bình Định.
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 07 ngày 26 tháng 12 năm 2024.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY TNHH VẬN TẢI HOÀNG GIA HÂN (BÊN VẬN CHUYỂN)
+Địa chỉ : 2/5 Đông Phước, Phường Nam Nha Trang, Tỉnh Khánh Hòa, Việt Nam
+Điện thoại : 0258 3887739 Fax: 0258 3887739
+Tài khoản : ......................................................................
+Mã số thuế : 4201598644
+Giấy chứng nhận đăng ký kinh doanh số: 4201598644 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Khánh Hòa cấp đăng ký lần đầu ngày 14/05/2014. Đăng ký thay đổi lần thứ 02 ngày 13/01/2023.
+Do Ông : NGUYỄN QUỐC CƯỜNG - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A thuê Bên B vận chuyển xăng
+--- trang 2 (bị cắt bớt) ---
+- Phương thức tính theo lít vận chuyển.
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, tuân thủ các quy định về vận chuyển xăng dầu.
+- Bảo đảm hàng còn niêm nguyên vẹn từ lúc nhận đến lúc giao.
+- Đền bù và chịu mọi chi phí nếu có hành vi gian lận khi bên nhận từ chối không nhận hàng.
+3/ Quyền hạn của B:
+- Có quyền từ chối
+
+===== doc_id: 7eee57af35d4 | tệp: HDVC 2022-PV OIL QN-20.10-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 17/2022/HĐVC-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 20 tháng 10 năm 2022, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P.Lê Lợi, TP.Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CHI NHÁNH CÔNG TY CP XĂNG DẦU DẦU KHÍ PV OIL MIỀN TRUNG TẠI QUẢNG NGÃI (BÊN THUÊ VẬN CHUYỂN)
+Địa chỉ : 92-94 Lê Trung Đình, P.Nguyễn Nghiêm, TP.Quảng Ngãi, Tỉnh Quảng Ngãi
+Điện thoại : 0255.3837333
+Tài Khoản : 1024105624 tại Ngân hàng TMCP Ngoại Thương VN - CN Quảng Ngãi
+Hoặc 227704070004675 tại Ngân hàng TMCP Phát triển TP.HCM - CN Quảng Ngãi.
+Mã số thuế : 4300603574-020
+Do Ông: LÊ NGỌC MINH - Chức vụ: Giám Đốc
+(Theo Giấy ủy quyền số 2363/UQ-XDMT ngày 15/12/2021 của Giám đốc Công ty CP Xăng dầu Dầu khí PV OIL Miền Trung)
+II/ BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0905111101
+Tài khoản : 110000033767 tại Ngân hàng TMCP Công thương VN- CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+Mã số thuế : 4100668616
+Theo Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu số: 326-TNPP/QĐ-BCT ngày 29/07/2020 của Bộ Công thương.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+[dấu: M.S.C.N: 4[?], T.P.QUẢNG[?]]
+Hai bên cùng nhau bàn bạc và thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A thuê Bên B vận chuyển xăng dầu bằng phương tiện ôtô xitec.
+- Khối lượng hàng theo quy định vận chuyển của 
+--- trang 2 (bị cắt bớt) ---
+2/ Phương thức thanh toán
+- Phương thức tính: theo lít vận chuyển.
+- Hai bên ký xác nhận Biên bản tổng hợp hàng hóa vận chuyển.
+- Bên B xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán chậm nhất vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên A.
+- Bảo đảm hàng còn ni
+
+===== doc_id: 6badbe617d07 | tệp: bbgn-260206-3.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa
+112 Hai Bà Trưng – P. Quy Nhơn
+Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+Độc lập – Tự do – Hạnh phúc
+………………………, ngày 6 tháng 2 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: DNTN Hồng Cát
+Địa chỉ: Tuy An Đông - Đắk Lắk
+Điện thoại: Fax:
+Mã số thuế:
+Nơi giao hàng: Kho Hiệp Hoà (78C-04[?]19)
+Phương tiện giao hàng: 77R-03562
+Người nhận: Biên Ngọc Bình Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | DO 0,5 | lit | 21.600 |
+2 | | | |
+ | | | |
+TỔNG | | | |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển ( giao hàng )          Người nhận hàng
+(Ký, ghi rõ họ tên)          (Ký, ghi rõ họ tên)
+[chữ ký]          [chữ ký]
+Nguyễn Đình Phương          Biên Ngọc Bình
+
+===== doc_id: 98d9bec84dcc | tệp: 20260120-04.pdf | số trang: 4 =====
+--- trang 1 (bị cắt bớt) ---
+PHIẾU XUẤT KHO THÀNH PHẨM | VHSX
+Ngày: 20/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2602377
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN TỈNH QUẢNG NGÃI M.S.D.N: 4300378569]
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1872/HĐKT/BSR-MIPEC/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty Cổ phần Hóa dầu Quân đội
+Lệnh xuất hàng: 474/LXHXB-DO-200126-187-0 (8000147628)
+Xuất tại bồn số: TK-5207C | Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: MAI HỮU DUY
+Bên nhận: Công ty Cổ phần Hóa dầu Quân đội
+Địa chỉ: Nhà N1, 33b Phạm Ngũ Lão Phường Cửa Nam Thành phố Hà Nội.
+Đại diện bên nhận: NGÔ THỊ HỒNG SA
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 002/2026/GGT-MIPEX
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77R-01942(77C-10179) | Đến kho lúc: 15 giờ 50 phút ngày 20 tháng 01 năm 2026
+Bắt đầu lúc: 16 giờ 45 phút ngày 20 tháng 01 năm 2026 | Kết thúc lúc: 17 giờ 36 phút ngày 20 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng: Bbls (thùng) | M3 (tại 15°C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 260,360 | 41,373 | 34,266 | 41,999
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm sáu mươi phẩy ba trăm sáu mươi thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI010 | 1,000359 | 1,000032 | 1,000075 | 1,000005 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15°C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (°C)
+DO-020-202601190387 | 01 | 0,985000 | 0,8293 | 5,70 | 32,6
+DO-020-202601190387 | 02 | 0,985000 | 0,8293 | 5,50 | 32,5
+DO-020-202601190387 | 03 | 0,985000 | 0,8293 | 5,20 | 32,5
+DO-020-202601190387 | 04 | 0,985100 | 0,8293 | 5,20 | 32,4
+DO-020-202601190387 | 05
+--- trang 2 (bị cắt bớt) ---
+BM08C-QĐ06-XD
+[dấu: CHI NHÁNH ĐÀ NẴNG CÔNG TY CỔ PHẦN HÓA DẦU QUÂN ĐỘI Q. SƠN TRÀ - TP. ĐÀ NẴNG M.S.C.N: 010143[?]307-00[?]]
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+---------*****---------
+BIÊN BẢN GIAO NHẬN HÀNG
+Hôm nay, ngày 20 tháng 01 năm 2026. Chúng tôi gồm:
+Bên Giao hàng : CHI NHÁNH ĐÀ NẴNG - CÔNG TY CỔ PHẦN HÓA DẦU QUÂN ĐỘI
+Địa chỉ : 264 Xô Viết Nghệ Tĩnh, P.Cẩm Lệ, TP. Đà Nẵng
+Điện thoại : 0236.3656365 Fax: 0236.3838363
+Đại diện : Kho nhà máy lọc dầu Dung Quất ( Xuất hộ)
+STT | LOẠI HÀNG HÓA | SỐ LƯỢNG XUẤT KHO: Lít thực tế | Kg | Lít 15oC | TỶ TRỌNG Ở NHIỆT ĐỘ THỰC TẾ
+1 | Dầu Điêzen 0,05S Mức 2 | 41.999 | 34.266 | 41.373 | 0.8293 / 32.5°C
+2 | Xăng RON95 Mức 3 |  |  |  |
+Bên nhận hàng : CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA
+Địa chỉ: 112 Hai Bà Trưng, Phường Quy Nhơn, Tinh Gia Lai, Việt Nam
+Điện thoại : 0905111101
+Đại diện nhận hàng : NGUYỄN MINH THÔNG
+Số CMND/CCCD 
+
+===== doc_id: 447c5ea610e9 | tệp: GPKD-BẢO ÂN PHÁT.pdf | số trang: 1 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+THÀNH PHỐ ĐÀ NẴNG
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN
+Mã số doanh nghiệp: 0401590701
+Đăng ký lần đầu: ngày 07 tháng 03 năm 2014
+Đăng ký thay đổi lần thứ: 2, ngày 28 tháng 09 năm 2017
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH MỘT THÀNH VIÊN BẢO ÂN PHÁT
+Tên công ty viết bằng tiếng nước ngoài:
+Tên công ty viết tắt:
+2. Địa chỉ trụ sở chính
+02 Đường Vân Đồn, Khu Âu Thuyền Thọ Quang, Phường Nại Hiên Đông, Quận Sơn Trà, Thành phố Đà Nẵng, Việt Nam
+Điện thoại: 0905420842 | Fax:
+Email: | Website:
+3. Vốn điều lệ 20.000.000.000 đồng
+Bằng chữ: Hai mươi tỷ đồng
+4. Thông tin về chủ sở hữu
+Họ và tên: NGUYỄN THỊ PHI YẾN | Giới tính: Nữ
+Sinh ngày: 13/10/1984 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 201492573
+Ngày cấp: 07/10/2008 | Nơi cấp: Công an Thành phố Đà Nẵng
+Nơi đăng ký hộ khẩu thường trú: 224 Trưng Nữ Vương, Phường Bình Thuận, Quận Hải Châu, Thành phố Đà Nẵng, Việt Nam
+Chỗ ở hiện tại: 224 Trưng Nữ Vương, Phường Bình Thuận, Quận Hải Châu, Thành phố Đà Nẵng, Việt Nam
+5. Người đại diện theo pháp luật của công ty
+
+===== doc_id: bac5fbfbdf06 | tệp: GPKD-DUY NGUYÊN.pdf | số trang: 2 =====
+--- trang 1 ---
+[BẢN SAO]
+[?]
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+TỈNH GIA LAI | Độc lập – Tự do – Hạnh phúc
+PHÒNG ĐĂNG KÝ KINH DOANH
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN
+Mã số doanh nghiệp: 5901014744
+Đăng ký lần đầu: ngày 24 tháng 06 năm 2015
+Đăng ký thay đổi lần thứ: 1, ngày 14 tháng 04 năm 2016
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH MỘT THÀNH VIÊN XĂNG DẦU DUY NGUYÊN GIA LAI
+Tên công ty viết bằng tiếng nước ngoài:
+Tên công ty viết tắt:
+2. Địa chỉ trụ sở chính
+Làng Quel, Xã SRó, Huyện Kông Chro, Tỉnh Gia Lai, Việt Nam
+Điện thoại: 01648266439 | Fax:
+Email: | Website:
+[dấu: [?]]
+3. Vốn điều lệ: 1.950.000.000 đồng
+Bằng chữ: Một tỷ chín trăm năm mươi triệu đồng
+4. Thông tin về chủ sở hữu
+Họ và tên: NGUYỄN THỊ KIM OANH | Giới tính: Nữ
+Sinh ngày: 24/11/1970 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 230752346
+Ngày cấp: 15/04/2014 | Nơi cấp: Công an tỉnh Gia Lai
+Nơi đăng ký hộ khẩu thường trú: Thôn 1, Xã Nghĩa An, Huyện Kbang, Tỉnh Gia Lai, Việt Nam
+Chỗ ở hiện tại: Thôn 1, Xã Nghĩa An, Huyện Kbang, Tỉnh Gia Lai, Việt Nam
+5. Người đại diện theo pháp luật của công ty
+--- trang 2 ---
+* Họ và tên: NGUYỄN THỊ KIM OANH | Giới tính: Nữ
+Chức danh: Chủ tịch kiêm Giám đốc
+Sinh ngày: 24/11/1970 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Chứng minh nhân dân
+Số giấy chứng thực cá nhân: 230752346
+Ngày cấp: 15/04/2014 | Nơi cấp: Công an tỉnh Gia Lai
+Nơi đăng ký hộ khẩu thường trú: Bản Quyết Thắng, Xã Nghĩa An, Huyện Kbang, Tỉnh Gia Lai, Việt Nam
+Chỗ ở hiện tại: Bản Quyết Thắng, Xã Nghĩa An, Huyện Kbang, Tỉnh Gia Lai, Việt Nam
+[dấu: CHỨNG THỰC BẢN SAO ĐÚNG VỚI BẢN CHÍNH | Số chứng thực 1312, quyển số 01-SCT/BS | Ngày 15 tháng 10 năm 2018 | CHỦ TỊCH UBND XÃ SRÓ]
+[dấu: UBND XÃ SRÓ H. KÔNG CHRO T. GIA LAI]
+Phan Thanh Vân
+TRƯỞNG PHÒNG
+[dấu: SỞ KẾ HOẠCH VÀ ĐẦU TƯ ... TỈNH GIA LAI ... PHÒNG ĐĂNG KÝ KINH DOANH]
+[chữ ký]
+Phùng Văn Phước
+
+===== doc_id: 18e0019f740d | tệp: bbgn-260605-17.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – P. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+Gia Lai, ngày 5 tháng 6 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: CTy TNHH Huy Tùy Phú
+Địa chỉ: P. Quy Nhơn T Gia Lai
+Điện thoại: | Fax:
+Mã số thuế:
+Nơi giao hàng: Cơ sở [?] Tư Quy Nhơn
+Phương tiện giao hàng: 77P-01912
+Người nhận: Võ Văn Thủy | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | DO 0,05S | Lít | 13.000 |
+2 | | | |
+ | | | |
+TỔNG | | | |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển (giao hàng) | Người nhận hàng
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký]
+
+===== doc_id: ceee8d478c15 | tệp: NGUYEN HUU HUY-17.6.25.pdf | số trang: 2 =====
+--- trang 1 ---
+BỘ GTVT
+MOT
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+GIẤY PHÉP LÁI XE/DRIVER'S LICENSE
+Số/No: 520043002749
+Họ tên/Full name: NGUYỄN HỮU HUY
+Ngày sinh/Date of Birth: 02/09/1982
+Quốc tịch/Nationality: VIỆT NAM
+Nơi cư trú/Address: P. Nhơn Phú, TP. Qui Nhơn, T. Bình Định
+Bình Định, ngày/date 17 tháng/month 06 năm/year 2020
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+[dấu: SỞ GIAO THÔNG VẬN TẢI [?]]
+[chữ ký]
+Hạng/Class: FC
+Có giá trị đến/Expires: 17/06/2025
+TRẦN THANH DŨNG
+--- trang 2 ---
+CÁC LOẠI XE CƠ GIỚI ĐƯỜNG BỘ ĐƯỢC ĐIỀU KHIỂN
+CLASSIFICATION OF MOTOR VEHICLES
+Ngày trúng tuyển
+Beginning date
+Ô tô hạng C kéo rơmóoc, đầu kéo kéo sơmi rơmóoc và xe hạng B1, B2, C, FB2 (Motor vehicle of class C with a trailer, semi-trailer truck and vehicles of classes B1, B2, C, FB2)
+03/06/2011
+[?]
+
+===== doc_id: 919de06497d5 | tệp: HDVC 2023-DONG TIEN-1.1-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 02/2023/HĐVC-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 21 tháng 12 năm 2022. tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN CHỦ HÀNG)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định.
+Điện thoại : 0256. 3821400 - 0983 848 211 Fax: 0256. 3648211
+Tài Khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định.
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 06 ngày 20 tháng 10 năm 2020.
+Do Ông/ Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+II/ BÊN B: : CÔNG TY TNHH KD XĂNG DẦU ĐỒNG TIẾN (BÊN VẬN CHUYỂN)
+Địa chỉ : Khu phố Vạn Phước, Phường Xuân Thành, TX Sông Cầu, Tỉnh Phú Yên
+Điện thoại : 0934983637
+Tài khoản : 46032110003036 tại Ngân Hàng NN & PTNT - Thị xã Sông Cầu
+Mã số thuế : 4400218311
+Giấy chứng nhận đăng ký kinh doanh số: 4400218311 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Phú Yên cấp đăng ký lần đầu ngày 08/11/1996. Đăng ký thay đổi lần thứ 6 ngày 20/02/2020.
+Do Ông/Bà : NGUYỄN THỊ TÚY KIỀU - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A thuê Bên B vận chuyển xăng dầu bằng phương tiện ôtô xit
+--- trang 2 (bị cắt bớt) ---
+ĐIỀU III: GIÁ VÀ PHƯƠNG THỨC THANH TOÁN
+- Giá cả do hai bên thỏa thuận theo từng thời điểm.
+- Phương thức tính theo lít vận chuyển.
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, tuân thủ các quy định về vận chuyển xăng dầu.
+- Bảo đảm hàng còn niêm nguyên vẹn từ lúc nhận đến lúc giao.
+- Đền bù và chịu mọi chi phí nếu có h
+
+===== doc_id: b640e255862b | tệp: HDMBCD-05.2020-ANH DUNG-01.02.2020.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CTCP TM-DV HIỆP HÒA
+Số: 05/2020/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MƯỢN BỒN CHỨA DẦU
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 02 năm 2020, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 056. 3821400 -0983 848 211    Fax: 056. 3648211
+Tài khoản : 102010000623801 tại Ngân hàng Vietinbank - CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ tư ngày 07 tháng 12 năm 2015.
+Do Bà : DƯƠNG THỊ THANH LỰU    - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ ANH DŨNG
+Địa chỉ : Lô 20B đường Điện Biên Phủ. P. Nhơn Bình, TP. Quy Nhơn. Tỉnh Bình Định
+Điện thoại : 02563.6293133
+Tài Khoản : ........................................................................
+Mã số thuế : 4100696412
+Giấy chứng nhận đăng ký kinh doanh số: 4100696412 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 20/02/2008. Đăng ký thay đổi lần thứ 4 ngày 30/09/2013.
+Do Ông/ Bà : LÊ VĂN THỌ    - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+Điều I: Bên A đồng ý cho bên B mượn 
+--- trang 2 (bị cắt bớt) ---
+5.1. Hai bên cam kết thực hiện đầy đủ các điều khoản được ghi trong hợp đồng, trong quá trình thực hiện nếu có phát sinh vướng mắc, tranh chấp 2 bên sẽ chủ động thông báo cho nhau giải quyết trên cơ sở đảm bảo lợi ích của nhau và được bổ sung bằng phụ lục hợp đồng. Mọi sự thay đổi đơn phương đều không có giá trị thực hiện. Nếu không giải quyết bằng thương lượng thì một trong hai bên có quyền khởi kiện đến tòa án nhân dân cấp có thẩm quyền. Quyết định của toà án là quyết định cuối cùng hai bên phải chấp hành thực hiện và án phí do bên thua kiện chịu.
+5.2. Hợp đồng này có hiệu lực từ ngày ký
+5.3. Hợp đồng được lập thành 02 bản, mỗi bên giữ 01 bản có giá trị pháp lý như nhau.
+ĐẠI DIỆN BÊN A    ĐẠI DIỆN BÊN B
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA, TP.QUY NHƠN T.BÌNH ĐỊNH]
+[dấu: GIÁM ĐỐC]
+[chữ ký]
+[dấu: CÔNG TY T.N.H.H THƯƠNG MẠI VÀ DỊCH VỤ ANH DŨNG, TP.QUY NHƠN T.BÌNH ĐỊNH]
+[dấu:
+
+===== doc_id: f33a31d4f24b | tệp: bbgn-260305-3.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – Phường. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+Phù mỹ Đông, ngày 5 tháng 3 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: CTY TNHH NAM THIẾT
+Địa chỉ: Phù mỹ Đông - Gia Lai
+Điện thoại: | Fax:
+Mã số thuế:
+Nơi giao hàng: CHXD NAM THIẾT
+Phương tiện giao hàng: 77C-17122
+Người nhận: | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | Xăng RON 95-III | lít | 6000 |
+2 | | | |
+ | | | |
+TỔNG | | | 6000 |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển (Giao hàng) | Người nhận hàng
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký]
+
+===== doc_id: 3b84aa09975d | tệp: bbgn-260102-3.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – Phường. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+Phù mỹ, ngày 8 tháng 1 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: CTTNHH DV và TM [?] HẢI
+Địa chỉ: Phù mỹ - Gia Lai
+Điện thoại: | Fax:
+Mã số thuế:
+Nơi giao hàng: CH xăng PHONG HẢI
+Phương tiện giao hàng: [?]C-18127
+Người nhận: | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | Xăng RON 95-III | lít | 3000 |
+2 | | | |
+ | | | |
+TỔNG | | | 3000 |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển (Giao hàng) | Người nhận hàng
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký]
+
+===== doc_id: 0f637d0d40be | tệp: don-hang_2605-0005.pdf | số trang: 1 =====
+--- trang 1 ---
+CT CP TM-DV HIỆP HÒA
+Số: PO-20260504-HKHANHGL
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+ĐƠN ĐẶT HÀNG
+Ngày 04 tháng 05 năm 2026
+Kính gửi: CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH - CHI NHÁNH GIA LAI
+- Căn cứ Hợp đồng mua bán xăng dầu số: 10/HĐTNPP-CNGL-2026 ngày 29/12/2025 giữa CT CP TM-DV HIỆP HÒA và Công Ty TNHH Thương Mại Và Dịch Vụ Tổng Hợp Hòa Khánh - Chi Nhánh Gia Lai
+Chúng tôi trân trọng đề nghị Quý công ty cung cấp các mặt hàng dưới đây:
+STT | Mặt hàng | ĐVT | Số lượng | Đơn giá thanh toán | Thành tiền
+1 | Xăng RON 95 Mức 3 | Lít | 22.000 | 23.050 | 507.100.000
+TỔNG CỘNG | | | 22.000 | | 507.100.000
+(*) Đơn giá thanh toán đã bao gồm VAT.
+Bằng chữ: Năm trăm lẻ bảy triệu một trăm nghìn đồng
+Thời gian nhận hàng: Ngày 05/05/2026
+ĐẠI DIỆN BÊN MUA
+Phó giám đốc
+[chữ ký]
+Đặng Nhơn Hòa
+Signature valid
+Được ký bởi: CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA
+Ngày ký: 04/05/2026
+
+===== doc_id: caf1d38f2828 | tệp: DDK-TAN THANH-12.6.23_1.pdf | số trang: 2 =====
+--- trang 1 ---
+UBND TỈNH BÌNH ĐỊNH
+SỞ CÔNG THƯƠNG
+Số: 12 /GCNBLXD-SCT
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+Bình Định, ngày 20 tháng 01 năm 2020
+GIẤY CHỨNG NHẬN
+CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU
+Cấp lần thứ nhất ngày 13 tháng 6 năm 2018
+Cấp bổ sung, sửa đổi lần thứ nhất ngày 20 tháng 01 năm 2020
+GIÁM ĐỐC SỞ CÔNG THƯƠNG
+Căn cứ Quyết định số 3501/QĐ-UBND ngày 08/10/2015 của UBND tỉnh Bình Định về việc ban hành Quy định chức năng, nhiệm vụ, quyền hạn và cơ cấu tổ chức của Sở Công Thương tỉnh Bình Định;
+Căn cứ Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu; Thông tư số 38/2014/TT-BCT ngày 26/10/2014 của Bộ Công Thương quy định chi tiết một số điều của Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu;
+Xét hồ sơ đề nghị cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu của Công ty TNHH Xây dựng Tấn Thành;
+Theo đề nghị của Trưởng phòng Phòng Quản lý Thương mại,
+QUYẾT ĐỊNH:
+Điều 1. Cấp Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu
+1. Tên cửa hàng bán lẻ xăng dầu: ĐẠI LÝ BÁN LẺ XĂNG DẦU - CÔNG TY TNHH XÂY DỰNG TÂN THÀNH
+Địa chỉ: số 92 Đào Tấn, thị trấn Tuy Phước, huyện Tuy Phước, tỉnh Bình Định
+Điện thoại số: 02562.211.173
+Thuộc sở hữu của Công ty TNHH Xây dựng Tấn Thành
+Địa chỉ trụ sở chính: số 639 Nguyễn Huệ, thị trấn Tuy Phước, huyện Tuy Phước, tỉnh Bình Định.
+Số điện thoại: 0913.499.504
+Giấy chứng nhận đăng ký doanh nghiệp số 4100437457 do Sở Kế hoạch và Đầu tư Bình Định cấp lần đầu ngày 08 tháng 02 năm 2002
+Mã số thuế: 4100437457
+Đủ điều kiện bán lẻ xăng dầu.
+2. Thương nhân cung cấp xăng dầu
+Tên thương nhân: Công ty cổ phần thương mại - dịch vụ Hiệp Hòa
+--- trang 2 (bị cắt bớt) ---
+[dấu]
+Địa chỉ trụ sở chính: số 112 Hai Bà Trưng, phường Lê Lợi, thành phố Quy Nhơn, tỉnh Bình Định
+Số điện thoại: 02563.821.400
+Giấy chứng nhận đăng ký doanh nghiệp số 4100668616 do Sở Kế hoạch và Đầu tư Bình Định cấp lần đầu ngày 17 tháng 12 năm 2007
+Mã số thuế: 4100668616
+Điều 2. Công ty TNHH Xây dựng Tấn Thành phải thực hiện đúng các quy định tại Nghị định số 83/2014/NĐ-CP ngày 03/9/2014 của Chính phủ về kinh doanh xăng dầu và các quy định khác của pháp luật có liên quan.
+Điều 3. Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu này có giá trị đến hết ngày 12 tháng 6 năm 2023.
+Bãi bỏ Giấy chứng nhận đủ điều kiện kinh doanh xăng dầu số 46/GCNBLXD-SCT ngày 13/6/2018 của Sở Công Thương./. [chữ ký]
+Nơi nhận:
+- Cục QLTT tỉnh;
+- Cục Thuế tỉnh;
+- UBND H. Tuy Phước;
+- Cty TNHH xây dựng Tấn Thành;
+- Cty CP TMDV Hiệp Hòa;
+- Lưu: VT, QLTM (07b)
+KT. GIÁM ĐỐC
+PHÓ GIÁM ĐỐC
+[dấu: SỞ CÔNG THƯƠNG 
+
+===== doc_id: 8c286654ff61 | tệp: BB mau G3-21..pdf | số trang: 1 =====
+--- trang 1 ---
+Mẫu 2. BBLM-BGM-KTNP
+15/2015/TT-BKHCN
+CỬA HÀNG XĂNG DẦU SỐ 3 | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+CTY CP TM-DV HIỆP HÒA | Độc lập - Tự do - Hạnh phúc
+Quy Nhơn ngày 28 tháng 12 năm 2021
+BIÊN BẢN LẤY MẪU, BÀN GIAO MẪU
+VÀ KIỂM TRA NIÊM PHONG
+Số: 01
+1. Tên, loại xăng dầu: ........ Dầu DO 0,05S
+2. Tên thương nhân xuất hàng: Công ty CP TM-DV Hiệp Hòa
+3. Số lượng xăng dầu nhập: ........ 3.000 lít
+4. Tên doanh nghiệp vận chuyển: Công ty CP TM-DV Hiệp Hòa
+5. Loại phương tiện vận chuyển, biển kiểm soát: 77R - 02[?]69
+6. Số niêm phong trên phương tiện vận chuyển (ghi toàn bộ số niêm trên phương tiện vận chuyển):
+........................................................
+7. Số mẫu của Bên giao xăng dầu được chuyển theo phương tiện vận chuyển: 01 đơn vị mẫu. Số niêm phong trên bình mẫu (chai mẫu):
+........................................................
+8. Số mẫu lấy trước khi nhập hàng: 01 mẫu (không chia thành đơn vị mẫu). Số niêm phong bình mẫu (chai mẫu):
+........ 2106589
+Sau khi kiểm tra, hai bên thống nhất xác nhận các niêm phong trên phương tiện vận chuyển, bình mẫu (chai mẫu) do Bên giao xăng dầu gửi và bình mẫu (chai mẫu) lấy từ phương tiện vận chuyển trước khi nhập hàng còn nguyên vẹn, đủ niêm phong và các số niêm phong trùng với các số niêm phong được nêu trong Biên bản lấy mẫu, niêm phong, bàn giao mẫu và cam kết chất lượng này của Công ty CP TM-DV Hiệp Hòa.
+Mẫu lưu tại Cửa hàng xăng dầu số 3 là mẫu đại diện trong trường hợp xảy ra tranh chấp về chất lượng.
+Biên bản này được lập thành 02 bản, mỗi bên giữ một bản và có giá trị pháp lý như nhau.
+Đại diện Bên vận chuyển | Đại diện Bên nhận xăng dầu
+(Họ tên, chữ ký) | (Họ tên, chữ ký, đóng dấu)
+[chữ ký] | [chữ ký]
+Lân, Quốc Đạt | [?] Thái Nguyên
+
+===== doc_id: e7b64bbee692 | tệp: PCCC-BUI DAC TRONG (10-08-28).pdf | số trang: 2 =====
+--- trang 1 ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+CHỨNG NHẬN HUẤN LUYỆN NGHIỆP VỤ
+PHÒNG CHÁY, CHỮA CHÁY, CỨU NẠN, CỨU HỘ
+Số: 0452981
+--- trang 2 ---
+CÔNG AN TỈNH BÌNH ĐỊNH	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+PHÒNG CS PCCC VÀ CNCH	Độc lập - Tự do - Hạnh phúc
+PHÒNG CẢNH SÁT PCCC VÀ CNCH
+CHỨNG NHẬN:
+Ông/bà: Bùi Đắc Trọng	Năm sinh: 1993
+Số CMND/Hộ chiếu: 052093007271	Ngày cấp: 01/12/2022
+Nơi làm việc/thường trú: Công ty CP TM DV Hiệp Hòa
+Đã được huấn luyện nghiệp vụ: PHÒNG CHÁY, CHỮA CHÁY
+Thời gian: Từ ngày 08 / 08 / 2023 đến ngày 09 / 08 / 2023
+Bình Định, ngày 10 tháng 08 năm 2023
+TRƯỞNG PHÒNG
+[dấu]
+[chữ ký]
+Thượng tá Nguyễn Hoàng Tuấn
+Có giá trị sử dụng trên cả nước.
+
+===== doc_id: 4a2c79baea8d | tệp: GPKD-VINH DỰ.pdf | số trang: 2 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+TỈNH PHÚ YÊN
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY TRÁCH NHIỆM HỮU HẠN MỘT THÀNH VIÊN
+Mã số doanh nghiệp: 4400325560
+Đăng ký lần đầu: ngày 19 tháng 05 năm 2003
+Đăng ký thay đổi lần thứ: 7, ngày 14 tháng 10 năm 2022
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY TNHH XĂNG DẦU VINH DỰ
+Tên công ty viết bằng tiếng nước ngoài:
+Tên công ty viết tắt:
+2. Địa chỉ trụ sở chính
+Thôn Cần Lương, Xã An Dân, Huyện Tuy An, Tỉnh Phú Yên, Việt Nam
+Điện thoại: 0979783227 | Fax:
+Email: congtytnhhkdxddongtien@gmail.com | Website:
+3. Vốn điều lệ 5.000.000.000 đồng
+Bằng chữ: Năm tỷ đồng
+4. Thông tin về chủ sở hữu
+Họ và tên: NGUYỄN THỊ TÚY KIỀU | Giới tính: Nữ
+Sinh ngày: 20/10/1981 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
+Số giấy tờ pháp lý của cá nhân: 054181006573
+Ngày cấp: 31/05/2022 | Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ thường trú: Khu phố Dân Phước, Phường Xuân Thành, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+Địa chỉ liên lạc: Khu phố Dân Phước, Phường Xuân Thành, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+5. Người đại diện theo pháp luật của công ty
+Scanned with CamScanner
+--- trang 2 ---
+* Họ và tên: NGUYỄN THỊ TÚY KIỀU | Giới tính: Nữ
+Chức danh: Giám đốc
+Sinh ngày: 20/10/1981 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ pháp lý của cá nhân: Thẻ căn cước công dân
+Số giấy tờ pháp lý của cá nhân: 054181006573
+Ngày cấp: 31/05/2022 | Nơi cấp: Cục cảnh sát quản lý hành chính về trật tự xã hội
+Địa chỉ thường trú: Khu phố Dân Phước, Phường Xuân Thành, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+Địa chỉ liên lạc: Khu phố Dân Phước, Phường Xuân Thành, Thị xã Sông Cầu, Tỉnh Phú Yên, Việt Nam
+TRƯỞNG PHÒNG
+PHÓ TRƯỞNG PHÒNG
+[dấu: PHÒNG ĐĂNG KÝ KINH DOANH]
+[chữ ký]
+Scanned with CamScanner
+
+===== doc_id: 492786321ef5 | tệp: 59. GCN VC HNH Thong (12-5-24).pdf | số trang: 2 =====
+--- trang 1 ---
+CÔNG TY CỔ PHẦN THƯƠNG MẠI
+DỊCH VỤ HIỆP HÒA
+GIẤY CHỨNG NHẬN HOÀN THÀNH
+CHƯƠNG TRÌNH TẬP HUẤN VẬN
+CHUYỂN HÀNG HÓA NGUY HIỂM
+--- trang 2 (bị cắt bớt) ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập - Tự Do - Hạnh Phúc
+----- oOo -----
+GIẤY CHỨNG NHẬN
+HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN
+VẬN CHUYỂN HÀNG HÓA NGUY HIỂM
+Họ và tên: Nguyễn Minh Thông
+Nam/ Nữ: Nam
+Ngày Sinh: 01/07/1981
+CMND/CCCD/hộ chiếu số:
+201711509
+Nghề nghiệp: Tài xế
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI-DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch
+Vụ Hiệp Hòa
+Số: 17/2022-GCN
+Giấy chứng nhận này có giá trị 02 năm
+Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024
+Đã hoàn thành lớp tập huấn vận chuyển hàng
+hóa nguy hiểm: Xăng dầu cho Người điều
+khiển phương tiện do Công Ty Cổ Phần
+Thương Mại Dịch Vụ Hiệp Hòa tổ chức từ
+ngày: 06/05/2022 đến ngày 07/05/2022 và
+kiểm tra đạt yêu cầu.
+Bình Định, ngày 12 tháng 05 năm 2022
+CTCP TM DV Hiệp Hòa
+Giám đốc
+[dấu: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA TP.QUY NHƠN T.BÌNH ĐỊNH]
+[chữ ký]
+Dương 
+
+===== doc_id: 6c50528f7f4f | tệp: Cột đo ghe 1.pdf | số trang: 3 =====
+--- trang 1 ---
+TRUNG TÂM PHÂN TÍCH VÀ ĐO LƯỜNG CHẤT LƯỢNG BÌNH ĐỊNH	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+AMQ	Độc lập - Tự do - Hạnh phúc
+Địa chỉ (Add): 173-175 Phan Bội Châu, Tp. Quy Nhơn	SOCIALIST REPUBLIC OF VIET NAM
+Điện thoại (Tel): 0256 3822322, 0256 3822607	Independence - Freedom - Happiness
+GIẤY CHỨNG NHẬN KIỂM ĐỊNH
+CERTIFICATE OF VERIFICATION
+Số (N°): K.176/2024
+Tên đối tượng: Cột đo Dầu DO 0,05S
+Object:
+Kiểu: Điện tử	Số: 01
+Type:	Serial No:
+Nơi sản xuất: Việt Nam	Năm: /
+Manufacturer:	Year:
+Đặc trưng kỹ thuật đo lường: Qmax = 45 L/min; Cấp chính xác: 0,5
+Specifications: Phạm vi đo từ 5 L/min đến 45 L/min
+Nơi sử dụng: Tàu dầu BĐ - 0153H
+Place:
+Người/Đơn vị sử dụng: Công ty CP TM DV Hiệp Hòa
+User: 112 Hai Bà Trưng, TP. Quy Nhơn, tỉnh Bình Định
+Phương pháp thực hiện: ĐLVN 10 : 2017
+Method of verification:
+Kết luận: Đạt yêu cầu kỹ thuật đo lường
+Conclusion:
+Số tem kiểm định: 23A - 17032
+Verification stamp N°:
+Thời hạn đến (nếu có): (*) 28/02/2025
+Valid until:
+Bình Định, ngày 28 tháng 02 năm 2024
+Date of issue
+Kiểm định viên	GIÁM ĐỐC
+Verified by	Director
+[chữ ký]	[dấu: TRUNG TÂM PHÂN TÍCH VÀ ĐO LƯỜNG CHẤT LƯỢNG BÌNH ĐỊNH]
+Trần Quốc Tuấn	[chữ ký]
+Nguyễn Thành Phương
+(*) Với điều kiện tôn trọng các quy định về sử dụng và bảo quản.
+(With respectfulness of rules of use and maintenance)
+BM.01/QT.13/TTPT * L2 * 01/10/2019
+--- trang 2 (bị cắt bớt) ---
+TRUNG TÂM PHÂN TÍCH VÀ | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+ĐO LƯỜNG CHẤT LƯỢNG BÌNH ĐỊNH | Độc lập - Tự do - Hạnh phúc
+AMQ | SOCIALIST REPUBLIC OF VIET NAM
+Địa chỉ (Add): 173-175 Phan Bội Châu, Tp. Quy Nhơn | Independence - Freedom - Happiness
+Điện thoại (Tel): 0256 3822322, 0256 3822607
+GIẤY CHỨNG NHẬN KIỂM ĐỊNH
+CERTIFICATE OF VERIFICATION
+Số (N0): K.177/2024
+Tên đối tượng: Cột đo Dầu DO 0,05S
+Object:
+Kiểu: Điện tử | Số: 02
+Type: | Serial No:
+Nơi sản xuất: Việt Nam | Năm: /
+Manufacturer: | Year:
+Đặc trưng kỹ thuật đo lường: Qmax = 45 L/min; Cấp chính xác: 0,5
+Specifications: Phạm vi đo từ 5 L/min đến 45 L/min
+Nơi sử dụng: Tàu dầu BĐ - 0153H
+Place:
+Người/Đơn vị sử dụng: Công ty CP TM DV Hiệp Hòa
+User: 112 Hai Bà Trưng, TP. Quy Nhơn, tỉnh Bình Định
+Phương pháp thực hiện: ĐLVN 10 : 2017
+Method of verification:
+Kết luận: Đạt yêu cầu kỹ thuật đo lường
+Conclusion:
+Số tem kiểm định: 23A - 190
+
+===== doc_id: 568a16a4eaf8 | tệp: HDVC 2020-QUAN DOI-01.03-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 08/2020/HĐVC-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 01 tháng 03 năm 2020, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CN XĂNG DẦU QUÂN ĐỘI KV TÂY NGUYÊN – CÔNG TY TNHH MTV TỔNG CÔNG TY XĂNG DẦU QUÂN ĐỘI    (BÊN CHỦ HÀNG)
+Địa chỉ : Quốc lộ 1A, Tổ 8, KV 4, P. Trần Quang Diệu, TP. Quy Nhơn, Tỉnh Bình Định, VN.
+Điện thoại : 0566.263.399
+Tài Khoản : 4031100226868 tại NH TMCP Quân đội – PGD Diêu Trì - Bình Định
+4309201002559 tại NH NN và PTNT chi nhánh KCN Phú Tài
+Mã số thuế : 01001.08688-029
+Giấy chứng nhận đăng ký kinh doanh số: 01001.08688-029 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 08/08/2014.
+Do Ông/ Bà : ĐỖ THÀNH HƯNG    - Chức vụ: Giám đốc chi nhánh
+II/ BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA    (BÊN VẬN CHUYỂN)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 056. 3821400 -0983 848 211    Fax: 056. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank CN Phú Tài, Bình Định
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 05 ngày 06 tháng 08 năm 2018.
+Do Bà : DƯƠNG THỊ THANH LỰU    - Chức vụ: Giám đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như 
+--- trang 2 (bị cắt bớt) ---
+ĐIỀU III: GIÁ VÀ PHƯƠNG THỨC THANH TOÁN
+- Giá cả do hai bên thỏa thuận theo từng thời điểm.
+- Phương thức tính theo lít vận chuyển.
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên A.
+- Bảo đảm hàng còn niê
+
+===== doc_id: 4f3f0793516b | tệp: GPKD-AN PHÁT LAND.pdf | số trang: 1 =====
+--- trang 1 ---
+SỞ KẾ HOẠCH VÀ ĐẦU TƯ
+TỈNH BÌNH ĐỊNH
+PHÒNG ĐĂNG KÝ KINH DOANH
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP
+CÔNG TY CỔ PHẦN
+Mã số doanh nghiệp: 4101517345
+Đăng ký lần đầu: ngày 29 tháng 06 năm 2018
+Đăng ký thay đổi lần thứ: 2, ngày 30 tháng 05 năm 2022
+1. Tên công ty
+Tên công ty viết bằng tiếng Việt: CÔNG TY CỔ PHẦN ĐẦU TƯ AN PHÁT LAND
+Tên công ty viết bằng tiếng nước ngoài: AN PHAT LAND INVESTMENT JOINT STOCK COMPANY
+Tên công ty viết tắt: AN PHAT LAND
+2. Địa chỉ trụ sở chính
+Thọ Lộc 1, Xã Nhơn Thọ, Thị xã An Nhơn, Tỉnh Bình Định, Việt Nam
+Điện thoại: 0935581869 | Fax:
+Email: | Website:
+3. Vốn điều lệ
+Vốn điều lệ: 141.500.000.000 đồng.
+Bằng chữ: Một trăm bốn mươi mốt tỷ năm trăm triệu đồng
+Mệnh giá cổ phần: 10.000 đồng
+Tổng số cổ phần: 14.150.000
+4. Người đại diện theo pháp luật của công ty
+* Họ và tên: NGUYỄN TẮC LƯU | Giới tính: Nam
+Chức danh: Giám đốc
+Sinh ngày: 05/05/1969 | Dân tộc: Kinh | Quốc tịch: Việt Nam
+Loại giấy tờ pháp lý của cá nhân: Chứng minh nhân dân
+Số giấy tờ pháp lý của cá nhân: 211112501
+Ngày cấp: 05/01/2010 | Nơi cấp: Công an tỉnh Bình Định
+Địa chỉ thường trú: Số 73 đường Nguyễn Duy Trinh, Phường Thị Nại, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam
+Địa chỉ liên lạc: Số 73 đường Nguyễn Duy Trinh, Phường Thị Nại, Thành phố Quy Nhơn, Tỉnh Bình Định, Việt Nam
+[dấu: SỞ KẾ HOẠCH VÀ ĐẦU TƯ ... PHÒNG ĐĂNG KÝ KINH DOANH ...]
+TRƯỞNG PHÒNG
+[chữ ký]
+Hồ Kim Hạnh
+
+===== doc_id: 8af369ea50f5 | tệp: lắp máy vn ( 31-12-2024).pdf | số trang: 4 =====
+--- trang 1 ---
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập – Tự do – Hạnh phúc
+----------o0o----------
+HỢP ĐỒNG NGUYÊN TẮC MUA BÁN XĂNG DẦU
+Số: 28/PKD/2023-HĐMB
+Giữa
+CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+và
+[dấu: CÔ... -TỔ... XÂY D... TP.NINH B...]
+CÔNG TY CỔ PHẦN-
+TỔNG CÔNG TY XÂY DỰNG VÀ LẮP MÁY VIỆT NAM
+[không đọc được phần còn lại]
+Trang 1/5
+--- trang 2 (bị cắt bớt) ---
+1.4 Bên A đảm bảo nguồn hàng cung cấp cho bên B theo Khoản 1.2, Điều 1 của Hợp đồng này trong mọi tình huống biến động của thị trường, trừ trường hợp bất khả kháng theo Điều 294 của Luật Thương mại 2005 và các quy định khác theo Pháp luật Việt Nam quy định.
+1.5 Đơn vị tính: Lít ở nhiệt độ thực tế (đối với Xăng/Điêzen)
+ĐIỀU 2: GIÁ CẢ VÀ PHƯƠNG THỨC THANH TOÁN:
+2.1. Giá cả: - Là giá bán lẻ vùng 2 do nhà nước quy định được niêm yết tại thời điểm Bên B nhận hàng trừ đi chiết khấu theo từng điểm. Giá bán bao gồm: Giá hàng hóa, Thuế GTGT, các khoản phí do Nhà Nước quy định. Bên A báo giá cho bên B bằng thông báo giá, điện thoại cho bên B, được hai bên xác nhận làm cơ sở cung cấp và thanh toán sau này.
+- Giá các loại dầu nhờn được theo thoả thuận tại từng thời điểm.
+- Trong quá trình thực hiện hợp đồng, nếu có sự điều chỉnh giá thanh toán cho từng đơn hàng Bên A sẽ thông báo ngay cho Bên B.
+2.2
+
+===== doc_id: c937939735f2 | tệp: 18. BVMT-PHAM NGOC HOANG (3-6-27).pdf | số trang: 2 =====
+--- trang 1 ---
+BỘ CÔNG THƯƠNG
+TRƯỜNG CAO ĐẲNG THƯƠNG MẠI
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+GIẤY CHỨNG NHẬN
+Cấp cho: Phạm Ngọc Hoàng
+Sinh ngày: 1975
+Nơi sinh: Bình Định
+Đã dự lớp bồi dưỡng: Bảo vệ môi trường trong KD xăng dầu theo Nghị định 83/2014/NĐ-CP
+Từ ngày: 28/5/2022 Đến ngày: 02/6/2022
+Kết quả học tập đạt loại: Trung bình
+Đà Nẵng, ngày 03 tháng 6 năm 2022
+HIỆU TRƯỞNG
+[dấu: TRƯỜNG CAO ĐẲNG THƯƠNG MẠI]
+[chữ ký]
+TS. Đinh Văn Tuyên
+Vào sổ số: 93838
+Ngày: 03/6/2022
+--- trang 2 ---
+GIẤY CHỨNG NHẬN
+[dấu]
+
+===== doc_id: 44e9ed288f9f | tệp: HDVC 2023-DUONG DONG-1.1-31.12.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 07/2023/HĐVC-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 21 tháng 12 năm 2022, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY TNHH MỘT THÀNH VIÊN XĂNG DẦU DƯƠNG ĐÔNG- MIỀN TRUNG (BÊN THUÊ VẬN CHUYỂN)
+Địa chỉ : Số 111 Thống Nhất, P. Đài Sơn, TP. Phan Rang – Tháp Chàm, Tỉnh Ninh Thuận
+Điện thoại : 0259 39 202 39
+Tài Khoản : 6151.0000.370.865 BIDV CN Ninh Thuận
+Mã số thuế : 4500572267
+Do Ông/ Bà : MAI THANH QUANG - Chức vụ: Giám Đốc
+II/ BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN)
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0905111101
+Tài khoản : 110000033767 tại Ngân hàng TMCP Công thương VN- CN Bình Định
+58010000422189 tại Ngân hàng BIDV CN Bình Định
+Mã số thuế : 4100668616
+Theo Giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu số: 326-TNPP/QĐ-BCT ngày 29/07/2020 của Bộ Công thương.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+[dấu: M.S.D.N: 4500572267, CÔNG TY TRÁCH NHIỆM MỘT THÀNH VIÊN XĂNG DẦU DƯƠNG [?] MIỀN [?], TP.PHAN RANG - T[?]]
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+ĐIỀU I: CÁC KHOẢN HAI BÊN KÝ KẾT
+- Bên A thuê Bên B vận chuyển xăng dầu bằng phương tiện ôtô xitec.
+- Khối lượng hàng theo quy định vận chuyển của xe.
+- Bên B chịu trách nhiệm đầy đủ các thủ tục pháp lý của xe liên quan đến lưu hành phương tiện vận chuyển xăng dầu chuyên d
+--- trang 2 (bị cắt bớt) ---
+- Bên B phải xuất hóa đơn hợp pháp cho bên A làm cơ sở thanh toán.
+- Thời gian thanh toán vào ngày 10 hàng tháng.
+ĐIỀU IV: TRÁCH NHIỆM CỦA HAI BÊN:
+1/ Trách nhiệm bên A:
+- Tạo mọi điều kiện cho bên B được giao nhận vận chuyển hàng hóa một cách nhanh nhất.
+- Chịu trách nhiệm đủ thủ tục pháp lý về hàng hóa để đảm bảo cho bên B đủ điều kiện lưu thông trên đường vận chuyển.
+- Thanh toán cước đúng quy định tại điều III
+2/ Trách nhiệm bên B:
+- Nhận và giao hàng đúng nơi quy định của bên A.
+- Mang theo đầy đủ giấy tờ hợp pháp theo qui định của pháp luật đối với phương tiện vận chuyển chuyên dùng trong thời gian vận chuyển, nhận hóa đơn chứng từ khi đầu mối xuất hàng và giao lại cho bên A sau khi giao hàng xong.
+- Giao chai hàng mẫu cho bên A.
+- Bảo đảm hàng còn niêm nguyên vẹn từ lúc nhận đến lúc giao.
+- Đền bù và chịu mọi chi phí nếu có hành vi gian lận khi bên nhận từ chối không nhận hàng.
+- 
+
+===== doc_id: defbf93a78b4 | tệp: KT-23.2023-YEN TUNG-21.12.22-31.12.23.pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 23/2023/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+(HỘ CÔNG NGHIỆP)
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 21 tháng 12 năm 2022, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tỉnh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0983 848 211 Fax: 0256. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank Quy Nhơn
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 06 ngày 20 tháng 10 năm 2020.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY TNHH ĐẦU TƯ XÂY DỰNG VÀ THƯƠNG MẠI DỊCH VỤ YẾN TÙNG
+Địa chỉ : Thôn Phụng Sơn, Xã Phước Sơn, Huyện Tuy Phước, Tỉnh Bình Định, VN
+Điện thoại : 0256 3830242- 0903529297
+Fax: 0256 3830777
+Tài Khoản : ......................................................................................
+Mã số thuế : 4100400016
+Giấy chứng nhận đăng ký kinh doanh số: 4100400016 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày: 01/02/2001. Đăng ký thay đổi lần thứ 16 ngày 22/06/2020
+Do Ông/ Bà : ĐINH THỊ KIM YẾN - Chức vụ: Giám Đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+Điều I: Mặt hàng, số lượng, mục đí
+--- trang 2 (bị cắt bớt) ---
+- Trường hợp bên B có xe tự vận chuyển, hoặc nhận trực tiếp: thì được nhận tại kho do bên A thông báo.
+- Về việc giao hàng: Đường xe vận chuyển phải là đường được lưu hành theo quy định của luật giao thông.
+2.2. Thời gian giao hàng:
+- Khi cần giao hàng với số lượng lớn bên B sẽ phải có đơn đặt hàng hoặc thông báo cho bên A trước 01 ngày khi cần giao hàng.
+Điều III: Phương thức và thời gian thanh toán:
+- Thanh toán tiền mặt hoặc chuyển khoản theo quy định của pháp luật hiện hành
+- Thanh toán trước khi nhận hàng hoặc thoả thuận theo từng thời điểm.
+- Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực.
+- Định kỳ (hàng tháng hoặc hàng quý) Bên A chịu trách nhiệm thống kê hàng hóa, công nợ và hai bên A, B đối chiếu công nợ để làm cơ sở cho việc thanh toán. Trong vòng 7 ngày kể từ khi nhận được biên bản đối chiếu công nợ nếu bên B không xác nhận đối ch
+
+===== doc_id: 8ff979a61664 | tệp: bbgn-260206-10.pdf | số trang: 1 =====
+--- trang 1 ---
+CTY CPTM DV Hiệp Hòa | Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam
+112 Hai Bà Trưng – P. Quy Nhơn | Độc lập – Tự do – Hạnh phúc
+ngày 06 tháng 02 năm 2026
+BIÊN BẢN GIAO HÀNG
+Tên khách hàng: DNTN xD Hồng Quân
+Địa chỉ: Phù mỹ đông - Gia Lai
+Điện thoại: | Fax:
+Mã số thuế:
+Nơi giao hàng: CHXD Hồng Quân
+Phương tiện giao hàng: 77C-12172
+Người nhận: | Số CMND:
+Điện thoại:
+STT | TÊN HÀNG HÓA | ĐƠN VỊ TÍNH | SỐ LƯỢNG | GHI CHÚ
+1 | Xăng RON 95-III | lít | 5000 |
+2 | | | |
+ | | | |
+TỔNG | | | 5000 |
+(Biên bản này là cơ sở pháp lý để bên mua thanh toán cho bên bán).
+Người vận chuyển (giao hàng) | Người nhận hàng
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký]
+
+===== doc_id: a6640bcc1462 | tệp: don-hang_2606-0024.pdf | số trang: 1 =====
+--- trang 1 ---
+CT CP TM-DV HIỆP HÒA
+Số: PO-20260612-XDBINHDINH | CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+ĐƠN ĐẶT HÀNG
+Ngày 12 tháng 06 năm 2026
+Kính gửi: CÔNG TY TNHH MTV PETROLIMEX GIA LAI
+- Căn cứ Hợp đồng mua bán xăng dầu số: 04/PLXGL-HĐTNPP ngày 25/12/2025 giữa CT CP TM-DV HIỆP HÒA và Công Ty TNHH MTV Petrolimex Gia Lai
+Chúng tôi trân trọng đề nghị Quý công ty cung cấp các mặt hàng dưới đây:
+STT | Mặt hàng | ĐVT | Số lượng | Đơn giá thanh toán | Thành tiền
+1 | Dầu Điêzen 0,001S Mức 5 | Lít | 4.000 | 27.440 | 109.760.000
+TỔNG CỘNG | | | 4.000 | | 109.760.000
+(*) Đơn giá thanh toán đã bao gồm VAT.
+Bằng chữ: Một trăm lẻ chín triệu bảy trăm sáu mươi nghìn đồng
+Thời gian nhận hàng: Ngày 13/06/2026
+ĐẠI DIỆN BÊN MUA
+Phó giám đốc
+Đặng Nhơn Hòa
+[chữ ký điện tử: Signature valid / Được ký bởi: CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA / Ngày ký: 12/06/2026]
+
+===== doc_id: 9a70617c73a1 | tệp: 5. DU ĐIEU KIEN PCCC (GOC)_1.pdf | số trang: 1 =====
+--- trang 1 ---
+BỘ CÔNG AN	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM	Mẫu PC4
+CA tỉnh Bình Định	Độc lập - Tự do - Hạnh phúc	BH theo Thông tư số: 04/2004/TT-BCA
+Số: 167/ĐK-PCCC (........)	Ngày 31-3-2004
+GIẤY CHỨNG NHẬN
+ĐỦ ĐIỀU KIỆN VỀ PHÒNG CHÁY VÀ CHỮA CHÁY
+- Căn cứ Luật Phòng cháy và chữa cháy ngày 29 tháng 6 năm 2001;
+- Căn cứ Nghị định số 35/2003/NĐ-CP ngày 04 tháng 4 năm 2003 của Chính phủ quy định chi tiết thi hành một số điều của Luật phòng cháy và chữa cháy;
+- Căn cứ Thông tư số 04/2004/TT-BCA ngày 31 tháng 3 năm 2004 của Bộ Công an;
+- Xét hồ sơ đề nghị cấp "Giấy chứng nhận đủ điều kiện về PCCC" của ông/bà: Đặng Nhiên Hiệp	Chức vụ: Giám đốc
+đại diện cho: Công ty trách nhiệm hữu hạn thương mại Hiệp Hòa [?]
+và biên bản kiểm tra các điều kiện về PCCC của phòng PC23 công an tỉnh Bình Định [?]
+lập ngày 22 tháng 01 năm 2009
+(1) Phòng CS phòng cháy chữa cháy [?]
+CHỨNG NHẬN:
+(2) Cửa hàng xăng dầu số 2
+Thuộc: Công ty trách nhiệm hữu hạn thương mại Hiệp Hòa
+Địa chỉ: Tổ 5 Khu [?] Nguyễn Thị Xuân, Quy Nhơn, Bình Định
+Tại thời điểm cấp Giấy chứng nhận này có đủ điều kiện về phòng cháy và chữa cháy theo quy định của pháp luật để: Mua bán xăng dầu
+Đồng thời ông/bà: Đặng Nhiên Hiệp có trách nhiệm duy trì liên tục điều kiện về PCCC đã chứng nhận của phòng CS phòng cháy chữa cháy [?] trong suốt quá trình hoạt động.
+Quy Nhơn, ngày 23 tháng 01 năm 2009
+(3)
+[dấu: TL/ GIÁM ĐỐC - KT/TRƯỞNG PHÒNG PC23 - PHÓ TRƯỞNG PHÒNG]
+[chữ ký]
+Thượng tá: TRẦN XUÂN CHÍ
+(1)Tên cơ quan Cảnh sát PCCC cấp giấy; (2) Tên cơ sở hoặc phương tiện giao thông cơ giới; (3) Chức danh người ký giấy(ký tên, đóng dấu).
+
+===== doc_id: 889bd01a2f5e | tệp: NHẬT TIẾN ( 31-12-2024).pdf | số trang: 2 =====
+--- trang 1 (bị cắt bớt) ---
+CÔNG TY CP TM-DV HIỆP HÒA
+Số: 21/2024/HĐMB-HH
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc Lập – Tự Do – Hạnh Phúc
+HỢP ĐỒNG MUA BÁN HÀNG HÓA
+(HỘ CÔNG NGHIỆP)
+- Căn cứ Bộ Luật Dân Sự năm 2015 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ Luật Thương mại năm 2005 của nước Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam.
+- Căn cứ vào khả năng và nhu cầu của hai bên.
+Hôm nay, ngày 21 tháng 11 năm 2023, tại văn phòng Công ty CP TM-DV Hiệp Hòa.
+Địa chỉ trụ sở: 112 Hai Bà Trưng, P. Lê Lợi, TP Quy Nhơn, Tinh Bình Định, chúng tôi gồm có:
+I/ BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA
+Địa chỉ : 112 Hai Bà Trưng, Phường Lê Lợi, TP. Quy Nhơn, Tỉnh Bình Định
+Điện thoại : 0256. 3821400 -0983 848 211 Fax: 0256. 3648211
+Tài khoản : 58010000422189 tại Ngân hàng BIDV CN Bình Định
+0431000192099 tại Ngân hàng Vietcombank Quy Nhơn
+Mã số thuế : 4100668616
+Giấy chứng nhận đăng ký kinh doanh số: 4100668616 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày 17/12/2007. Đăng ký thay đổi lần thứ 06 ngày 20 tháng 10 năm 2020.
+Do Bà : DƯƠNG THỊ THANH LỰU - Chức vụ: Giám đốc
+II/ BÊN B: CÔNG TY TNHH NHẬT TIẾN
+Địa chỉ : Lô số 05,06,07,08- Cụm Công nghiệp Phú An, Xã Tây Xuân, Huyện Tây Sơn, Tỉnh Bình Định
+Điện thoại : 0256.3580959- 0905032228 Fax: 0256.3580959
+Tài Khoản : ......................................................................................
+Mã số thuế : 4100622844
+Giấy chứng nhận đăng ký kinh doanh số: 4100622844 do Phòng đăng ký kinh doanh, Sở kế hoạch và đầu tư tỉnh Bình Định cấp đăng ký lần đầu ngày: 21/11/2006. Đăng ký thay đổi lần thứ 18 ngày 06/05/2022
+Do Ông/ Bà : TẠ THANH HẢI - Chức vụ: Giám Đốc
+Hai bên cùng nhau bàn bạc, và đi đến thống nhất nội dung hợp đồng với các điều khoản như sau:
+Điều I: Mặt hàng, số lượng, mục đích sử dụng, giá cả & 
+--- trang 2 (bị cắt bớt) ---
+- Về việc giao hàng: Đường xe vận chuyển phải là đường được lưu hành theo quy định của luật giao thông.
+2.2. Thời gian giao hàng:
+- Khi cần giao hàng với số lượng lớn bên B sẽ phải có đơn đặt hàng hoặc thông báo cho bên A trước 01 ngày khi cần giao hàng.
+Điều III: Phương thức và thời gian thanh toán:
+- Thanh toán tiền mặt hoặc chuyển khoản theo quy định của pháp luật hiện hành
+- Thanh toán trước khi nhận hàng hoặc thoả thuận theo từng thời điểm.
+- Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực.
+- Định kỳ (hàng tháng hoặc hàng quý) Bên A chịu trách nhiệm thống kê hàng hóa, công nợ và hai bên A, B đối chiếu công nợ để làm cơ sở cho việc thanh toán. Trong vòng 7 ngày kể từ khi nhận được biên bản đối chiếu công nợ nếu bên B không xác nhận đối chiếu công nợ mà không có lý do chính đáng thì xem như bên B đã chấp nhận công nợ.
+Điều IV: Trách nhiệm c

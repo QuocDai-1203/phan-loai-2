@@ -1,0 +1,23 @@
+{
+  "unit_id": "03103c6a51cb_0",
+  "annotator": "haiku",
+  "doc_type": "PHIEU_XUAT_KHO",
+  "pages_seen": [1],
+  "fields": {
+    "so_phieu": {"value": "2603291", "normalized": "2603291", "page": 1, "evidence": "Số: 2603291", "ink": "printed", "status": "ok", "note": null},
+    "ky_hieu": {"value": "BSR/PXK/DO", "normalized": "BSR/PXK/DO", "page": 1, "evidence": "Ký hiệu: BSR/PXK/DO", "ink": "printed", "status": "ok", "note": null},
+    "ngay_xuat": {"value": "28/01/2026", "normalized": "2026-01-28", "page": 1, "evidence": "Ngày: 28/01/2026", "ink": "printed", "status": "ok", "note": null},
+    "ben_giao": {"value": "Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "normalized": "Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "page": 1, "evidence": "Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "ink": "printed", "status": "ok", "note": null},
+    "ben_nhan": {"value": "Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "normalized": "Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "page": 1, "evidence": "Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "ink": "printed", "status": "ok", "note": null},
+    "hop_dong_can_cu": {"value": "1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025", "normalized": "1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025", "page": 1, "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025", "ink": "printed", "status": "ok", "note": null},
+    "lenh_xuat_hang": {"value": "705/LXHXB-DO-270126-276-0 (8000148560)", "normalized": "705/LXHXB-DO-270126-276-0 (8000148560)", "page": 1, "evidence": "Lệnh xuất hàng: 705/LXHXB-DO-270126-276-0 (8000148560)", "ink": "printed", "status": "ok", "note": null},
+    "bon_xuat": {"value": "TK-5207B", "normalized": "TK-5207B", "page": 1, "evidence": "Xuất tại bồn số: TK-5207B", "ink": "printed", "status": "ok", "note": null},
+    "bien_so_phuong_tien": {"value": "77R-035.62", "normalized": "77R-035.62", "page": 1, "evidence": "Phương tiện: 77R-035.62", "ink": "printed", "status": "ok", "note": null},
+    "mat_hang": {"value": "Nhiên liệu điêzen (DO 0,05S) mức 2", "normalized": "Nhiên liệu điêzen (DO 0,05S) mức 2", "page": 1, "evidence": "Nhiên liệu điêzen (DO 0,05S) mức 2", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_m3_15c": {"value": "40,450", "normalized": "40450", "page": 1, "evidence": "254,552 40,450 33,455 41,022", "ink": "printed", "status": "ok", "note": "dau_phay_la_phan_nghin"},
+    "so_luong_tan": {"value": "33,455", "normalized": "33455", "page": 1, "evidence": "254,552 40,450 33,455 41,022", "ink": "printed", "status": "ok", "note": "dau_phay_la_phan_nghin"},
+    "so_luong_m3_thuc_te": {"value": "41,022", "normalized": "41022", "page": 1, "evidence": "254,552 40,450 33,455 41,022", "ink": "printed", "status": "ok", "note": "dau_phay_la_phan_nghin"},
+    "so_chung_thu_chat_luong": {"value": "DO-027-202601260432", "normalized": "DO-027-202601260432", "page": 1, "evidence": "Số chứng thư chất lượng (COQ) DO-027-202601260432", "ink": "printed", "status": "ok", "note": "lap_lai_tren_moi_ham"}
+  },
+  "unit_note": "con_dau_de_len_tieu_de"
+}

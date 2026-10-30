@@ -1,0 +1,18 @@
+{
+  "unit_id": "4a2298c0dea7_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1],
+  "fields": {
+    "so_giay": {"value": "52/GCNĐĐK-SCT", "normalized": "52/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 52/GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "21 tháng 6 năm 2018", "normalized": "2018-06-21", "page": 1, "evidence": "Gia Lai ngày 21 tháng 6 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "UBND TỈNH GIA LAI SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH GIA LAI SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH GIA LAI SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Đại lý bán lẻ xăng dầu số 2", "normalized": "Đại lý bán lẻ xăng dầu số 2", "page": 1, "evidence": "Đại lý bán lẻ xăng dầu số 2", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Thôn Thượng An 2, Xã Song An, thị xã An Khê, tỉnh Gia Lai", "normalized": "Thôn Thượng An 2, Xã Song An, thị xã An Khê, tỉnh Gia Lai", "page": 1, "evidence": "Thôn Thượng An 2, Xã Song An, thị xã An Khê", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH MTV Sáu Liêm Gia Lai; Mã số thuế: 5900305250", "normalized": "Công ty TNHH MTV Sáu Liêm Gia Lai; Mã số thuế: 5900305250", "page": 1, "evidence": "Công ty TNHH MTV Sáu Liêm Gia Lai", "ink": "printed", "status": "ok", "note": "mst_o_dong_khac_trang"},
+    "thuong_nhan_cung_cap": {"value": "Công ty Xăng dầu Bình Định; Mã số thuế: 4100259821", "normalized": "Công ty Xăng dầu Bình Định; Mã số thuế: 4100259821", "page": 1, "evidence": "Tên thương nhân: Công ty Xăng dầu Bình Định", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 21/6/2018", "normalized": "Cấp lần thứ nhất: ngày 21/6/2018", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 21/6/2018", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "21 tháng 6 năm 2023", "normalized": "2023-06-21", "page": 1, "evidence": "giá trị đến hết ngày 21 tháng 6 năm 2023", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_nhieu_mo"
+}

@@ -1,0 +1,40 @@
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN - PETROVIETNAM - BSR - M.S.D.N: 4300378569 - TỈNH QUẢNG NGÃI]
+PHIẾU XUẤT KHO THÀNH PHẨM
+VHSX
+Ngày: 03/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2600238
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Lệnh xuất hàng: 28/LXHXB-DO-030126-13-0 (8000145400)
+Xuất tại bồn số: TK-5207C          Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: NGUYỄN TRUNG THÔNG
+Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Địa chỉ: 14 Nguyễn Tri Phương Phường Thanh Khê Thành phố Đà Nẵng.
+Đại diện bên nhận: LÊ ĐÌNH VÂN
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 188/UQ-HK
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77R-035.62          Đến kho lúc: 07 giờ 46 phút ngày 03 tháng 01 năm 2026
+Bắt đầu lúc: 08 giờ 26 phút ngày 03 tháng 01 năm 2026          Kết thúc lúc: 09 giờ 23 phút ngày 03 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng
+ | Bbls (thùng) | M3 (tại 15⁰C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 254,671 | 40,469 | 33,573 | 41,025
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm năm mươi bốn phẩy sáu trăm bảy mươi một thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI030 | 1,000227 | 0,999959 | 0,999933 | 0,999472 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15⁰C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (⁰C)
+DO-195-202512310401 | 01 | 0,986500 | 0,8307 | 5,10 | 31,0
+DO-195-202512310401 | 02 | 0,986300 | 0,8307 | 4,90 | 31,2
+DO-195-202512310401 | 03 | 0,986500 | 0,8307 | 5,10 | 31,0
+DO-195-202512310401 | 04 | 0,986500 | 0,8307 | 4,90 | 31,0
+DO-195-202512310401 | 05 | 0,986300 | 0,8307 | 5,10 | 31,4
+DO-195-202512310401 | 06 | 0,986400 | 0,8307 | 5,00 | 31,1
+Người lập phiếu (Ký, ghi rõ họ tên) | Đại diện bên giao (Ký, ghi rõ họ tên) | Đại diện bên nhận (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký] | [chữ ký]
+Nguyễn Trung Thông | Nguyễn Trung Thông | Lê Đình Vân
+Biểu mẫu BSR-PMD-PRO-084/F-022, rev 0, 26/08/2025 | 1 / 1
+Văn bản được tải lên hệ thống eoffice.bsr.com.vn. Với số định danh: BSR/PXK/DO

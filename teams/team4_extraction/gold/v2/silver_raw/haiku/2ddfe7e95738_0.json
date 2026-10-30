@@ -1,0 +1,18 @@
+{
+  "unit_id": "2ddfe7e95738_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUON_BON",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "09/2021/HĐMB-HH", "normalized": "09/2021/HĐMB-HH", "page": 1, "evidence": "Số: 09/2021/HĐMB-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "01 tháng 07 năm 2021", "normalized": "2021-07-01", "page": 1, "evidence": "Hôm nay, ngày 01 tháng 07 năm 2021", "ink": "printed", "status": "ok", "note": null},
+    "ben_cho_muon": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế : 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế : 4100668616", "page": 1, "evidence": "Mã số thuế : 4100668616", "ink": "printed", "status": "ok", "note": null},
+    "ben_muon": {"value": "CÔNG TY TNHH XÂY DỰNG TIÊN TÁN, Mã số thuế : 4100516606", "normalized": "CÔNG TY TNHH XÂY DỰNG TIÊN TÁN, Mã số thuế : 4100516606", "page": 1, "evidence": "Mã số thuế : 4100516606", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_bon": {"value": "01", "normalized": "1", "page": 1, "evidence": "mượn 01 bồn chứa dầu dung tích 40.000 lít", "ink": "printed", "status": "ok", "note": null},
+    "dung_tich_bon": {"value": "40.000 lít", "normalized": "40000", "page": 1, "evidence": "dung tích 40.000 lít bằng sắt 6ly", "ink": "printed", "status": "ok", "note": null},
+    "ngay_nhan_bon": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "ngay_tra_bon": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_den": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null}
+  },
+  "unit_note": "anh_mo: p02_b"
+}

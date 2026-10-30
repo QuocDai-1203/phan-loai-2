@@ -1,0 +1,84 @@
+[trang xoay]
+BỘ GIAO THÔNG VẬN TẢI
+CỤC ĐĂNG KIỂM VIỆT NAM
+CHI CỤC ĐĂNG KIỂM SỐ 4
+Số: 01080/24V43
+CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+Độc lập - Tự do - Hạnh phúc
+BV 093743
+GIẤY CHỨNG NHẬN AN TOÀN KỸ THUẬT VÀ
+BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN THỦY NỘI ĐỊA
+Tên phương tiện: HIỆP HÒA 01
+Số ĐKHC: BĐ-0153H
+Công dụng: Chở dầu loại II
+Số Đăng kiểm: V77-00022
+Chủ phương tiện: Công ty cổ phần thương mại dịch vụ Hiệp Hòa
+Địa chỉ: Phường Lê Lợi, TP. Quy Nhơn, Bình Định
+Năm và nơi đóng: 2001, Quy Nhơn
+Kích thước cơ bản: L x B x D x d: 14,8 x 4,3 x 2,1 x 1,25
+L max x B max: 15,5 x 4,5 m
+Vật liệu: Gỗ
+Mạn khô F: 900 mm
+Số lượng máy chính/phụ: 1/1
+Tổng công suất: sức ngựa
+Tổng dung tích (GT): 55/18
+Căn cứ báo cáo kiểm tra kỹ thuật số 01080/24V43 ngày 19 tháng 7 năm 2024
+CHI CỤC ĐĂNG KIỂM SỐ 4
+Chứng nhận phương tiện có đặc tính kỹ thuật và ngăn ngừa ô nhiễm ghi trong giấy chứng nhận này có trạng thái kỹ thuật thỏa mãn các yêu cầu của quy chuẩn, quy định hiện hành và được trao cấp:
+VR-SII
+Vùng hoạt động: Vùng SII
+Lượng hàng: 25 (tấn)
+Khả năng khai thác:
+-Phương tiện chỉ được phép hoạt động từ cửa sông trở vào đất liền, hồ, kênh rạch, đầm phá.
+-Phương tiện không được phép chở xăng hoặc các loại dầu có điểm chớp cháy từ 60 độ C trở xuống.
+-Luôn tuân thủ Luật PCCC khi hoạt động.
+-Theo Nghị định 111/2014/NĐ-CP, niên hạn sử dụng của phương tiện đến hết ngày 17/06/2026.
+Giấy chứng nhận này có hiệu lực đến ngày 17 tháng 12 năm 2024
+Cấp tại
+Đà Nẵng, ngày 19 tháng 7 năm 2024
+LÃNH ĐẠO ĐƠN VỊ ĐĂNG KIỂM
+(ký, ghi rõ họ tên, đóng dấu)
+[dấu: CHI CỤC ĐĂNG KIỂM SỐ 4 - CỤC ĐĂNG KIỂM VIỆT NAM]
+[chữ ký]
+KS Lê Anh Tuấn
+Số KS VR01006627
+SI-01
+-1-
+[trang xoay]
+Trang bị chạy tàu
+Ống nhòm: [x];	Đồng hồ: [x];
+Thiết bị đo sâu đơn giản: [x];	Chuông lệnh: [-];
+Thiết bị đo nghiêng: [x];	Thước đo mức nước: [x];
+GPS hoặc thiết bị tương tự: [-];	La bàn từ hoặc la bàn chuẩn: [-];
+Thiết bị truyền thanh chỉ huy: [-];	Ra đa: [-];
+Thiết bị VTD: MF/HF (chiếc): 0;	VHF (chiếc): 1;
+S.EPIRB: [-];	AIS: cấp A [-]	cấp B [-];
+SART/AIS-SART: [-];
+Trang bị ngăn ngừa ô nhiễm (do rác, dầu, nước thải sinh hoạt, chất lỏng độc hại của tàu)
+Thiết bị phân ly dầu nước: Số lượng (chiếc):
+Két thu hồi hỗn hợp dầu nước: Số lượng (chiếc): 1	Tổng thể tích (m³): 0,05
+Két nước thải: Số lượng (chiếc):	Tổng thể tích (m³):
+Két lắng: Số lượng (chiếc): 1	Tổng thể tích (m³): 0,75
+Két dầu bẩn: Số lượng (chiếc):	Tổng thể tích (m³):
+Bích nối tiêu chuẩn: Số lượng (chiếc):
+Thiết bị chứa rác: Số lượng (chiếc):
+Thiết bị xử lý nước thải: Số lượng (chiếc):	Sản lượng (m³):
+Tổng sản lượng:
+Vị trí:
+Thời hạn kiểm tra
+Định kỳ: 17/06/2027
+Hàng năm: 17/12/2024
+Trên đà:
+Trung gian:
+Áp dụng đối với:
+1. Phương tiện hoạt động tuyến vận tải đường thủy nội địa ven biển, từ bờ ra đảo, giữa các đảo: phương tiện chở khí hóa lỏng, tàu chở công te nơ, chở xô hóa chất nguy hiểm, chở dầu; tàu khách cao tốc, tàu đệm khí.
+2. Các phương tiện của người nước ngoài hoặc các doanh nghiệp 100% vốn nước ngoài tham gia giao thông đường thủy nội địa.
+3. Các phương tiện hoạt động trên sông, kênh, rạch, hồ, đầm và vịnh (trừ các phương tiện nêu ở khoản 1, 2 trên đây), có một trong các đặc trưng sau:
+a) Phương tiện có sức chở người từ 50 người trở lên;
+b) Phương tiện có trọng tải toàn phần từ 200 tấn trở lên;
+c) Phương tiện có động cơ tổng công suất máy chính từ 135 sức ngựa trở lên;
+d) Phương tiện chuyên dùng như: tàu công trình và các tàu có công dụng đặc biệt có chiều dài thiết kế từ 10 m trở lên;
+e) Phương tiện có lắp đặt thiết bị nâng có sức nâng lớn hơn 1 tấn.
+Trách nhiệm của chủ phương tiện:
+Chịu trách nhiệm bảo đảm tình trạng an toàn kỹ thuật và bảo vệ môi trường của phương tiện theo các tiêu chuẩn quy định giữa hai kỳ kiểm tra.
+-4-

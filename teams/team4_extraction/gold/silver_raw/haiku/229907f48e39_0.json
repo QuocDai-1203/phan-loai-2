@@ -1,0 +1,18 @@
+{
+  "unit_id": "229907f48e39_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1],
+  "fields": {
+    "so_giay": {"value": "02/GCNĐĐK-SCT", "normalized": "02/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 02/GCNĐĐK-SCT", "ink": "handwritten", "status": "ok", "note": "so_viet_tay"},
+    "ngay_cap": {"value": "11 tháng 01 năm 2021", "normalized": "2021-01-11", "page": 1, "evidence": "Phú Yên, ngày 11 tháng 01 năm 2021", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "co_quan_cap": {"value": "UBND TỈNH PHÚ YÊN SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH PHÚ YÊN SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH PHÚ YÊN SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG BÁN LẺ XĂNG DẦU THẮNG UYÊN", "normalized": "CỬA HÀNG BÁN LẺ XĂNG DẦU THẮNG UYÊN", "page": 1, "evidence": "CỬA HÀNG BÁN LẺ XĂNG DẦU THẮNG UYÊN", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Thôn Phú Lương, xã An Ninh Đông, huyện Tuy An, tỉnh Phú Yên", "normalized": "Thôn Phú Lương, xã An Ninh Đông, huyện Tuy An, tỉnh Phú Yên", "page": 1, "evidence": "Thôn Phú Lương, xã An Ninh Đông, huyện Tuy An", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "CÔNG TY TNHH THƯƠNG MẠI THẮNG UYÊN; Mã số thuế: 4401016325", "normalized": "CÔNG TY TNHH THƯƠNG MẠI THẮNG UYÊN; Mã số thuế: 4401016325", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: CÔNG TY TNHH THƯƠNG MẠI THẮNG UYÊN", "ink": "printed", "status": "ok", "note": "mst_o_dong_khac_trang"},
+    "thuong_nhan_cung_cap": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": "mst_o_dong_khac_trang"},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 11 tháng 01 năm 2021", "normalized": "Cấp lần thứ nhất: ngày 11 tháng 01 năm 2021", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 11 tháng 01 năm 2021", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "ngay_het_han": {"value": "11 tháng 01 năm 2026", "normalized": "2026-01-11", "page": 1, "evidence": "giá trị đến hết ngày 11 tháng 01 năm 2026", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"}
+  },
+  "unit_note": "scan_nhieu_ngay_va_so_viet_tay"
+}

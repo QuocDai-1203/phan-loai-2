@@ -1,0 +1,68 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs & Environments
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Experiment logs & large artifacts
+logs/
+*.log
+
+# OCR bake-off cache (rendered pages, raw outputs - confidential)
+teams/team1_ocr/experiments/*/_cache/
+_cache/
+
+# Mo hinh / trong so (chay offline) - KHONG commit, xem models/README.md cach dat va dung lai
+models/*
+!models/README.md
+# Cache loi goi LLM cua src/ (DocumentClassifier / run_pipeline), ket qua chay pipeline (chua noi dung tai lieu)
+/cache/
+/output/
+# Thu muc nhap cua cac thi nghiem src engine / src cascade
+teams/team1_ocr/experiments/07_src_engine/_scratch/
+teams/team3_classification/experiments/03_src_cascade/_scratch/
+# Anh trang da render cho nguoi chu thich truong (sinh lai bang teams/team4_extraction/gold/build_units.py, ~440 MB)
+teams/team4_extraction/gold/pages/
+# Anh trang silver v2 (sinh lai bang teams/team4_extraction/gold/v2/build_units_v2.py)
+teams/team4_extraction/gold/v2/pages_v2/
+# T2/T4 nhom 1: tho ma anh giay to (to tiep xuc) va ket qua chay thu thong luong
+teams/team1_ocr/experiments/05_rotation/_sheets/
+teams/team1_ocr/experiments/08_throughput/_scratch/
+teams/team1_ocr/experiments/03_llm_silver/_scratch/
+
+# 06 Kev finetune: du lieu huan luyen chua van ban OCR (khong commit)
+teams/team3_classification/experiments/06_kev_reeval_finetune/_data/

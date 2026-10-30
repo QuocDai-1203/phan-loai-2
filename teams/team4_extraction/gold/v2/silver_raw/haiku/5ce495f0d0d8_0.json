@@ -1,0 +1,16 @@
+{
+  "unit_id": "5ce495f0d0d8_0",
+  "annotator": "haiku",
+  "doc_type": "HD_NHUONG_QUYEN_DAI_LY",
+  "pages_seen": [1, 2, 5, 7, 9, 10],
+  "fields": {
+    "so_hop_dong": {"value": "18/2021/NQBLXD", "normalized": "18/2021/NQBLXD", "page": 1, "evidence": "Số: 18/2021/NQBLXD", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "20 tháng 10 năm 2020", "normalized": "2020-10-20", "page": 1, "evidence": "Ký ngày 20 tháng 10 năm 2020", "ink": "printed", "status": "ok", "note": null},
+    "ben_nhuong_quyen": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ben_nhan_nhuong_quyen": {"value": "DOANH NGHIỆP TƯ NHÂN ĐỨC TRỌNG", "normalized": "DOANH NGHIỆP TƯ NHÂN ĐỨC TRỌNG", "page": 1, "evidence": "BÊN NHẬN NHƯỢNG QUYỀN DOANH NGHIỆP TƯ NHÂN ĐỨC TRỌNG", "ink": "printed", "status": "ok", "note": null},
+    "cua_hang": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_tu": {"value": "01/01/2021", "normalized": "2021-01-01", "page": 1, "evidence": "Hiệu lực từ ngày 01/01/2021 đến hết ngày 31/12/2023", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "31/12/2023", "normalized": "2023-12-31", "page": 1, "evidence": "Hiệu lực từ ngày 01/01/2021 đến hết ngày 31/12/2023", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "nua_duoi_trang_nhieu_trang_trang"
+}

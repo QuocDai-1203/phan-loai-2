@@ -1,0 +1,26 @@
+STT | Tên thành viên | Nơi đăng ký hộ khẩu thường trú đối với cá nhân; địa chỉ trụ sở chính đối với tổ chức | Giá trị phần vốn góp (VNĐ) | Tỷ lệ (%) | Số giấy CMND (hoặc chứng thực cá nhân hợp pháp khác) đối với cá nhân; MSDN đối với doanh nghiệp; Số Quyết định thành lập đối với tổ chức | Ghi chú
+1 | NGÔ THỊ XUÂN | Thôn Thiện Chánh 1, Xã Tam Quan Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định, Việt Nam | 375.000.000 | 25,00 | 210564657 |
+2 | NGUYỄN THỊ THIẾT | Thôn Tân Thành 2, Xã Tam Quan Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định, Việt Nam | 375.000.000 | 25,00 | 210564599 |
+3 | TRẦN VĂN GIÀU | Thôn Thiện Chánh 1, Xã Tam Quan Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định, Việt Nam | 375.000.000 | 25,00 | 210030756 |
+4 | NGUYỄN TÚ | Thôn Tân Thành 2, Xã Tam Quan Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định, Việt Nam | 375.000.000 | 25,00 | 210564833 |
+7. Người đại diện theo pháp luật của công ty
+Chức danh: Giám đốc
+Họ và tên: NGUYỄN TÚ Giới tính: Nam
+Sinh ngày: 1951 Dân tộc: Kinh Quốc tịch: Việt Nam
+Loại giấy tờ chứng thực cá nhân: Giấy chứng minh nhân dân
+Số: 210564833 Ngày cấp: 09/11/2003 Nơi cấp: Công an Bình Định
+Nơi đăng ký hộ khẩu thường trú:
+Thôn Tân Thành 2, Xã Tam Quan Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định, Việt Nam
+Chỗ ở hiện tại:
+Thôn Tân Thành 2, Xã Tam Quan Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định, Việt Nam
+8. Thông tin về chi nhánh
+9. Thông tin về văn phòng đại diện
+10. Thông tin về địa điểm kinh doanh
+1. Tên địa điểm kinh doanh: NHÀ MÁY SẢN XUẤT NƯỚC ĐÁ - CÔNG TY TNHH XUÂN THIẾT
+Địa chỉ địa điểm kinh doanh: Thôn Dĩnh Thạnh, Xã Tam Quan Bắc, Huyện Hoài Nhơn, Tỉnh Bình Định, Việt Nam
+Mã số địa điểm kinh doanh: 00001
+TRƯỞNG PHÒNG
+KT.TRƯỞNG PHÒNG
+PHÓ TRƯỞNG PHÒNG
+[dấu: CỘNG HÒA X.H.C.N VIỆT NAM SỞ KẾ HOẠCH VÀ ĐẦU TƯ TỈNH BÌNH ĐỊNH PHÒNG ĐĂNG KÝ KINH DOANH]
+[chữ ký]

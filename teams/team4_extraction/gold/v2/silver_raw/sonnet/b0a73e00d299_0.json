@@ -1,0 +1,102 @@
+{
+ "unit_id": "b0a73e00d299_0",
+ "annotator": "sonnet",
+ "doc_type": "GCN_KIEM_DINH_DO_LUONG",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_gcn": {
+   "value": "076 -529/DTXT",
+   "normalized": "076-529/DTXT",
+   "page": 1,
+   "evidence": "Số (N°): 076 -529/DTXT",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "mot_chu_so_bi_de"
+  },
+  "doi_tuong": {
+   "value": "XI TÉC Ô TÔ",
+   "normalized": "XI TÉC Ô TÔ",
+   "page": 1,
+   "evidence": "Tên đối tượng: XI TÉC Ô TÔ",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_thiet_bi": {
+   "value": "076",
+   "normalized": "076",
+   "page": 1,
+   "evidence": "Số: 076 Serial N°",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "bien_so": {
+   "value": "77C – 135.83; 77R – 019.26",
+   "normalized": "77C-135.83; 77R-019.26",
+   "page": 1,
+   "evidence": "Biển kiểm soát: 77C – 135.83 77R – 019.26",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "noi_su_dung": {
+   "value": "112 Hai Bà Trưng, thành phố Qui Nhơn, tỉnh Bình Định",
+   "normalized": "112 Hai Bà Trưng, thành phố Qui Nhơn, tỉnh Bình Định",
+   "page": 1,
+   "evidence": "Nơi sử dụng: 112 Hai Bà Trưng, thành phố Qui Nhơn",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "don_vi_su_dung": {
+   "value": "Công ty Cổ phần Thương mại & Dịch vụ Hiệp Hòa",
+   "normalized": "Công ty Cổ phần Thương mại & Dịch vụ Hiệp Hòa",
+   "page": 1,
+   "evidence": "Người/Đơn vị sử dụng: Công ty Cổ phần Thương mại & Dịch vụ Hiệp Hòa",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "to_chuc_kiem_dinh": {
+   "value": "TRUNG TÂM KỸ THUẬT TIÊU CHUẨN ĐO LƯỜNG CHẤT LƯỢNG TỈNH PHÚ YÊN",
+   "normalized": "TRUNG TÂM KỸ THUẬT TIÊU CHUẨN ĐO LƯỜNG CHẤT LƯỢNG TỈNH PHÚ YÊN",
+   "page": 1,
+   "evidence": "TRUNG TÂM KỸ THUẬT TIÊU CHUẨN ĐO LƯỜNG CHẤT LƯỢNG TỈNH PHÚ YÊN",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_tem_kiem_dinh": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "ngày 14 tháng 12 năm 2021",
+   "normalized": "2021-12-14",
+   "page": 1,
+   "evidence": "Phú Yên, ngày 14 tháng 12 năm 2021",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "31-12-2022",
+   "normalized": "2022-12-31",
+   "page": 1,
+   "evidence": "Thời hạn đến: (*) 31-12-2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

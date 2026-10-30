@@ -1,0 +1,18 @@
+{
+  "unit_id": "4b0824ef0964_0",
+  "annotator": "haiku",
+  "doc_type": "HD_VAN_CHUYEN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "03/2022/HĐVC-HH", "normalized": "03/2022/HĐVC-HH", "page": 1, "evidence": "Số: 03/2022/HĐVC-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "ngày 01 tháng 01 năm 2022", "normalized": "2022-01-01", "page": 1, "evidence": "Hôm nay, ngày 01 tháng 01 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ben_chu_hang": {"value": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA - Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA - Mã số thuế: 4100668616", "page": 1, "evidence": "BÊN A: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ben_van_chuyen": {"value": "CÔNG TY TNHH KD XĂNG DẦU ĐỒNG TIẾN - Mã số thuế: 4400218311", "normalized": "CÔNG TY TNHH KD XĂNG DẦU ĐỒNG TIẾN - Mã số thuế: 4400218311", "page": 1, "evidence": "BÊN B: CÔNG TY TNHH KD XĂNG DẦU ĐỒNG TIẾN", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "tuyen_van_chuyen": {"value": "nhận hàng tại kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định; giao tại địa điểm theo yêu cầu của bên A", "normalized": "nhận hàng tại kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định; giao tại địa điểm theo yêu cầu của bên A", "page": 1, "evidence": "nhận hàng tại kho của công ty xăng dầu đầu mối", "ink": "printed", "status": "ok", "note": null},
+    "gia_cuoc": {"value": "Giá cả do hai bên thỏa thuận theo từng thời điểm; phương thức tính theo lít vận chuyển", "normalized": "Giá cả do hai bên thỏa thuận theo từng thời điểm; phương thức tính theo lít vận chuyển", "page": 2, "evidence": "Phương thức tính theo lít vận chuyển", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "từ ngày ký", "normalized": null, "page": 2, "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2022", "ink": "printed", "status": "ok", "note": "chi_ghi_moc_ngay_ky"},
+    "hieu_luc_den": {"value": "31/12/2022", "normalized": "2022-12-31", "page": 2, "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2022", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

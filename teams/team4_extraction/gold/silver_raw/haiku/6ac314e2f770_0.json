@@ -1,0 +1,18 @@
+{
+  "unit_id": "6ac314e2f770_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2, 5, 10],
+  "fields": {
+    "so_hop_dong": {"value": "017/HĐKT/CP- HH/2018", "normalized": "017/HĐKT/CP-HH/2018", "page": 1, "evidence": "Số: 017/HĐKT/CP- HH/2018", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "24 tháng 09 năm 2018", "normalized": "2018-09-24", "page": 1, "evidence": "Hôm nay, ngày 24 tháng 09 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ CHƯƠNG PHÁT, Mã số thuế: 0312488921", "normalized": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ CHƯƠNG PHÁT, Mã số thuế: 0312488921", "page": 1, "evidence": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ CHƯƠNG PHÁT", "ink": "printed", "status": "ok", "note": null},
+    "ben_mua": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "Đóng mới bồn inox 42.000L, Sơ mi Rơmooc xitec, Số hầm: 5-7-5-5-6-4-7-3", "normalized": "Đóng mới bồn inox 42.000L, Sơ mi Rơmooc xitec, Số hầm: 5-7-5-5-6-4-7-3", "page": 1, "evidence": "Đóng mới bồn inox 42.000L, Sơ mi Rơmooc xitec", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_tu": {"value": "kể từ ngày ký", "normalized": null, "page": 5, "evidence": "Hợp đồng có hiệu lực kể từ ngày ký đến khi", "ink": "printed", "status": "ok", "note": "tham_chieu_ngay_ky_khong_co_ngay"},
+    "hieu_luc_den": {"value": "đến khi hai bên thực hiện đầy đủ các điều khoản được quy định trong hợp đồng này", "normalized": null, "page": 5, "evidence": "đến khi hai bên thực hiện đầy đủ các điều khoản được quy định", "ink": "printed", "status": "ok", "note": "dieu_kien_khong_co_ngay"}
+  },
+  "unit_note": "trang_2_va_10_trang_trang"
+}

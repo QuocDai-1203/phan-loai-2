@@ -1,0 +1,18 @@
+{
+  "unit_id": "8601fc242d48_0",
+  "annotator": "haiku",
+  "doc_type": "CC_TAP_HUAN_VC_HNH",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_gcn": {"value": "22/2022-GCN", "normalized": "22/2022-GCN", "page": 2, "evidence": "Số: 22/2022-GCN", "ink": "printed", "status": "ok", "note": null},
+    "ho_ten": {"value": "Phạm Xuân Bình", "normalized": "Phạm Xuân Bình", "page": 2, "evidence": "Họ và tên: Phạm Xuân Bình", "ink": "printed", "status": "ok", "note": null},
+    "nam_sinh": {"value": null, "normalized": null, "page": 2, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "nghe_nghiep": {"value": "Tài xế", "normalized": "Tài xế", "page": 2, "evidence": "Nghề nghiệp: Tài xế", "ink": "printed", "status": "ok", "note": null},
+    "don_vi_cong_tac": {"value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa", "page": 2, "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch", "ink": "printed", "status": "ok", "note": null},
+    "don_vi_cap": {"value": "Công Ty Cổ Phần Thương Mại Dịch Vụ Hiệp Hòa", "normalized": "Công Ty Cổ Phần Thương Mại Dịch Vụ Hiệp Hòa", "page": 2, "evidence": "do Công Ty Cổ Phần Thương Mại Dịch Vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "12 tháng 05 năm 2022", "normalized": "2022-05-12", "page": 2, "evidence": "Bình Định, ngày 12 tháng 05 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "12 tháng 05 năm 2022", "normalized": "2022-05-12", "page": 2, "evidence": "Từ ngày 12 tháng 05 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "12 tháng 05 năm 2024", "normalized": "2024-05-12", "page": 2, "evidence": "đến ngày 12 tháng 05 năm 2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "nua_duoi_trang_trang_p01_p02"
+}

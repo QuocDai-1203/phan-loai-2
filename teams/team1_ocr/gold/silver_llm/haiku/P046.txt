@@ -1,0 +1,21 @@
+1.15. “Hợp đồng bảo đảm” là thỏa thuận về việc cầm cố tài sản, thế chấp tài sản, đặt cọc, ký cược, ký quỹ, bảo lưu quyền sở hữu, bảo lãnh và các cam kết bảo đảm khác.
+1.16. “Kỳ trả nợ” hoặc “Kỳ trả nợ gốc” hoặc “Kỳ trả nợ lãi” được thỏa thuận tại Hợp đồng cấp tín dụng và/hoặc Văn bản nhận nợ.
+1.17. “Sự kiện vi phạm” là các sự kiện được quy định tại Điều 6 Thỏa thuận chung này.
+ĐIỀU 2. NGUYÊN TẮC VÀ PHẠM VI ÁP DỤNG
+2.1. Thỏa thuận chung và các Hợp đồng cấp tín dụng được giao kết trong thời hạn hiệu lực của Thỏa thuận chung này điều chỉnh quan hệ cấp tín dụng của MB và Khách Hàng.
+2.2. Trường hợp có bất cứ nội dung nào không được quy định tại Thỏa thuận chung này thì sẽ được áp dụng theo Hợp đồng cấp tín dụng và ngược lại.
+2.3. Trong trường hợp có sự khác biệt giữa quy định của Thỏa thuận chung này với Hợp đồng cấp tín dụng về cùng một vấn đề thì sẽ ưu tiên áp dụng theo quy định của Hợp đồng cấp tín dụng.
+ĐIỀU 3. ĐIỀU KIỆN CẤP TÍN DỤNG
+Trừ trường hợp MB có chấp thuận khác, Khách Hàng được MB cấp tín dụng khi đáp ứng điều kiện sau:
+3.1. Điều kiện cấp tín dụng theo quy định của pháp luật và quy định của MB.
+3.2. Đã hoàn tất hồ sơ, thủ tục cấp tín dụng, đáp ứng các thủ tục, quy định của pháp luật và MB về giao dịch bảo đảm, tài sản bảo đảm và mua bảo hiểm cho Tài sản bảo đảm.
+3.3. Mở tài khoản thanh toán tại MB và sử dụng tài khoản này để thực hiện các giao dịch của Khách Hàng và phương án được MB cấp tín dụng.
+3.4. Không có Sự kiện vi phạm đang tồn tại.
+3.5. Các điều kiện khác theo thỏa thuận tại Hợp đồng cấp tín dụng.
+ĐIỀU 4. SỬ DỤNG VÀ TRẢ NỢ KHOẢN TÍN DỤNG
+4.1. Khách Hàng phải đáp ứng và duy trì các điều kiện cấp tín dụng trong suốt thời hạn của Hợp đồng cấp tín dụng. Trường hợp Khách Hàng được MB cấp hạn mức tín dụng: Khách Hàng được sử dụng hạn mức và đảm bảo tổng nợ gốc và các cam kết thanh toán MB đã phát hành đang còn hiệu lực tại mọi thời điểm không vượt quá giá trị hạn mức tín dụng.
+4.2. Mục đích sử dụng Khoản tín dụng: Khách Hàng sử dụng Khoản tín dụng đúng mục đích, đúng pháp luật và quy định tại Hợp đồng cấp tín dụng.
+4.3. Đồng tiền cấp tín dụng, nhận nợ và trả nợ:
+4.3.1. Đồng tiền cấp tín dụng: Việt Nam đồng (VND) hoặc ngoại tệ được MB chấp thuận, phù hợp với quy định pháp luật. Trường hợp đồng tiền cấp tín dụng khác đồng tiền ghi trên Hợp đồng cấp tín dụng thì MB được quy đổi ra đồng tiền ghi trên Hợp đồng cấp tín dụng theo tỷ giá do MB quy định để xác định giá trị hạn mức cấp tín dụng, số tiền cấp tín dụng.
+4.3.2. Đồng tiền nhận nợ và trả nợ: là đồng tiền cấp tín dụng hoặc đồng tiền khác theo thoả thuận các bên phù hợp quy định pháp luật. Quy định này không hạn chế quyền của MB được chuyển đổi loại đồng tiền trên tài khoản của Khách Hàng. Tại thời điểm MB thu hồi nợ mà đồng tiền có trên tài khoản của Khách Hàng và/hoặc đồng tiền thu được từ việc xử lý tài sản bảo đảm khác loại với đồng tiền cấp tín dụng, MB có quyền chuyển đổi sang đồng tiền cấp tín dụng theo tỷ giá bán ra chuyển khoản do MB công bố tại ngày thu nợ (đối với trường hợp thu nợ ngoại tệ từ đồng VND) hoặc tỷ giá mua vào chuyển
+3

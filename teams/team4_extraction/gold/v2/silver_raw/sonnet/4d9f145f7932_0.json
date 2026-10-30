@@ -1,0 +1,88 @@
+{
+ "unit_id": "4d9f145f7932_0",
+ "annotator": "sonnet",
+ "doc_type": "HD_THUE_TAI_SAN",
+ "pages_seen": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "fields": {
+  "so_hop_dong": {
+   "value": "01/ HDTTS-HT2023",
+   "normalized": "01/HDTTS-HT2023",
+   "page": 1,
+   "evidence": "(Số: 01/ HDTTS-HT2023)",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_ky": {
+   "value": "ngày 0[?] tháng 02 năm 2023",
+   "normalized": "2023-02",
+   "page": 1,
+   "evidence": "Hôm nay, ngày 0[?] tháng 02 năm 2023",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "chu_so_ngay_viet_tay_khong_chac"
+  },
+  "ben_cho_thue": {
+   "value": "CÔNG TY TNHH XĂNG DẦU HÒA TÂM GIA LAI, Mã số thuế: 5901023724",
+   "normalized": "CÔNG TY TNHH XĂNG DẦU HÒA TÂM GIA LAI, Mã số thuế: 5901023724",
+   "page": 1,
+   "evidence": "CÔNG TY TNHH XĂNG DẦU HÒA TÂM GIA LAI Mã số thuế : 5901023724",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_thue": {
+   "value": "CÔNG TY TNHH XĂNG DẦU PHÚC HOÀ KHÁNH BA, Mã số thuế: 5901195120",
+   "normalized": "CÔNG TY TNHH XĂNG DẦU PHÚC HOÀ KHÁNH BA, Mã số thuế: 5901195120",
+   "page": 1,
+   "evidence": "CÔNG TY TNHH XĂNG DẦU PHÚC HOÀ KHÁNH BA Mã số thuế : 5901195120",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "tai_san_thue": {
+   "value": "Cửa Hàng Xăng Dầu Số 3 tại địa điểm Tổ dân số 9, phường An Bình, thị xã An Khê, tỉnh Gia Lai",
+   "normalized": "Cửa Hàng Xăng Dầu Số 3 tại địa điểm Tổ dân số 9, phường An Bình, thị xã An Khê, tỉnh Gia Lai",
+   "page": 2,
+   "evidence": "thuê Cửa Hàng Xăng Dầu Số 3 tại địa điểm Tổ dân số 9",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "gia_thue": {
+   "value": "5.000.000 đồng/tháng, đã bao gồm thuế VAT, trả 1 lần trong năm",
+   "normalized": "5.000.000 đồng/tháng, đã bao gồm thuế VAT, trả 1 lần trong năm",
+   "page": 2,
+   "evidence": "Giá cho thuê cửa hàng là 5.000.000 đồng/tháng",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "thoi_han_thue_tu": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "thoi_han_thue_den": {
+   "value": "ngày 31/12/2027",
+   "normalized": "2027-12-31",
+   "page": 2,
+   "evidence": "Thời hạn hết giá trị hợp đồng: ngày 31/12/2027",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "anh_mo: p06_a,p06_b (bong chu mat sau xuyen qua)"
+}

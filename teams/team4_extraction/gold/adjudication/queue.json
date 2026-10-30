@@ -1,0 +1,2186 @@
+{
+ "description": "Hàng đợi phân xử (người đọc thứ ba). Thứ tự x/y ngẫu nhiên, hạt giống 20261012.",
+ "seed": 20261012,
+ "n_items": 58,
+ "n_units": 36,
+ "n_batches": 6,
+ "n_images_total": 140,
+ "items": [
+  {
+   "item_id": "02736b5cd35b_0__hop_dong_can_cu",
+   "unit_id": "02736b5cd35b_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "hop_dong_can_cu",
+   "field_type": "text",
+   "field_desc": "Số, ngày hợp đồng",
+   "field_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\02736b5cd35b_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\02736b5cd35b_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\02736b5cd35b_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\02736b5cd35b_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12",
+    "note": "mot_phan_gan_con_dau"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "02736b5cd35b_0__lenh_xuat_hang",
+   "unit_id": "02736b5cd35b_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "lenh_xuat_hang",
+   "field_type": "id",
+   "field_desc": "Số lệnh xuất hàng",
+   "field_hint": "Số lệnh xuất hàng.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\02736b5cd35b_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\02736b5cd35b_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\02736b5cd35b_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\02736b5cd35b_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "793/LXHXB-DO-300126-307-0",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Lệnh xuất hàng: 793/LXHXB-DO-300126-307-0 (8000148900)",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "793/LXHXB-DO-300126-307-0 (8000148900)",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Lệnh xuất hàng: 793/LXHXB-DO-300126-307-0 (8000148900)",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "13b82b3e383e_0__so_giay",
+   "unit_id": "13b82b3e383e_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "so_giay",
+   "field_type": "id",
+   "field_desc": "Số giấy chứng nhận",
+   "field_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\13b82b3e383e_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\13b82b3e383e_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\13b82b3e383e_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\13b82b3e383e_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "85 /GCN[?]K-SCT",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Số: 85 /GCN[?]K-SCT",
+    "note": "mot_phan_bi_mo"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "85 /GCNĐĐK-SCT",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Số: 85 /GCNĐĐK-SCT",
+    "note": "scan_mo_ky_tu_Đ_kho_chac"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "13b82b3e383e_0__co_quan_cap",
+   "unit_id": "13b82b3e383e_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "co_quan_cap",
+   "field_type": "text",
+   "field_desc": "Sở Công Thương tỉnh/thành phố",
+   "field_hint": "Tên Sở Công Thương cấp giấy.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\13b82b3e383e_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\13b82b3e383e_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\13b82b3e383e_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\13b82b3e383e_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "SỞ CÔNG THƯƠNG TỈNH GIA LAI",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "UBND TỈNH GIA LAI SỞ CÔNG THƯƠNG",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "UBND TỈNH GIA LAI SỞ CÔNG THƯƠNG",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "151c0df87ab7_0__so_giay",
+   "unit_id": "151c0df87ab7_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "so_giay",
+   "field_type": "id",
+   "field_desc": "Số giấy chứng nhận",
+   "field_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "37/GCNBLXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 37 /GCNBLXD-SCT",
+    "note": "so_viet_tay_phan_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "37 /GCNBLXD-SCT",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Số: 37 /GCNBLXD-SCT",
+    "note": "so_37_viet_tay_phan_con_lai_in"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "151c0df87ab7_0__ngay_cap",
+   "unit_id": "151c0df87ab7_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_cap",
+   "field_type": "date",
+   "field_desc": "Ngày cấp",
+   "field_hint": "Ngày ký cấp giấy (dòng 'ngày … tháng … năm …' ở cuối hoặc đầu giấy), KHÔNG phải ngày hết hạn.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "23 tháng 3 năm 2018",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Bình Định, ngày 23 tháng 3 năm 2018",
+    "note": "ngay_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "ngày 23 tháng 3 năm 2018",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Bình Định, ngày 23 tháng 3 năm 2018",
+    "note": "so_ngay_23_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "151c0df87ab7_0__ngay_het_han",
+   "unit_id": "151c0df87ab7_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_het_han",
+   "field_type": "date",
+   "field_desc": "«Có giá trị đến hết ngày…» (thường 5 năm)",
+   "field_hint": "Dòng 'có giá trị đến hết ngày … tháng … năm …'. Nếu giấy chỉ ghi thời hạn (vd. '05 năm kể từ ngày cấp') mà KHÔNG có ngày cụ thể, value = cụm thời hạn như in, normalized = null, status ok và note = 'chi_ghi_thoi_han'. Không tự cộng ngày.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\151c0df87ab7_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "22 tháng 3 năm 2023",
+    "page": 2,
+    "ink": "handwritten",
+    "evidence": "có giá trị đến hết ngày 22 tháng 3 năm 2023",
+    "note": "ngay_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "ngày 22 tháng 3 năm 2023",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "có giá trị đến hết ngày 22 tháng 3 năm 2023",
+    "note": "so_ngay_22_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "17efe86c6878_0__hop_dong_can_cu",
+   "unit_id": "17efe86c6878_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "hop_dong_can_cu",
+   "field_type": "text",
+   "field_desc": "Số, ngày hợp đồng",
+   "field_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\17efe86c6878_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\17efe86c6878_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "con_dau_de_len_mot_phan_ngay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "23ee3e156af2_0__hop_dong_can_cu",
+   "unit_id": "23ee3e156af2_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "hop_dong_can_cu",
+   "field_type": "text",
+   "field_desc": "Số, ngày hợp đồng",
+   "field_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\23ee3e156af2_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\23ee3e156af2_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "32d81c4d2ed6_0__so_giay",
+   "unit_id": "32d81c4d2ed6_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "so_giay",
+   "field_type": "id",
+   "field_desc": "Số giấy chứng nhận",
+   "field_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\32d81c4d2ed6_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\32d81c4d2ed6_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "62 /GCN-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 62 /GCN-SCT",
+    "note": "so_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "62 /GCN-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 62 /GCN-SCT",
+    "note": "so_62_viet_tay_phan_con_lai_in"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "32d81c4d2ed6_0__ngay_cap",
+   "unit_id": "32d81c4d2ed6_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_cap",
+   "field_type": "date",
+   "field_desc": "Ngày cấp",
+   "field_hint": "Ngày ký cấp giấy (dòng 'ngày … tháng … năm …' ở cuối hoặc đầu giấy), KHÔNG phải ngày hết hạn.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\32d81c4d2ed6_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\32d81c4d2ed6_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "20 tháng 5 năm 2021",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Gia Lai, ngày 20 tháng 5 năm 2021",
+    "note": "ngay_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "ngày 20 tháng 5 năm 2021",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Gia Lai, ngày 20 tháng 5 năm 2021",
+    "note": "ngay_viet_tay_hoi_kho_doc"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "3f6ee29dea1a_0__hieu_luc_den",
+   "unit_id": "3f6ee29dea1a_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "hieu_luc_den",
+   "field_type": "date",
+   "field_desc": "Ngày hết hiệu lực hợp đồng",
+   "field_hint": "Ngày hết hiệu lực nếu điều khoản hiệu lực nêu NGÀY cụ thể. Nếu chỉ nêu khoảng thời gian ('có hiệu lực 12 tháng'), value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Nếu hợp đồng không nêu hạn: not_present.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    5,
+    6,
+    7,
+    8
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p05_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p05_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p06_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p06_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p07_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p07_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p08_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\3f6ee29dea1a_0\\p08_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "29/07/2030",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "đến ngày 29/07/2030",
+    "note": null
+   },
+   "candidate_y": null,
+   "single_candidate": true
+  },
+  {
+   "item_id": "41265fcefd36_0__so_giay",
+   "unit_id": "41265fcefd36_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "so_giay",
+   "field_type": "id",
+   "field_desc": "Số giấy chứng nhận",
+   "field_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    3
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p03_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "51 /GCNBLXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 51 /GCNBLXD-SCT",
+    "note": "so_viet_tay_tren_mau_in"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "54 /GCNBLXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 54 /GCNBLXD-SCT",
+    "note": "so_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "41265fcefd36_0__ngay_cap",
+   "unit_id": "41265fcefd36_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_cap",
+   "field_type": "date",
+   "field_desc": "Ngày cấp",
+   "field_hint": "Ngày ký cấp giấy (dòng 'ngày … tháng … năm …' ở cuối hoặc đầu giấy), KHÔNG phải ngày hết hạn.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    3
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p03_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "ngày 08 tháng 8 năm 2022",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Bình Định, ngày 08 tháng 8 năm 2022",
+    "note": "chu_so_ngay_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Bình Định, ngày 08 tháng 8 năm 2022",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Bình Định, ngày 08 tháng 8 năm 2022",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "41265fcefd36_0__lan_cap",
+   "unit_id": "41265fcefd36_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "lan_cap",
+   "field_type": "text",
+   "field_desc": "Cấp lần thứ mấy / cấp bổ sung, sửa đổi",
+   "field_hint": "'cấp lần thứ …' hoặc 'cấp bổ sung/sửa đổi'; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    3
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p03_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Cấp lần thứ nhất: ngày 03 tháng 8 năm 2017; Cấp lần thứ hai: ngày 08 tháng 8 năm 2022",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Cấp lần thứ hai: ngày 08 tháng 8 năm 2022",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Cấp lần thứ hai: ngày 08 tháng 8 năm 2022",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Cấp lần thứ hai: ngày 08 tháng 8 năm 2022",
+    "note": "ngay_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "41265fcefd36_0__ngay_het_han",
+   "unit_id": "41265fcefd36_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_het_han",
+   "field_type": "date",
+   "field_desc": "«Có giá trị đến hết ngày…» (thường 5 năm)",
+   "field_hint": "Dòng 'có giá trị đến hết ngày … tháng … năm …'. Nếu giấy chỉ ghi thời hạn (vd. '05 năm kể từ ngày cấp') mà KHÔNG có ngày cụ thể, value = cụm thời hạn như in, normalized = null, status ok và note = 'chi_ghi_thoi_han'. Không tự cộng ngày.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    3
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\41265fcefd36_0\\p03_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "ngày 08 tháng 8 năm 2027",
+    "page": 2,
+    "ink": "handwritten",
+    "evidence": "có giá trị đến hết ngày 08 tháng 8 năm 2027",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "ngày 08 tháng 8 năm 2027",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "có giá trị đến hết ngày 08 tháng 8 năm 2027",
+    "note": "chu_so_ngay_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "422c73c380ca_0__don_vi_cong_tac",
+   "unit_id": "422c73c380ca_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "field": "don_vi_cong_tac",
+   "field_type": "text",
+   "field_desc": "Đơn vị công tác",
+   "field_hint": "Đơn vị công tác của người được cấp.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\422c73c380ca_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\422c73c380ca_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\422c73c380ca_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\422c73c380ca_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "CTyTNHH Xăng Dầu Hòa Hưng",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Đơn vị công tác: CTyTNHH Xăng Dầu Hòa Hưng",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "CTy TNHH Xăng Dầu Hòa Hưng",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Đơn vị công tác: CTy TNHH Xăng Dầu Hòa Hưng",
+    "note": "con_dau_de_len_mot_phan"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "492786321ef5_0__don_vi_cong_tac",
+   "unit_id": "492786321ef5_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "field": "don_vi_cong_tac",
+   "field_type": "text",
+   "field_desc": "Đơn vị công tác",
+   "field_hint": "Đơn vị công tác của người được cấp.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\492786321ef5_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\492786321ef5_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\492786321ef5_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\492786321ef5_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "under_stamp",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "5940b5c3e19b_0__han_muc_cong_no",
+   "unit_id": "5940b5c3e19b_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "han_muc_cong_no",
+   "field_type": "text",
+   "field_desc": "Hạn mức và thời hạn công nợ, nếu có",
+   "field_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\5940b5c3e19b_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\5940b5c3e19b_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\5940b5c3e19b_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\5940b5c3e19b_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt",
+    "note": "khong_co_han_muc_so_tien"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "61b27599823b_0__hop_dong_can_cu",
+   "unit_id": "61b27599823b_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "hop_dong_can_cu",
+   "field_type": "text",
+   "field_desc": "Số, ngày hợp đồng",
+   "field_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\61b27599823b_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\61b27599823b_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "640b0f506936_0__han_muc_cong_no",
+   "unit_id": "640b0f506936_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "han_muc_cong_no",
+   "field_type": "text",
+   "field_desc": "Hạn mức và thời hạn công nợ, nếu có",
+   "field_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\640b0f506936_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\640b0f506936_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\640b0f506936_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\640b0f506936_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": "khong_neu_han_muc_hay_so_ngay_cu_the"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Thời hạn thanh toán công nợ (nếu còn tồn đọng)",
+    "note": "chi_co_thoi_han_khong_co_han_muc"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "640b0f506936_0__hieu_luc_den",
+   "unit_id": "640b0f506936_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "hieu_luc_den",
+   "field_type": "date",
+   "field_desc": "Ngày hết hiệu lực hợp đồng",
+   "field_hint": "Ngày hết hiệu lực nếu điều khoản hiệu lực nêu NGÀY cụ thể. Nếu chỉ nêu khoảng thời gian ('có hiệu lực 12 tháng'), value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Nếu hợp đồng không nêu hạn: not_present.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\640b0f506936_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\640b0f506936_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\640b0f506936_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\640b0f506936_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "31/12/2024",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "đến ngày 31/12/2024 hoặc hai bên hoàn thành",
+    "note": null
+   },
+   "candidate_y": null,
+   "single_candidate": true
+  },
+  {
+   "item_id": "672643ac0c7b_0__ngay_het_han",
+   "unit_id": "672643ac0c7b_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_het_han",
+   "field_type": "date",
+   "field_desc": "«Có giá trị đến hết ngày…» (thường 5 năm)",
+   "field_hint": "Dòng 'có giá trị đến hết ngày … tháng … năm …'. Nếu giấy chỉ ghi thời hạn (vd. '05 năm kể từ ngày cấp') mà KHÔNG có ngày cụ thể, value = cụm thời hạn như in, normalized = null, status ok và note = 'chi_ghi_thoi_han'. Không tự cộng ngày.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\672643ac0c7b_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\672643ac0c7b_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\672643ac0c7b_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\672643ac0c7b_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "09 tháng 11 năm 202[?]",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "có giá trị đến hết ngày 09 tháng 11 năm 202",
+    "note": "mot_phan_bi_con_dau"
+   },
+   "candidate_y": null,
+   "single_candidate": true
+  },
+  {
+   "item_id": "6ac314e2f770_0__hieu_luc_den",
+   "unit_id": "6ac314e2f770_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "hieu_luc_den",
+   "field_type": "date",
+   "field_desc": "Ngày hết hiệu lực hợp đồng",
+   "field_hint": "Ngày hết hiệu lực nếu điều khoản hiệu lực nêu NGÀY cụ thể. Nếu chỉ nêu khoảng thời gian ('có hiệu lực 12 tháng'), value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Nếu hợp đồng không nêu hạn: not_present.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    5,
+    10
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\6ac314e2f770_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\6ac314e2f770_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\6ac314e2f770_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\6ac314e2f770_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\6ac314e2f770_0\\p05_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\6ac314e2f770_0\\p05_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\6ac314e2f770_0\\p10_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\6ac314e2f770_0\\p10_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "đến khi hai bên thực hiện đầy đủ các điều khoản được quy định trong hợp đồng này",
+    "page": 5,
+    "ink": "printed",
+    "evidence": "đến khi hai bên thực hiện đầy đủ các điều khoản được",
+    "note": "dieu_kien_khong_co_ngay"
+   },
+   "candidate_y": null,
+   "single_candidate": true
+  },
+  {
+   "item_id": "741b37405405_0__hop_dong_can_cu",
+   "unit_id": "741b37405405_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "hop_dong_can_cu",
+   "field_type": "text",
+   "field_desc": "Số, ngày hợp đồng",
+   "field_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\741b37405405_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\741b37405405_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "789b8facde71_0__han_muc_cong_no",
+   "unit_id": "789b8facde71_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "han_muc_cong_no",
+   "field_type": "text",
+   "field_desc": "Hạn mức và thời hạn công nợ, nếu có",
+   "field_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\789b8facde71_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\789b8facde71_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\789b8facde71_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\789b8facde71_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt",
+    "note": "khong_co_han_muc_so_tien"
+   },
+   "candidate_y": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "81c6e933b541_0__co_quan_cap",
+   "unit_id": "81c6e933b541_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "co_quan_cap",
+   "field_type": "text",
+   "field_desc": "Sở Công Thương tỉnh/thành phố",
+   "field_hint": "Tên Sở Công Thương cấp giấy.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\81c6e933b541_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\81c6e933b541_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\81c6e933b541_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\81c6e933b541_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "UBND TỈNH QUẢNG NGÃI SỞ CÔNG THƯƠNG",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "UBND TỈNH QUẢNG NGÃI SỞ CÔNGTHƯƠNG",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "86ef36a8af53_0__don_vi_cong_tac",
+   "unit_id": "86ef36a8af53_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "field": "don_vi_cong_tac",
+   "field_type": "text",
+   "field_desc": "Đơn vị công tác",
+   "field_hint": "Đơn vị công tác của người được cấp.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\86ef36a8af53_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\86ef36a8af53_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\86ef36a8af53_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\86ef36a8af53_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "under_stamp",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch",
+    "note": "con_dau_chong_chu"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "8a77c4bb6a18_0__han_muc_cong_no",
+   "unit_id": "8a77c4bb6a18_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "han_muc_cong_no",
+   "field_type": "text",
+   "field_desc": "Hạn mức và thời hạn công nợ, nếu có",
+   "field_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\8a77c4bb6a18_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\8a77c4bb6a18_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\8a77c4bb6a18_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\8a77c4bb6a18_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Thời hạn thanh toán công nợ (nếu còn tồn đọng)",
+    "note": "chi_co_thoi_han_khong_co_han_muc"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "9183f0e21332_0__so_giay",
+   "unit_id": "9183f0e21332_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "so_giay",
+   "field_type": "id",
+   "field_desc": "Số giấy chứng nhận",
+   "field_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "24 /GCNDLXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 24 /GCNDLXD-SCT",
+    "note": "so_24_viet_tay_phan_sau_in"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "24/GCNĐLXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 24 /GCNĐLXD-SCT",
+    "note": "so_viet_tay_mot_phan"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "9183f0e21332_0__ngay_cap",
+   "unit_id": "9183f0e21332_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_cap",
+   "field_type": "date",
+   "field_desc": "Ngày cấp",
+   "field_hint": "Ngày ký cấp giấy (dòng 'ngày … tháng … năm …' ở cuối hoặc đầu giấy), KHÔNG phải ngày hết hạn.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "ngày 24 tháng 02 năm 2020",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Bình Định, ngày 24 tháng 02 năm 2020",
+    "note": "ngay_viet_tay_thang_nam_in"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "ngày 24 tháng 02 năm 2020",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Bình Định, ngày 24 tháng 02 năm 2020",
+    "note": "ngay_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "9183f0e21332_0__dia_chi_cua_hang",
+   "unit_id": "9183f0e21332_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "dia_chi_cua_hang",
+   "field_type": "text",
+   "field_desc": "Địa chỉ cửa hàng",
+   "field_hint": "Địa chỉ cửa hàng (không phải địa chỉ trụ sở thương nhân nếu hai địa chỉ khác nhau).",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Vùng hoạt động: Vùng SI, xã Cát Khánh, huyện Phú Cát, tỉnh Bình Định",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Vùng hoạt động: Vùng SI, xã Cát Khánh, huyện Phú Cát, tỉnh",
+    "note": "tau_dau_chi_ghi_vung_hoat_dong"
+   },
+   "candidate_y": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": "vung_hoat_dong_khong_phai_dia_chi"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "9183f0e21332_0__ngay_het_han",
+   "unit_id": "9183f0e21332_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_het_han",
+   "field_type": "date",
+   "field_desc": "«Có giá trị đến hết ngày…» (thường 5 năm)",
+   "field_hint": "Dòng 'có giá trị đến hết ngày … tháng … năm …'. Nếu giấy chỉ ghi thời hạn (vd. '05 năm kể từ ngày cấp') mà KHÔNG có ngày cụ thể, value = cụm thời hạn như in, normalized = null, status ok và note = 'chi_ghi_thoi_han'. Không tự cộng ngày.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9183f0e21332_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "23 tháng 02 năm 2025",
+    "page": 2,
+    "ink": "handwritten",
+    "evidence": "có giá trị đến hết ngày 23 tháng 02 năm 2025",
+    "note": "ngay_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "đến hết ngày 23 tháng 02 năm 2025",
+    "page": 2,
+    "ink": "handwritten",
+    "evidence": "này có giá trị đến hết ngày 23 tháng 02 năm 2025",
+    "note": "ngay_23_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "9b190bfd6ec1_0__han_muc_cong_no",
+   "unit_id": "9b190bfd6ec1_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "han_muc_cong_no",
+   "field_type": "text",
+   "field_desc": "Hạn mức và thời hạn công nợ, nếu có",
+   "field_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9b190bfd6ec1_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9b190bfd6ec1_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9b190bfd6ec1_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9b190bfd6ec1_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Thời hạn thanh toán công nợ (nếu còn tồn đọng)",
+    "note": "khong_co_han_muc_so_tien"
+   },
+   "candidate_y": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "9b190bfd6ec1_0__hieu_luc_tu",
+   "unit_id": "9b190bfd6ec1_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "hieu_luc_tu",
+   "field_type": "date",
+   "field_desc": "Ngày bắt đầu hiệu lực",
+   "field_hint": "Ngày bắt đầu hiệu lực nếu điều khoản hiệu lực nêu ngày cụ thể.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9b190bfd6ec1_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9b190bfd6ec1_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9b190bfd6ec1_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9b190bfd6ec1_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": "chi_ghi_tu_ngay_ky"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "từ ngày ký",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2018",
+    "note": "tu_ngay_ky_khong_ghi_so"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "9f5884bcd428_0__ngay_het_han",
+   "unit_id": "9f5884bcd428_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_het_han",
+   "field_type": "date",
+   "field_desc": "«Có giá trị đến hết ngày…» (thường 5 năm)",
+   "field_hint": "Dòng 'có giá trị đến hết ngày … tháng … năm …'. Nếu giấy chỉ ghi thời hạn (vd. '05 năm kể từ ngày cấp') mà KHÔNG có ngày cụ thể, value = cụm thời hạn như in, normalized = null, status ok và note = 'chi_ghi_thoi_han'. Không tự cộng ngày.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9f5884bcd428_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9f5884bcd428_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9f5884bcd428_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\9f5884bcd428_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "ngày29 tháng 5 năm 2028",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "có giá trị đến hết ngày29 tháng 5 năm 2028",
+    "note": null
+   },
+   "candidate_y": null,
+   "single_candidate": true
+  },
+  {
+   "item_id": "b05bd0457853_0__hop_dong_can_cu",
+   "unit_id": "b05bd0457853_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "hop_dong_can_cu",
+   "field_type": "text",
+   "field_desc": "Số, ngày hợp đồng",
+   "field_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b05bd0457853_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b05bd0457853_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng",
+    "note": "nam_2025_mot_phan_duoi_con_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "b25d539d66af_0__nghe_nghiep",
+   "unit_id": "b25d539d66af_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "field": "nghe_nghiep",
+   "field_type": "text",
+   "field_desc": "Nghề nghiệp/chức danh (lái xe, áp tải…)",
+   "field_hint": "Nghề nghiệp/chức danh (lái xe, áp tải, thủ kho...).",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b25d539d66af_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b25d539d66af_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b25d539d66af_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b25d539d66af_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Tài xế",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Nghề nghiệp: Tài xế",
+    "note": "mot_phan_bi_con_dau_de"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Tài xế",
+    "page": 2,
+    "ink": "under_stamp",
+    "evidence": "Nghề nghiệp: Tài xế",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "b25d539d66af_0__don_vi_cong_tac",
+   "unit_id": "b25d539d66af_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "field": "don_vi_cong_tac",
+   "field_type": "text",
+   "field_desc": "Đơn vị công tác",
+   "field_hint": "Đơn vị công tác của người được cấp.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b25d539d66af_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b25d539d66af_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b25d539d66af_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b25d539d66af_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp",
+    "note": "mot_phan_bi_con_dau_de"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "under_stamp",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "b980acb58644_0__so_giay",
+   "unit_id": "b980acb58644_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "so_giay",
+   "field_type": "id",
+   "field_desc": "Số giấy chứng nhận",
+   "field_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b980acb58644_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b980acb58644_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "85 /GCN-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 85 /GCN-SCT",
+    "note": "so_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "85/GCN-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 85 /GCN-SCT",
+    "note": "so_viet_tay_phan_con_lai_in"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "b980acb58644_0__ngay_cap",
+   "unit_id": "b980acb58644_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_cap",
+   "field_type": "date",
+   "field_desc": "Ngày cấp",
+   "field_hint": "Ngày ký cấp giấy (dòng 'ngày … tháng … năm …' ở cuối hoặc đầu giấy), KHÔNG phải ngày hết hạn.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b980acb58644_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\b980acb58644_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "ngày 30 tháng 7 năm 2021",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Gia Lai, ngày 30 tháng 7 năm 2021",
+    "note": "ngay_thang_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "30 tháng 7 năm 2021",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Gia Lai, ngày 30 tháng 7 năm 2021",
+    "note": "ngay_thang_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "bb53237f5f5e_0__han_muc_cong_no",
+   "unit_id": "bb53237f5f5e_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "han_muc_cong_no",
+   "field_type": "text",
+   "field_desc": "Hạn mức và thời hạn công nợ, nếu có",
+   "field_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\bb53237f5f5e_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\bb53237f5f5e_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\bb53237f5f5e_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\bb53237f5f5e_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "phải dứt điểm trước khi hợp đồng hết hiệu lực",
+    "note": "thoi_han_tuong_doi_khong_co_so_tien"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "bb53237f5f5e_0__hieu_luc_tu",
+   "unit_id": "bb53237f5f5e_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "hieu_luc_tu",
+   "field_type": "date",
+   "field_desc": "Ngày bắt đầu hiệu lực",
+   "field_hint": "Ngày bắt đầu hiệu lực nếu điều khoản hiệu lực nêu ngày cụ thể.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\bb53237f5f5e_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\bb53237f5f5e_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\bb53237f5f5e_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\bb53237f5f5e_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "từ ngày ký",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2022",
+    "note": "chi_ghi_mo_ta_khong_ngay"
+   },
+   "candidate_y": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": "chi_ghi_tu_ngay_ky"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "c5b5157a16a2_0__don_vi_cong_tac",
+   "unit_id": "c5b5157a16a2_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "field": "don_vi_cong_tac",
+   "field_type": "text",
+   "field_desc": "Đơn vị công tác",
+   "field_hint": "Đơn vị công tác của người được cấp.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\c5b5157a16a2_0\\p01.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\c5b5157a16a2_0\\p02.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Công Ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "under_stamp",
+    "evidence": "Đơn vị công tác: Công Ty Cổ phần Thương Mại-Dịch Vụ Hiệp",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp",
+    "note": "mot_phan_duoi_con_dau"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "caf1d38f2828_0__so_giay",
+   "unit_id": "caf1d38f2828_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "so_giay",
+   "field_type": "id",
+   "field_desc": "Số giấy chứng nhận",
+   "field_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "12 /GCNBLXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 12 /GCNBLXD-SCT",
+    "note": "phan_chu_mo_so_12_dam"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "12/GCN[?]LXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 12 /GCN",
+    "note": "mot_phan_bi_che"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "caf1d38f2828_0__ngay_cap",
+   "unit_id": "caf1d38f2828_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_cap",
+   "field_type": "date",
+   "field_desc": "Ngày cấp",
+   "field_hint": "Ngày ký cấp giấy (dòng 'ngày … tháng … năm …' ở cuối hoặc đầu giấy), KHÔNG phải ngày hết hạn.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\caf1d38f2828_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "ngày 20 tháng 01 năm 2020",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "Bình Định, ngày 20 tháng 01 năm 2020",
+    "note": "chu_mo_ngay_20_in_dam"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "ngày 20 tháng 01 năm 2020",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Bình Định, ngày 20 tháng 01 năm 2020",
+    "note": "ngay_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "cb4d4cd19136_0__han_muc_cong_no",
+   "unit_id": "cb4d4cd19136_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "han_muc_cong_no",
+   "field_type": "text",
+   "field_desc": "Hạn mức và thời hạn công nợ, nếu có",
+   "field_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\cb4d4cd19136_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\cb4d4cd19136_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\cb4d4cd19136_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\cb4d4cd19136_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Thời hạn thanh toán công nợ (nếu còn tồn đọng)",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "cb4d4cd19136_0__hieu_luc_tu",
+   "unit_id": "cb4d4cd19136_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "hieu_luc_tu",
+   "field_type": "date",
+   "field_desc": "Ngày bắt đầu hiệu lực",
+   "field_hint": "Ngày bắt đầu hiệu lực nếu điều khoản hiệu lực nêu ngày cụ thể.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\cb4d4cd19136_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\cb4d4cd19136_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\cb4d4cd19136_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\cb4d4cd19136_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": "chi_ghi_tu_ngay_ky_khong_ngay_cu_the"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "từ ngày ký",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2020",
+    "note": "tham_chieu_ngay_ky"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "d65cd88ad50f_0__hop_dong_can_cu",
+   "unit_id": "d65cd88ad50f_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "hop_dong_can_cu",
+   "field_type": "text",
+   "field_desc": "Số, ngày hợp đồng",
+   "field_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d65cd88ad50f_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d65cd88ad50f_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "con_dau_de_len_mot_phan_ngay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": "con_dau_do_mot_phan_chu"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "d941b496cb0b_0__hieu_luc_tu",
+   "unit_id": "d941b496cb0b_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "hieu_luc_tu",
+   "field_type": "date",
+   "field_desc": "Ngày bắt đầu hiệu lực",
+   "field_hint": "Ngày bắt đầu hiệu lực nếu điều khoản hiệu lực nêu ngày cụ thể.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d941b496cb0b_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d941b496cb0b_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d941b496cb0b_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\d941b496cb0b_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "từ ngày ký",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "có hiệu lực từ ngày ký đến ngày",
+    "note": "tham_chieu_ngay_ky"
+   },
+   "candidate_y": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": "chi_ghi_tu_ngay_ky"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "ddd6f3a71bec_0__so_giay",
+   "unit_id": "ddd6f3a71bec_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "so_giay",
+   "field_type": "id",
+   "field_desc": "Số giấy chứng nhận",
+   "field_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    3
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p03_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "47/GCNBLXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 47 /GCNBLXD-SCT",
+    "note": "so_viet_tay_phan_con_lai_in"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "47 /GCNBLXD-SCT",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Số: 47 /GCNBLXD-SCT",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "ddd6f3a71bec_0__ngay_cap",
+   "unit_id": "ddd6f3a71bec_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_cap",
+   "field_type": "date",
+   "field_desc": "Ngày cấp",
+   "field_hint": "Ngày ký cấp giấy (dòng 'ngày … tháng … năm …' ở cuối hoặc đầu giấy), KHÔNG phải ngày hết hạn.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    3
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p03_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "13 tháng 6 năm 2018",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Bình Định, ngày 13 tháng 6 năm 2018",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "ngày 13 tháng 6 năm 2018",
+    "page": 1,
+    "ink": "handwritten",
+    "evidence": "Bình Định, ngày 13 tháng 6 năm 2018",
+    "note": "ngay_viet_tay"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "ddd6f3a71bec_0__co_quan_cap",
+   "unit_id": "ddd6f3a71bec_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "co_quan_cap",
+   "field_type": "text",
+   "field_desc": "Sở Công Thương tỉnh/thành phố",
+   "field_hint": "Tên Sở Công Thương cấp giấy.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    3
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p03_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Sở Công Thương tỉnh Bình Định",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "của Sở Công Thương tỉnh Bình Định;",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "ddd6f3a71bec_0__ngay_het_han",
+   "unit_id": "ddd6f3a71bec_0",
+   "doc_type": "GCN_DDK_BAN_LE_XD",
+   "field": "ngay_het_han",
+   "field_type": "date",
+   "field_desc": "«Có giá trị đến hết ngày…» (thường 5 năm)",
+   "field_hint": "Dòng 'có giá trị đến hết ngày … tháng … năm …'. Nếu giấy chỉ ghi thời hạn (vd. '05 năm kể từ ngày cấp') mà KHÔNG có ngày cụ thể, value = cụm thời hạn như in, normalized = null, status ok và note = 'chi_ghi_thoi_han'. Không tự cộng ngày.",
+   "is_expiry": true,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2,
+    3
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p02_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p03_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\ddd6f3a71bec_0\\p03_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "ngày 12 tháng 6 năm 2023",
+    "page": 2,
+    "ink": "handwritten",
+    "evidence": "này có giá trị đến hết ngày 12 tháng 6 năm 2023",
+    "note": "ngay_viet_tay"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "12 tháng 6 năm 2023",
+    "page": 2,
+    "ink": "handwritten",
+    "evidence": "có giá trị đến hết ngày 12 tháng 6 năm 2023",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "defbf93a78b4_0__han_muc_cong_no",
+   "unit_id": "defbf93a78b4_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "han_muc_cong_no",
+   "field_type": "text",
+   "field_desc": "Hạn mức và thời hạn công nợ, nếu có",
+   "field_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\defbf93a78b4_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\defbf93a78b4_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\defbf93a78b4_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\defbf93a78b4_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực.",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt",
+    "note": "khong_co_han_muc_so"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "defbf93a78b4_0__hieu_luc_tu",
+   "unit_id": "defbf93a78b4_0",
+   "doc_type": "HD_MUA_BAN",
+   "field": "hieu_luc_tu",
+   "field_type": "date",
+   "field_desc": "Ngày bắt đầu hiệu lực",
+   "field_hint": "Ngày bắt đầu hiệu lực nếu điều khoản hiệu lực nêu ngày cụ thể.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\defbf93a78b4_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\defbf93a78b4_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\defbf93a78b4_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\defbf93a78b4_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "not_present",
+    "value": null,
+    "page": null,
+    "ink": null,
+    "evidence": null,
+    "note": "chi_ghi_tu_ngay_ky"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "từ ngày ký",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2023",
+    "note": "chi_ghi_tu_ngay_ky"
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "e4d24c93783b_0__hop_dong_can_cu",
+   "unit_id": "e4d24c93783b_0",
+   "doc_type": "PHIEU_XUAT_KHO",
+   "field": "hop_dong_can_cu",
+   "field_type": "text",
+   "field_desc": "Số, ngày hợp đồng",
+   "field_hint": "Số và ngày hợp đồng căn cứ, chép cụm như in.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\e4d24c93783b_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\e4d24c93783b_0\\p01_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "under_stamp",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày",
+    "note": "mot_phan_bi_con_dau"
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "page": 1,
+    "ink": "printed",
+    "evidence": "theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025",
+    "note": null
+   },
+   "single_candidate": false
+  },
+  {
+   "item_id": "f35e74ca0451_0__don_vi_cong_tac",
+   "unit_id": "f35e74ca0451_0",
+   "doc_type": "CC_TAP_HUAN_VC_HNH",
+   "field": "don_vi_cong_tac",
+   "field_type": "text",
+   "field_desc": "Đơn vị công tác",
+   "field_hint": "Đơn vị công tác của người được cấp.",
+   "is_expiry": false,
+   "silver_policy": "transcribe",
+   "shown_pages": [
+    1,
+    2
+   ],
+   "images": [
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\f35e74ca0451_0\\p01_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\f35e74ca0451_0\\p01_b.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\f35e74ca0451_0\\p02_a.png",
+    "Z:\\projects\\sdh-phanloaitailieu\\teams\\team4_extraction\\gold\\pages\\f35e74ca0451_0\\p02_b.png"
+   ],
+   "candidate_x": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "under_stamp",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch",
+    "note": null
+   },
+   "candidate_y": {
+    "status": "ok",
+    "value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa",
+    "page": 2,
+    "ink": "printed",
+    "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp",
+    "note": "mot_phan_dau_do_de"
+   },
+   "single_candidate": false
+  }
+ ]
+}

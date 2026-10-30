@@ -1,0 +1,259 @@
+{
+ "docs": 336,
+ "pages": 1084,
+ "pages_by_source": {
+  "ocr": 1020,
+  "embedded_ocr_layer+ocr": 3,
+  "text_layer": 61
+ },
+ "docs_truncated": 6,
+ "errors": 0,
+ "near_empty_lt5": 57,
+ "near_empty_lt30": 68,
+ "flags": {
+  "bg_normalized": 30,
+  "copied_from_exact_duplicate": 113,
+  "rotated_90": 13,
+  "rotated_270": 35,
+  "no_boxes": 49,
+  "empty_text": 49,
+  "rotated_180": 2
+ },
+ "pages_copied_from_exact_duplicates": 113,
+ "ocr_pages_actually_run": 910,
+ "ocr_seconds_sum": 16508.1,
+ "ocr_sec_per_page_mean": 18.14,
+ "ocr_sec_per_page_median": 15.37,
+ "mean_conf_mean": 0.782,
+ "low_conf_lt0.6": 40,
+ "chars_total": 1523327,
+ "per_folder": [
+  {
+   "folder": "(root)",
+   "docs": 2,
+   "pages": 14,
+   "diac_before_p1": null,
+   "diac_after_p1": 0.2512916862376703,
+   "diac_after_allpages": 0.2573378839590444,
+   "longtok_before_p1": null,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "10. GCN VC HNH",
+   "docs": 20,
+   "pages": 40,
+   "diac_before_p1": 0.0,
+   "diac_after_p1": 0.2527975584944049,
+   "diac_after_allpages": 0.2611020692862125,
+   "longtok_before_p1": 0.055825242718446605,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "5. TỔNG HỢP HỒ SƠ XE",
+   "docs": 20,
+   "pages": 39,
+   "diac_before_p1": 0.0020523708421797595,
+   "diac_after_p1": 0.23395236172789666,
+   "diac_after_allpages": 0.22942041555111428,
+   "longtok_before_p1": 0.021794508915935467,
+   "longtok_after_p1": 0.0033653846153846156
+  },
+  {
+   "folder": "6. CUA HANG - BB MAU- VÂN",
+   "docs": 10,
+   "pages": 65,
+   "diac_before_p1": 0.005021316911416391,
+   "diac_after_p1": 0.25256692335900255,
+   "diac_after_allpages": 0.24828788444776492,
+   "longtok_before_p1": 0.009766306243460064,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "6. HOP DONG MUON BON",
+   "docs": 7,
+   "pages": 29,
+   "diac_before_p1": 0.0018150467374534894,
+   "diac_after_p1": 0.28449295134151886,
+   "diac_after_allpages": 0.2810760667903525,
+   "longtok_before_p1": 0.0,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "6. HOP DONG THUE KHO- Vi",
+   "docs": 6,
+   "pages": 34,
+   "diac_before_p1": 0.0012295081967213116,
+   "diac_after_p1": 0.2757457146713457,
+   "diac_after_allpages": 0.26916080523890373,
+   "longtok_before_p1": 0.0004608294930875576,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "8. CUA HANG - TU K.TRA PCCC- VÂN",
+   "docs": 5,
+   "pages": 138,
+   "diac_before_p1": 0.0,
+   "diac_after_p1": 0.2904707233065442,
+   "diac_after_allpages": 0.2738709612642824,
+   "longtok_before_p1": 0.0,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "8. GCN Lop dao tao van chuyen hang chay no",
+   "docs": 20,
+   "pages": 40,
+   "diac_before_p1": 0.00041736227045075126,
+   "diac_after_p1": 0.2556016597510373,
+   "diac_after_allpages": 0.2606164117692726,
+   "longtok_before_p1": 0.04389312977099236,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "9. TỔNG HỢP HỒ SƠ CỬA HÀNG",
+   "docs": 25,
+   "pages": 71,
+   "diac_before_p1": 0.0018353215983982648,
+   "diac_after_p1": 0.2522403130127477,
+   "diac_after_allpages": 0.2726542093630701,
+   "longtok_before_p1": 0.012441679626749611,
+   "longtok_after_p1": 0.0023763231799524736
+  },
+  {
+   "folder": "TU K.TRA PCCC- VÂN",
+   "docs": 5,
+   "pages": 142,
+   "diac_before_p1": 0.0010395010395010396,
+   "diac_after_p1": 0.2965235173824131,
+   "diac_after_allpages": 0.2781931899578958,
+   "longtok_before_p1": 0.0,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "_1. Giay DKKD khach hang",
+   "docs": 23,
+   "pages": 48,
+   "diac_before_p1": 0.0022529441884280594,
+   "diac_after_p1": 0.25951731798444916,
+   "diac_after_allpages": 0.25456417088013567,
+   "longtok_before_p1": 0.003213003213003213,
+   "longtok_after_p1": 0.00036231884057971015
+  },
+  {
+   "folder": "_1. HOP DONG DAI LY NHUONG QUYEN",
+   "docs": 25,
+   "pages": 84,
+   "diac_before_p1": 0.0026452693765981836,
+   "diac_after_p1": 0.27032094889237746,
+   "diac_after_allpages": 0.27608329603342074,
+   "longtok_before_p1": 0.0036700175522578586,
+   "longtok_after_p1": 0.00015269506794930523
+  },
+  {
+   "folder": "_2. Giay Du Dieu Kien Khach hang",
+   "docs": 25,
+   "pages": 45,
+   "diac_before_p1": 0.0011036004966202234,
+   "diac_after_p1": 0.2822967790382707,
+   "diac_after_allpages": 0.2802286308131982,
+   "longtok_before_p1": 0.001269159425949429,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "_2. HOP DONG KINH TE",
+   "docs": 25,
+   "pages": 56,
+   "diac_before_p1": 0.002083930292531715,
+   "diac_after_p1": 0.277666101031197,
+   "diac_after_allpages": 0.2827503643556111,
+   "longtok_before_p1": 0.0008668515950069349,
+   "longtok_after_p1": 0.0
+  },
+  {
+   "folder": "_3. HOP DONG DAU VAO-Diem",
+   "docs": 20,
+   "pages": 84,
+   "diac_before_p1": 0.009160016997969688,
+   "diac_after_p1": 0.2720449417507022,
+   "diac_after_allpages": 0.28019353468067465,
+   "longtok_before_p1": 0.0019102196752626551,
+   "longtok_after_p1": 0.0007827175954915466
+  },
+  {
+   "folder": "_4. THANH LÝ HỢP ĐỒNG",
+   "docs": 14,
+   "pages": 20,
+   "diac_before_p1": 0.003003228470605901,
+   "diac_after_p1": 0.2771025082554627,
+   "diac_after_allpages": 0.280942913944902,
+   "longtok_before_p1": 0.002041337075784639,
+   "longtok_after_p1": 0.00023315458148752622
+  },
+  {
+   "folder": "_5. HOP DONG VAN CHUYEN",
+   "docs": 24,
+   "pages": 57,
+   "diac_before_p1": 0.0030659955543064464,
+   "diac_after_p1": 0.267937393460406,
+   "diac_after_allpages": 0.2750532817189335,
+   "longtok_before_p1": 0.0019366197183098592,
+   "longtok_after_p1": 0.00017404925593943085
+  },
+  {
+   "folder": "_Biên bản giao nhận 2026",
+   "docs": 20,
+   "pages": 21,
+   "diac_before_p1": 0.00205761316872428,
+   "diac_after_p1": 0.21311475409836064,
+   "diac_after_allpages": 0.21396522714526078,
+   "longtok_before_p1": 0.005142589995324918,
+   "longtok_after_p1": 0.003002001334222815
+  },
+  {
+   "folder": "_PHIẾU XUẤT KHO MUA HÀNG 2026",
+   "docs": 20,
+   "pages": 37,
+   "diac_before_p1": 0.18510262840159747,
+   "diac_after_p1": 0.24685255991793342,
+   "diac_after_allpages": 0.2214958475581705,
+   "longtok_before_p1": 0.005384006334125099,
+   "longtok_after_p1": 0.0001528350909368791
+  },
+  {
+   "folder": "_Đơn đặt hàng - mua vào 2026",
+   "docs": 20,
+   "pages": 20,
+   "diac_before_p1": 0.13618677042801555,
+   "diac_after_p1": 0.26363440396637206,
+   "diac_after_allpages": 0.26363440396637206,
+   "longtok_before_p1": 0.009167103195390257,
+   "longtok_after_p1": 0.0007297494526879105
+  }
+ ],
+ "diac_before_p1_all": 0.022434808604313027,
+ "diac_after_p1_all": 0.2653833873101309,
+ "longtok_before_p1_all": 0.0045032131680164365,
+ "longtok_after_p1_all": 0.0005431529474360964,
+ "embedded_layer_pages": [
+  {
+   "rel": "_3. HOP DONG DAU VAO-Diem/HDVC HOÀNG GIA HÂN-HIEP HOA.PDF",
+   "page": 1,
+   "rejected": "invisible_text(render_mode_3)",
+   "n_chars": 2477,
+   "diac_ratio_new": 0.27137767220902614
+  },
+  {
+   "rel": "_3. HOP DONG DAU VAO-Diem/HDVC HOÀNG GIA HÂN-HIEP HOA.PDF",
+   "page": 2,
+   "rejected": "invisible_text(render_mode_3)",
+   "n_chars": 2552,
+   "diac_ratio_new": 0.2870074547390841
+  },
+  {
+   "rel": "_3. HOP DONG DAU VAO-Diem/HK - Cao Thị Như Tuyết (Số 77 ngày 07.05.25) ký BBĐC.pdf",
+   "page": 1,
+   "rejected": "invisible_text(render_mode_3)",
+   "n_chars": 1692,
+   "diac_ratio_new": 0.2807308970099668
+  }
+ ]
+}

@@ -1,0 +1,20 @@
+{
+  "unit_id": "4ad1c01d6262_0",
+  "annotator": "haiku",
+  "doc_type": "BIEN_NHAN_THE_CHAP_PT",
+  "pages_seen": [1],
+  "fields": {
+    "so_bien_nhan": {"value": "03/2023/[?]", "normalized": null, "page": 1, "evidence": "Số: 03/2023/", "ink": "handwritten", "status": "ok", "note": "mot_phan_bi_che"},
+    "ngay_cap": {"value": "ngày 09 tháng 02 năm 2023", "normalized": "2023-02-09", "page": 1, "evidence": "Quy Nhơn, ngày 09 tháng 02 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "ngan_hang": {"value": "NGÂN HÀNG TMCP PHÁT TRIỂN TP.HCM - CHI NHÁNH BÌNH ĐỊNH", "normalized": "NGÂN HÀNG TMCP PHÁT TRIỂN TP.HCM - CHI NHÁNH BÌNH ĐỊNH", "page": 1, "evidence": "NGÂN HÀNG TMCP PHÁT TRIỂN TP.HCM - CHI NHÁNH BÌNH ĐỊNH", "ink": "printed", "status": "ok", "note": null},
+    "ben_the_chap": {"value": "CÔNG TY CỔ PHẦN TM&DV HIỆP HÒA - ĐKKD số: 4100668616", "normalized": "CÔNG TY CỔ PHẦN TM&DV HIỆP HÒA - ĐKKD số: 4100668616", "page": 1, "evidence": "CÔNG TY CỔ PHẦN TM&DV HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "bien_so": {"value": "77C-095.67", "normalized": "77C-095.67", "page": 1, "evidence": "Biển kiểm soát của phương tiện: 77C-095.67", "ink": "printed", "status": "ok", "note": null},
+    "loai_phuong_tien": {"value": "Xe đầu kéo nhãn hiệu CNHTC", "normalized": "Xe đầu kéo nhãn hiệu CNHTC", "page": 1, "evidence": "Loại phương tiện giao thông: Xe đầu kéo nhãn hiệu CNHTC", "ink": "printed", "status": "ok", "note": null},
+    "so_khung": {"value": "LSB6FN076251", "normalized": "LSB6FN076251", "page": 1, "evidence": "Số khung: LSB6FN076251", "ink": "printed", "status": "ok", "note": null},
+    "so_may": {"value": "150417023697", "normalized": "150417023697", "page": 1, "evidence": "Số máy: 150417023697", "ink": "printed", "status": "ok", "note": null},
+    "so_gcn_dang_ky": {"value": "005709", "normalized": "005709", "page": 1, "evidence": "Giấy chứng nhận đăng ký xe ô tô số 005709", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần 2", "normalized": "Cấp lần 2", "page": 1, "evidence": "Cấp lần 2. Có hiệu lực đến hết ngày 15/02/2024", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "15/02/2024", "normalized": "2024-02-15", "page": 1, "evidence": "Có hiệu lực đến hết ngày 15/02/2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

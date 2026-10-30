@@ -1,0 +1,26 @@
+{
+ "n_files": 14,
+ "split_ms": {
+  "median": 31.4,
+  "p95": 68.43999999999998,
+  "max": 99.9
+ },
+ "classify_ms": {
+  "median": 11.6,
+  "p95": 53.209999999999994,
+  "max": 75.7
+ },
+ "extract_ms": {
+  "median": 4184.45,
+  "p95": 11978.960000000001,
+  "max": 12069.7
+ },
+ "total_ms": {
+  "median": 4266.178200021386,
+  "p95": 12093.415745027596,
+  "max": 12162.517699995078
+ },
+ "files_with_extraction": 14,
+ "extract_ms_per_extracted_slice": 4234.962500000001,
+ "note": "OCR không chạy lại; cache LLM trống => lời gọi thật; GPU/Ollama dùng chung"
+}

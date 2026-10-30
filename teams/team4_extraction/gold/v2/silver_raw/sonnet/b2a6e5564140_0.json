@@ -1,0 +1,93 @@
+{
+ "unit_id": "b2a6e5564140_0",
+ "annotator": "sonnet",
+ "doc_type": "HD_VAN_CHUYEN",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_hop_dong": {
+   "value": "16/2022/HDVC/HH-TMai",
+   "normalized": "16/2022/HDVC/HH-TMAI",
+   "page": 1,
+   "evidence": "Số: 16/2022/HDVC/HH-TMai",
+   "ink": "printed",
+   "status": "ok",
+   "note": "scan_mo_ky_tu_H"
+  },
+  "ngay_ky": {
+   "value": "20 tháng 10 năm 2022",
+   "normalized": "2022-10-20",
+   "page": 1,
+   "evidence": "Hôm nay, ngày 20 tháng 10 năm 2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_chu_hang": {
+   "value": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ TUYẾT MAI (BÊN THUÊ VẬN CHUYỂN) MST: 4000379258",
+   "normalized": "CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ TUYẾT MAI MST 4000379258",
+   "page": 1,
+   "evidence": "BÊN A: CÔNG TY TNHH SẢN XUẤT THƯƠNG MẠI DỊCH VỤ TUYẾT MAI",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_van_chuyen": {
+   "value": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN) Mã số thuế: 4100668616",
+   "normalized": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA MST 4100668616",
+   "page": 1,
+   "evidence": "BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN)",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "vai_tro_cong_ty": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "tuyen_van_chuyen": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "gia_cuoc": {
+   "value": "Giá cả do hai bên thỏa thuận theo từng thời điểm. Phương thức tính: theo lít vận chuyển hoặc theo chuyến",
+   "normalized": "Giá cả do hai bên thỏa thuận theo từng thời điểm. Phương thức tính: theo lít vận chuyển hoặc theo chuyến",
+   "page": 2,
+   "evidence": "Giá cả do hai bên thỏa thuận theo từng thời điểm",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hieu_luc_tu": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "hieu_luc_den": {
+   "value": "31/12/2022",
+   "normalized": "2022-12-31",
+   "page": 2,
+   "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "scan_mo"
+}

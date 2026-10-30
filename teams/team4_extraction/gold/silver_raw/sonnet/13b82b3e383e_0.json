@@ -1,0 +1,18 @@
+{
+  "unit_id": "13b82b3e383e_0",
+  "annotator": "sonnet",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "85 /GCNĐĐK-SCT", "normalized": "85/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 85 /GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": "scan_mo_ky_tu_Đ_kho_chac"},
+    "ngay_cap": {"value": "ngày 12 tháng 9 năm 2019", "normalized": "2019-09-12", "page": 1, "evidence": "Gia Lai, ngày 12 tháng 9 năm 2019", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "UBND TỈNH GIA LAI SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH GIA LAI SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH GIA LAI SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng bán lẻ Xăng dầu số 3", "normalized": "Cửa hàng bán lẻ Xăng dầu số 3", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: Cửa hàng bán lẻ Xăng dầu số 3", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "đường Lê Lợi, tổ 9, phường An Bình, thị xã An Khê, tỉnh Gia Lai", "normalized": "đường Lê Lợi, tổ 9, phường An Bình, thị xã An Khê, tỉnh Gia Lai", "page": 1, "evidence": "Địa chỉ: đường Lê Lợi, tổ 9, phường An Bình, thị xã An Khê", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Xăng dầu Hòa Tâm Gia Lai Mã số thuế: 5901023724", "normalized": "Công ty TNHH Xăng dầu Hòa Tâm Gia Lai Mã số thuế: 5901023724", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH Xăng dầu Hòa Tâm Gia Lai", "ink": "printed", "status": "ok", "note": "mst_o_dong_duoi_sau_dia_chi"},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất", "normalized": "Cấp lần thứ nhất", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 12/9/2019", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "ngày 12 tháng 9 năm 2024", "normalized": "2024-09-12", "page": 1, "evidence": "có giá trị đến hết ngày 12 tháng 9 năm 2024", "ink": "printed", "status": "ok", "note": "gan_con_dau_chung_thuc"}
+  },
+  "unit_note": "ban_sao_scan_mo_nhieu_nhieu_con_dau_chung_thuc_de_len"
+}

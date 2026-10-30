@@ -1,0 +1,320 @@
+{
+ "hamming_bins": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  8,
+  10,
+  12,
+  16,
+  65
+ ],
+ "lowest_pixel_diff_non_byte_pairs": [
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2604-0034.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2605-0004.pdf",
+   "hamming_last": 0,
+   "hamming_p1": 0,
+   "page_count": 1,
+   "pixel_diff": 0.00097,
+   "text_sim": 0.927
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0019.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0024.pdf",
+   "hamming_last": 0,
+   "hamming_p1": 0,
+   "page_count": 1,
+   "pixel_diff": 0.00099,
+   "text_sim": 0.955
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2602-0017.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0024.pdf",
+   "hamming_last": 1,
+   "hamming_p1": 1,
+   "page_count": 1,
+   "pixel_diff": 0.0011,
+   "text_sim": 0.917
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2603-0019.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2604-0017.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.00118,
+   "text_sim": 0.919
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2602-0017.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0019.pdf",
+   "hamming_last": 1,
+   "hamming_p1": 1,
+   "page_count": 1,
+   "pixel_diff": 0.00159,
+   "text_sim": 0.919
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2602-0017.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2604-0034.pdf",
+   "hamming_last": 1,
+   "hamming_p1": 1,
+   "page_count": 1,
+   "pixel_diff": 0.00186,
+   "text_sim": 0.816
+  },
+  {
+   "a": "5. TỔNG HỢP HỒ SƠ XE/BHDS 13420 (2-1-23).pdf",
+   "b": "5. TỔNG HỢP HỒ SƠ XE/BHDS 173.10 (29-1-23).pdf",
+   "hamming_last": 1,
+   "hamming_p1": 3,
+   "page_count": 2,
+   "pixel_diff": 0.00189,
+   "text_sim": 0.911
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2604-0034.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0024.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.00193,
+   "text_sim": 0.832
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2605-0004.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0019.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.00196,
+   "text_sim": 0.84
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2604-0016.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2605-0015.pdf",
+   "hamming_last": 1,
+   "hamming_p1": 1,
+   "page_count": 1,
+   "pixel_diff": 0.00208,
+   "text_sim": 0.809
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2605-0004.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0024.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.00219,
+   "text_sim": 0.828
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2602-0017.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2605-0004.pdf",
+   "hamming_last": 1,
+   "hamming_p1": 1,
+   "page_count": 1,
+   "pixel_diff": 0.00235,
+   "text_sim": 0.823
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2604-0034.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0019.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.00251,
+   "text_sim": 0.826
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2605-0005.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2606-0010.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.00339,
+   "text_sim": 0.787
+  },
+  {
+   "a": "8. CUA HANG - TU K.TRA PCCC- VÂN/PCCC CH12-22.pdf",
+   "b": "8. CUA HANG - TU K.TRA PCCC- VÂN/PCCC G1-22.pdf",
+   "hamming_last": 11,
+   "hamming_p1": 16,
+   "page_count": 50,
+   "pixel_diff": 0.00452,
+   "text_sim": 0.803
+  },
+  {
+   "a": "8. CUA HANG - TU K.TRA PCCC- VÂN/PCCC CH12-22.pdf",
+   "b": "TU K.TRA PCCC- VÂN/PCCC G1-22.pdf",
+   "hamming_last": 11,
+   "hamming_p1": 16,
+   "page_count": 50,
+   "pixel_diff": 0.00452,
+   "text_sim": 0.803
+  },
+  {
+   "a": "_Đơn đặt hàng - mua vào 2026/don-hang_2605-0041.pdf",
+   "b": "_Đơn đặt hàng - mua vào 2026/don-hang_2605-0043.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.00495,
+   "text_sim": 0.92
+  },
+  {
+   "a": "_PHIẾU XUẤT KHO MUA HÀNG 2026/20260114-05.pdf",
+   "b": "_PHIẾU XUẤT KHO MUA HÀNG 2026/20260124-02.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.00509,
+   "text_sim": 0.874
+  },
+  {
+   "a": "_Biên bản giao nhận 2026/bbgn-260206-10.pdf",
+   "b": "_Biên bản giao nhận 2026/bbgn-260220-1.pdf",
+   "hamming_last": 5,
+   "hamming_p1": 5,
+   "page_count": 1,
+   "pixel_diff": 0.00539,
+   "text_sim": 0.932
+  },
+  {
+   "a": "_Biên bản giao nhận 2026/bbgn-260204-3.pdf",
+   "b": "_Biên bản giao nhận 2026/bbgn-260206-10.pdf",
+   "hamming_last": 4,
+   "hamming_p1": 4,
+   "page_count": 1,
+   "pixel_diff": 0.00569,
+   "text_sim": 0.883
+  },
+  {
+   "a": "_PHIẾU XUẤT KHO MUA HÀNG 2026/20260125-02.pdf",
+   "b": "_PHIẾU XUẤT KHO MUA HÀNG 2026/20260129-09.pdf",
+   "hamming_last": 2,
+   "hamming_p1": 2,
+   "page_count": 1,
+   "pixel_diff": 0.0064,
+   "text_sim": 0.893
+  },
+  {
+   "a": "_Biên bản giao nhận 2026/bbgn-260204-3.pdf",
+   "b": "_Biên bản giao nhận 2026/bbgn-260220-1.pdf",
+   "hamming_last": 3,
+   "hamming_p1": 3,
+   "page_count": 1,
+   "pixel_diff": 0.00654,
+   "text_sim": 0.885
+  },
+  {
+   "a": "_2. HOP DONG KINH TE/Ngoi phú phong (31-12-2024) .pdf",
+   "b": "_2. HOP DONG KINH TE/phượng lan (31-12-2024).pdf",
+   "hamming_last": 1,
+   "hamming_p1": 3,
+   "page_count": 2,
+   "pixel_diff": 0.00666,
+   "text_sim": 0.944
+  },
+  {
+   "a": "_PHIẾU XUẤT KHO MUA HÀNG 2026/20260114-05.pdf",
+   "b": "_PHIẾU XUẤT KHO MUA HÀNG 2026/20260125-02.pdf",
+   "hamming_last": 1,
+   "hamming_p1": 1,
+   "page_count": 1,
+   "pixel_diff": 0.00726,
+   "text_sim": 0.893
+  },
+  {
+   "a": "5. TỔNG HỢP HỒ SƠ XE/2b. BHVC 01942 (27-8-23).pdf",
+   "b": "5. TỔNG HỢP HỒ SƠ XE/9. BHVC 02699 (4-6-23).pdf",
+   "hamming_last": 2,
+   "hamming_p1": 6,
+   "page_count": 2,
+   "pixel_diff": 0.00744,
+   "text_sim": 0.822
+  }
+ ],
+ "n_byte_identical_pairs": 34,
+ "n_other_pairs_hamming_le_2": 126,
+ "n_other_pairs_hamming_le_4": 481,
+ "n_pairs_total": 56280,
+ "page1_hamming_hist_byte_identical_pairs": [
+  34,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "page1_hamming_hist_other_pairs": [
+  5,
+  46,
+  75,
+  155,
+  200,
+  233,
+  647,
+  993,
+  1271,
+  4076,
+  48545
+ ],
+ "pixel_bins": [
+  0,
+  0.0005,
+  0.001,
+  0.002,
+  0.004,
+  0.008,
+  0.016,
+  0.03,
+  0.06,
+  0.12,
+  1.0001
+ ],
+ "pixel_diff_hist_byte_identical_pairs": [
+  34,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0,
+  0
+ ],
+ "pixel_diff_hist_candidate_other_pairs": [
+  0,
+  2,
+  7,
+  5,
+  14,
+  37,
+  92,
+  204,
+  572,
+  1312
+ ],
+ "thresholds": {
+  "image_hamming": 4,
+  "pixel_dup": 0.0005,
+  "template_loose_sim": 0.75,
+  "template_pixel": 0.03,
+  "template_sim": 0.95,
+  "text_dup_pixel": 0.02,
+  "text_dup_sim": 0.999,
+  "text_min_len": 150
+ }
+}

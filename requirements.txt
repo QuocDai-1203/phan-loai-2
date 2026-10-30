@@ -1,0 +1,33 @@
+# Moi truong chung cua de tai. Tao venv:
+#   python -m venv --system-site-packages .venv
+#   .venv\Scripts\python -m pip install -r requirements.txt
+# torch (ban CUDA) cai rieng theo may: https://pytorch.org/get-started/locally/
+pymupdf>=1.24
+numpy
+pandas
+pillow
+opencv-python
+pydantic>=2
+requests
+scikit-learn>=1.5
+scipy
+matplotlib               # ve bieu do risk-coverage / learning curve (teams/team3_classification)
+rapidfuzz
+rapidocr-onnxruntime
+onnxruntime
+gliner
+pytest
+
+# OCR engines (Team 1, xem teams/team1_ocr/experiments/01_engine_bakeoff/RESULTS.md)
+# Engine chon: bo phat hien dong DB cua PP-OCRv5 (rapidocr) + VietOCR vgg_seq2seq. Cac goi con lai chi dung de so sanh.
+rapidocr==3.10.0          # v3 (PP-OCRv5/v6); khac voi rapidocr-onnxruntime 1.2.3 o tren (baseline cu, thieu dau tieng Viet)
+# vietocr cai bang:  pip install --no-deps vietocr==0.3.13   (ban goc ghim torch/albumentations cu)
+vietocr==0.3.13
+einops
+gdown                     # vietocr dung de tai trong so
+easyocr==1.7.2            # chi de so sanh; cai bang --no-deps de khong keo torch khac
+scikit-image
+python-bidi
+torchvision               # ban CPU tu PyPI chay duoc voi torch CUDA hien co (chi easyocr can import)
+# PaddleOCR 3.x KHONG cai vao venv chung (keo opencv-contrib-python + ha PyYAML). Neu can tai hien: venv rieng,
+#   python -m venv _cache/venv_paddle && pip install paddlepaddle==3.3.1 paddleocr==3.7.0 pymupdf rapidfuzz pandas opencv-python-headless

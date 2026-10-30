@@ -1,0 +1,18 @@
+{
+  "unit_id": "ddd6f3a71bec_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2, 3],
+  "fields": {
+    "so_giay": {"value": "47 /GCNBLXD-SCT", "normalized": "47/GCNBLXD-SCT", "page": 1, "evidence": "Số: 47 /GCNBLXD-SCT", "ink": "handwritten", "status": "ok", "note": null},
+    "ngay_cap": {"value": "13 tháng 6 năm 2018", "normalized": "2018-06-13", "page": 1, "evidence": "Bình Định, ngày 13 tháng 6 năm 2018", "ink": "handwritten", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG BÁN LẺ XĂNG DẦU NGỌC CHÂU", "normalized": "CỬA HÀNG BÁN LẺ XĂNG DẦU NGỌC CHÂU", "page": 1, "evidence": "CỬA HÀNG BÁN LẺ XĂNG DẦU NGỌC CHÂU", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "ĐT639, thôn Phổ Minh I, xã Cát Minh, huyện Phù Cát, tỉnh Bình Định", "normalized": "ĐT639, thôn Phổ Minh I, xã Cát Minh, huyện Phù Cát, tỉnh Bình Định", "page": 1, "evidence": "Địa chỉ kinh doanh: ĐT639, thôn Phổ Minh I,", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Ngọc Châu; Mã số thuế: 4100408054", "normalized": "Công ty TNHH Ngọc Châu; Mã số thuế: 4100408054", "page": 1, "evidence": "Thuộc sở hữu của Công ty TNHH Ngọc Châu", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất", "normalized": "Cấp lần thứ nhất", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 13 tháng 6 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "12 tháng 6 năm 2023", "normalized": "2023-06-12", "page": 2, "evidence": "có giá trị đến hết ngày 12 tháng 6 năm 2023", "ink": "handwritten", "status": "ok", "note": null}
+  },
+  "unit_note": "ban_sao; mat_sau_p02_b_trang_trang"
+}

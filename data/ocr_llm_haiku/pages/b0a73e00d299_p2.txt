@@ -1,0 +1,24 @@
+KẾT QUẢ KIỂM ĐỊNH
+RESULTS OF VERIFICATION
+Xi téc | Tấm mức | | Chiều dài hầm (mm) | Dung tích ( L)
+ | Chiều cao trống (mm) | Chiều cao chứa (mm) | |
+Số 1 | 397 | 1980 | 1450 | 6000
+Số 2 | 448 | 1935 | 1720 | 7000
+Số 3 | 418 | 1950 | 1720 | 7000
+Số 4 | 430 | 1938 | 1720 | 7000
+Số 5 | 437 | 1932 | 1720 | 7000
+Số 6 | 459 | 1917 | 1500 | 6000
+CÁC YẾU TỐ KỸ THUẬT KHÁC:
+- Kích cỡ lốp xe: Trước: 11.00R22.5 Sau: 11.00R22.5
+- Thứ tự vị trí Xi téc tính từ đầu xe ra sau
+- Chiều cao nhiên liệu tính từ đáy Xi téc đến láng mặt trên tấm mức.
+- Đo nhiên liệu tại vị trí tấm mức
+- Trên, dưới trống không xác định dung tích trong giao nhận xăng dầu
+- Dung tích xác định cả đường ống xả 06 hầm xi téc
+- Đã kẹp chì 06 nắp Xi téc ( có 12 dấu chì ký hiệu N237)
+- Đường ống xả 06, Phi 90
+* Niêm chì bị đứt giấy chứng nhận này không còn giá trị sử dụng.
+Ghi chú:
+1/ Giấy chứng nhận không được tẩy xóa sửa chữa.
+2/ Cấm sửa đổi hình dáng kích thước các Xi téc
+3/ Cấm thay đổi vị trí tấm mức hoặc làm thay đổi Xi téc

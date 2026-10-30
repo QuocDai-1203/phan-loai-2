@@ -1,0 +1,17 @@
+8.6. Trước khi quyết định thực hiện Giao dịch điện tử, Khách Hàng và người đại diện của Khách Hàng có trách nhiệm tìm hiểu và đảm bảo: đã được MB cung cấp đầy đủ thông tin về quy trình, cách thức, thao tác thực hiện giao dịch điện tử, các thông tin đề nghị giải ngân và nhận nợ là thật, phù hợp với thông tin Khách Hàng, khoản tín dụng, phương án sử dụng vốn và đã hiểu rõ, chấp nhận và thực hiện đúng toàn bộ nội dung liên quan. Khách Hàng và người đại diện của Khách Hàng đã nhận biết được việc thực hiện Giao dịch điện tử có thể tồn tại những rủi ro tiềm tàng, Khách Hàng và người đại diện của Khách Hàng có trách nhiệm tìm hiểu, chủ động cập nhật, áp dụng các biện pháp tự bảo vệ, phòng ngừa rủi ro và chấp nhận các rủi ro, chậm trễ, hoặc thiệt hại có thể phát sinh. Các rủi ro có thể phát sinh bao gồm nhưng không giới hạn:
+8.6.1. Sự cố đường truyền Internet, viễn thông do nhà cung cấp dịch vụ gây ra.
+8.6.2. Hệ thống thiết bị của Khách Hàng và/hoặc MB/Bên thứ ba gặp sự cố do bị mất nguồn điện, bị tấn công, chiếm quyền, nhiễm virus hoặc bị ảnh hưởng của những sự cố, các vấn đề phát sinh ngoài ý muốn.
+8.6.3. Khách Hàng có thể bị lộ hoặc bị đánh cắp các thông tin giao dịch hoặc tài khoản điện tử của Khách Hàng bị sử dụng một cách trái phép bởi một bên khác.
+8.6.4. Bất kỳ nguyên nhân nào khác mà không do lỗi cố ý, trực tiếp của MB/Bên thứ ba.
+8.7. Cùng với thỏa thuận này, Khách Hàng có trách nhiệm thực hiện các thỏa thuận khác với MB về giao dịch điện tử và các quy định, hướng dẫn khác của MB (nếu có).
+ĐIỀU 9. CUNG CẤP, TRAO ĐỔI THÔNG TIN VÀ BẢO VỆ DỮ LIỆU KHÁCH HÀNG
+9.1. Khách Hàng cung cấp hoặc thông báo cho MB trung thực, đầy đủ, chính xác, kịp thời các thông tin, tài liệu sau:
+9.1.1. Báo cáo tài chính hàng quý trong thời hạn 30 ngày, báo cáo tài chính năm trong thời hạn 90 ngày theo quy định của pháp luật, kể từ ngày kết thúc kỳ báo cáo; Báo cáo về tình hình sản xuất, kinh doanh và phương án sử dụng khoản tín dụng, tình hình tổ chức, hoạt động của Khách Hàng; các thông tin, tài liệu liên quan khác theo yêu cầu của MB.
+9.1.2. Người đại diện theo pháp luật của Khách Hàng vắng mặt tại Việt Nam quá 30 ngày mà không ủy quyền cho người khác thực hiện các quyền và nghĩa vụ của người đại diện theo pháp luật.
+9.1.3. Thay đổi văn bản về đăng ký, thành lập; thay đổi tên, vốn điều lệ, địa chỉ trụ sở chính, phạm vi hoạt động.
+9.1.4. Tài sản bảo đảm không còn hoặc không còn đủ giá trị bảo đảm cho khoản tín dụng theo Hợp đồng cấp tín dụng.
+9.1.5. Có nguy cơ mất khả năng thanh toán hoặc phát sinh sự kiện MB được ngừng giải ngân và thu hồi nợ trước hạn theo Thỏa thuận chung này.
+9.1.6. Các thông tin, tài liệu, dữ liệu khác theo quy định, yêu cầu của MB từng thời điểm.
+9.2. Các thông tin liên quan đến Khách Hàng và giao dịch của Khách Hàng được MB lưu trữ và bảo vệ một cách cẩn trọng. MB thu thập, sử dụng, cung cấp, chia sẻ, chuyển giao, lưu trữ theo (các) Hợp đồng cấp tín dụng, sự chấp thuận của Khách Hàng và quy định của pháp luật.
+9.3. Nhằm mục đích cung cấp dịch vụ và hướng tới đáp ứng tốt hơn trải nghiệm của Khách Hàng, Khách Hàng đồng ý: Tập đoàn MB (bao gồm MB và các công ty con, công ty liên kết của MB) và bên liên quan (bao gồm nhưng không giới hạn: đối tác, bên cung cấp hàng hóa dịch vụ, bên tư vấn, bên đại diện, bên nhận ủy nhiệm, bên nhận ủy thác hoặc đại lý, bên nhận chuyển giao quyền và nghĩa vụ, bên kiểm toán, bên liên kết cung cấp sản phẩm dịch vụ, tổ chức và cá nhân có thẩm quyền, các bên khác có liên quan của Tập
+12

@@ -1,0 +1,18 @@
+{
+  "unit_id": "151c0df87ab7_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "37/GCNBLXD-SCT", "normalized": "37/GCNBLXD-SCT", "page": 1, "evidence": "Số: 37 /GCNBLXD-SCT", "ink": "handwritten", "status": "ok", "note": "so_viet_tay_phan_dau"},
+    "ngay_cap": {"value": "23 tháng 3 năm 2018", "normalized": "2018-03-23", "page": 1, "evidence": "Bình Định, ngày 23 tháng 3 năm 2018", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "co_quan_cap": {"value": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG BÁN LẺ XĂNG DẦU TÂN XUÂN LỘC (CƠ SỞ 01)", "normalized": "CỬA HÀNG BÁN LẺ XĂNG DẦU TÂN XUÂN LỘC (CƠ SỞ 01)", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: CỬA HÀNG BÁN LẺ XĂNG DẦU", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "thôn Thiện Chánh 1 (dọc bờ sông Thiện Chánh) xã Tam Quan Bắc, huyện Hoài Nhơn, tỉnh Bình Định", "normalized": "thôn Thiện Chánh 1 (dọc bờ sông Thiện Chánh) xã Tam Quan Bắc, huyện Hoài Nhơn, tỉnh Bình Định", "page": 1, "evidence": "Địa chỉ kinh doanh: thôn Thiện Chánh 1", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Tân Xuân Lộc; Giấy chứng nhận đăng ký doanh nghiệp số 4100575464", "normalized": "Công ty TNHH Tân Xuân Lộc; Giấy chứng nhận đăng ký doanh nghiệp số 4100575464", "page": 1, "evidence": "Thuộc sở hữu của Công ty TNHH Tân Xuân Lộc", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất", "normalized": "Cấp lần thứ nhất", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 23 tháng 3 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "22 tháng 3 năm 2023", "normalized": "2023-03-22", "page": 2, "evidence": "có giá trị đến hết ngày 22 tháng 3 năm 2023", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"}
+  },
+  "unit_note": "mot_phan_viet_tay_ban_sao"
+}

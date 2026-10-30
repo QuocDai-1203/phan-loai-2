@@ -1,0 +1,18 @@
+{
+  "unit_id": "2da681df11bc_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2, 3],
+  "fields": {
+    "so_hop_dong": {"value": "81/2022/HĐMB-HH", "normalized": "81/2022/HĐMB-HH", "page": 1, "evidence": "Số: 81/2022/HĐMB-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "29 tháng 04 năm 2022", "normalized": "2022-04-29", "page": 1, "evidence": "Hôm nay, ngày 29 tháng 04 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ben_mua": {"value": "CÔNG TY TNHH DỊCH VỤ - VẬN TẢI - THƯƠNG MẠI HUY HOÀNG, Mã số thuế: 4101431095", "normalized": "CÔNG TY TNHH DỊCH VỤ - VẬN TẢI - THƯƠNG MẠI HUY HOÀNG, Mã số thuế: 4101431095", "page": 1, "evidence": "CÔNG TY TNHH DỊCH VỤ - VẬN TẢI", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "xăng dầu các loại", "normalized": "xăng dầu các loại", "page": 1, "evidence": "mặt hàng sau: xăng dầu các loại", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": "Bên A đồng ý cho Bên B công nợ tối đa tại mọi thời điểm trong tháng là 200.000.000 đồng (Hai trăm triệu đồng)", "normalized": "Bên A đồng ý cho Bên B công nợ tối đa tại mọi thời điểm trong tháng là 200.000.000 đồng (Hai trăm triệu đồng)", "page": 2, "evidence": "công nợ tối đa tại mọi thời điểm trong tháng là 200.000.000 đồng", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "từ ngày ký", "normalized": null, "page": 3, "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2022", "ink": "printed", "status": "ok", "note": "khong_ngay_cu_the"},
+    "hieu_luc_den": {"value": "31/12/2022", "normalized": "2022-12-31", "page": 3, "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2022", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_tot_trang_3_mo_nhat"
+}

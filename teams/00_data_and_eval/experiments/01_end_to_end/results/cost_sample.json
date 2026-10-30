@@ -1,0 +1,87 @@
+{
+ "loads": {
+  "none": {
+   "pair_model_load_ms": 0,
+   "classifier_build_ms": 59
+  },
+  "rule": {
+   "pair_model_load_ms": 0,
+   "classifier_build_ms": 51
+  },
+  "model+merge": {
+   "pair_model_load_ms": 236,
+   "classifier_build_ms": 50
+  }
+ },
+ "summary": {
+  "model+merge": {
+   "n_files": 20,
+   "llm_calls_total": 2,
+   "llm_calls_per_file": 0.1,
+   "files_with_llm": 2,
+   "llm_ms_median_per_call": 924.3,
+   "split_ms_median": 28.05,
+   "split_ms_p95": 85.85500000000005,
+   "classify_ms_median": 11.55,
+   "classify_ms_p95": 858.8200000000002,
+   "classify_ms_max": 1022.6,
+   "total_ms_median": 51.55989999184385,
+   "total_ms_max": 1052.52509994898,
+   "slices_per_file": 1.8,
+   "slices_before_merge_per_file": 1.8
+  },
+  "none": {
+   "n_files": 20,
+   "llm_calls_total": 2,
+   "llm_calls_per_file": 0.1,
+   "files_with_llm": 2,
+   "llm_ms_median_per_call": 1185.45,
+   "split_ms_median": 0.1,
+   "split_ms_p95": 0.10500000000000008,
+   "classify_ms_median": 5.5,
+   "classify_ms_p95": 1123.575,
+   "classify_ms_max": 1277.0,
+   "total_ms_median": 5.62409998383373,
+   "total_ms_max": 1277.1249000215903,
+   "slices_per_file": 1.0,
+   "slices_before_merge_per_file": 1.0
+  },
+  "rule": {
+   "n_files": 20,
+   "llm_calls_total": 7,
+   "llm_calls_per_file": 0.35,
+   "files_with_llm": 5,
+   "llm_ms_median_per_call": 789.157142857143,
+   "split_ms_median": 1.5,
+   "split_ms_p95": 10.400000000000002,
+   "classify_ms_median": 13.1,
+   "classify_ms_p95": 1414.8200000000002,
+   "classify_ms_max": 1536.8,
+   "total_ms_median": 15.30295005068183,
+   "total_ms_max": 1549.2874000919983,
+   "slices_per_file": 2.55,
+   "slices_before_merge_per_file": 2.55
+  }
+ },
+ "agreement_with_experiment": {
+  "model+merge": {
+   "n": 20,
+   "same_slice_ranges": 19,
+   "same_ranges_and_labels": 19
+  },
+  "none": {
+   "n": 20,
+   "same_slice_ranges": 20,
+   "same_ranges_and_labels": 20
+  }
+ },
+ "quota": {
+  "single_page": 4,
+  "negative": 8,
+  "mixed": 4,
+  "same_other": 2,
+  "same_bb": 2
+ },
+ "seed": 20261012,
+ "note": "GPU và Ollama dùng chung trong lúc đo"
+}

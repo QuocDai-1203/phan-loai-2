@@ -1,0 +1,18 @@
+{
+  "unit_id": "b980acb58644_0",
+  "annotator": "sonnet",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1],
+  "fields": {
+    "so_giay": {"value": "85/GCN-SCT", "normalized": "85/GCN-SCT", "page": 1, "evidence": "Số: 85 /GCN-SCT", "ink": "handwritten", "status": "ok", "note": "so_viet_tay_phan_con_lai_in"},
+    "ngay_cap": {"value": "ngày 30 tháng 7 năm 2021", "normalized": "2021-07-30", "page": 1, "evidence": "Gia Lai, ngày 30 tháng 7 năm 2021", "ink": "handwritten", "status": "ok", "note": "ngay_thang_viet_tay"},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "normalized": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng Xăng dầu Hữu Phúc", "normalized": "Cửa hàng Xăng dầu Hữu Phúc", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: Cửa hàng Xăng dầu Hữu Phúc", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Làng Quel, xã Sơ Ró, huyện Kông Chro, tỉnh Gia Lai", "normalized": "Làng Quel, xã Sơ Ró, huyện Kông Chro, tỉnh Gia Lai", "page": 1, "evidence": "Địa chỉ: Làng Quel, xã Sơ Ró, huyện Kông Chro, tỉnh Gia Lai.", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH MTV Xăng dầu Duy Nguyên Gia Lai, Mã số thuế: 5901014744", "normalized": "Công ty TNHH MTV Xăng dầu Duy Nguyên Gia Lai, Mã số thuế: 5901014744", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH MTV Xăng dầu Duy Nguyên Gia Lai.", "ink": "printed", "status": "ok", "note": "ten_va_mst_o_hai_dong_khac_nhau"},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 11/7/2016. Cấp bổ sung, sửa đổi lần thứ hai ngày .../.../... Cấp lại lần thứ hai ngày .../.../2021", "normalized": "Cấp lần thứ nhất: ngày 11/7/2016. Cấp bổ sung, sửa đổi lần thứ hai ngày .../.../... Cấp lại lần thứ hai ngày .../.../2021", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 11/7/2016.", "ink": "printed", "status": "ok", "note": "ba_dong_tieu_de_hai_dong_sau_de_trong_ngay"},
+    "ngay_het_han": {"value": "ngày 27 tháng 7 năm 2026", "normalized": "2026-07-27", "page": 1, "evidence": "có giá trị đến hết ngày 27 tháng 7 năm 2026", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_nhieu_cham_hat_van_doc_duoc"
+}

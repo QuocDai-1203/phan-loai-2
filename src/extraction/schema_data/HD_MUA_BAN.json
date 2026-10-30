@@ -1,0 +1,233 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/HD_MUA_BAN",
+  "title": "HD_MUA_BAN - Hợp đồng mua bán hàng hóa / xăng dầu",
+  "description": "Hợp đồng mua bán (xăng dầu, dầu nhờn, thiết bị...). Trường hạn: hieu_luc_den (có thể không có).",
+  "type": "object",
+  "properties": {
+    "so_hop_dong": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số/ký hiệu hợp đồng"
+    },
+    "ngay_ky": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày ký"
+    },
+    "ben_ban": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên và mã số thuế bên bán"
+    },
+    "ben_mua": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên và mã số thuế bên mua"
+    },
+    "vai_tro_cong_ty": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "ben_ban",
+        "ben_mua",
+        null
+      ],
+      "description": "Công ty chủ quản là bên bán hay bên mua (ben_ban | ben_mua) — dùng cho định tuyến"
+    },
+    "mat_hang": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Mặt hàng (xăng dầu, dầu nhờn, tài sản/thiết bị…)"
+    },
+    "han_muc_cong_no": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Hạn mức và thời hạn công nợ, nếu có"
+    },
+    "hieu_luc_tu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày bắt đầu hiệu lực"
+    },
+    "hieu_luc_den": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày hết hiệu lực hợp đồng"
+    }
+  },
+  "required": [
+    "so_hop_dong",
+    "ngay_ky",
+    "ben_ban",
+    "ben_mua",
+    "vai_tro_cong_ty",
+    "mat_hang",
+    "han_muc_cong_no",
+    "hieu_luc_tu",
+    "hieu_luc_den"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "HD_MUA_BAN",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_hop_dong",
+      "desc": "Số/ký hiệu hợp đồng",
+      "annotator_hint": "Số/ký hiệu hợp đồng ở đầu văn bản.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no"
+    },
+    {
+      "name": "ngay_ky",
+      "desc": "Ngày ký",
+      "annotator_hint": "Ngày ký hợp đồng (đầu hoặc cuối văn bản). Nếu ngày ghi 'ngày … tháng … năm …' để trống thì not_present.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ben_ban",
+      "desc": "Tên và mã số thuế bên bán",
+      "annotator_hint": "Tên bên bán, kèm mã số thuế nếu có. Chép như in (Bên A/Bên B tùy văn bản — dựa vào vai trò BÁN, không dựa vào chữ A/B).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ben_mua",
+      "desc": "Tên và mã số thuế bên mua",
+      "annotator_hint": "Tên bên mua, kèm mã số thuế nếu có.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "vai_tro_cong_ty",
+      "desc": "Công ty chủ quản là bên bán hay bên mua (ben_ban | ben_mua) — dùng cho định tuyến",
+      "annotator_hint": "Trường định tuyến (công ty chủ quản là bên bán hay bên mua): KHÔNG có trên trang, silver không điền.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": false,
+      "silver_policy": "skip",
+      "enum": [
+        "ben_ban",
+        "ben_mua"
+      ]
+    },
+    {
+      "name": "mat_hang",
+      "desc": "Mặt hàng (xăng dầu, dầu nhờn, tài sản/thiết bị…)",
+      "annotator_hint": "Mặt hàng mua bán chính (xăng dầu, dầu nhờn, thiết bị...).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "han_muc_cong_no",
+      "desc": "Hạn mức và thời hạn công nợ, nếu có",
+      "annotator_hint": "Hạn mức và/hoặc thời hạn công nợ nếu hợp đồng nêu; chép cụm như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "hieu_luc_tu",
+      "desc": "Ngày bắt đầu hiệu lực",
+      "annotator_hint": "Ngày bắt đầu hiệu lực nếu điều khoản hiệu lực nêu ngày cụ thể.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "hieu_luc_den",
+      "desc": "Ngày hết hiệu lực hợp đồng",
+      "annotator_hint": "Ngày hết hiệu lực nếu điều khoản hiệu lực nêu NGÀY cụ thể. Nếu chỉ nêu khoảng thời gian ('có hiệu lực 12 tháng'), value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Nếu hợp đồng không nêu hạn: not_present.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    }
+  ]
+}

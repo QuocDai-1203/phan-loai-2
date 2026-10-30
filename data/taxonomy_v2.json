@@ -1,0 +1,3131 @@
+{
+  "version": "2.0",
+  "name": "Danh mục loại tài liệu v2 — phân loại theo NỘI DUNG tài liệu, không theo thư mục lưu trữ",
+  "status": "draft-for-annotation",
+  "language": "vi",
+  "notes": {
+    "est_count": "Số TỆP DUY NHẤT (đã gộp trùng byte, 304 tệp) có doc_type chính là lớp này, theo bản gán nhãn tạm của người thiết kế (chưa phải gold; sẽ thay bằng số từ annotation hai người).",
+    "est_instances": "Số tài liệu logic thuộc lớp này nếu tách hết các tệp composite (mỗi segment tính một).",
+    "data_status": "ok nếu est_count >= 10; ngược lại insufficient (cần thu thập thêm, chỉ đánh giá zero-shot/luật, không báo cáo F1 riêng).",
+    "legacy_folders": "Chỉ liệt kê thư mục cũ mà >= 90% số tệp thuộc đúng lớp này; mỗi thư mục xuất hiện ở tối đa một lớp nên mã cũ (Taxonomy.legacy_to_id) dùng được như NHÃN YẾU tạm thời. 5 thư mục hỗn hợp không được ánh xạ — xem legacy_folder_map.",
+    "found_in_folders": "Mọi thư mục cũ có chứa lớp này và số tệp (đếm cả bản trùng), theo bản gán nhãn tạm.",
+    "description": "Một đoạn văn, dùng nguyên văn làm tiêu chí zero-shot cho MỘT lớp (trung bình khoảng 640 ký tự; cả 36 lớp khoảng 23.000 ký tự).",
+    "short_description": "Một câu (<= 170 ký tự) cho prompt liệt kê TẤT CẢ các lớp cùng lúc với mô hình nhỏ (cả 36 lớp khoảng 4.000 ký tự). Gợi ý: phân loại hai bước — chọn group bằng groups[].description, rồi chọn lớp trong nhóm bằng description đầy đủ.",
+    "keywords": "Cụm tiêu đề viết đúng chính tả có dấu; mã so khớp không phân biệt dấu. Cổng luật hiện tại chỉ quyết định khi đúng một lớp khớp.",
+    "rule_priority": "Trường mở rộng (mã hiện tại chưa đọc): khi nhiều lớp cùng khớp, lớp có rule_priority cao hơn nên thắng.",
+    "special": "OTHER và UNREADABLE là nhãn đặc biệt: không có từ khóa, không dùng để huấn luyện như một lớp nội dung.",
+    "key_fields.is_expiry": "true = trường ngày hết hạn/hết hiệu lực cần đưa vào lịch nhắc hạn của ERP."
+  },
+  "groups": [
+    {
+      "id": "HOP_DONG",
+      "name_vi": "Hợp đồng và thanh lý hợp đồng",
+      "description": "Văn bản thỏa thuận có Bên A/Bên B, điều khoản, chữ ký và con dấu hai bên; và biên bản thanh lý các hợp đồng đó."
+    },
+    {
+      "id": "PHAP_LY_DN",
+      "name_vi": "Giấy phép, chứng nhận pháp lý của doanh nghiệp/cơ sở",
+      "description": "Giấy do cơ quan nhà nước cấp cho một doanh nghiệp, hợp tác xã, chi nhánh hoặc cửa hàng (không phải cho cá nhân, không phải cho một chiếc xe)."
+    },
+    {
+      "id": "CHUNG_CHI_CA_NHAN",
+      "name_vi": "Chứng chỉ và giấy tờ cá nhân",
+      "description": "Giấy tờ đứng tên một cá nhân, thường có ảnh chân dung: chứng nhận tập huấn/huấn luyện, giấy phép lái xe, căn cước."
+    },
+    {
+      "id": "PHUONG_TIEN_THIET_BI",
+      "name_vi": "Hồ sơ phương tiện và thiết bị",
+      "description": "Giấy tờ gắn với một phương tiện (xe, rơ moóc, tàu/ghe) hoặc một thiết bị đo (cột đo, xi téc): đăng ký, thế chấp, đăng kiểm, kiểm định, giấy phép vận chuyển hàng nguy hiểm."
+    },
+    {
+      "id": "PCCC_AN_TOAN",
+      "name_vi": "Hồ sơ PCCC, an toàn, môi trường của cơ sở",
+      "description": "Giấy chứng nhận PCCC của cơ sở, tập hồ sơ quản lý PCCC, biện pháp/kế hoạch ứng phó sự cố, bản vẽ kỹ thuật được thẩm duyệt."
+    },
+    {
+      "id": "BAO_HIEM",
+      "name_vi": "Bảo hiểm",
+      "description": "Giấy chứng nhận/đơn bảo hiểm do doanh nghiệp bảo hiểm cấp (xe cơ giới, cháy nổ, tàu thuyền)."
+    },
+    {
+      "id": "GIAO_NHAN_HANG_HOA",
+      "name_vi": "Chứng từ mua bán, giao nhận hàng hóa",
+      "description": "Chứng từ phát sinh theo từng chuyến hàng: đơn đặt hàng, phiếu xuất kho, biên bản giao nhận, biên bản lấy mẫu, chứng thư chất lượng, hóa đơn."
+    },
+    {
+      "id": "VAN_BAN_KHAC",
+      "name_vi": "Văn bản hành chính và loại khác",
+      "description": "Giấy ủy quyền, công văn/thông báo/quyết định, tài liệu ngoài danh mục (OTHER) và tệp không đọc được (UNREADABLE)."
+    }
+  ],
+  "classes": [
+    {
+      "id": "HD_MUA_BAN",
+      "name_vi": "Hợp đồng mua bán hàng hóa / xăng dầu",
+      "group": "HOP_DONG",
+      "description": "Hợp đồng trong đó một bên bán và một bên mua hàng hóa (chủ yếu là xăng dầu, dầu nhờn; cũng có thể là tài sản, thiết bị như bồn chứa, xe bồn), kể cả hợp đồng nguyên tắc, hợp đồng kinh tế và hợp đồng thương nhân phân phối xăng dầu. Tiêu đề in hoa ở đầu trang 1 thường là «HỢP ĐỒNG MUA BÁN HÀNG HÓA», «HỢP ĐỒNG MUA BÁN XĂNG DẦU», «HỢP ĐỒNG NGUYÊN TẮC MUA BÁN XĂNG DẦU», «HỢP ĐỒNG THƯƠNG NHÂN PHÂN PHỐI XĂNG DẦU» hoặc «HỢP ĐỒNG KINH TẾ»; thân văn bản có số hợp đồng, căn cứ pháp luật, thông tin Bên A/Bên B (bên bán, bên mua), các điều khoản về mặt hàng, số lượng, giá, giao nhận, thanh toán, công nợ, và chữ ký cùng con dấu của hai bên ở trang cuối. Không chọn loại này nếu nội dung chính là nhượng quyền hay đại lý bán lẻ, vận chuyển thuê, mượn bồn, thuê kho/cửa hàng, cấp tín dụng, hoặc nếu văn bản là biên bản thanh lý một hợp đồng.",
+      "short_description": "Hợp đồng mua bán hàng hóa/xăng dầu (kể cả hợp đồng nguyên tắc, kinh tế, thương nhân phân phối): có bên bán – bên mua, mặt hàng, giá, thanh toán; hai bên ký.",
+      "keywords": [
+        "hợp đồng mua bán hàng hóa",
+        "hợp đồng mua bán xăng dầu",
+        "hợp đồng nguyên tắc mua bán xăng dầu",
+        "hợp đồng thương nhân phân phối xăng dầu",
+        "hợp đồng kinh tế"
+      ],
+      "confusable_with": [
+        "HD_NHUONG_QUYEN_DAI_LY",
+        "HD_VAN_CHUYEN",
+        "BB_THANH_LY_HD",
+        "HD_MUON_BON"
+      ],
+      "deciding_cue": "Đọc đúng dòng tiêu đề và Điều 1: có mặt hàng + giá/số lượng mua bán → HD_MUA_BAN. Có «nhượng quyền», «đại lý» trong tiêu đề → HD_NHUONG_QUYEN_DAI_LY. Có «vận chuyển» và cước → HD_VAN_CHUYEN. Tiêu đề bắt đầu bằng «biên bản thanh lý»/«thanh lý» → BB_THANH_LY_HD (dù trong thân có nhắc số hợp đồng mua bán). Hợp đồng «kinh tế» mà nội dung là mua bồn/xe → vẫn HD_MUA_BAN.",
+      "key_fields": [
+        {
+          "name": "so_hop_dong",
+          "desc": "Số/ký hiệu hợp đồng",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_ky",
+          "desc": "Ngày ký",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_ban",
+          "desc": "Tên và mã số thuế bên bán",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_mua",
+          "desc": "Tên và mã số thuế bên mua",
+          "is_expiry": false
+        },
+        {
+          "name": "vai_tro_cong_ty",
+          "desc": "Công ty chủ quản là bên bán hay bên mua (ben_ban | ben_mua) — dùng cho định tuyến",
+          "is_expiry": false
+        },
+        {
+          "name": "mat_hang",
+          "desc": "Mặt hàng (xăng dầu, dầu nhờn, tài sản/thiết bị…)",
+          "is_expiry": false
+        },
+        {
+          "name": "han_muc_cong_no",
+          "desc": "Hạn mức và thời hạn công nợ, nếu có",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_tu",
+          "desc": "Ngày bắt đầu hiệu lực",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_den",
+          "desc": "Ngày hết hiệu lực hợp đồng",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [
+        "_2. HOP DONG KINH TE"
+      ],
+      "found_in_folders": {
+        "6. HOP DONG THUE KHO- Vi": 1,
+        "_2. HOP DONG KINH TE": 25,
+        "_3. HOP DONG DAU VAO-Diem": 6
+      },
+      "est_count": 32,
+      "est_instances": 32,
+      "data_status": "ok"
+    },
+    {
+      "id": "HD_NHUONG_QUYEN_DAI_LY",
+      "name_vi": "Hợp đồng nhượng quyền bán lẻ / đại lý xăng dầu",
+      "group": "HOP_DONG",
+      "description": "Hợp đồng giữa thương nhân phân phối (bên nhượng quyền hoặc bên giao đại lý) và chủ cửa hàng xăng dầu (bên nhận nhượng quyền hoặc bên đại lý), cho phép cửa hàng bán lẻ xăng dầu dưới thương hiệu, biển hiệu của bên nhượng quyền. Tiêu đề thường là «HỢP ĐỒNG NHƯỢNG QUYỀN BÁN LẺ XĂNG DẦU», «HỢP ĐỒNG NHƯỢNG QUYỀN THƯƠNG MẠI» hoặc «HỢP ĐỒNG ĐẠI LÝ (BÁN LẺ/TIÊU THỤ) XĂNG DẦU»; thường dài khoảng 8–10 trang, có trang bìa in logo, dòng «GIỮA BÊN NHƯỢNG QUYỀN … VÀ BÊN NHẬN NHƯỢNG QUYỀN …», các điều khoản về hình thức nhượng quyền, biển hiệu, nguồn hàng, thời hạn hợp đồng. Không chọn loại này cho hợp đồng mua bán thông thường không có nội dung nhượng quyền/đại lý, và không chọn cho biên bản thanh lý hợp đồng nhượng quyền.",
+      "short_description": "Hợp đồng nhượng quyền bán lẻ hoặc đại lý xăng dầu giữa thương nhân phân phối và chủ cửa hàng; tiêu đề có «nhượng quyền» hoặc «đại lý».",
+      "keywords": [
+        "hợp đồng nhượng quyền bán lẻ xăng dầu",
+        "hợp đồng nhượng quyền thương mại",
+        "hợp đồng đại lý bán lẻ xăng dầu",
+        "hợp đồng đại lý tiêu thụ xăng dầu",
+        "bên nhận nhượng quyền"
+      ],
+      "confusable_with": [
+        "HD_MUA_BAN",
+        "BB_THANH_LY_HD",
+        "GCN_DDK_BAN_LE_XD"
+      ],
+      "deciding_cue": "Tiêu đề có chữ «nhượng quyền» hoặc «đại lý» và có hai bên ký → loại này. Chỉ nhắc «nhượng quyền» ở dòng «Căn cứ hợp đồng…» dưới tiêu đề «biên bản thanh lý» → BB_THANH_LY_HD. Giấy do Sở Công Thương cấp cho cửa hàng → GCN_DDK_BAN_LE_XD.",
+      "key_fields": [
+        {
+          "name": "so_hop_dong",
+          "desc": "Số/ký hiệu hợp đồng",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_ky",
+          "desc": "Ngày ký",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_nhuong_quyen",
+          "desc": "Tên, mã số thuế bên nhượng quyền/giao đại lý",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_nhan_nhuong_quyen",
+          "desc": "Tên, mã số thuế bên nhận nhượng quyền/đại lý (khách hàng)",
+          "is_expiry": false
+        },
+        {
+          "name": "cua_hang",
+          "desc": "Tên và địa chỉ cửa hàng xăng dầu thuộc hợp đồng",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_tu",
+          "desc": "Ngày bắt đầu hiệu lực",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_den",
+          "desc": "Ngày hết hiệu lực hợp đồng",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "_1. HOP DONG DAI LY NHUONG QUYEN": 5
+      },
+      "est_count": 5,
+      "est_instances": 5,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "HD_VAN_CHUYEN",
+      "name_vi": "Hợp đồng vận chuyển hàng hóa",
+      "group": "HOP_DONG",
+      "description": "Hợp đồng dịch vụ vận chuyển hàng hóa (xăng dầu) giữa bên chủ hàng (bên thuê vận chuyển) và bên vận chuyển (bên vận tải). Tiêu đề thường là «HỢP ĐỒNG VẬN CHUYỂN HÀNG HÓA» hoặc «HỢP ĐỒNG VẬN CHUYỂN»; trong thân có ghi chú «(BÊN CHỦ HÀNG)» và «(BÊN VẬN CHUYỂN)» sau tên hai bên, các điều khoản về tuyến đường, giao nhận, hao hụt, giá cước và phương thức thanh toán, trách nhiệm hai bên; thường 2–6 trang, có chữ ký và con dấu hai bên. Không chọn loại này cho giấy phép vận chuyển hàng nguy hiểm do cơ quan công an cấp, cho giấy chứng nhận tập huấn của lái xe, hay cho hợp đồng mua bán có kèm điều khoản giao hàng.",
+      "short_description": "Hợp đồng vận chuyển hàng hóa giữa bên chủ hàng và bên vận chuyển, có giá cước; hai bên ký.",
+      "keywords": [
+        "hợp đồng vận chuyển hàng hóa",
+        "hợp đồng vận chuyển",
+        "hợp đồng thuê vận chuyển"
+      ],
+      "confusable_with": [
+        "HD_MUA_BAN",
+        "GP_VC_HANG_NGUY_HIEM",
+        "BB_THANH_LY_HD"
+      ],
+      "deciding_cue": "Có hai bên ký và có giá cước → hợp đồng vận chuyển. Do Phòng Cảnh sát PCCC cấp, có «Thời hạn của giấy phép» → GP_VC_HANG_NGUY_HIEM. Giá bán theo lít/m3 và mặt hàng → HD_MUA_BAN.",
+      "key_fields": [
+        {
+          "name": "so_hop_dong",
+          "desc": "Số/ký hiệu hợp đồng",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_ky",
+          "desc": "Ngày ký",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_chu_hang",
+          "desc": "Tên, mã số thuế bên chủ hàng (thuê vận chuyển)",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_van_chuyen",
+          "desc": "Tên, mã số thuế bên vận chuyển",
+          "is_expiry": false
+        },
+        {
+          "name": "vai_tro_cong_ty",
+          "desc": "Công ty chủ quản là bên chủ hàng hay bên vận chuyển (chu_hang | van_chuyen) — dùng cho định tuyến",
+          "is_expiry": false
+        },
+        {
+          "name": "tuyen_van_chuyen",
+          "desc": "Nơi nhận hàng, nơi giao hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "gia_cuoc",
+          "desc": "Đơn giá cước và cách tính",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_tu",
+          "desc": "Ngày bắt đầu hiệu lực",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_den",
+          "desc": "Ngày hết hiệu lực hợp đồng",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [
+        "_5. HOP DONG VAN CHUYEN"
+      ],
+      "found_in_folders": {
+        "_3. HOP DONG DAU VAO-Diem": 2,
+        "_5. HOP DONG VAN CHUYEN": 24
+      },
+      "est_count": 26,
+      "est_instances": 26,
+      "data_status": "ok"
+    },
+    {
+      "id": "HD_MUON_BON",
+      "name_vi": "Hợp đồng mượn bồn chứa dầu (kèm biên bản nhận bồn, trả bồn)",
+      "group": "HOP_DONG",
+      "description": "Hợp đồng trong đó công ty cho khách hàng mượn bồn (bể) chứa dầu để chứa hàng do công ty cung cấp. Tiêu đề là «HỢP ĐỒNG MƯỢN BỒN CHỨA DẦU»; số hợp đồng thường có ký hiệu «HĐMB»; nội dung nêu số lượng bồn, dung tích, tình trạng, trách nhiệm bảo quản và hoàn trả. Trong cùng tệp thường có thêm các trang rất ngắn «BIÊN BẢN NHẬN BỒN» và «BIÊN BẢN TRẢ BỒN» của chính hợp đồng đó: các trang này là phần kèm theo của hợp đồng mượn bồn, không phải tài liệu riêng. Một biên bản nhận bồn hoặc trả bồn đứng riêng cũng xếp vào loại này. Không chọn loại này cho hợp đồng thuê kho/cửa hàng có trả tiền thuê hay cho hợp đồng mua bồn.",
+      "short_description": "Hợp đồng mượn bồn chứa dầu (không có tiền thuê), thường kèm biên bản nhận bồn, trả bồn.",
+      "keywords": [
+        "hợp đồng mượn bồn chứa dầu",
+        "hợp đồng mượn bồn",
+        "biên bản nhận bồn",
+        "biên bản trả bồn"
+      ],
+      "confusable_with": [
+        "HD_THUE_TAI_SAN",
+        "HD_MUA_BAN"
+      ],
+      "deciding_cue": "«Mượn» và không có tiền thuê → HD_MUON_BON. Có giá thuê theo tháng/năm → HD_THUE_TAI_SAN. Mua đứt bồn (có tổng giá trị, đợt thanh toán) → HD_MUA_BAN. Tên thư mục cũ «THUE KHO» không phải căn cứ: 4/6 tệp trong đó là hợp đồng mượn bồn.",
+      "key_fields": [
+        {
+          "name": "so_hop_dong",
+          "desc": "Số/ký hiệu hợp đồng",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_ky",
+          "desc": "Ngày ký",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_cho_muon",
+          "desc": "Tên, mã số thuế bên cho mượn",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_muon",
+          "desc": "Tên, mã số thuế bên mượn (khách hàng)",
+          "is_expiry": false
+        },
+        {
+          "name": "so_luong_bon",
+          "desc": "Số lượng bồn",
+          "is_expiry": false
+        },
+        {
+          "name": "dung_tich_bon",
+          "desc": "Dung tích mỗi bồn (lít)",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_nhan_bon",
+          "desc": "Ngày trên biên bản nhận bồn, nếu có",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_tra_bon",
+          "desc": "Ngày trên biên bản trả bồn, nếu có (bồn đã thu hồi)",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_den",
+          "desc": "Ngày hết hiệu lực hợp đồng, nếu có ghi",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [
+        "6. HOP DONG MUON BON"
+      ],
+      "found_in_folders": {
+        "6. HOP DONG MUON BON": 7,
+        "6. HOP DONG THUE KHO- Vi": 4
+      },
+      "est_count": 9,
+      "est_instances": 9,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "HD_THUE_TAI_SAN",
+      "name_vi": "Hợp đồng thuê kho / cửa hàng / tài sản",
+      "group": "HOP_DONG",
+      "description": "Hợp đồng thuê hoặc cho thuê tài sản có trả tiền thuê: kho chứa xăng dầu, điểm/cửa hàng kinh doanh xăng dầu, mặt bằng, phương tiện. Tiêu đề thường là «HỢP ĐỒNG THUÊ TÀI SẢN», «HỢP ĐỒNG THUÊ KHO (CHỨA XĂNG DẦU)», «HỢP ĐỒNG THUÊ CỬA HÀNG», «HỢP ĐỒNG THUÊ MẶT BẰNG»; có «BÊN CHO THUÊ» và «BÊN THUÊ», mô tả tài sản thuê, thời hạn thuê, giá thuê và phương thức thanh toán. Không chọn loại này cho hợp đồng mượn bồn (không có tiền thuê), hợp đồng thuê vận chuyển, hay biên bản thanh lý hợp đồng thuê.",
+      "short_description": "Hợp đồng thuê/cho thuê kho, cửa hàng xăng dầu, mặt bằng hoặc tài sản, có giá thuê và thời hạn thuê.",
+      "keywords": [
+        "hợp đồng thuê tài sản",
+        "hợp đồng thuê kho",
+        "hợp đồng thuê cửa hàng",
+        "hợp đồng thuê mặt bằng",
+        "hợp đồng cho thuê"
+      ],
+      "confusable_with": [
+        "HD_MUON_BON",
+        "BB_THANH_LY_HD",
+        "HD_VAN_CHUYEN"
+      ],
+      "deciding_cue": "Có «bên cho thuê/bên thuê» và giá thuê → loại này. «Thuê vận chuyển» → HD_VAN_CHUYEN. «Biên bản thanh lý hợp đồng thuê kho» → BB_THANH_LY_HD.",
+      "key_fields": [
+        {
+          "name": "so_hop_dong",
+          "desc": "Số/ký hiệu hợp đồng",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_ky",
+          "desc": "Ngày ký",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_cho_thue",
+          "desc": "Tên, mã số thuế bên cho thuê",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_thue",
+          "desc": "Tên, mã số thuế bên thuê",
+          "is_expiry": false
+        },
+        {
+          "name": "tai_san_thue",
+          "desc": "Tài sản thuê và địa chỉ (kho, cửa hàng số…, thửa đất)",
+          "is_expiry": false
+        },
+        {
+          "name": "gia_thue",
+          "desc": "Giá thuê và kỳ thanh toán",
+          "is_expiry": false
+        },
+        {
+          "name": "thoi_han_thue_tu",
+          "desc": "Ngày bắt đầu thuê",
+          "is_expiry": false
+        },
+        {
+          "name": "thoi_han_thue_den",
+          "desc": "Ngày hết hạn thuê",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 1
+      },
+      "est_count": 1,
+      "est_instances": 1,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "BB_THANH_LY_HD",
+      "name_vi": "Biên bản thanh lý hợp đồng",
+      "group": "HOP_DONG",
+      "description": "Biên bản hai bên xác nhận chấm dứt, quyết toán một hợp đồng đã ký. Tiêu đề là «BIÊN BẢN THANH LÝ HỢP ĐỒNG», «THANH LÝ HỢP ĐỒNG KINH TẾ», «BIÊN BẢN THANH LÝ HỢP ĐỒNG NHƯỢNG QUYỀN THƯƠNG MẠI», «BIÊN BẢN THANH LÝ HỢP ĐỒNG THUÊ KHO…»; ngay dưới tiêu đề có dòng «Căn cứ hợp đồng … số … ký ngày …», sau đó là kết quả thực hiện (số lượng, giá trị, công nợ còn lại) và câu hai bên thống nhất thanh lý; thường chỉ 1–2 trang, có chữ ký và con dấu hai bên. Chọn loại này bất kể hợp đồng gốc là mua bán, nhượng quyền, đại lý, vận chuyển hay thuê kho. Không chọn loại này cho chính bản hợp đồng, cho biên bản giao nhận hàng hay biên bản đối chiếu công nợ.",
+      "short_description": "Biên bản thanh lý một hợp đồng đã ký: tiêu đề có «thanh lý», nêu hợp đồng gốc, kết quả thực hiện, công nợ; hai bên ký.",
+      "keywords": [
+        "biên bản thanh lý hợp đồng",
+        "thanh lý hợp đồng"
+      ],
+      "confusable_with": [
+        "HD_MUA_BAN",
+        "HD_NHUONG_QUYEN_DAI_LY",
+        "HD_THUE_TAI_SAN",
+        "BB_GIAO_NHAN_HANG_HOA"
+      ],
+      "deciding_cue": "Chữ «thanh lý» nằm trong TIÊU ĐỀ → loại này, kể cả khi thân văn bản nhắc tên hợp đồng gốc. Tiêu đề «biên bản nghiệm thu, bàn giao hàng hóa» → BB_GIAO_NHAN_HANG_HOA dù nằm chung tệp với bản thanh lý.",
+      "key_fields": [
+        {
+          "name": "so_bien_ban",
+          "desc": "Số biên bản thanh lý, nếu có",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_thanh_ly",
+          "desc": "Ngày lập biên bản",
+          "is_expiry": false
+        },
+        {
+          "name": "hop_dong_goc_so",
+          "desc": "Số hợp đồng được thanh lý",
+          "is_expiry": false
+        },
+        {
+          "name": "hop_dong_goc_ngay",
+          "desc": "Ngày ký hợp đồng được thanh lý",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_hop_dong_goc",
+          "desc": "Loại hợp đồng gốc (mua bán, nhượng quyền/đại lý, vận chuyển, thuê kho…)",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_a",
+          "desc": "Tên, mã số thuế bên A",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_b",
+          "desc": "Tên, mã số thuế bên B",
+          "is_expiry": false
+        },
+        {
+          "name": "gia_tri_thuc_hien",
+          "desc": "Giá trị/số lượng đã thực hiện",
+          "is_expiry": false
+        },
+        {
+          "name": "cong_no_con_lai",
+          "desc": "Công nợ còn lại tại thời điểm thanh lý",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [
+        "_4. THANH LÝ HỢP ĐỒNG"
+      ],
+      "found_in_folders": {
+        "_3. HOP DONG DAU VAO-Diem": 1,
+        "_4. THANH LÝ HỢP ĐỒNG": 13
+      },
+      "est_count": 14,
+      "est_instances": 15,
+      "data_status": "ok",
+      "rule_priority": 10
+    },
+    {
+      "id": "GCN_DKDN",
+      "name_vi": "Giấy chứng nhận đăng ký doanh nghiệp / kinh doanh / hợp tác xã / chi nhánh",
+      "group": "PHAP_LY_DN",
+      "description": "Giấy do Phòng Đăng ký kinh doanh (Sở Kế hoạch và Đầu tư, Sở Tài chính) hoặc Phòng Tài chính – Kế hoạch cấp huyện cấp, xác nhận việc đăng ký thành lập của một doanh nghiệp, doanh nghiệp tư nhân, hợp tác xã, hộ kinh doanh hoặc chi nhánh. Tiêu đề là «GIẤY CHỨNG NHẬN ĐĂNG KÝ DOANH NGHIỆP» kèm loại hình («CÔNG TY TRÁCH NHIỆM HỮU HẠN…», «CÔNG TY CỔ PHẦN», «DOANH NGHIỆP TƯ NHÂN»), hoặc «GIẤY CHỨNG NHẬN ĐĂNG KÝ KINH DOANH (VÀ ĐĂNG KÝ THUẾ)», «GIẤY CHỨNG NHẬN ĐĂNG KÝ HỢP TÁC XÃ», «GIẤY CHỨNG NHẬN ĐĂNG KÝ HOẠT ĐỘNG CHI NHÁNH»; có dòng «Mã số doanh nghiệp», «Đăng ký lần đầu… Đăng ký thay đổi lần thứ…», các mục đánh số: tên, địa chỉ trụ sở, vốn điều lệ, người đại diện theo pháp luật; giấy in trên nền hoa văn vàng có quốc huy. Các trang «Giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp» hoặc «Công bố nội dung đăng ký doanh nghiệp» đi kèm cũng thuộc loại này. Không chọn loại này cho giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu (do Sở Công Thương cấp) hay giấy đăng ký xe, tàu.",
+      "short_description": "Giấy chứng nhận đăng ký doanh nghiệp/kinh doanh/hợp tác xã/chi nhánh do Phòng Đăng ký kinh doanh cấp; có mã số doanh nghiệp, vốn, người đại diện.",
+      "keywords": [
+        "giấy chứng nhận đăng ký doanh nghiệp công ty",
+        "giấy chứng nhận đăng ký doanh nghiệp doanh nghiệp tư nhân",
+        "giấy chứng nhận đăng ký kinh doanh doanh nghiệp tư nhân",
+        "giấy chứng nhận đăng ký kinh doanh và đăng ký thuế",
+        "giấy chứng nhận đăng ký hợp tác xã",
+        "giấy chứng nhận đăng ký hoạt động chi nhánh",
+        "giấy chứng nhận đăng ký hộ kinh doanh",
+        "giấy xác nhận về việc thay đổi nội dung đăng ký doanh nghiệp",
+        "mã số doanh nghiệp:",
+        "mã số chi nhánh:"
+      ],
+      "confusable_with": [
+        "GCN_DDK_BAN_LE_XD",
+        "GXN_THUONG_NHAN_XD",
+        "DANG_KY_PHUONG_TIEN"
+      ],
+      "deciding_cue": "Cơ quan cấp là Phòng Đăng ký kinh doanh và có «Mã số doanh nghiệp» → GCN_DKDN. Cơ quan cấp là Sở Công Thương/Bộ Công Thương và nói về «đủ điều kiện» → GCN_DDK_BAN_LE_XD hoặc GXN_THUONG_NHAN_XD. Tên tệp «GPKD» không có nghĩa là giấy phép khác: nội dung vẫn là đăng ký doanh nghiệp.",
+      "key_fields": [
+        {
+          "name": "ma_so_doanh_nghiep",
+          "desc": "Mã số doanh nghiệp / mã số chi nhánh / số đăng ký",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_doanh_nghiep",
+          "desc": "Tên doanh nghiệp, hợp tác xã hoặc chi nhánh",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_hinh",
+          "desc": "Loại hình (TNHH, cổ phần, DNTN, HTX, chi nhánh…)",
+          "is_expiry": false
+        },
+        {
+          "name": "dia_chi_tru_so",
+          "desc": "Địa chỉ trụ sở chính",
+          "is_expiry": false
+        },
+        {
+          "name": "nguoi_dai_dien",
+          "desc": "Họ tên và chức danh người đại diện theo pháp luật",
+          "is_expiry": false
+        },
+        {
+          "name": "von_dieu_le",
+          "desc": "Vốn điều lệ / vốn đầu tư",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_dang_ky_lan_dau",
+          "desc": "Ngày đăng ký lần đầu",
+          "is_expiry": false
+        },
+        {
+          "name": "lan_thay_doi",
+          "desc": "Số lần đăng ký thay đổi",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_thay_doi_gan_nhat",
+          "desc": "Ngày đăng ký thay đổi gần nhất",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Cơ quan cấp",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [
+        "_1. Giay DKKD khach hang"
+      ],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 1,
+        "_1. Giay DKKD khach hang": 22,
+        "_1. HOP DONG DAI LY NHUONG QUYEN": 12,
+        "_3. HOP DONG DAU VAO-Diem": 4
+      },
+      "est_count": 35,
+      "est_instances": 36,
+      "data_status": "ok"
+    },
+    {
+      "id": "GCN_DDK_BAN_LE_XD",
+      "name_vi": "Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu",
+      "group": "PHAP_LY_DN",
+      "description": "Giấy do Sở Công Thương tỉnh/thành phố cấp cho MỘT cửa hàng xăng dầu, xác nhận cửa hàng đủ điều kiện bán lẻ xăng dầu. Tiêu đề là «GIẤY CHỨNG NHẬN CỬA HÀNG ĐỦ ĐIỀU KIỆN BÁN LẺ XĂNG DẦU» (giấy cũ có thể ghi «…ĐỦ ĐIỀU KIỆN KINH DOANH XĂNG DẦU»); số giấy có ký hiệu «GCNĐĐK-SCT», «GCNBLXD-SCT» hoặc «GCN-SCT»; nội dung trình bày như một quyết định: «GIÁM ĐỐC SỞ CÔNG THƯƠNG… QUYẾT ĐỊNH: Điều 1. Cấp Giấy chứng nhận…» nêu tên, địa chỉ cửa hàng, thương nhân chủ sở hữu, thương nhân cung cấp xăng dầu, và Điều 3 ghi «có giá trị đến hết ngày…». Trang «NHỮNG ĐIỀU QUY ĐỊNH» kèm theo là một phần của giấy này. Không chọn loại này cho giấy đăng ký doanh nghiệp, cho giấy xác nhận thương nhân đầu mối/phân phối của Bộ Công Thương, hay cho giấy chứng nhận đủ điều kiện về PCCC do công an cấp.",
+      "short_description": "Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu do Sở Công Thương cấp cho một cửa hàng; có ngày hết giá trị.",
+      "keywords": [
+        "giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu",
+        "cửa hàng đủ điều kiện bán lẻ xăng dầu",
+        "giấy chứng nhận đủ điều kiện kinh doanh xăng dầu"
+      ],
+      "confusable_with": [
+        "GCN_DKDN",
+        "GXN_THUONG_NHAN_XD",
+        "GCN_PCCC_CO_SO"
+      ],
+      "deciding_cue": "Chủ thể được cấp là một CỬA HÀNG và cơ quan cấp là Sở Công Thương → loại này. Chủ thể là thương nhân (đầu mối, phân phối) và cơ quan cấp là Bộ Công Thương → GXN_THUONG_NHAN_XD. «Đủ điều kiện về phòng cháy và chữa cháy», do công an cấp → GCN_PCCC_CO_SO.",
+      "key_fields": [
+        {
+          "name": "so_giay",
+          "desc": "Số giấy chứng nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Sở Công Thương tỉnh/thành phố",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_cua_hang",
+          "desc": "Tên cửa hàng xăng dầu",
+          "is_expiry": false
+        },
+        {
+          "name": "dia_chi_cua_hang",
+          "desc": "Địa chỉ cửa hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "thuong_nhan_chu_so_huu",
+          "desc": "Tên, mã số thuế thương nhân chủ sở hữu cửa hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "thuong_nhan_cung_cap",
+          "desc": "Thương nhân cung cấp xăng dầu ghi trên giấy",
+          "is_expiry": false
+        },
+        {
+          "name": "lan_cap",
+          "desc": "Cấp lần thứ mấy / cấp bổ sung, sửa đổi",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Có giá trị đến hết ngày…» (thường 5 năm)",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [
+        "_2. Giay Du Dieu Kien Khach hang"
+      ],
+      "found_in_folders": {
+        "_1. HOP DONG DAI LY NHUONG QUYEN": 8,
+        "_2. Giay Du Dieu Kien Khach hang": 25
+      },
+      "est_count": 27,
+      "est_instances": 27,
+      "data_status": "ok"
+    },
+    {
+      "id": "GXN_THUONG_NHAN_XD",
+      "name_vi": "Giấy xác nhận đủ điều kiện làm thương nhân đầu mối / phân phối / đại lý xăng dầu",
+      "group": "PHAP_LY_DN",
+      "description": "Giấy do Bộ Công Thương (hoặc Sở Công Thương) cấp cho MỘT THƯƠNG NHÂN (doanh nghiệp), xác nhận đủ điều kiện làm thương nhân đầu mối, thương nhân phân phối, tổng đại lý hoặc đại lý bán lẻ xăng dầu. Tiêu đề là «GIẤY XÁC NHẬN ĐỦ ĐIỀU KIỆN LÀM THƯƠNG NHÂN ĐẦU MỐI KINH DOANH XĂNG DẦU» hoặc «GIẤY XÁC NHẬN ĐỦ ĐIỀU KIỆN LÀM THƯƠNG NHÂN PHÂN PHỐI XĂNG DẦU»; số có ký hiệu «TNĐM/QĐ-BCT», «TNPP/QĐ-BCT»; mở đầu «BỘ TRƯỞNG BỘ CÔNG THƯƠNG… QUYẾT ĐỊNH», có điều khoản «có giá trị đến hết ngày…». Không chọn loại này cho giấy chứng nhận của một cửa hàng bán lẻ, hay cho hợp đồng thương nhân phân phối xăng dầu (là hợp đồng mua bán).",
+      "short_description": "Giấy xác nhận đủ điều kiện làm thương nhân đầu mối/phân phối/đại lý xăng dầu do Bộ hoặc Sở Công Thương cấp cho một doanh nghiệp.",
+      "keywords": [
+        "giấy xác nhận đủ điều kiện làm thương nhân đầu mối",
+        "giấy xác nhận đủ điều kiện làm thương nhân phân phối xăng dầu",
+        "giấy xác nhận đủ điều kiện làm thương nhân phân phối",
+        "giấy xác nhận đủ điều kiện làm tổng đại lý",
+        "giấy xác nhận đủ điều kiện làm đại lý bán lẻ xăng dầu"
+      ],
+      "confusable_with": [
+        "GCN_DDK_BAN_LE_XD",
+        "HD_MUA_BAN"
+      ],
+      "deciding_cue": "«Giấy xác nhận… làm thương nhân…» do Bộ Công Thương ký → loại này. «Giấy chứng nhận cửa hàng…» do Sở Công Thương ký → GCN_DDK_BAN_LE_XD. Có Bên A/Bên B và giá bán → HD_MUA_BAN.",
+      "key_fields": [
+        {
+          "name": "so_giay",
+          "desc": "Số giấy xác nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Cơ quan cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_thuong_nhan",
+          "desc": "Tên thương nhân được xác nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "ma_so_thue",
+          "desc": "Mã số thuế thương nhân",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_thuong_nhan",
+          "desc": "dau_moi | phan_phoi | tong_dai_ly | dai_ly_ban_le",
+          "is_expiry": false
+        },
+        {
+          "name": "lan_cap",
+          "desc": "Cấp lần thứ mấy",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Có giá trị đến hết ngày…»",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "_3. HOP DONG DAU VAO-Diem": 2
+      },
+      "est_count": 2,
+      "est_instances": 2,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "GP_KD_VAN_TAI",
+      "name_vi": "Giấy phép kinh doanh vận tải bằng xe ô tô",
+      "group": "PHAP_LY_DN",
+      "description": "Giấy phép do Sở Giao thông vận tải (nay là Sở Xây dựng) cấp cho một đơn vị, cho phép kinh doanh vận tải bằng xe ô tô. Tiêu đề là «GIẤY PHÉP KINH DOANH VẬN TẢI BẰNG XE Ô TÔ»; một trang nền hoa văn, có số giấy phép, «Cấp lần thứ…», tên và địa chỉ đơn vị, mục «Được phép kinh doanh các loại hình vận tải bằng xe ô tô» (ví dụ vận tải hàng hóa bằng công-ten-nơ, bằng xe ô tô). Giấy cấp cho đơn vị, không gắn với một biển số xe. Không chọn loại này cho giấy đăng ký doanh nghiệp, hợp đồng vận chuyển, hay giấy phép vận chuyển hàng hóa nguy hiểm.",
+      "short_description": "Giấy phép kinh doanh vận tải bằng xe ô tô do Sở Giao thông vận tải cấp cho đơn vị.",
+      "keywords": [
+        "giấy phép kinh doanh vận tải bằng xe ô tô",
+        "giấy phép kinh doanh vận tải"
+      ],
+      "confusable_with": [
+        "GP_VC_HANG_NGUY_HIEM",
+        "GCN_DKDN",
+        "HD_VAN_CHUYEN"
+      ],
+      "deciding_cue": "Sở GTVT cấp, nói về loại hình vận tải của đơn vị → loại này. Phòng Cảnh sát PCCC cấp, có danh mục hàng nguy hiểm và biển số xe → GP_VC_HANG_NGUY_HIEM.",
+      "key_fields": [
+        {
+          "name": "so_giay_phep",
+          "desc": "Số giấy phép",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Cơ quan cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "don_vi_duoc_cap",
+          "desc": "Tên đơn vị được cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_hinh_van_tai",
+          "desc": "Các loại hình vận tải được phép",
+          "is_expiry": false
+        },
+        {
+          "name": "lan_cap",
+          "desc": "Cấp lần thứ mấy",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "Ngày hết hạn, nếu giấy có ghi thời hạn",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "5. TỔNG HỢP HỒ SƠ XE": 1
+      },
+      "est_count": 1,
+      "est_instances": 1,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "GIAY_PHEP_XAY_DUNG",
+      "name_vi": "Giấy phép xây dựng công trình (cửa hàng xăng dầu)",
+      "group": "PHAP_LY_DN",
+      "description": "Giấy phép do Sở Xây dựng hoặc UBND cấp huyện cấp cho chủ đầu tư, cho phép xây dựng một công trình (ở đây là cửa hàng xăng dầu). Tiêu đề là «GIẤY PHÉP XÂY DỰNG» kèm dòng «CÔNG TRÌNH: …»; số có ký hiệu «SXD-GP» hoặc «GPXD»; nội dung «CẤP PHÉP XÂY DỰNG CÔNG TRÌNH» nêu tên công trình, địa điểm, chủ đầu tư, các hạng mục, diện tích, và phần chủ đầu tư phải thực hiện. Không chọn loại này cho giấy chứng nhận thẩm duyệt thiết kế về PCCC hay bản vẽ thiết kế.",
+      "short_description": "Giấy phép xây dựng công trình (cửa hàng xăng dầu) do Sở Xây dựng hoặc UBND cấp cho chủ đầu tư.",
+      "keywords": [
+        "giấy phép xây dựng",
+        "cấp phép xây dựng công trình"
+      ],
+      "confusable_with": [
+        "GCN_PCCC_CO_SO",
+        "BAN_VE_KY_THUAT"
+      ],
+      "deciding_cue": "Tiêu đề «giấy phép xây dựng», cơ quan cấp là Sở Xây dựng/UBND → loại này. Cơ quan cấp là công an PCCC → GCN_PCCC_CO_SO.",
+      "key_fields": [
+        {
+          "name": "so_giay_phep",
+          "desc": "Số giấy phép",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Cơ quan cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "chu_dau_tu",
+          "desc": "Chủ đầu tư",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_cong_trinh",
+          "desc": "Tên công trình",
+          "is_expiry": false
+        },
+        {
+          "name": "dia_diem",
+          "desc": "Địa điểm xây dựng",
+          "is_expiry": false
+        },
+        {
+          "name": "thoi_han_khoi_cong",
+          "desc": "Thời hạn hiệu lực để khởi công (ví dụ «có giá trị trong 12 tháng»)",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 1
+      },
+      "est_count": 1,
+      "est_instances": 1,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "CC_TAP_HUAN_VC_HNH",
+      "name_vi": "Giấy chứng nhận hoàn thành chương trình tập huấn vận chuyển hàng hóa nguy hiểm",
+      "group": "CHUNG_CHI_CA_NHAN",
+      "description": "Thẻ/giấy chứng nhận cấp cho MỘT CÁ NHÂN (lái xe, người áp tải, nhân viên) đã hoàn thành lớp tập huấn vận chuyển hàng hóa nguy hiểm (xăng dầu). Tiêu đề là «GIẤY CHỨNG NHẬN HOÀN THÀNH CHƯƠNG TRÌNH TẬP HUẤN VẬN CHUYỂN HÀNG HÓA NGUY HIỂM»; thẻ gập đôi cỡ nhỏ, thường nền xanh: một mặt là bìa chỉ in tên đơn vị và tiêu đề, mặt kia có ảnh chân dung, họ tên, năm sinh, nghề nghiệp, đơn vị công tác, số «…-GCN», thời gian tập huấn và dòng «Giấy chứng nhận này có giá trị 02 năm, từ ngày… đến ngày…». Không chọn loại này cho giấy phép vận chuyển hàng nguy hiểm cấp cho xe của đơn vị, cho chứng nhận huấn luyện PCCC hay giấy chứng nhận nghiệp vụ bảo vệ môi trường.",
+      "short_description": "Thẻ/giấy chứng nhận một cá nhân hoàn thành chương trình tập huấn vận chuyển hàng hóa nguy hiểm; có ảnh, thời hạn 2 năm.",
+      "keywords": [
+        "giấy chứng nhận hoàn thành chương trình tập huấn vận chuyển hàng hóa nguy hiểm",
+        "tập huấn vận chuyển hàng hóa nguy hiểm",
+        "hoàn thành chương trình tập huấn"
+      ],
+      "confusable_with": [
+        "GP_VC_HANG_NGUY_HIEM",
+        "CC_HUAN_LUYEN_PCCC",
+        "CC_NGHIEP_VU_BVMT"
+      ],
+      "deciding_cue": "Cấp cho một người, có ảnh, chữ «tập huấn» → loại này. Cấp cho đơn vị, có biển số xe và danh mục hàng → GP_VC_HANG_NGUY_HIEM. Chữ «huấn luyện nghiệp vụ phòng cháy, chữa cháy» do công an cấp → CC_HUAN_LUYEN_PCCC.",
+      "key_fields": [
+        {
+          "name": "so_gcn",
+          "desc": "Số giấy chứng nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "ho_ten",
+          "desc": "Họ tên người được cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "nam_sinh",
+          "desc": "Ngày/năm sinh",
+          "is_expiry": false
+        },
+        {
+          "name": "nghe_nghiep",
+          "desc": "Nghề nghiệp/chức danh (lái xe, áp tải…)",
+          "is_expiry": false
+        },
+        {
+          "name": "don_vi_cong_tac",
+          "desc": "Đơn vị công tác",
+          "is_expiry": false
+        },
+        {
+          "name": "don_vi_cap",
+          "desc": "Đơn vị tổ chức tập huấn và cấp giấy",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_tu",
+          "desc": "Có giá trị từ ngày",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "Có giá trị đến ngày (thường 2 năm)",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [
+        "10. GCN VC HNH",
+        "8. GCN Lop dao tao van chuyen hang chay no"
+      ],
+      "found_in_folders": {
+        "10. GCN VC HNH": 20,
+        "8. GCN Lop dao tao van chuyen hang chay no": 20,
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 2
+      },
+      "est_count": 24,
+      "est_instances": 24,
+      "data_status": "ok"
+    },
+    {
+      "id": "CC_HUAN_LUYEN_PCCC",
+      "name_vi": "Chứng nhận huấn luyện nghiệp vụ PCCC và cứu nạn, cứu hộ",
+      "group": "CHUNG_CHI_CA_NHAN",
+      "description": "Thẻ chứng nhận do Phòng Cảnh sát PCCC và CNCH (công an tỉnh) cấp cho MỘT CÁ NHÂN đã qua huấn luyện nghiệp vụ phòng cháy, chữa cháy, cứu nạn, cứu hộ. Mặt bìa đỏ in «CHỨNG NHẬN HUẤN LUYỆN NGHIỆP VỤ PHÒNG CHÁY, CHỮA CHÁY, CỨU NẠN, CỨU HỘ» và số; mặt trong có «CHỨNG NHẬN: Ông/bà…», năm sinh, nơi làm việc, «đã được huấn luyện nghiệp vụ…», thời gian huấn luyện, dấu của Phòng Cảnh sát PCCC. Không chọn loại này cho giấy chứng nhận đủ điều kiện hay thẩm duyệt PCCC của cơ sở, cho tập hồ sơ quản lý PCCC, hay cho chứng nhận tập huấn vận chuyển hàng nguy hiểm.",
+      "short_description": "Thẻ chứng nhận một cá nhân đã huấn luyện nghiệp vụ phòng cháy, chữa cháy, cứu nạn, cứu hộ, do cảnh sát PCCC cấp.",
+      "keywords": [
+        "chứng nhận huấn luyện nghiệp vụ phòng cháy, chữa cháy, cứu nạn, cứu hộ",
+        "chứng nhận huấn luyện nghiệp vụ phòng cháy",
+        "huấn luyện nghiệp vụ phòng cháy, chữa cháy"
+      ],
+      "confusable_with": [
+        "GCN_PCCC_CO_SO",
+        "CC_TAP_HUAN_VC_HNH",
+        "CC_NGHIEP_VU_BVMT",
+        "HO_SO_QUAN_LY_PCCC"
+      ],
+      "deciding_cue": "Thẻ nhỏ đứng tên một người → loại này. Giấy khổ A4 đứng tên cơ sở/phương tiện («đủ điều kiện», «thẩm duyệt») → GCN_PCCC_CO_SO. Sổ/tập nhiều trang có bìa «hồ sơ quản lý công tác PCCC» → HO_SO_QUAN_LY_PCCC.",
+      "key_fields": [
+        {
+          "name": "so_chung_nhan",
+          "desc": "Số chứng nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "ho_ten",
+          "desc": "Họ tên người được cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "nam_sinh",
+          "desc": "Năm sinh",
+          "is_expiry": false
+        },
+        {
+          "name": "noi_lam_viec",
+          "desc": "Nơi làm việc/đơn vị",
+          "is_expiry": false
+        },
+        {
+          "name": "noi_dung_huan_luyen",
+          "desc": "Nội dung huấn luyện (PCCC, CNCH)",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Cơ quan cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "Ngày hết giá trị (ghi trên thẻ hoặc tính theo quy định hiện hành)",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 3
+      },
+      "est_count": 3,
+      "est_instances": 3,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "CC_NGHIEP_VU_BVMT",
+      "name_vi": "Giấy chứng nhận đào tạo/bồi dưỡng nghiệp vụ bảo vệ môi trường trong kinh doanh xăng dầu",
+      "group": "CHUNG_CHI_CA_NHAN",
+      "description": "Giấy chứng nhận cấp cho MỘT CÁ NHÂN đã qua lớp đào tạo, bồi dưỡng nghiệp vụ bảo vệ môi trường trong kinh doanh xăng dầu (theo Nghị định 83/2014/NĐ-CP). Do trường (ví dụ Trường Cao đẳng Thương mại – Bộ Công Thương) hoặc Sở Tài nguyên và Môi trường cấp; bìa in «GIẤY CHỨNG NHẬN» hoặc «GIẤY CHỨNG NHẬN ĐÀO TẠO NGHIỆP VỤ BẢO VỆ MÔI TRƯỜNG»; mặt trong có ảnh, «Cấp cho/Chứng nhận: Ông (bà)…», «Đã dự lớp bồi dưỡng: Bảo vệ môi trường trong kinh doanh xăng dầu», thời gian học, kết quả, số vào sổ; có thể có dòng «Có giá trị đến ngày…». Không chọn loại này cho giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện (đăng kiểm), cho chứng nhận huấn luyện PCCC, hay cho tập huấn vận chuyển hàng nguy hiểm.",
+      "short_description": "Giấy chứng nhận một cá nhân đã qua đào tạo/bồi dưỡng nghiệp vụ bảo vệ môi trường trong kinh doanh xăng dầu.",
+      "keywords": [
+        "giấy chứng nhận đào tạo nghiệp vụ bảo vệ môi trường",
+        "nghiệp vụ bảo vệ môi trường",
+        "bảo vệ môi trường trong kinh doanh xăng dầu",
+        "trường cao đẳng thương mại"
+      ],
+      "confusable_with": [
+        "GCN_ATKT_BVMT_PT",
+        "CC_HUAN_LUYEN_PCCC",
+        "CC_TAP_HUAN_VC_HNH"
+      ],
+      "deciding_cue": "Có ảnh và tên một người, nội dung là lớp học → loại này. Có tên/số đăng ký phương tiện, do cơ quan đăng kiểm cấp → GCN_ATKT_BVMT_PT.",
+      "key_fields": [
+        {
+          "name": "so_vao_so",
+          "desc": "Số vào sổ / số chứng nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "ho_ten",
+          "desc": "Họ tên người được cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "nam_sinh",
+          "desc": "Ngày/năm sinh",
+          "is_expiry": false
+        },
+        {
+          "name": "noi_dung_khoa_hoc",
+          "desc": "Tên lớp/nội dung bồi dưỡng",
+          "is_expiry": false
+        },
+        {
+          "name": "thoi_gian_hoc",
+          "desc": "Từ ngày – đến ngày",
+          "is_expiry": false
+        },
+        {
+          "name": "co_so_dao_tao",
+          "desc": "Cơ sở đào tạo/cơ quan cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Có giá trị đến ngày…», nếu có ghi",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 6
+      },
+      "est_count": 6,
+      "est_instances": 7,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "GPLX",
+      "name_vi": "Giấy phép lái xe",
+      "group": "CHUNG_CHI_CA_NHAN",
+      "description": "Giấy phép lái xe của một cá nhân: thẻ nhựa nhỏ có ảnh, dòng «GIẤY PHÉP LÁI XE / DRIVER'S LICENSE», số giấy phép, họ tên, ngày sinh, quốc tịch, nơi cư trú, hạng xe (B2, C, FC, CE…) và dòng «Có giá trị đến/Expires»; mặt sau là bảng phân hạng xe được phép lái. Thường được quét hai mặt, mỗi mặt một trang, thẻ chỉ chiếm một góc trang A4. Không chọn loại này cho căn cước công dân, cho giấy đăng ký xe hay giấy phép kinh doanh vận tải.",
+      "short_description": "Giấy phép lái xe của một cá nhân (thẻ có ảnh, hạng xe, ngày hết hạn).",
+      "keywords": [
+        "giấy phép lái xe",
+        "driver's license",
+        "driving license"
+      ],
+      "confusable_with": [
+        "CCCD",
+        "DANG_KY_PHUONG_TIEN"
+      ],
+      "deciding_cue": "Thẻ có chữ «giấy phép lái xe» và hạng xe → GPLX. Thẻ có «căn cước» → CCCD. Thẻ có «tên chủ xe», biển số, số khung → DANG_KY_PHUONG_TIEN.",
+      "key_fields": [
+        {
+          "name": "so_gplx",
+          "desc": "Số giấy phép lái xe (dữ liệu cá nhân)",
+          "is_expiry": false
+        },
+        {
+          "name": "ho_ten",
+          "desc": "Họ tên",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_sinh",
+          "desc": "Ngày sinh",
+          "is_expiry": false
+        },
+        {
+          "name": "hang",
+          "desc": "Hạng giấy phép (B2, C, FC…)",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "noi_cap",
+          "desc": "Nơi cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Có giá trị đến»",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "5. TỔNG HỢP HỒ SƠ XE": 5
+      },
+      "est_count": 5,
+      "est_instances": 5,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "CCCD",
+      "name_vi": "Căn cước công dân / chứng minh nhân dân",
+      "group": "CHUNG_CHI_CA_NHAN",
+      "description": "Thẻ căn cước công dân, thẻ căn cước hoặc giấy chứng minh nhân dân của một cá nhân: thẻ nhỏ có ảnh, quốc huy, dòng «CĂN CƯỚC CÔNG DÂN / Citizen Identity Card» (hoặc «CĂN CƯỚC», «GIẤY CHỨNG MINH NHÂN DÂN»), số định danh, họ tên, ngày sinh, giới tính, quê quán, nơi thường trú, «Có giá trị đến»; mặt sau có dấu vân tay, mã QR/chip và dòng mã MRZ. Thường quét hai mặt trên hai trang. Không chọn loại này cho giấy phép lái xe hay các thẻ chứng nhận tập huấn.",
+      "short_description": "Thẻ căn cước công dân/căn cước/chứng minh nhân dân của một cá nhân.",
+      "keywords": [
+        "căn cước công dân / citizen identity card",
+        "citizen identity card",
+        "giấy chứng minh nhân dân"
+      ],
+      "confusable_with": [
+        "GPLX",
+        "GCN_DKDN"
+      ],
+      "deciding_cue": "Thẻ nhỏ có ảnh và chữ «căn cước» là tiêu đề → CCCD. Văn bản A4 chỉ NHẮC «căn cước công dân» của người đại diện (giấy đăng ký doanh nghiệp, hợp đồng, giấy ủy quyền) → không phải CCCD.",
+      "key_fields": [
+        {
+          "name": "so_dinh_danh",
+          "desc": "Số căn cước/CMND (dữ liệu cá nhân nhạy cảm — chỉ trích khi nghiệp vụ yêu cầu)",
+          "is_expiry": false
+        },
+        {
+          "name": "ho_ten",
+          "desc": "Họ tên",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_sinh",
+          "desc": "Ngày sinh",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Có giá trị đến»",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "5. TỔNG HỢP HỒ SƠ XE": 1
+      },
+      "est_count": 1,
+      "est_instances": 1,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "DANG_KY_PHUONG_TIEN",
+      "name_vi": "Chứng nhận đăng ký xe ô tô / rơ moóc / phương tiện thủy nội địa",
+      "group": "PHUONG_TIEN_THIET_BI",
+      "description": "Giấy đăng ký quyền sở hữu, lưu hành của MỘT PHƯƠNG TIỆN. Với xe: thẻ nhỏ do Phòng Cảnh sát giao thông cấp, một mặt in «CHỨNG NHẬN ĐĂNG KÝ XE Ô TÔ» hoặc «CHỨNG NHẬN ĐĂNG KÝ RƠ MOÓC, SƠ MI RƠ MOÓC» và số, mặt kia có «Tên chủ xe (Owner's full name)», địa chỉ, nhãn hiệu, số loại, số máy, số khung, «Biển số đăng ký», «Đăng ký xe có giá trị đến ngày». Với tàu/ghe: giấy khổ A4 «GIẤY CHỨNG NHẬN ĐĂNG KÝ PHƯƠNG TIỆN THỦY NỘI ĐỊA» do Sở Giao thông vận tải cấp, có tên phương tiện, số đăng ký, chủ phương tiện, kích thước, có thể kèm trang ảnh chụp phương tiện. Không chọn loại này cho giấy biên nhận thế chấp của ngân hàng, giấy đăng kiểm (an toàn kỹ thuật), giấy chứng nhận bảo hiểm, hay giấy đăng ký doanh nghiệp.",
+      "short_description": "Chứng nhận đăng ký xe ô tô, rơ moóc hoặc phương tiện thủy nội địa: chủ phương tiện, biển số/số đăng ký, số khung, số máy.",
+      "keywords": [
+        "chứng nhận đăng ký xe ô tô",
+        "chứng nhận đăng ký rơ moóc, sơ mi rơ moóc",
+        "giấy chứng nhận đăng ký phương tiện thủy nội địa",
+        "đăng ký phương tiện thủy",
+        "tên chủ xe",
+        "owner's full name"
+      ],
+      "confusable_with": [
+        "BIEN_NHAN_THE_CHAP_PT",
+        "GCN_ATKT_BVMT_PT",
+        "GCN_BAO_HIEM",
+        "GPLX"
+      ],
+      "deciding_cue": "Do cơ quan cảnh sát giao thông/Sở GTVT cấp, có «tên chủ xe/chủ phương tiện» và biển số → loại này. Có logo ngân hàng và chữ «biên nhận thế chấp» → BIEN_NHAN_THE_CHAP_PT (dù trong thân nhắc số giấy đăng ký xe). Có «an toàn kỹ thuật và bảo vệ môi trường» → GCN_ATKT_BVMT_PT.",
+      "key_fields": [
+        {
+          "name": "bien_so",
+          "desc": "Biển số đăng ký / số đăng ký phương tiện thủy",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_phuong_tien",
+          "desc": "Ô tô đầu kéo, rơ moóc/sơ mi rơ moóc, xi téc, tàu/ghe…",
+          "is_expiry": false
+        },
+        {
+          "name": "chu_so_huu",
+          "desc": "Tên chủ xe/chủ phương tiện",
+          "is_expiry": false
+        },
+        {
+          "name": "nhan_hieu",
+          "desc": "Nhãn hiệu, số loại",
+          "is_expiry": false
+        },
+        {
+          "name": "so_khung",
+          "desc": "Số khung",
+          "is_expiry": false
+        },
+        {
+          "name": "so_may",
+          "desc": "Số máy",
+          "is_expiry": false
+        },
+        {
+          "name": "nam_san_xuat",
+          "desc": "Năm sản xuất/năm đóng",
+          "is_expiry": false
+        },
+        {
+          "name": "so_chung_nhan",
+          "desc": "Số chứng nhận đăng ký",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_dang_ky",
+          "desc": "Ngày đăng ký",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Cơ quan cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Đăng ký xe có giá trị đến ngày» (niên hạn sử dụng), nếu có",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "5. TỔNG HỢP HỒ SƠ XE": 2,
+        "_1. Giay DKKD khach hang": 1
+      },
+      "est_count": 3,
+      "est_instances": 3,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "BIEN_NHAN_THE_CHAP_PT",
+      "name_vi": "Giấy biên nhận thế chấp phương tiện giao thông (ngân hàng cấp)",
+      "group": "PHUONG_TIEN_THIET_BI",
+      "description": "Giấy do ngân hàng cấp, xác nhận ngân hàng đang giữ bản chính giấy chứng nhận đăng ký của một phương tiện đang thế chấp; dùng thay giấy đăng ký xe khi lưu hành. Có logo và địa chỉ ngân hàng ở đầu trang, tiêu đề «GIẤY BIÊN NHẬN THẾ CHẤP PHƯƠNG TIỆN GIAO THÔNG», số, ngày, «Thông tin Bên thế chấp», thông tin chi tiết phương tiện (số giấy đăng ký, loại phương tiện, số khung, số máy, biển kiểm soát) và mục «Giấy biên nhận thế chấp… được cấp lần…, có hiệu lực đến hết ngày…»; một trang A4 có dấu ngân hàng. Một tệp có thể chứa nhiều giấy cho nhiều phương tiện (đầu kéo và rơ moóc). Không chọn loại này cho chính thẻ đăng ký xe hay cho hợp đồng/thỏa thuận tín dụng.",
+      "short_description": "Giấy biên nhận thế chấp phương tiện giao thông do ngân hàng cấp thay cho bản chính đăng ký xe; có hạn hiệu lực.",
+      "keywords": [
+        "giấy biên nhận thế chấp phương tiện giao thông",
+        "giấy biên nhận thế chấp",
+        "biên nhận thế chấp"
+      ],
+      "confusable_with": [
+        "DANG_KY_PHUONG_TIEN",
+        "OTHER"
+      ],
+      "deciding_cue": "Tiêu đề «giấy biên nhận thế chấp» + logo ngân hàng → loại này. Thẻ nhỏ của cảnh sát giao thông → DANG_KY_PHUONG_TIEN. Thỏa thuận/hợp đồng cấp tín dụng nhiều trang → OTHER (xem câu hỏi mở).",
+      "key_fields": [
+        {
+          "name": "so_bien_nhan",
+          "desc": "Số giấy biên nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngan_hang",
+          "desc": "Ngân hàng, chi nhánh cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_the_chap",
+          "desc": "Bên thế chấp",
+          "is_expiry": false
+        },
+        {
+          "name": "bien_so",
+          "desc": "Biển kiểm soát phương tiện",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_phuong_tien",
+          "desc": "Loại phương tiện, nhãn hiệu",
+          "is_expiry": false
+        },
+        {
+          "name": "so_khung",
+          "desc": "Số khung",
+          "is_expiry": false
+        },
+        {
+          "name": "so_may",
+          "desc": "Số máy",
+          "is_expiry": false
+        },
+        {
+          "name": "so_gcn_dang_ky",
+          "desc": "Số giấy chứng nhận đăng ký xe được thế chấp",
+          "is_expiry": false
+        },
+        {
+          "name": "lan_cap",
+          "desc": "Cấp lần thứ mấy",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Có hiệu lực đến hết ngày…»",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "5. TỔNG HỢP HỒ SƠ XE": 2
+      },
+      "est_count": 2,
+      "est_instances": 4,
+      "data_status": "insufficient",
+      "rule_priority": 10
+    },
+    {
+      "id": "GCN_ATKT_BVMT_PT",
+      "name_vi": "Giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường của phương tiện (đăng kiểm)",
+      "group": "PHUONG_TIEN_THIET_BI",
+      "description": "Giấy do cơ quan đăng kiểm cấp cho MỘT PHƯƠNG TIỆN sau khi kiểm định an toàn kỹ thuật và bảo vệ môi trường. Với tàu/ghe: «GIẤY CHỨNG NHẬN AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN THỦY NỘI ĐỊA» do Chi cục Đăng kiểm cấp, có tên phương tiện, số đăng ký, số kiểm soát, chủ phương tiện, thông số kỹ thuật, vùng hoạt động, «có hiệu lực đến ngày…», trang sau là bảng trang thiết bị. Với xe: «GIẤY CHỨNG NHẬN KIỂM ĐỊNH AN TOÀN KỸ THUẬT VÀ BẢO VỆ MÔI TRƯỜNG PHƯƠNG TIỆN GIAO THÔNG CƠ GIỚI ĐƯỜNG BỘ» do trung tâm đăng kiểm cấp, có biển số và hạn kiểm định. Không chọn loại này cho giấy chứng nhận đào tạo nghiệp vụ bảo vệ môi trường của cá nhân, cho giấy kiểm định cột đo/xi téc (đo lường), hay cho giấy đăng ký phương tiện.",
+      "short_description": "Giấy chứng nhận (kiểm định) an toàn kỹ thuật và bảo vệ môi trường của xe cơ giới hoặc phương tiện thủy, do cơ quan đăng kiểm cấp.",
+      "keywords": [
+        "giấy chứng nhận an toàn kỹ thuật và bảo vệ môi trường",
+        "an toàn kỹ thuật và bảo vệ môi trường phương tiện thủy nội địa",
+        "kiểm định an toàn kỹ thuật và bảo vệ môi trường phương tiện giao thông cơ giới đường bộ",
+        "chi cục đăng kiểm"
+      ],
+      "confusable_with": [
+        "GCN_KIEM_DINH_DO_LUONG",
+        "CC_NGHIEP_VU_BVMT",
+        "DANG_KY_PHUONG_TIEN"
+      ],
+      "deciding_cue": "Cơ quan đăng kiểm cấp, nói về an toàn kỹ thuật của cả phương tiện → loại này. Trung tâm đo lường chất lượng cấp, đối tượng là «cột đo»/«xi téc», có dung tích và tem kiểm định → GCN_KIEM_DINH_DO_LUONG.",
+      "key_fields": [
+        {
+          "name": "so_gcn",
+          "desc": "Số giấy chứng nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "bien_so",
+          "desc": "Biển số xe / số đăng ký, số kiểm soát phương tiện thủy",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_phuong_tien",
+          "desc": "Tên phương tiện, nếu có",
+          "is_expiry": false
+        },
+        {
+          "name": "chu_phuong_tien",
+          "desc": "Chủ phương tiện",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_dang_kiem",
+          "desc": "Đơn vị đăng kiểm cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Có hiệu lực đến ngày» (hạn đăng kiểm)",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 1
+      },
+      "est_count": 1,
+      "est_instances": 1,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "GCN_KIEM_DINH_DO_LUONG",
+      "name_vi": "Giấy chứng nhận kiểm định phương tiện đo (cột đo xăng dầu, xi téc ô tô)",
+      "group": "PHUONG_TIEN_THIET_BI",
+      "description": "Giấy do tổ chức kiểm định đo lường (Trung tâm Kỹ thuật Tiêu chuẩn Đo lường Chất lượng, Trung tâm Phân tích và Đo lường chất lượng) cấp cho MỘT THIẾT BỊ ĐO. Tiêu đề song ngữ «GIẤY CHỨNG NHẬN KIỂM ĐỊNH / CERTIFICATE OF VERIFICATION», số có đuôi «/ĐLXT» hoặc dạng «K.xxx/năm»; có «Tên đối tượng: Cột đo…» hoặc «Xi téc ô tô», kiểu, số, đặc trưng kỹ thuật đo lường (dung tích danh định, cấp chính xác), nơi sử dụng, đơn vị sử dụng, phương pháp kiểm định, kết luận, số tem kiểm định và «Thời hạn đến». Với xi téc, trang sau là bảng «KẾT QUẢ KIỂM ĐỊNH» (barem: chiều cao – dung tích từng hầm). Một tệp có thể gồm nhiều giấy cho nhiều cột đo. Không chọn loại này cho giấy đăng kiểm an toàn kỹ thuật của xe/tàu hay chứng thư chất lượng xăng dầu.",
+      "short_description": "Giấy chứng nhận kiểm định phương tiện đo (cột đo xăng dầu, xi téc ô tô) do trung tâm đo lường cấp; có tem và thời hạn kiểm định.",
+      "keywords": [
+        "giấy chứng nhận kiểm định",
+        "certificate of verification",
+        "kết quả kiểm định"
+      ],
+      "confusable_with": [
+        "GCN_ATKT_BVMT_PT",
+        "CHUNG_THU_CHAT_LUONG"
+      ],
+      "deciding_cue": "«Certificate of Verification», đối tượng là cột đo/xi téc, có tem kiểm định → loại này. «Certificate of Quality», bảng chỉ tiêu chất lượng nhiên liệu → CHUNG_THU_CHAT_LUONG. Có cụm «an toàn kỹ thuật và bảo vệ môi trường» → GCN_ATKT_BVMT_PT.",
+      "key_fields": [
+        {
+          "name": "so_gcn",
+          "desc": "Số giấy chứng nhận kiểm định",
+          "is_expiry": false
+        },
+        {
+          "name": "doi_tuong",
+          "desc": "Đối tượng kiểm định (cột đo, xi téc ô tô…)",
+          "is_expiry": false
+        },
+        {
+          "name": "so_thiet_bi",
+          "desc": "Số/serial thiết bị, số xi téc",
+          "is_expiry": false
+        },
+        {
+          "name": "bien_so",
+          "desc": "Biển số xe mang xi téc, nếu có",
+          "is_expiry": false
+        },
+        {
+          "name": "noi_su_dung",
+          "desc": "Nơi sử dụng (cửa hàng số…, tàu…)",
+          "is_expiry": false
+        },
+        {
+          "name": "don_vi_su_dung",
+          "desc": "Đơn vị sử dụng",
+          "is_expiry": false
+        },
+        {
+          "name": "to_chuc_kiem_dinh",
+          "desc": "Tổ chức kiểm định",
+          "is_expiry": false
+        },
+        {
+          "name": "so_tem_kiem_dinh",
+          "desc": "Số tem kiểm định",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Thời hạn đến / Valid until»",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "5. TỔNG HỢP HỒ SƠ XE": 1,
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 1
+      },
+      "est_count": 2,
+      "est_instances": 4,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "GP_VC_HANG_NGUY_HIEM",
+      "name_vi": "Giấy phép vận chuyển hàng hóa nguy hiểm (về cháy, nổ)",
+      "group": "PHUONG_TIEN_THIET_BI",
+      "description": "Giấy phép do Phòng Cảnh sát PCCC và CNCH (công an tỉnh) cấp cho một đơn vị, cho phép các phương tiện cụ thể vận chuyển hàng hóa nguy hiểm về cháy, nổ (xăng, dầu). Tiêu đề «GIẤY PHÉP VẬN CHUYỂN HÀNG HÓA NGUY HIỂM VỀ CHÁY, NỔ»; số có đuôi «/PCCC»; có tên đơn vị, người đại diện, dòng «Được phép vận chuyển hàng hóa nguy hiểm về cháy, nổ ghi tại trang 02», «Thời hạn của giấy phép: …»; trang 2 là «DANH MỤC HÀNG HÓA NGUY HIỂM VỀ CHÁY, NỔ ĐƯỢC PHÉP VẬN CHUYỂN» có tên hàng, số hiệu UN, khối lượng và biển kiểm soát (BKS) của xe. Không chọn loại này cho thẻ chứng nhận tập huấn của lái xe, cho giấy phép kinh doanh vận tải, hay cho hợp đồng vận chuyển.",
+      "short_description": "Giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ do cảnh sát PCCC cấp cho đơn vị, kèm danh mục hàng và biển số xe; có thời hạn.",
+      "keywords": [
+        "giấy phép vận chuyển hàng hóa nguy hiểm về cháy, nổ",
+        "giấy phép vận chuyển hàng hóa nguy hiểm",
+        "giấy phép vận chuyển hàng nguy hiểm",
+        "danh mục hàng hóa nguy hiểm"
+      ],
+      "confusable_with": [
+        "CC_TAP_HUAN_VC_HNH",
+        "GP_KD_VAN_TAI",
+        "GCN_PCCC_CO_SO"
+      ],
+      "deciding_cue": "«Giấy phép», cấp cho đơn vị, có biển số xe và thời hạn → loại này. «Giấy chứng nhận hoàn thành chương trình tập huấn», cấp cho một người → CC_TAP_HUAN_VC_HNH.",
+      "key_fields": [
+        {
+          "name": "so_giay_phep",
+          "desc": "Số giấy phép",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Cơ quan cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "don_vi_duoc_cap",
+          "desc": "Đơn vị được cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "bien_so_phuong_tien",
+          "desc": "Danh sách biển số xe/rơ moóc được phép",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_hang",
+          "desc": "Tên hàng nguy hiểm, số hiệu UN",
+          "is_expiry": false
+        },
+        {
+          "name": "khoi_luong",
+          "desc": "Khối lượng vận chuyển",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "«Thời hạn của giấy phép»",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "5. TỔNG HỢP HỒ SƠ XE": 2
+      },
+      "est_count": 2,
+      "est_instances": 2,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "GCN_PCCC_CO_SO",
+      "name_vi": "Giấy chứng nhận đủ điều kiện / thẩm duyệt thiết kế về PCCC của cơ sở, phương tiện",
+      "group": "PCCC_AN_TOAN",
+      "description": "Giấy do cơ quan Cảnh sát PCCC (công an tỉnh, Bộ Công an) cấp cho MỘT CƠ SỞ hoặc phương tiện: «GIẤY CHỨNG NHẬN ĐỦ ĐIỀU KIỆN VỀ PHÒNG CHÁY VÀ CHỮA CHÁY» (Mẫu PC4, một trang nền hoa văn, phần «CHỨNG NHẬN:» ghi tên cơ sở, địa chỉ, ngành nghề kinh doanh xăng dầu), «GIẤY CHỨNG NHẬN THẨM DUYỆT THIẾT KẾ VỀ PHÒNG CHÁY VÀ CHỮA CHÁY» (số có ký hiệu «TD-PCCC», trang 2 là danh mục tài liệu, bản vẽ được thẩm duyệt), hoặc văn bản nghiệm thu về PCCC. Không chọn loại này cho thẻ chứng nhận huấn luyện PCCC của cá nhân, cho tập hồ sơ quản lý/biên bản tự kiểm tra PCCC do cơ sở tự lập, cho giấy phép vận chuyển hàng nguy hiểm, hay cho giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu của Sở Công Thương.",
+      "short_description": "Giấy chứng nhận đủ điều kiện, thẩm duyệt thiết kế hoặc nghiệm thu về PCCC do cơ quan công an cấp cho một cơ sở/phương tiện.",
+      "keywords": [
+        "giấy chứng nhận đủ điều kiện về phòng cháy và chữa cháy",
+        "đủ điều kiện về phòng cháy và chữa cháy",
+        "giấy chứng nhận thẩm duyệt thiết kế về phòng cháy và chữa cháy",
+        "giấy chứng nhận thẩm duyệt thiết kế về phòng cháy",
+        "nghiệm thu về phòng cháy và chữa cháy"
+      ],
+      "confusable_with": [
+        "CC_HUAN_LUYEN_PCCC",
+        "HO_SO_QUAN_LY_PCCC",
+        "GCN_DDK_BAN_LE_XD",
+        "GP_VC_HANG_NGUY_HIEM"
+      ],
+      "deciding_cue": "Do công an cấp cho cơ sở/phương tiện, 1–2 trang → loại này. Do cơ sở tự lập, nhiều trang, có sổ theo dõi và biên bản tự kiểm tra → HO_SO_QUAN_LY_PCCC. Thẻ nhỏ đứng tên một người → CC_HUAN_LUYEN_PCCC.",
+      "key_fields": [
+        {
+          "name": "so_giay",
+          "desc": "Số giấy",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_cap",
+          "desc": "Cơ quan cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_van_ban",
+          "desc": "du_dieu_kien | tham_duyet_thiet_ke | nghiem_thu",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_co_so",
+          "desc": "Tên cơ sở (cửa hàng số…) hoặc phương tiện (tàu chở dầu…)",
+          "is_expiry": false
+        },
+        {
+          "name": "dia_chi",
+          "desc": "Địa chỉ cơ sở",
+          "is_expiry": false
+        },
+        {
+          "name": "chu_co_so",
+          "desc": "Chủ cơ sở/chủ đầu tư",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 3
+      },
+      "est_count": 3,
+      "est_instances": 3,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "HO_SO_QUAN_LY_PCCC",
+      "name_vi": "Hồ sơ quản lý, theo dõi công tác PCCC của cơ sở (kèm biên bản tự kiểm tra PCCC)",
+      "group": "PCCC_AN_TOAN",
+      "description": "Tập hồ sơ nhiều trang (thường 26–55 trang) do chính cơ sở lập để quản lý công tác phòng cháy chữa cháy của MỘT cửa hàng xăng dầu hoặc tàu/ghe bán dầu trong một kỳ. Trang bìa ghi «HỒ SƠ QUẢN LÝ CÔNG TÁC PHÒNG CHÁY CHỮA CHÁY» cùng «TÊN CƠ SỞ», «ĐỊA CHỈ»; bên trong gồm nội quy PCCC, quyết định thành lập đội PCCC, bản cam kết, «SỔ THEO DÕI PHƯƠNG TIỆN PHÒNG CHÁY VÀ CHỮA CHÁY», sổ kiểm tra điều kiện an toàn PCCC, sổ theo dõi tuyên truyền huấn luyện, báo cáo tổng kết, kế hoạch huấn luyện và các «BIÊN BẢN TỰ KIỂM TRA CÔNG TÁC PHÒNG CHÁY CHỮA CHÁY» hằng tháng. Cả tập là MỘT tài liệu, không tách từng thành phần; tập thiếu bìa hoặc một biên bản tự kiểm tra đứng riêng cũng xếp vào loại này. Không chọn loại này cho giấy chứng nhận do công an cấp hay thẻ huấn luyện PCCC của cá nhân.",
+      "short_description": "Tập hồ sơ nhiều trang do cơ sở tự lập để quản lý PCCC: nội quy, quyết định, sổ theo dõi phương tiện, biên bản tự kiểm tra PCCC định kỳ.",
+      "keywords": [
+        "hồ sơ quản lý công tác phòng cháy chữa cháy",
+        "sổ theo dõi phương tiện phòng cháy và chữa cháy",
+        "biên bản tự kiểm tra công tác phòng cháy chữa cháy",
+        "hồ sơ quản lý công tác pccc",
+        "biên bản tự kiểm tra"
+      ],
+      "confusable_with": [
+        "GCN_PCCC_CO_SO",
+        "CC_HUAN_LUYEN_PCCC",
+        "BIEN_PHAP_UNG_PHO_SU_CO"
+      ],
+      "deciding_cue": "Nhiều trang, do cơ sở tự lập, có sổ theo dõi/biên bản tự kiểm tra → loại này. Văn bản 1–2 trang có dấu công an → GCN_PCCC_CO_SO. Tài liệu thuyết minh «biện pháp phòng ngừa, ứng phó sự cố hóa chất» có mục lục → BIEN_PHAP_UNG_PHO_SU_CO.",
+      "key_fields": [
+        {
+          "name": "ten_co_so",
+          "desc": "Tên cơ sở (cửa hàng xăng dầu số…, thuyền/ghe dầu số…)",
+          "is_expiry": false
+        },
+        {
+          "name": "dia_chi",
+          "desc": "Địa chỉ cơ sở",
+          "is_expiry": false
+        },
+        {
+          "name": "ky_ho_so",
+          "desc": "Kỳ của tập hồ sơ (năm; hoặc các tháng, ví dụ tháng 1 + tháng 2)",
+          "is_expiry": false
+        },
+        {
+          "name": "nguoi_phu_trach",
+          "desc": "Người lập sổ/người phụ trách PCCC",
+          "is_expiry": false
+        },
+        {
+          "name": "cac_ngay_tu_kiem_tra",
+          "desc": "Danh sách ngày của các biên bản tự kiểm tra trong tập",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_tu_kiem_tra_gan_nhat",
+          "desc": "Ngày biên bản tự kiểm tra gần nhất (dùng để nhắc kỳ kiểm tra kế tiếp; không phải ngày hết hạn)",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [
+        "8. CUA HANG - TU K.TRA PCCC- VÂN",
+        "TU K.TRA PCCC- VÂN"
+      ],
+      "found_in_folders": {
+        "8. CUA HANG - TU K.TRA PCCC- VÂN": 5,
+        "TU K.TRA PCCC- VÂN": 5
+      },
+      "est_count": 8,
+      "est_instances": 8,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "BIEN_PHAP_UNG_PHO_SU_CO",
+      "name_vi": "Biện pháp / kế hoạch phòng ngừa, ứng phó sự cố (hóa chất, tràn dầu), phương án chữa cháy",
+      "group": "PCCC_AN_TOAN",
+      "description": "Tài liệu thuyết minh nhiều trang do doanh nghiệp lập cho một cơ sở, mô tả biện pháp hoặc kế hoạch phòng ngừa và ứng phó sự cố: «BIỆN PHÁP PHÒNG NGỪA, ỨNG PHÓ SỰ CỐ HÓA CHẤT CỦA CỬA HÀNG XĂNG DẦU…», «KẾ HOẠCH ỨNG PHÓ SỰ CỐ TRÀN DẦU», «PHƯƠNG ÁN CHỮA CHÁY CỦA CƠ SỞ». Có trang bìa đóng khung với tên công ty và tên tài liệu, phần mở đầu, các phần đánh số (thông tin về cơ sở, dự báo nguy cơ, tình huống và biện pháp ứng phó, năng lực ứng phó, tổ chức thực hiện), mục lục và số trang ở chân trang. Không chọn loại này cho tập hồ sơ quản lý PCCC gồm sổ theo dõi và biên bản tự kiểm tra, hay cho giấy chứng nhận do cơ quan nhà nước cấp.",
+      "short_description": "Tài liệu thuyết minh biện pháp/kế hoạch phòng ngừa, ứng phó sự cố hóa chất, tràn dầu hoặc phương án chữa cháy của một cơ sở.",
+      "keywords": [
+        "biện pháp phòng ngừa, ứng phó sự cố hóa chất",
+        "phòng ngừa, ứng phó sự cố hóa chất",
+        "kế hoạch ứng phó sự cố tràn dầu",
+        "phương án chữa cháy của cơ sở"
+      ],
+      "confusable_with": [
+        "HO_SO_QUAN_LY_PCCC",
+        "CONG_VAN_THONG_BAO"
+      ],
+      "deciding_cue": "Văn bản thuyết minh có chương mục và mục lục → loại này. Tập gồm các sổ theo dõi kẻ bảng và biên bản tự kiểm tra hằng tháng → HO_SO_QUAN_LY_PCCC.",
+      "key_fields": [
+        {
+          "name": "ten_tai_lieu",
+          "desc": "Tên tài liệu (biện pháp/kế hoạch/phương án…)",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_co_so",
+          "desc": "Cơ sở áp dụng (cửa hàng số…)",
+          "is_expiry": false
+        },
+        {
+          "name": "dia_chi",
+          "desc": "Địa chỉ cơ sở",
+          "is_expiry": false
+        },
+        {
+          "name": "thang_nam_lap",
+          "desc": "Tháng/năm lập",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_phe_duyet",
+          "desc": "Cơ quan phê duyệt/xác nhận, nếu có",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 1
+      },
+      "est_count": 1,
+      "est_instances": 1,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "BAN_VE_KY_THUAT",
+      "name_vi": "Bản vẽ kỹ thuật / thiết kế",
+      "group": "PCCC_AN_TOAN",
+      "description": "Trang bản vẽ kỹ thuật hoặc thiết kế của phương tiện hay công trình (tàu dầu, cửa hàng xăng dầu, hệ thống ống, bể chứa): phần lớn trang là hình vẽ nét mảnh, kích thước, mặt cắt, sơ đồ; có khung tên bản vẽ ở góc (tên công ty thiết kế, tên bản vẽ, ký hiệu, tỷ lệ, người vẽ/kiểm tra), thường xoay ngang và có dấu «ĐÃ THẨM DUYỆT» của cơ quan PCCC hoặc dấu đăng kiểm. Hầu như không có đoạn văn và không có tiêu đề văn bản hành chính. Không chọn loại này cho văn bản có chữ là chính (giấy chứng nhận thẩm duyệt, giấy phép xây dựng) dù có nhắc tới bản vẽ.",
+      "short_description": "Trang bản vẽ kỹ thuật/thiết kế: chủ yếu là hình vẽ, kích thước, khung tên bản vẽ; hầu như không có đoạn văn.",
+      "keywords": [
+        "bản vẽ thiết kế",
+        "bản vẽ kỹ thuật",
+        "mặt cắt"
+      ],
+      "confusable_with": [
+        "GCN_PCCC_CO_SO",
+        "GIAY_PHEP_XAY_DUNG",
+        "UNREADABLE"
+      ],
+      "deciding_cue": "Trang chủ yếu là hình vẽ → loại này. Trang chủ yếu là chữ, có quốc hiệu và tiêu đề «giấy chứng nhận thẩm duyệt» → GCN_PCCC_CO_SO. Trang mờ/đen không nhận ra cả hình lẫn chữ → UNREADABLE.",
+      "key_fields": [
+        {
+          "name": "ten_ban_ve",
+          "desc": "Tên bản vẽ",
+          "is_expiry": false
+        },
+        {
+          "name": "ky_hieu_ban_ve",
+          "desc": "Ký hiệu/số bản vẽ",
+          "is_expiry": false
+        },
+        {
+          "name": "doi_tuong",
+          "desc": "Phương tiện/công trình được vẽ",
+          "is_expiry": false
+        },
+        {
+          "name": "don_vi_thiet_ke",
+          "desc": "Đơn vị thiết kế",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_tham_duyet",
+          "desc": "Cơ quan đóng dấu thẩm duyệt, nếu có",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 4
+      },
+      "est_count": 4,
+      "est_instances": 4,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "GCN_BAO_HIEM",
+      "name_vi": "Giấy chứng nhận bảo hiểm (xe cơ giới, cháy nổ, tàu thuyền)",
+      "group": "BAO_HIEM",
+      "description": "Giấy chứng nhận hoặc đơn bảo hiểm do một doanh nghiệp bảo hiểm cấp. Với xe: «GIẤY CHỨNG NHẬN BẢO HIỂM BẮT BUỘC TNDS CỦA CHỦ XE Ô TÔ», «GIẤY CHỨNG NHẬN BẢO HIỂM TỰ NGUYỆN XE Ô TÔ» (bảo hiểm vật chất xe): tờ gập nhỏ nhiều ô, có logo hãng bảo hiểm, «Số GCNBH», chủ xe, biển kiểm soát, số khung, số máy, phạm vi và mức trách nhiệm, phí bảo hiểm, «Thời hạn bảo hiểm: từ… đến…», phần lưu ý cho chủ xe. Với cơ sở hoặc tàu: «GIẤY CHỨNG NHẬN BẢO HIỂM» cháy, nổ bắt buộc hoặc bảo hiểm tài sản/thân tàu, khổ A4, có người được bảo hiểm, địa điểm, số tiền bảo hiểm, thời hạn. Không chọn loại này cho giấy đăng ký xe, giấy đăng kiểm hay hợp đồng mua bán.",
+      "short_description": "Giấy chứng nhận bảo hiểm do công ty bảo hiểm cấp (TNDS bắt buộc, vật chất xe, cháy nổ, tàu thuyền); có phí và thời hạn bảo hiểm.",
+      "keywords": [
+        "giấy chứng nhận bảo hiểm",
+        "bảo hiểm bắt buộc tnds",
+        "bảo hiểm bắt buộc trách nhiệm dân sự",
+        "bảo hiểm tự nguyện xe ô tô",
+        "bảo hiểm vật chất xe",
+        "bảo hiểm cháy nổ bắt buộc",
+        "số gcnbh",
+        "thời hạn bảo hiểm"
+      ],
+      "confusable_with": [
+        "DANG_KY_PHUONG_TIEN",
+        "GCN_ATKT_BVMT_PT"
+      ],
+      "deciding_cue": "Có tên/logo công ty bảo hiểm, phí và thời hạn bảo hiểm → loại này. Thẻ của cảnh sát giao thông có «tên chủ xe» nhưng không có phí bảo hiểm → DANG_KY_PHUONG_TIEN.",
+      "key_fields": [
+        {
+          "name": "so_gcn_bao_hiem",
+          "desc": "Số giấy chứng nhận bảo hiểm",
+          "is_expiry": false
+        },
+        {
+          "name": "cong_ty_bao_hiem",
+          "desc": "Doanh nghiệp bảo hiểm",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_bao_hiem",
+          "desc": "tnds_bat_buoc | tu_nguyen_vat_chat_xe | chay_no_bat_buoc | tau_thuyen | khac",
+          "is_expiry": false
+        },
+        {
+          "name": "nguoi_duoc_bao_hiem",
+          "desc": "Chủ xe/người được bảo hiểm",
+          "is_expiry": false
+        },
+        {
+          "name": "doi_tuong_bao_hiem",
+          "desc": "Biển số xe, hoặc tên cơ sở/cửa hàng/tàu được bảo hiểm — dùng cho định tuyến",
+          "is_expiry": false
+        },
+        {
+          "name": "so_tien_bao_hiem",
+          "desc": "Số tiền/mức trách nhiệm bảo hiểm",
+          "is_expiry": false
+        },
+        {
+          "name": "phi_bao_hiem",
+          "desc": "Tổng phí bảo hiểm",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_tu",
+          "desc": "Thời hạn bảo hiểm từ",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "Thời hạn bảo hiểm đến",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "5. TỔNG HỢP HỒ SƠ XE": 6,
+        "9. TỔNG HỢP HỒ SƠ CỬA HÀNG": 1
+      },
+      "est_count": 7,
+      "est_instances": 7,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "DON_DAT_HANG",
+      "name_vi": "Đơn đặt hàng",
+      "group": "GIAO_NHAN_HANG_HOA",
+      "description": "Văn bản một trang do bên mua gửi nhà cung cấp để đặt mua một lô hàng xăng dầu theo hợp đồng đã ký. Tiêu đề «ĐƠN ĐẶT HÀNG»; có số đơn (dạng «…/ĐĐH/…» hoặc «PO-…»), ngày, «Kính gửi: …» (nhà cung cấp), dòng căn cứ hợp đồng mua bán, bảng mặt hàng – số lượng – đơn giá – thành tiền, kho nhận hàng, thời gian nhận hàng, có thể có danh sách xe và lái xe nhận hàng, phần xác nhận của nhà cung cấp; ký bởi đại diện bên mua (chữ ký tay và dấu, hoặc chữ ký số). Không chọn loại này cho hợp đồng, phiếu xuất kho, biên bản giao nhận hay hóa đơn.",
+      "short_description": "Đơn đặt hàng một trang gửi nhà cung cấp: kính gửi, bảng mặt hàng – số lượng – đơn giá, kho và ngày nhận hàng.",
+      "keywords": [
+        "đơn đặt hàng"
+      ],
+      "confusable_with": [
+        "HD_MUA_BAN",
+        "PHIEU_XUAT_KHO",
+        "HOA_DON"
+      ],
+      "deciding_cue": "«Kính gửi» + bảng hàng muốn mua, một trang, chỉ bên đặt ký (hoặc thêm xác nhận) → loại này. Có điều khoản và hai bên ký → HD_MUA_BAN. Do kho/nhà máy phát hành khi xuất hàng → PHIEU_XUAT_KHO.",
+      "key_fields": [
+        {
+          "name": "so_don_hang",
+          "desc": "Số đơn đặt hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_dat",
+          "desc": "Ngày đặt hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_dat_hang",
+          "desc": "Bên đặt hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "nha_cung_cap",
+          "desc": "Nhà cung cấp (kính gửi)",
+          "is_expiry": false
+        },
+        {
+          "name": "hop_dong_can_cu",
+          "desc": "Số, ngày hợp đồng căn cứ",
+          "is_expiry": false
+        },
+        {
+          "name": "dong_hang",
+          "desc": "Danh sách dòng hàng: mặt hàng, đơn vị, số lượng, đơn giá, thành tiền",
+          "is_expiry": false
+        },
+        {
+          "name": "tong_tien",
+          "desc": "Tổng tiền",
+          "is_expiry": false
+        },
+        {
+          "name": "kho_nhan_hang",
+          "desc": "Kho/địa điểm nhận hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "thoi_gian_nhan_hang",
+          "desc": "Ngày nhận hàng dự kiến",
+          "is_expiry": false
+        },
+        {
+          "name": "phuong_tien_nhan",
+          "desc": "Biển số xe nhận hàng, nếu có",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [
+        "_Đơn đặt hàng - mua vào 2026"
+      ],
+      "found_in_folders": {
+        "_Đơn đặt hàng - mua vào 2026": 20
+      },
+      "est_count": 20,
+      "est_instances": 20,
+      "data_status": "ok"
+    },
+    {
+      "id": "PHIEU_XUAT_KHO",
+      "name_vi": "Phiếu xuất kho",
+      "group": "GIAO_NHAN_HANG_HOA",
+      "description": "Phiếu do kho hoặc nhà máy (ví dụ nhà máy lọc dầu) phát hành khi xuất một lô xăng dầu cho bên mua. Tiêu đề «PHIẾU XUẤT KHO THÀNH PHẨM» hoặc «PHIẾU XUẤT KHO»; góc trên phải có ô «Ngày», «Ký hiệu», «Số»; nội dung có «Lý do xuất kho: xuất bán sản phẩm theo hợp đồng số…», lệnh xuất hàng, bồn xuất, bên giao, bên nhận, phương tiện và thời gian giao nhận, bảng số lượng xuất (thùng, m3 tại 15°C, tấn, m3 thực tế), hệ số đồng hồ, bảng số chứng thư chất lượng theo hầm, và ba chữ ký «Người lập phiếu», «Đại diện bên giao», «Đại diện bên nhận»; thường có mã QR và đánh số trang «1/1», «1/2». Không chọn loại này cho biên bản giao nhận hàng, chứng thư chất lượng, đơn đặt hàng hay hóa đơn — kể cả khi chúng được quét chung tệp với phiếu xuất kho.",
+      "short_description": "Phiếu xuất kho (thành phẩm) do kho/nhà máy phát hành khi xuất hàng: số phiếu, lý do xuất, bên giao – bên nhận, số lượng, phương tiện.",
+      "keywords": [
+        "phiếu xuất kho thành phẩm",
+        "phiếu xuất kho",
+        "xuất kho thành phẩm",
+        "lý do xuất kho"
+      ],
+      "confusable_with": [
+        "BB_GIAO_NHAN_HANG_HOA",
+        "CHUNG_THU_CHAT_LUONG",
+        "DON_DAT_HANG",
+        "HOA_DON"
+      ],
+      "deciding_cue": "Tiêu đề «phiếu xuất kho», có «lý do xuất kho» và ô Ngày/Ký hiệu/Số → loại này. Tiêu đề «biên bản giao nhận hàng» có bên giao hàng – bên nhận hàng → BB_GIAO_NHAN_HANG_HOA. Bảng chỉ tiêu thử nghiệm → CHUNG_THU_CHAT_LUONG.",
+      "key_fields": [
+        {
+          "name": "so_phieu",
+          "desc": "Số phiếu",
+          "is_expiry": false
+        },
+        {
+          "name": "ky_hieu",
+          "desc": "Ký hiệu phiếu",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_xuat",
+          "desc": "Ngày xuất kho",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_giao",
+          "desc": "Bên giao (kho/nhà máy)",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_nhan",
+          "desc": "Bên nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "hop_dong_can_cu",
+          "desc": "Số, ngày hợp đồng",
+          "is_expiry": false
+        },
+        {
+          "name": "lenh_xuat_hang",
+          "desc": "Số lệnh xuất hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "bon_xuat",
+          "desc": "Bồn/kho xuất",
+          "is_expiry": false
+        },
+        {
+          "name": "bien_so_phuong_tien",
+          "desc": "Biển số xe/rơ moóc nhận hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "mat_hang",
+          "desc": "Tên thành phẩm",
+          "is_expiry": false
+        },
+        {
+          "name": "so_luong_m3_15c",
+          "desc": "Số lượng m3 tại 15°C",
+          "is_expiry": false
+        },
+        {
+          "name": "so_luong_tan",
+          "desc": "Số lượng tấn",
+          "is_expiry": false
+        },
+        {
+          "name": "so_luong_m3_thuc_te",
+          "desc": "Số lượng m3 thực tế",
+          "is_expiry": false
+        },
+        {
+          "name": "so_chung_thu_chat_luong",
+          "desc": "Số chứng thư chất lượng (COQ) ghi trên phiếu",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [
+        "_PHIẾU XUẤT KHO MUA HÀNG 2026"
+      ],
+      "found_in_folders": {
+        "(root)": 1,
+        "_PHIẾU XUẤT KHO MUA HÀNG 2026": 20
+      },
+      "est_count": 21,
+      "est_instances": 21,
+      "data_status": "ok"
+    },
+    {
+      "id": "BB_GIAO_NHAN_HANG_HOA",
+      "name_vi": "Biên bản giao nhận / giao hàng / nghiệm thu bàn giao hàng hóa",
+      "group": "GIAO_NHAN_HANG_HOA",
+      "description": "Biên bản ghi nhận việc giao và nhận một chuyến hàng xăng dầu giữa bên giao và bên nhận. Tiêu đề «BIÊN BẢN GIAO HÀNG», «BIÊN BẢN GIAO NHẬN HÀNG», «BIÊN BẢN GIAO NHẬN HÀNG HÓA» hoặc «BIÊN BẢN NGHIỆM THU, BÀN GIAO HÀNG HÓA»; thường một trang, là mẫu in sẵn điền tay: tên khách hàng/bên nhận, nơi giao hàng, phương tiện giao hàng (biển số), người nhận, bảng tên hàng – đơn vị – số lượng (lít thực tế, lít 15°C, kg, nhiệt độ, tỷ trọng), và chữ ký «Người vận chuyển (giao hàng)» – «Người nhận hàng» hoặc «Bên giao hàng» – «Bên nhận hàng». Không chọn loại này cho phiếu xuất kho, biên bản lấy mẫu niêm phong, biên bản thanh lý hợp đồng, hay biên bản nhận bồn/trả bồn của hợp đồng mượn bồn.",
+      "short_description": "Biên bản giao hàng/giao nhận/nghiệm thu bàn giao hàng hóa: bên giao, bên nhận, tên hàng, số lượng thực giao, phương tiện.",
+      "keywords": [
+        "biên bản giao hàng",
+        "biên bản giao nhận hàng",
+        "biên bản giao nhận",
+        "biên bản nghiệm thu, bàn giao hàng hóa",
+        "biên bản bàn giao hàng hóa"
+      ],
+      "confusable_with": [
+        "PHIEU_XUAT_KHO",
+        "BB_LAY_MAU",
+        "BB_THANH_LY_HD",
+        "HD_MUON_BON"
+      ],
+      "deciding_cue": "Nội dung là số lượng hàng đã giao cho bên nhận → loại này. Nội dung là mẫu xăng dầu và số niêm phong → BB_LAY_MAU. Giao/nhận BỒN chứa → HD_MUON_BON. Tiêu đề có «thanh lý» → BB_THANH_LY_HD.",
+      "key_fields": [
+        {
+          "name": "so_bien_ban",
+          "desc": "Số biên bản, nếu có",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_giao",
+          "desc": "Ngày giao nhận",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_giao",
+          "desc": "Bên giao hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_nhan",
+          "desc": "Bên nhận hàng/khách hàng (tên, mã số thuế)",
+          "is_expiry": false
+        },
+        {
+          "name": "chieu_giao_dich",
+          "desc": "mua_vao (nhà cung cấp giao cho công ty) | ban_ra (công ty giao cho khách) — dùng cho định tuyến",
+          "is_expiry": false
+        },
+        {
+          "name": "noi_giao_hang",
+          "desc": "Nơi giao hàng (cửa hàng, kho)",
+          "is_expiry": false
+        },
+        {
+          "name": "bien_so_phuong_tien",
+          "desc": "Biển số phương tiện giao hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "dong_hang",
+          "desc": "Danh sách dòng hàng: tên hàng, đơn vị, số lượng thực tế, số lượng quy đổi 15°C",
+          "is_expiry": false
+        },
+        {
+          "name": "nguoi_giao",
+          "desc": "Người vận chuyển/giao hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "nguoi_nhan",
+          "desc": "Người nhận hàng",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [
+        "_Biên bản giao nhận 2026"
+      ],
+      "found_in_folders": {
+        "_4. THANH LÝ HỢP ĐỒNG": 1,
+        "_Biên bản giao nhận 2026": 20
+      },
+      "est_count": 21,
+      "est_instances": 28,
+      "data_status": "ok"
+    },
+    {
+      "id": "BB_LAY_MAU",
+      "name_vi": "Biên bản lấy mẫu, niêm phong, bàn giao mẫu xăng dầu",
+      "group": "GIAO_NHAN_HANG_HOA",
+      "description": "Biên bản lấy mẫu xăng dầu khi xuất hoặc nhập hàng, theo mẫu của Thông tư 15/2015/TT-BKHCN. Góc trên phải in «Mẫu 1. BBLM-NP-CKCL» (biên bản lấy mẫu, niêm phong, bàn giao mẫu và cam kết chất lượng — lập tại kho bên bán) hoặc «Mẫu 2. BBLM-BGM-KTNP» (biên bản lấy mẫu, bàn giao mẫu và kiểm tra niêm phong — lập tại cửa hàng khi nhập hàng), kèm «15/2015/TT-BKHCN»; tiêu đề «BIÊN BẢN LẤY MẪU, …»; các mục đánh số điền tay: tên, loại xăng dầu; thương nhân xuất hàng; số lượng nhập; doanh nghiệp vận chuyển; phương tiện và biển kiểm soát; số niêm phong trên phương tiện; số niêm phong trên bình mẫu. Mỗi biên bản dài MỘT trang; tệp nhiều trang thường là nhiều biên bản của nhiều chuyến hàng. Không chọn loại này cho biên bản giao nhận hàng, phiếu xuất kho hay chứng thư chất lượng.",
+      "short_description": "Biên bản lấy mẫu, niêm phong, bàn giao mẫu xăng dầu (mẫu BBLM theo Thông tư 15/2015/TT-BKHCN), ghi số niêm phong.",
+      "keywords": [
+        "biên bản lấy mẫu",
+        "bàn giao mẫu và kiểm tra niêm phong",
+        "niêm phong, bàn giao mẫu",
+        "BBLM-BGM-KTNP",
+        "BBLM-NP-CKCL"
+      ],
+      "confusable_with": [
+        "BB_GIAO_NHAN_HANG_HOA",
+        "CHUNG_THU_CHAT_LUONG",
+        "PHIEU_XUAT_KHO"
+      ],
+      "deciding_cue": "Có ký hiệu «BBLM» và các số niêm phong → loại này. Có bảng số lượng giao nhận nhưng không có niêm phong mẫu → BB_GIAO_NHAN_HANG_HOA. Có bảng chỉ tiêu thử nghiệm và «Certificate of Quality» → CHUNG_THU_CHAT_LUONG.",
+      "key_fields": [
+        {
+          "name": "mau_bieu",
+          "desc": "Mẫu 1 (BBLM-NP-CKCL) hoặc Mẫu 2 (BBLM-BGM-KTNP)",
+          "is_expiry": false
+        },
+        {
+          "name": "so_bien_ban",
+          "desc": "Số biên bản, nếu có",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_lay_mau",
+          "desc": "Ngày lập biên bản",
+          "is_expiry": false
+        },
+        {
+          "name": "co_so",
+          "desc": "Cửa hàng/kho nơi lập biên bản (cửa hàng số…, thuyền dầu…)",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_xang_dau",
+          "desc": "Tên, loại xăng dầu",
+          "is_expiry": false
+        },
+        {
+          "name": "thuong_nhan_xuat_hang",
+          "desc": "Thương nhân xuất hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "so_luong_nhap",
+          "desc": "Số lượng nhập (lít)",
+          "is_expiry": false
+        },
+        {
+          "name": "doanh_nghiep_van_chuyen",
+          "desc": "Doanh nghiệp vận chuyển",
+          "is_expiry": false
+        },
+        {
+          "name": "bien_so_phuong_tien",
+          "desc": "Biển kiểm soát phương tiện vận chuyển",
+          "is_expiry": false
+        },
+        {
+          "name": "so_niem_phong_phuong_tien",
+          "desc": "Số niêm phong trên phương tiện",
+          "is_expiry": false
+        },
+        {
+          "name": "so_niem_phong_mau",
+          "desc": "Số niêm phong trên bình mẫu",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [
+        "6. CUA HANG - BB MAU- VÂN"
+      ],
+      "found_in_folders": {
+        "6. CUA HANG - BB MAU- VÂN": 10
+      },
+      "est_count": 10,
+      "est_instances": 134,
+      "data_status": "ok"
+    },
+    {
+      "id": "CHUNG_THU_CHAT_LUONG",
+      "name_vi": "Chứng thư chất lượng (Certificate of Quality)",
+      "group": "GIAO_NHAN_HANG_HOA",
+      "description": "Chứng thư do nhà sản xuất hoặc phòng thử nghiệm cấp cho MỘT LÔ xăng dầu, công bố kết quả thử nghiệm chất lượng. Tiêu đề song ngữ «CHỨNG THƯ CHẤT LƯỢNG (Certificate of Quality)»; đầu trang là tên nhà máy lọc dầu/công ty và các chứng chỉ ISO; có tên sản phẩm (ví dụ nhiên liệu điêzen DO 0,05S mức 2), nơi sản xuất, ký hiệu lô (Batch No.), bể chứa, ngày sản xuất, ngày lấy mẫu, số chứng nhận; phần chính là bảng chỉ tiêu – phương pháp thử (TCVN/ASTM) – đơn vị – mức quy định – kết quả; câu kết luận phù hợp QCVN và chữ ký, dấu của bộ phận quản lý chất lượng. Trong kho mẫu, loại này chỉ xuất hiện như một trang trong bộ chứng từ xuất kho. Không chọn loại này cho giấy chứng nhận kiểm định cột đo/xi téc, cho biên bản lấy mẫu hay phiếu xuất kho.",
+      "short_description": "Chứng thư chất lượng (Certificate of Quality) của một lô xăng dầu: bảng chỉ tiêu, phương pháp thử, kết quả.",
+      "keywords": [
+        "chứng thư chất lượng (certificate of quality)",
+        "certificate of quality",
+        "phiếu kết quả thử nghiệm"
+      ],
+      "confusable_with": [
+        "GCN_KIEM_DINH_DO_LUONG",
+        "BB_LAY_MAU",
+        "PHIEU_XUAT_KHO"
+      ],
+      "deciding_cue": "«Certificate of Quality» + bảng chỉ tiêu chất lượng của nhiên liệu → loại này. «Certificate of Verification» của cột đo/xi téc → GCN_KIEM_DINH_DO_LUONG.",
+      "key_fields": [
+        {
+          "name": "so_chung_thu",
+          "desc": "Số chứng nhận/chứng thư",
+          "is_expiry": false
+        },
+        {
+          "name": "ten_san_pham",
+          "desc": "Tên sản phẩm",
+          "is_expiry": false
+        },
+        {
+          "name": "nha_san_xuat",
+          "desc": "Nơi sản xuất/đơn vị cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "so_lo",
+          "desc": "Ký hiệu lô (Batch No.)",
+          "is_expiry": false
+        },
+        {
+          "name": "be_chua",
+          "desc": "Bể chứa",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_san_xuat",
+          "desc": "Ngày sản xuất",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_lay_mau",
+          "desc": "Ngày lấy mẫu",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_cap",
+          "desc": "Ngày cấp",
+          "is_expiry": false
+        },
+        {
+          "name": "quy_chuan_ap_dung",
+          "desc": "Quy chuẩn/tiêu chuẩn áp dụng (QCVN…)",
+          "is_expiry": false
+        },
+        {
+          "name": "ket_luan",
+          "desc": "Kết luận phù hợp/không phù hợp",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {},
+      "est_count": 0,
+      "est_instances": 6,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "HOA_DON",
+      "name_vi": "Hóa đơn bán hàng / hóa đơn giá trị gia tăng",
+      "group": "GIAO_NHAN_HANG_HOA",
+      "description": "Hóa đơn do bên bán lập cho một lần bán hàng hóa, dịch vụ. Tiêu đề «HÓA ĐƠN GIÁ TRỊ GIA TĂNG» hoặc «HÓA ĐƠN BÁN HÀNG»; có «Mẫu số», «Ký hiệu», «Số» hóa đơn, ngày; đơn vị bán hàng và mã số thuế; họ tên người mua, tên đơn vị, mã số thuế, địa chỉ; hình thức thanh toán; bảng tên hàng hóa, dịch vụ – đơn vị tính – số lượng – đơn giá – thành tiền; cộng tiền hàng, thuế suất GTGT, tổng cộng tiền thanh toán, số tiền viết bằng chữ; chữ ký người mua, người bán. Có thể là hóa đơn giấy viết tay hoặc bản in hóa đơn điện tử. Không chọn loại này cho phiếu xuất kho, đơn đặt hàng, bảng báo giá hay biên bản giao nhận.",
+      "short_description": "Hóa đơn bán hàng/hóa đơn giá trị gia tăng: mẫu số, ký hiệu, số hóa đơn, bên bán, bên mua, hàng hóa, tiền thuế.",
+      "keywords": [
+        "hóa đơn giá trị gia tăng",
+        "hóa đơn bán hàng",
+        "hóa đơn gtgt"
+      ],
+      "confusable_with": [
+        "PHIEU_XUAT_KHO",
+        "DON_DAT_HANG",
+        "UNREADABLE"
+      ],
+      "deciding_cue": "Có mẫu số/ký hiệu/số hóa đơn và mã số thuế hai bên → loại này. Bản quét quá mờ không đọc nổi cả tiêu đề → UNREADABLE.",
+      "key_fields": [
+        {
+          "name": "mau_so",
+          "desc": "Mẫu số hóa đơn",
+          "is_expiry": false
+        },
+        {
+          "name": "ky_hieu",
+          "desc": "Ký hiệu hóa đơn",
+          "is_expiry": false
+        },
+        {
+          "name": "so_hoa_don",
+          "desc": "Số hóa đơn",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_hoa_don",
+          "desc": "Ngày hóa đơn",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_ban",
+          "desc": "Tên, mã số thuế bên bán",
+          "is_expiry": false
+        },
+        {
+          "name": "ben_mua",
+          "desc": "Tên, mã số thuế bên mua",
+          "is_expiry": false
+        },
+        {
+          "name": "dong_hang",
+          "desc": "Danh sách hàng hóa/dịch vụ: tên, đơn vị, số lượng, đơn giá, thành tiền",
+          "is_expiry": false
+        },
+        {
+          "name": "tien_truoc_thue",
+          "desc": "Cộng tiền hàng",
+          "is_expiry": false
+        },
+        {
+          "name": "thue_gtgt",
+          "desc": "Thuế suất và tiền thuế GTGT",
+          "is_expiry": false
+        },
+        {
+          "name": "tong_thanh_toan",
+          "desc": "Tổng cộng tiền thanh toán",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "6. HOP DONG THUE KHO- Vi": 1
+      },
+      "est_count": 1,
+      "est_instances": 2,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "GIAY_UY_QUYEN",
+      "name_vi": "Giấy ủy quyền",
+      "group": "VAN_BAN_KHAC",
+      "description": "Văn bản trong đó người đại diện của một tổ chức (bên ủy quyền) giao cho một cá nhân khác (bên được ủy quyền) thay mặt ký kết, giao dịch trong phạm vi và thời hạn nhất định. Tiêu đề «GIẤY ỦY QUYỀN»; số có ký hiệu «UQ» hoặc «GUQ»; có mục «Bên ủy quyền/Người ủy quyền», «Bên được ủy quyền/Người được ủy quyền» (họ tên, chức vụ, giấy tờ cá nhân), «Nội dung ủy quyền/Phạm vi ủy quyền», «Thời hạn ủy quyền: từ… đến…», chữ ký của cả hai người và con dấu tổ chức; thường 1–2 trang. Không chọn loại này cho hợp đồng chỉ nhắc «theo giấy ủy quyền số…» ở phần thông tin các bên, hay cho thông báo thay đổi người đại diện.",
+      "short_description": "Giấy ủy quyền: người đại diện một tổ chức ủy quyền cho cá nhân khác ký kết, giao dịch trong phạm vi và thời hạn nhất định.",
+      "keywords": [
+        "giấy ủy quyền",
+        "bên được ủy quyền",
+        "người được ủy quyền"
+      ],
+      "confusable_with": [
+        "CONG_VAN_THONG_BAO",
+        "HD_MUA_BAN"
+      ],
+      "deciding_cue": "«Giấy ủy quyền» là TIÊU ĐỀ → loại này. Chỉ được nhắc trong ngoặc ở phần Bên A/Bên B của hợp đồng → theo loại hợp đồng. Tiêu đề «thông báo» → CONG_VAN_THONG_BAO.",
+      "key_fields": [
+        {
+          "name": "so_van_ban",
+          "desc": "Số giấy ủy quyền",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_ky",
+          "desc": "Ngày ký",
+          "is_expiry": false
+        },
+        {
+          "name": "to_chuc_uy_quyen",
+          "desc": "Tổ chức của bên ủy quyền",
+          "is_expiry": false
+        },
+        {
+          "name": "nguoi_uy_quyen",
+          "desc": "Họ tên, chức vụ người ủy quyền",
+          "is_expiry": false
+        },
+        {
+          "name": "nguoi_duoc_uy_quyen",
+          "desc": "Họ tên, chức vụ người được ủy quyền",
+          "is_expiry": false
+        },
+        {
+          "name": "noi_dung_uy_quyen",
+          "desc": "Phạm vi công việc được ủy quyền",
+          "is_expiry": false
+        },
+        {
+          "name": "hieu_luc_tu",
+          "desc": "Hiệu lực từ ngày",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_het_han",
+          "desc": "Hiệu lực đến hết ngày",
+          "is_expiry": true
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "_3. HOP DONG DAU VAO-Diem": 3
+      },
+      "est_count": 3,
+      "est_instances": 3,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "CONG_VAN_THONG_BAO",
+      "name_vi": "Công văn / thông báo / quyết định / quy chế (văn bản hành chính)",
+      "group": "VAN_BAN_KHAC",
+      "description": "Văn bản hành chính một chiều do cơ quan nhà nước hoặc một đối tác ban hành để thông báo, chỉ đạo, quy định: «THÔNG BÁO V/v…», công văn có trích yếu «V/v…», «QUYẾT ĐỊNH Ban hành…» kèm quy chế/quy định, kế hoạch. Trình bày theo thể thức văn bản hành chính: tên cơ quan và số, ký hiệu («…/TB-…», «…/QĐ-UBND», «…/CV-…») ở góc trái, quốc hiệu ở góc phải, «Kính gửi» hoặc căn cứ ban hành, nội dung theo điều/khoản, «Nơi nhận» ở cuối, một bên ký và đóng dấu. Không chọn loại này nếu văn bản là giấy phép/giấy chứng nhận/giấy xác nhận cấp cho một chủ thể (dù có chữ «quyết định» trong thân), là hợp đồng, biên bản hai bên ký, hay là quyết định, kế hoạch nằm bên trong tập hồ sơ quản lý PCCC.",
+      "short_description": "Văn bản hành chính một chiều: công văn, thông báo, quyết định ban hành quy chế/quy định; một bên ký, có «Nơi nhận».",
+      "keywords": [
+        "thông báo v/v",
+        "quyết định ban hành",
+        "quy chế hoạt động",
+        "v/v thay đổi"
+      ],
+      "confusable_with": [
+        "GIAY_UY_QUYEN",
+        "GCN_DDK_BAN_LE_XD",
+        "HO_SO_QUAN_LY_PCCC",
+        "OTHER"
+      ],
+      "deciding_cue": "Tiêu đề là «thông báo», «quyết định ban hành…», hoặc công văn «V/v» và chỉ một bên ký → loại này. Giấy có tiêu đề «giấy chứng nhận…/giấy xác nhận…» trình bày dưới dạng quyết định → theo loại giấy đó. Không có thể thức hành chính và không thuộc loại nào → OTHER.",
+      "key_fields": [
+        {
+          "name": "so_ky_hieu",
+          "desc": "Số, ký hiệu văn bản",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_ban_hanh",
+          "desc": "Ngày ban hành",
+          "is_expiry": false
+        },
+        {
+          "name": "co_quan_ban_hanh",
+          "desc": "Cơ quan/đơn vị ban hành",
+          "is_expiry": false
+        },
+        {
+          "name": "loai_van_ban",
+          "desc": "thong_bao | cong_van | quyet_dinh | quy_che | khac",
+          "is_expiry": false
+        },
+        {
+          "name": "trich_yeu",
+          "desc": "Trích yếu nội dung (V/v…)",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_hieu_luc",
+          "desc": "Ngày có hiệu lực, nếu có ghi",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "(root)": 1,
+        "_3. HOP DONG DAU VAO-Diem": 1
+      },
+      "est_count": 2,
+      "est_instances": 2,
+      "data_status": "insufficient"
+    },
+    {
+      "id": "OTHER",
+      "name_vi": "Tài liệu khác (đọc được nhưng không thuộc loại nào trong danh mục)",
+      "group": "VAN_BAN_KHAC",
+      "description": "Tài liệu ĐỌC ĐƯỢC, xác định được nội dung, nhưng không khớp định nghĩa của bất kỳ loại nào khác trong danh mục — ví dụ thỏa thuận/hợp đồng cấp tín dụng với ngân hàng, bảng báo giá đứng riêng, biên bản đối chiếu công nợ, bảng lương, thư từ. Chỉ chọn OTHER sau khi đã đối chiếu tiêu đề và cơ quan ban hành với tất cả các loại khác. Không chọn OTHER cho tài liệu không đọc được (dùng UNREADABLE) hoặc cho tài liệu thuộc một loại đã có nhưng bản quét xấu.",
+      "short_description": "Tài liệu đọc được nhưng không thuộc bất kỳ loại nào khác trong danh mục.",
+      "keywords": [],
+      "confusable_with": [
+        "UNREADABLE",
+        "CONG_VAN_THONG_BAO"
+      ],
+      "deciding_cue": "Đọc được tiêu đề nhưng danh mục không có loại tương ứng → OTHER, và ghi tiêu đề vào cột evidence. Không đọc được → UNREADABLE.",
+      "key_fields": [
+        {
+          "name": "tieu_de",
+          "desc": "Tiêu đề nguyên văn của tài liệu (để đề xuất loại mới)",
+          "is_expiry": false
+        },
+        {
+          "name": "ngay_van_ban",
+          "desc": "Ngày văn bản, nếu có",
+          "is_expiry": false
+        },
+        {
+          "name": "don_vi_ban_hanh",
+          "desc": "Đơn vị ban hành/các bên",
+          "is_expiry": false
+        }
+      ],
+      "legacy_folders": [],
+      "found_in_folders": {
+        "_3. HOP DONG DAU VAO-Diem": 1
+      },
+      "est_count": 1,
+      "est_instances": 1,
+      "data_status": "insufficient",
+      "special": true
+    },
+    {
+      "id": "UNREADABLE",
+      "name_vi": "Không đọc được",
+      "group": "VAN_BAN_KHAC",
+      "description": "Tệp hoặc đoạn trang mà người gán nhãn không thể xác định loại tài liệu dù đã phóng to và xem hết các trang: ảnh quá mờ, quá tối hoặc cháy sáng, bị che, bị cắt mất phần tiêu đề và nội dung, quét nhầm mặt giấy than, hoặc tệp hỏng. Trang trắng hoặc mặt sau trống nằm giữa một tài liệu KHÔNG phải UNREADABLE (nó thuộc tài liệu chứa nó). Bản quét xấu nhưng vẫn đọc được tiêu đề hoặc đủ dấu hiệu nhận ra loại thì gán loại đó với confidence=low, không dùng UNREADABLE.",
+      "short_description": "Tệp hoặc trang không thể đọc để xác định loại (quá mờ, tối, bị che, hỏng).",
+      "keywords": [],
+      "confusable_with": [
+        "OTHER",
+        "BAN_VE_KY_THUAT"
+      ],
+      "deciding_cue": "Không đọc được → UNREADABLE. Đọc được nhưng ngoài danh mục → OTHER.",
+      "key_fields": [],
+      "legacy_folders": [],
+      "found_in_folders": {},
+      "est_count": 0,
+      "est_instances": 0,
+      "data_status": "insufficient",
+      "special": true
+    }
+  ],
+  "routing": [
+    {
+      "id": "R01",
+      "doc_types": [
+        "HD_MUA_BAN"
+      ],
+      "condition": "vai_tro_cong_ty = ben_ban (công ty chủ quản bán hàng cho khách)",
+      "entity": "khách hàng (ben_mua: tên + mã số thuế), năm hiệu lực",
+      "target_legacy_folder": "_2. HOP DONG KINH TE",
+      "status": "observed",
+      "evidence": "25/25 tệp của thư mục là hợp đồng mua bán do công ty là Bên A (bên bán)."
+    },
+    {
+      "id": "R02",
+      "doc_types": [
+        "HD_MUA_BAN"
+      ],
+      "condition": "vai_tro_cong_ty = ben_mua và mặt hàng là xăng dầu (hợp đồng với nhà cung cấp)",
+      "entity": "nhà cung cấp (ben_ban: tên + mã số thuế)",
+      "target_legacy_folder": "_3. HOP DONG DAU VAO-Diem",
+      "status": "observed",
+      "evidence": "6 tệp trong thư mục đầu vào là hợp đồng mua bán/nguyên tắc/thương nhân phân phối mà công ty là bên mua."
+    },
+    {
+      "id": "R03",
+      "doc_types": [
+        "HD_MUA_BAN"
+      ],
+      "condition": "vai_tro_cong_ty = ben_mua và mặt hàng là tài sản/thiết bị (bồn, xe)",
+      "entity": "nhà cung cấp",
+      "target_legacy_folder": null,
+      "status": "question",
+      "evidence": "1 tệp (HDKT-017.2018-CHUONG PHAT) đang nằm ở «6. HOP DONG THUE KHO- Vi»; cần chủ nghiệp vụ xác nhận nơi lưu."
+    },
+    {
+      "id": "R04",
+      "doc_types": [
+        "HD_NHUONG_QUYEN_DAI_LY"
+      ],
+      "condition": "luôn luôn",
+      "entity": "khách hàng nhận nhượng quyền/đại lý (tên + mã số thuế), ngày hết hiệu lực",
+      "target_legacy_folder": "_1. HOP DONG DAI LY NHUONG QUYEN",
+      "status": "observed",
+      "evidence": "5 hợp đồng nhượng quyền nằm trong thư mục này."
+    },
+    {
+      "id": "R05",
+      "doc_types": [
+        "GCN_DKDN"
+      ],
+      "condition": "chủ thể trên giấy là khách hàng (tra mã số doanh nghiệp trong danh mục khách hàng)",
+      "entity": "mã số doanh nghiệp",
+      "target_legacy_folder": "_1. Giay DKKD khach hang",
+      "status": "observed",
+      "evidence": "22/23 tệp; 4 tệp trùng byte còn được lưu thêm ở «_1. HOP DONG DAI LY NHUONG QUYEN» (bộ hồ sơ khách hàng nhượng quyền) — cần xác nhận có lưu hai nơi không."
+    },
+    {
+      "id": "R06",
+      "doc_types": [
+        "GCN_DKDN",
+        "GXN_THUONG_NHAN_XD",
+        "GIAY_UY_QUYEN",
+        "CONG_VAN_THONG_BAO"
+      ],
+      "condition": "chủ thể/đơn vị ban hành là nhà cung cấp (tra mã số thuế trong danh mục nhà cung cấp)",
+      "entity": "nhà cung cấp (mã số thuế)",
+      "target_legacy_folder": "_3. HOP DONG DAU VAO-Diem",
+      "status": "observed",
+      "evidence": "Thư mục đầu vào chứa 4 giấy đăng ký doanh nghiệp/chi nhánh, 2 giấy xác nhận thương nhân, 3 giấy ủy quyền, 1 thông báo của nhà cung cấp."
+    },
+    {
+      "id": "R07",
+      "doc_types": [
+        "GCN_DDK_BAN_LE_XD"
+      ],
+      "condition": "cửa hàng trên giấy thuộc khách hàng",
+      "entity": "khách hàng (thương nhân chủ sở hữu) + tên cửa hàng + ngày hết hạn",
+      "target_legacy_folder": "_2. Giay Du Dieu Kien Khach hang",
+      "status": "observed",
+      "evidence": "25/25 tệp; 3 tệp trùng byte còn nằm ở «_1. HOP DONG DAI LY NHUONG QUYEN»."
+    },
+    {
+      "id": "R08",
+      "doc_types": [
+        "GCN_DKDN",
+        "GCN_DDK_BAN_LE_XD",
+        "GCN_PCCC_CO_SO",
+        "GIAY_PHEP_XAY_DUNG",
+        "BIEN_PHAP_UNG_PHO_SU_CO",
+        "BAN_VE_KY_THUAT",
+        "CC_HUAN_LUYEN_PCCC",
+        "CC_NGHIEP_VU_BVMT"
+      ],
+      "condition": "chủ thể là cửa hàng/ghe bán lẻ thuộc hệ thống của công ty chủ quản, hoặc cá nhân là nhân viên của cửa hàng đó",
+      "entity": "cửa hàng (số cửa hàng / tên ghe, tàu); với chứng chỉ: họ tên nhân viên + ngày hết hạn",
+      "target_legacy_folder": "9. TỔNG HỢP HỒ SƠ CỬA HÀNG",
+      "status": "observed",
+      "evidence": "Thư mục hồ sơ cửa hàng chứa 13 loại tài liệu khác nhau, đều gắn với một cửa hàng/ghe hoặc nhân viên cửa hàng."
+    },
+    {
+      "id": "R09",
+      "doc_types": [
+        "HD_VAN_CHUYEN"
+      ],
+      "condition": "mặc định (cả hai vai trò chủ hàng và vận chuyển)",
+      "entity": "đối tác (tên + mã số thuế), năm hiệu lực",
+      "target_legacy_folder": "_5. HOP DONG VAN CHUYEN",
+      "status": "observed",
+      "evidence": "24/24 tệp. Ngoại lệ: 2 hợp đồng thuê vận chuyển năm 2026 nằm ở «_3. HOP DONG DAU VAO-Diem» — cần xác nhận quy tắc."
+    },
+    {
+      "id": "R10",
+      "doc_types": [
+        "HD_MUON_BON"
+      ],
+      "condition": "luôn luôn",
+      "entity": "khách hàng mượn bồn (tên + mã số thuế), năm",
+      "target_legacy_folder": "6. HOP DONG MUON BON",
+      "status": "observed",
+      "evidence": "7/7 tệp. 4 hợp đồng mượn bồn khác (2 trùng byte) nằm ở «6. HOP DONG THUE KHO- Vi» — nhiều khả năng lưu nhầm; cần xác nhận."
+    },
+    {
+      "id": "R11",
+      "doc_types": [
+        "HD_THUE_TAI_SAN"
+      ],
+      "condition": "tài sản thuê là kho chứa",
+      "entity": "bên cho thuê/bên thuê, ngày hết hạn thuê",
+      "target_legacy_folder": "6. HOP DONG THUE KHO- Vi",
+      "status": "assumed",
+      "evidence": "Suy ra từ tên thư mục; trong mẫu không có hợp đồng thuê kho nào nằm ở thư mục này."
+    },
+    {
+      "id": "R12",
+      "doc_types": [
+        "HD_THUE_TAI_SAN"
+      ],
+      "condition": "tài sản thuê là cửa hàng/điểm bán lẻ",
+      "entity": "cửa hàng",
+      "target_legacy_folder": "9. TỔNG HỢP HỒ SƠ CỬA HÀNG",
+      "status": "observed",
+      "evidence": "1 tệp (hợp đồng thuê tài sản điểm, cửa hàng kinh doanh xăng dầu)."
+    },
+    {
+      "id": "R13",
+      "doc_types": [
+        "BB_THANH_LY_HD"
+      ],
+      "condition": "mặc định",
+      "entity": "đối tác + số hợp đồng gốc",
+      "target_legacy_folder": "_4. THANH LÝ HỢP ĐỒNG",
+      "status": "observed",
+      "evidence": "13/14 tệp. Ngoại lệ: thanh lý hợp đồng thuê kho với nhà cung cấp nằm ở «_3. HOP DONG DAU VAO-Diem»."
+    },
+    {
+      "id": "R14",
+      "doc_types": [
+        "CC_TAP_HUAN_VC_HNH"
+      ],
+      "condition": "luôn luôn (người được cấp là lái xe/áp tải)",
+      "entity": "họ tên người được cấp + ngày hết hạn",
+      "target_legacy_folder": "8. GCN Lop dao tao van chuyen hang chay no",
+      "status": "observed",
+      "evidence": "Hai thư mục «8. GCN Lop dao tao…» và «10. GCN VC HNH» chứa cùng một loại (15 nhóm trùng byte); đề xuất giữ một, thư mục kia là bí danh. 2 thẻ còn có bản sao trong hồ sơ cửa hàng."
+    },
+    {
+      "id": "R15",
+      "doc_types": [
+        "GPLX",
+        "CCCD"
+      ],
+      "condition": "người đứng tên là lái xe của công ty",
+      "entity": "họ tên lái xe + ngày hết hạn (gắn với xe được phân công nếu có)",
+      "target_legacy_folder": "5. TỔNG HỢP HỒ SƠ XE",
+      "status": "observed",
+      "evidence": "5 giấy phép lái xe và 1 căn cước nằm trong hồ sơ xe."
+    },
+    {
+      "id": "R16",
+      "doc_types": [
+        "DANG_KY_PHUONG_TIEN",
+        "BIEN_NHAN_THE_CHAP_PT",
+        "GCN_ATKT_BVMT_PT",
+        "GP_VC_HANG_NGUY_HIEM",
+        "GCN_KIEM_DINH_DO_LUONG",
+        "GCN_BAO_HIEM"
+      ],
+      "condition": "đối tượng là xe ô tô/rơ moóc/xi téc (có biển số xe)",
+      "entity": "biển số xe + ngày hết hạn",
+      "target_legacy_folder": "5. TỔNG HỢP HỒ SƠ XE",
+      "status": "observed",
+      "evidence": "Hồ sơ xe chứa đăng ký, biên nhận thế chấp, bảo hiểm, giấy phép vận chuyển hàng nguy hiểm, kiểm định xi téc; tên tệp thường ghi biển số và ngày hết hạn."
+    },
+    {
+      "id": "R17",
+      "doc_types": [
+        "GP_KD_VAN_TAI"
+      ],
+      "condition": "luôn luôn",
+      "entity": "đơn vị được cấp",
+      "target_legacy_folder": "5. TỔNG HỢP HỒ SƠ XE",
+      "status": "observed",
+      "evidence": "1 tệp (Vận tải CP.pdf) nằm trong hồ sơ xe."
+    },
+    {
+      "id": "R18",
+      "doc_types": [
+        "DANG_KY_PHUONG_TIEN",
+        "GCN_ATKT_BVMT_PT",
+        "GCN_KIEM_DINH_DO_LUONG",
+        "GCN_BAO_HIEM"
+      ],
+      "condition": "đối tượng là ghe/tàu bán lẻ hoặc thiết bị, tài sản của một cửa hàng thuộc công ty (cột đo, bảo hiểm cháy nổ cửa hàng)",
+      "entity": "cửa hàng/ghe (số, tên) + ngày hết hạn",
+      "target_legacy_folder": "9. TỔNG HỢP HỒ SƠ CỬA HÀNG",
+      "status": "observed",
+      "evidence": "Đăng kiểm ghe, kiểm định cột đo của ghe và bảo hiểm của ghe nằm trong hồ sơ cửa hàng."
+    },
+    {
+      "id": "R19",
+      "doc_types": [
+        "DANG_KY_PHUONG_TIEN"
+      ],
+      "condition": "phương tiện thuộc sở hữu của khách hàng",
+      "entity": "khách hàng",
+      "target_legacy_folder": "_1. Giay DKKD khach hang",
+      "status": "observed",
+      "evidence": "1 tệp (đăng ký tàu của một khách hàng) nằm cùng giấy đăng ký doanh nghiệp của khách hàng."
+    },
+    {
+      "id": "R20",
+      "doc_types": [
+        "HO_SO_QUAN_LY_PCCC"
+      ],
+      "condition": "luôn luôn",
+      "entity": "cửa hàng/ghe + kỳ hồ sơ (năm, tháng)",
+      "target_legacy_folder": "8. CUA HANG - TU K.TRA PCCC- VÂN",
+      "status": "observed",
+      "evidence": "Hai thư mục «8. CUA HANG - TU K.TRA PCCC- VÂN» và «TU K.TRA PCCC- VÂN» cùng loại (2 nhóm trùng byte); đề xuất giữ một."
+    },
+    {
+      "id": "R21",
+      "doc_types": [
+        "BB_LAY_MAU"
+      ],
+      "condition": "Mẫu 2 (BBLM-BGM-KTNP) lập tại cửa hàng khi nhập hàng",
+      "entity": "cửa hàng + năm/tháng",
+      "target_legacy_folder": "6. CUA HANG - BB MAU- VÂN",
+      "status": "observed",
+      "evidence": "10/10 tệp, mỗi tệp gom biên bản của một cửa hàng theo kỳ."
+    },
+    {
+      "id": "R22",
+      "doc_types": [
+        "PHIEU_XUAT_KHO",
+        "CHUNG_THU_CHAT_LUONG",
+        "BB_LAY_MAU",
+        "BB_GIAO_NHAN_HANG_HOA"
+      ],
+      "condition": "chứng từ của chuyến hàng MUA VÀO từ nhà cung cấp (phiếu xuất kho của nhà máy/kho và các chứng từ kèm theo cùng chuyến: chứng thư, biên bản giao nhận, biên bản lấy mẫu Mẫu 1)",
+      "entity": "số phiếu xuất kho + ngày + biển số xe",
+      "target_legacy_folder": "_PHIẾU XUẤT KHO MUA HÀNG 2026",
+      "status": "observed",
+      "evidence": "20/20 tệp; 5 tệp là bộ 4 chứng từ quét chung."
+    },
+    {
+      "id": "R23",
+      "doc_types": [
+        "BB_GIAO_NHAN_HANG_HOA"
+      ],
+      "condition": "chieu_giao_dich = ban_ra (công ty giao hàng cho khách)",
+      "entity": "khách hàng + ngày giao + biển số xe",
+      "target_legacy_folder": "_Biên bản giao nhận 2026",
+      "status": "observed",
+      "evidence": "20/20 tệp là «Biên bản giao hàng» trên mẫu của công ty."
+    },
+    {
+      "id": "R24",
+      "doc_types": [
+        "DON_DAT_HANG"
+      ],
+      "condition": "luôn luôn (đơn do công ty gửi nhà cung cấp)",
+      "entity": "nhà cung cấp + số đơn + ngày",
+      "target_legacy_folder": "_Đơn đặt hàng - mua vào 2026",
+      "status": "observed",
+      "evidence": "20/20 tệp."
+    },
+    {
+      "id": "R25",
+      "doc_types": [
+        "HOA_DON",
+        "OTHER",
+        "UNREADABLE"
+      ],
+      "condition": "luôn luôn",
+      "entity": "—",
+      "target_legacy_folder": null,
+      "status": "question",
+      "evidence": "Chưa có nơi lưu xác định; chuyển hàng chờ người duyệt. Hóa đơn mẫu duy nhất đang nằm ở «6. HOP DONG THUE KHO- Vi»."
+    }
+  ],
+  "routing_notes": {
+    "principle": "Lớp = loại tài liệu. Nơi lưu = hàm của (doc_type, thực thể trích xuất được, danh mục chủ dữ liệu khách hàng/nhà cung cấp/cửa hàng/xe). Một tài liệu có thể được định tuyến tới hơn một hồ sơ (ví dụ giấy đăng ký doanh nghiệp của khách hàng nhượng quyền).",
+    "own_company": "công ty chủ quản (đơn vị triển khai hệ thống; nhận biết bằng mã số thuế cấu hình sẵn)",
+    "status_values": {
+      "observed": "suy ra từ vị trí thực tế của tệp mẫu",
+      "assumed": "suy ra từ tên thư mục, chưa có tệp mẫu chứng minh",
+      "question": "cần chủ nghiệp vụ quyết định"
+    },
+    "period": "Các thư mục có năm trong tên («… 2026») là thư mục theo kỳ: năm lấy từ ngày chứng từ trích xuất được."
+  },
+  "legacy_folder_map": [
+    {
+      "folder": "10. GCN VC HNH",
+      "n_files": 20,
+      "n_unique": 19,
+      "maps_to": "CC_TAP_HUAN_VC_HNH",
+      "kind": "pure",
+      "contains": {
+        "CC_TAP_HUAN_VC_HNH": 20
+      },
+      "note": "Cùng loại với «8. GCN Lop dao tao van chuyen hang chay no» (15 nhóm trùng byte)."
+    },
+    {
+      "folder": "5. TỔNG HỢP HỒ SƠ XE",
+      "n_files": 20,
+      "n_unique": 20,
+      "maps_to": null,
+      "kind": "mixed",
+      "contains": {
+        "GCN_BAO_HIEM": 6,
+        "GPLX": 5,
+        "DANG_KY_PHUONG_TIEN": 2,
+        "BIEN_NHAN_THE_CHAP_PT": 2,
+        "GP_VC_HANG_NGUY_HIEM": 2,
+        "CCCD": 1,
+        "GCN_KIEM_DINH_DO_LUONG": 1,
+        "GP_KD_VAN_TAI": 1
+      },
+      "note": "Gói hồ sơ theo xe: nhiều loại tài liệu; không dùng làm nhãn."
+    },
+    {
+      "folder": "6. CUA HANG - BB MAU- VÂN",
+      "n_files": 10,
+      "n_unique": 10,
+      "maps_to": "BB_LAY_MAU",
+      "kind": "pure",
+      "contains": {
+        "BB_LAY_MAU": 10
+      },
+      "note": "Một loại; 7/10 tệp chứa nhiều biên bản (đến 93 biên bản trong một tệp)."
+    },
+    {
+      "folder": "6. HOP DONG MUON BON",
+      "n_files": 7,
+      "n_unique": 7,
+      "maps_to": "HD_MUON_BON",
+      "kind": "pure",
+      "contains": {
+        "HD_MUON_BON": 7
+      },
+      "note": "Một loại."
+    },
+    {
+      "folder": "6. HOP DONG THUE KHO- Vi",
+      "n_files": 6,
+      "n_unique": 6,
+      "maps_to": null,
+      "kind": "mixed",
+      "contains": {
+        "HD_MUON_BON": 4,
+        "HOA_DON": 1,
+        "HD_MUA_BAN": 1
+      },
+      "note": "Không có hợp đồng thuê kho nào: 4 hợp đồng mượn bồn (2 trùng byte với thư mục mượn bồn), 1 hợp đồng mua bồn, 1 tệp hóa đơn."
+    },
+    {
+      "folder": "8. CUA HANG - TU K.TRA PCCC- VÂN",
+      "n_files": 5,
+      "n_unique": 5,
+      "maps_to": "HO_SO_QUAN_LY_PCCC",
+      "kind": "pure",
+      "contains": {
+        "HO_SO_QUAN_LY_PCCC": 5
+      },
+      "note": "Cùng loại với «TU K.TRA PCCC- VÂN» (2 nhóm trùng byte)."
+    },
+    {
+      "folder": "8. GCN Lop dao tao van chuyen hang chay no",
+      "n_files": 20,
+      "n_unique": 20,
+      "maps_to": "CC_TAP_HUAN_VC_HNH",
+      "kind": "pure",
+      "contains": {
+        "CC_TAP_HUAN_VC_HNH": 20
+      },
+      "note": "Cùng loại với «10. GCN VC HNH»."
+    },
+    {
+      "folder": "9. TỔNG HỢP HỒ SƠ CỬA HÀNG",
+      "n_files": 25,
+      "n_unique": 25,
+      "maps_to": null,
+      "kind": "mixed",
+      "contains": {
+        "CC_NGHIEP_VU_BVMT": 6,
+        "BAN_VE_KY_THUAT": 4,
+        "CC_HUAN_LUYEN_PCCC": 3,
+        "GCN_PCCC_CO_SO": 3,
+        "CC_TAP_HUAN_VC_HNH": 2,
+        "GCN_DKDN": 1,
+        "BIEN_PHAP_UNG_PHO_SU_CO": 1,
+        "GCN_ATKT_BVMT_PT": 1,
+        "GIAY_PHEP_XAY_DUNG": 1,
+        "GCN_BAO_HIEM": 1,
+        "GCN_KIEM_DINH_DO_LUONG": 1,
+        "HD_THUE_TAI_SAN": 1
+      },
+      "note": "Gói hồ sơ theo cửa hàng: nhiều loại tài liệu; không dùng làm nhãn."
+    },
+    {
+      "folder": "TU K.TRA PCCC- VÂN",
+      "n_files": 5,
+      "n_unique": 5,
+      "maps_to": "HO_SO_QUAN_LY_PCCC",
+      "kind": "pure",
+      "contains": {
+        "HO_SO_QUAN_LY_PCCC": 5
+      },
+      "note": "Cùng loại với «8. CUA HANG - TU K.TRA PCCC- VÂN»."
+    },
+    {
+      "folder": "_1. Giay DKKD khach hang",
+      "n_files": 23,
+      "n_unique": 23,
+      "maps_to": "GCN_DKDN",
+      "kind": "pure",
+      "contains": {
+        "GCN_DKDN": 22,
+        "DANG_KY_PHUONG_TIEN": 1
+      },
+      "note": "22/23 tệp là giấy đăng ký doanh nghiệp; 1 tệp là đăng ký tàu của khách hàng."
+    },
+    {
+      "folder": "_1. HOP DONG DAI LY NHUONG QUYEN",
+      "n_files": 25,
+      "n_unique": 25,
+      "maps_to": null,
+      "kind": "mixed",
+      "contains": {
+        "GCN_DKDN": 12,
+        "GCN_DDK_BAN_LE_XD": 8,
+        "HD_NHUONG_QUYEN_DAI_LY": 5
+      },
+      "note": "Bộ hồ sơ khách hàng nhượng quyền: chỉ 5/25 tệp là hợp đồng nhượng quyền; không dùng làm nhãn."
+    },
+    {
+      "folder": "_2. Giay Du Dieu Kien Khach hang",
+      "n_files": 25,
+      "n_unique": 22,
+      "maps_to": "GCN_DDK_BAN_LE_XD",
+      "kind": "pure",
+      "contains": {
+        "GCN_DDK_BAN_LE_XD": 25
+      },
+      "note": "Một loại; có 2 nhóm trùng byte trong chính thư mục."
+    },
+    {
+      "folder": "_2. HOP DONG KINH TE",
+      "n_files": 25,
+      "n_unique": 25,
+      "maps_to": "HD_MUA_BAN",
+      "kind": "pure",
+      "contains": {
+        "HD_MUA_BAN": 25
+      },
+      "note": "Một loại (hợp đồng mua bán, công ty là bên bán)."
+    },
+    {
+      "folder": "_3. HOP DONG DAU VAO-Diem",
+      "n_files": 20,
+      "n_unique": 20,
+      "maps_to": null,
+      "kind": "mixed",
+      "contains": {
+        "HD_MUA_BAN": 6,
+        "GCN_DKDN": 4,
+        "GIAY_UY_QUYEN": 3,
+        "GXN_THUONG_NHAN_XD": 2,
+        "HD_VAN_CHUYEN": 2,
+        "OTHER": 1,
+        "CONG_VAN_THONG_BAO": 1,
+        "BB_THANH_LY_HD": 1
+      },
+      "note": "Bộ hồ sơ nhà cung cấp: 8 loại tài liệu; không dùng làm nhãn."
+    },
+    {
+      "folder": "_4. THANH LÝ HỢP ĐỒNG",
+      "n_files": 14,
+      "n_unique": 14,
+      "maps_to": "BB_THANH_LY_HD",
+      "kind": "pure",
+      "contains": {
+        "BB_THANH_LY_HD": 13,
+        "BB_GIAO_NHAN_HANG_HOA": 1
+      },
+      "note": "13/14 tệp là biên bản thanh lý; 1 tệp là bộ 3 văn bản bắt đầu bằng biên bản nghiệm thu, bàn giao hàng hóa."
+    },
+    {
+      "folder": "_5. HOP DONG VAN CHUYEN",
+      "n_files": 24,
+      "n_unique": 24,
+      "maps_to": "HD_VAN_CHUYEN",
+      "kind": "pure",
+      "contains": {
+        "HD_VAN_CHUYEN": 24
+      },
+      "note": "Một loại; 1 tệp kèm giấy đăng ký doanh nghiệp của đối tác."
+    },
+    {
+      "folder": "_Biên bản giao nhận 2026",
+      "n_files": 20,
+      "n_unique": 20,
+      "maps_to": "BB_GIAO_NHAN_HANG_HOA",
+      "kind": "pure",
+      "contains": {
+        "BB_GIAO_NHAN_HANG_HOA": 20
+      },
+      "note": "Một loại; 1 tệp chứa 2 biên bản."
+    },
+    {
+      "folder": "_PHIẾU XUẤT KHO MUA HÀNG 2026",
+      "n_files": 20,
+      "n_unique": 20,
+      "maps_to": "PHIEU_XUAT_KHO",
+      "kind": "pure",
+      "contains": {
+        "PHIEU_XUAT_KHO": 20
+      },
+      "note": "Tài liệu đầu tệp luôn là phiếu xuất kho; 5/20 tệp là bộ 4 chứng từ khác loại."
+    },
+    {
+      "folder": "_Đơn đặt hàng - mua vào 2026",
+      "n_files": 20,
+      "n_unique": 20,
+      "maps_to": "DON_DAT_HANG",
+      "kind": "pure",
+      "contains": {
+        "DON_DAT_HANG": 20
+      },
+      "note": "Một loại."
+    }
+  ],
+  "composite": {
+    "definition": "is_composite=1 khi một tệp chứa từ 2 tài liệu logic trở lên: khác doc_type, hoặc cùng doc_type nhưng khác bản (khác người, khác xe, khác số/ngày).",
+    "segment_format": "<trang_đầu>-<trang_cuối>:<DOC_TYPE>;… (trang đếm từ 1; một trang viết «3:…»; các đoạn liên tiếp, không chồng, phủ hết số trang).",
+    "primary_rule": "doc_type của tệp composite = doc_type của segment ĐẦU TIÊN khác UNREADABLE.",
+    "kinds": {
+      "homogeneous": "mọi segment cùng doc_type → vẫn nằm trong benchmark phân loại một nhãn",
+      "mixed": "có từ 2 doc_type → loại khỏi benchmark phân loại một nhãn; là gold set cho bài toán tách tài liệu và phân loại theo segment"
+    },
+    "attachment_test": "Một đoạn trang X mở segment mới khi và chỉ khi X, nếu đứng riêng thành một tệp, sẽ được gán (a) một doc_type khác OTHER và khác doc_type của tài liệu đứng ngay trước, hoặc (b) cùng doc_type nhưng là một bản khác (khác người, khác xe, khác số/ngày văn bản). Ngược lại X là phần kèm theo của tài liệu đứng trước: phụ lục, danh mục kèm theo, «những điều quy định», mặt sau, bìa, trang trắng, ảnh phương tiện, biên bản nhận/trả bồn của chính hợp đồng mượn bồn đó, bảng báo giá hay bảng xác định khối lượng kèm hợp đồng/biên bản, giấy xác nhận thay đổi nội dung đăng ký của chính doanh nghiệp đó.",
+    "page_unit": "Đơn vị nhỏ nhất của segment là TRANG. Hai tài liệu nằm trên cùng một trang ảnh thì thuộc cùng một segment, gán theo tài liệu chiếm phần trên/phần chính và ghi chú ở cột note.",
+    "bound_dossier_rule": "Tập hồ sơ có bìa chung hoặc là một sổ liên tục (HO_SO_QUAN_LY_PCCC, BIEN_PHAP_UNG_PHO_SU_CO) là MỘT tài liệu, không tách."
+  },
+  "annotation_format": {
+    "columns": [
+      "doc_id",
+      "doc_type",
+      "is_composite",
+      "segments",
+      "confidence",
+      "evidence",
+      "note"
+    ],
+    "confidence_values": [
+      "high",
+      "medium",
+      "low"
+    ],
+    "guideline": "docs/LABELING_GUIDELINE.md"
+  }
+}

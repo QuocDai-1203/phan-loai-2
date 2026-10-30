@@ -1,0 +1,89 @@
+[trang xoay]
+Thiết kế phương tiện
+Ký hiệu thiết kế: MDG
+Năm thiết kế: 2002
+Số GCN: 0023/V77-02CN
+Số thẩm định:
+Năm và nơi hoán cải:
+Thiết bị neo
+Neo mũi, kiểu: Neo hàn; SL(chiếc): 1; Tổng khối lượng neo: 50 kg
+Neo đuôi, kiểu: Neo hàn; SL(chiếc): 1; Tổng khối lượng neo: 50 kg
+Chiều dài/ đường kính xích, cáp: Mũi: 30/28; Đuôi: 30/28
+Kéo tay: /
+Thiết bị lái
+Tấm: số lượng (chiếc): 1; Tổng diện tích (m²): 0,8
+Vô lăng: Mô men lái (tm): 0,32
+Lái cần: Mô men lái (tm): 0,36
+Bánh lái: Kiểu [?]
+Máy lái chính: Kiểu [?]
+Máy lái dự phòng: Kiểu [?]
+Thiết bị chằng buộc
+Dây buộc: số lượng (chiếc): 2
+Tổng chiều dài (m): 60
+Bít đơn: số lượng (chiếc): 4
+Cột buộc dây: Kiểu [?]
+Thiết bị kéo
+Cột kéo: Kiểu [?]
+Móc kéo: Kiểu [?]
+Tời thu dây: kiểu [?]
+Dây kéo loại: [?]
+Đường kính (mm): [?]
+Lực kéo định mức (KN): [?]
+Chiều dài (m): [?]
+Máy chính số 1
+YANMAR
+Mác
+Năm chế tạo
+Số chế tạo: 0001
+Công suất (sức ngựa/kW): 55
+Máy phụ
+1; DONG FONG; 18
+Số lượng, mác, công suất (sức ngựa):
+Thiết bị điện
+Số lượng máy phát (chiếc): 1
+Công suất (KVA): [?]
+Điện áp (V): 220V-240V
+Số bình ắc quy: 2
+Điện áp (V): 12
+Tổng dung lượng (Ah): 180x2
+Hệ thống không khí nén
+Bình khí nén: Số lượng (chiếc): [?]
+Máy nén khí: Số lượng (chiếc): [?]
+BV093
+[trang xoay]
+743
+Thiết bị nâng
+Số chế tạo hoặc số quản lý:
+Tầm với lớn nhất (m)/sức nâng (tấn):
+Tầm với nhỏ nhất (m)/sức nâng (tấn):
+Trang bị chữa cháy
+Số lượng bơm chữa cháy (chiếc): 1
+Tổng lưu lượng (m³): 15
+Tổng khối lượng (kg): [?]
+Tổng thể tích (lít): 1x45
+Loại khí: [?]
+Loại bọt: [?]
+Bình bọt đẩy: Số lượng x dung tích (lít): [?]
+Thiết bị tạo bọt xách tay: Số lượng: [?]
+Bình CO₂: Số bình x khối lượng (kg): 2x5
+Bình bột: Số bình x khối lượng (kg): 4x9
+Bình bột: Số bình x dung tích (lít): [?]
+Bộ dụng cụ chữa cháy thủ công: [x]
+Sơ đồ bố trí thiết bị chữa cháy: [-]
+Trang bị cứu sinh
+Phao tròn: Không dây (chiếc): [?]
+Phao tròn: Có dây (chiếc): 1
+Phao áo (chiếc): 2
+Phao áo trẻ em (chiếc): [?]
+DC nổi/phao bè/Xuồng (chiếc): 0
+Trang bị cứu đắm
+Tổng sức chở (người): [?]
+Phao áo trẻ em (chiếc): [?]
+DC nổi/phao bè/Xuồng (chiếc): [?]
+Trang bị tín hiệu
+Số lượng bơm hút khô (chiếc): [?]
+Tổng lưu lượng (m³): [?]
+Bộ dụng cụ cứu đắm: [?]
+Thiết bị tự động báo mức nước đáy khoang: [?]
+Đèn hiệu, vật hiệu, âm hiệu: [?] (các ô đánh dấu [x]/[-] không đọc chắc chắn)
+743

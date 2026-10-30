@@ -1,0 +1,57 @@
+{
+ "unit_id": "f59a351ba852_0",
+ "annotator": "sonnet",
+ "doc_type": "CCCD",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_dinh_danh": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ho_ten": {
+   "value": "HÀ THANH NHÂN",
+   "normalized": "HÀ THANH NHÂN",
+   "page": 1,
+   "evidence": "Họ và tên / Full name: HÀ THANH NHÂN",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_sinh": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "04/10/2022",
+   "normalized": "2022-10-04",
+   "page": 2,
+   "evidence": "Ngày, tháng, năm / Date, month, year: 04/10/2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "01/06/2035",
+   "normalized": "2035-06-01",
+   "page": 1,
+   "evidence": "Có giá trị đến: 01/06/2035",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

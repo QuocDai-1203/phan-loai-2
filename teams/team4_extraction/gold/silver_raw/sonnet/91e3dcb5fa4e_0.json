@@ -1,0 +1,18 @@
+{
+  "unit_id": "91e3dcb5fa4e_0",
+  "annotator": "sonnet",
+  "doc_type": "CC_TAP_HUAN_VC_HNH",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_gcn": {"value": "14/2022-GCN", "normalized": "14/2022-GCN", "page": 2, "evidence": "Số: 14/2022-GCN", "ink": "printed", "status": "ok", "note": null},
+    "ho_ten": {"value": "Lưu Thái Nguyên", "normalized": "Lưu Thái Nguyên", "page": 2, "evidence": "Họ và tên: Lưu Thái Nguyên", "ink": "printed", "status": "ok", "note": null},
+    "nam_sinh": {"value": null, "normalized": null, "page": 2, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "nghe_nghiep": {"value": "Thuyền trưởng", "normalized": "Thuyền trưởng", "page": 2, "evidence": "Nghề nghiệp: Thuyền trưởng", "ink": "printed", "status": "ok", "note": null},
+    "don_vi_cong_tac": {"value": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa", "page": 2, "evidence": "Đơn vị công tác: Công ty Cổ phần Thương Mại-Dịch Vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": "mot_phan_dau_do_de"},
+    "don_vi_cap": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "ngày 12 tháng 05 năm 2022", "normalized": "2022-05-12", "page": 2, "evidence": "Bình Định, ngày 12 tháng 05 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "12 tháng 05 năm 2022", "normalized": "2022-05-12", "page": 2, "evidence": "Từ ngày 12 tháng 05 năm 2022 đến ngày 12 tháng 05 năm 2024", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "12 tháng 05 năm 2024", "normalized": "2024-05-12", "page": 2, "evidence": "đến ngày 12 tháng 05 năm 2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "trang_1_la_bia_the_trang_2_la_noi_dung_nua_duoi_trang_trong"
+}

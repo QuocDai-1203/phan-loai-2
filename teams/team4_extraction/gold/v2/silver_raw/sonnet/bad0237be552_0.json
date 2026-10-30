@@ -1,0 +1,75 @@
+{
+ "unit_id": "bad0237be552_0",
+ "annotator": "sonnet",
+ "doc_type": "GPLX",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_gplx": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ho_ten": {
+   "value": "NGUYỄN ĐÌNH PHÙNG",
+   "normalized": "NGUYỄN ĐÌNH PHÙNG",
+   "page": 1,
+   "evidence": "Họ tên/ Full name: NGUYỄN ĐÌNH PHÙNG",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_sinh": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hang": {
+   "value": "A1, FC",
+   "normalized": "A1, FC",
+   "page": 1,
+   "evidence": "Hạng/Class: A1, FC",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "02 tháng/month 07 năm/year 2019",
+   "normalized": "2019-07-02",
+   "page": 1,
+   "evidence": "ngày/date 02 tháng/month 07 năm/year 2019",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "noi_cap": {
+   "value": "Bình Định",
+   "normalized": "Bình Định",
+   "page": 1,
+   "evidence": "Bình Định, ngày/date 02 tháng/month 07",
+   "ink": "printed",
+   "status": "ok",
+   "note": "dia_danh_o_dong_ngay_cap"
+  },
+  "ngay_het_han": {
+   "value": "02/07/2024",
+   "normalized": "2024-07-02",
+   "page": 1,
+   "evidence": "Có giá trị đến/Expires: 02/07/2024",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

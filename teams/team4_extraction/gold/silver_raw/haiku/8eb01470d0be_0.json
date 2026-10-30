@@ -1,0 +1,18 @@
+{
+  "unit_id": "8eb01470d0be_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "51/2023/HĐMB-HH", "normalized": "51/2023/HĐMB-HH", "page": 1, "evidence": "Số: 51/2023/HĐMB-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "21 tháng 12 năm 2022", "normalized": "2022-12-21", "page": 1, "evidence": "Hôm nay, ngày 21 tháng 12 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ben_mua": {"value": "CÔNG TY CỔ PHẦN BÌNH AN PHÁT PETRO, Mã số thuế: 0316252571", "normalized": "CÔNG TY CỔ PHẦN BÌNH AN PHÁT PETRO, Mã số thuế: 0316252571", "page": 1, "evidence": "BÊN B: CÔNG TY CỔ PHẦN BÌNH AN PHÁT PETRO", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "xăng dầu các loại", "normalized": "xăng dầu các loại", "page": 1, "evidence": "mặt hàng sau: xăng dầu các loại", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực", "normalized": "Thời hạn thanh toán công nợ (nếu còn tồn đọng) phải dứt điểm trước khi hợp đồng hết hiệu lực", "page": 2, "evidence": "phải dứt điểm trước khi hợp đồng hết hiệu lực", "ink": "printed", "status": "ok", "note": "khong_co_han_muc_so_tien"},
+    "hieu_luc_tu": {"value": "01/01/2023", "normalized": "2023-01-01", "page": 2, "evidence": "có hiệu lực từ ngày 01/01/2023 đến ngày 31/12/2023", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "31/12/2023", "normalized": "2023-12-31", "page": 2, "evidence": "đến ngày 31/12/2023 hoặc hai bên hoàn thành", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "con_chu_viet_tay_goc_tren_trang_1"
+}

@@ -1,0 +1,18 @@
+{
+  "unit_id": "3d1e13a23a78_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2, 3],
+  "fields": {
+    "so_giay": {"value": "26 /GCNBLXD-SCT", "normalized": "26/GCNBLXD-SCT", "page": 1, "evidence": "Số: 26 /GCNBLXD-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "20 tháng 3 năm 2023", "normalized": "2023-03-20", "page": 1, "evidence": "Bình Định, ngày 20 tháng 3 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH BÌNH ĐỊNH", "normalized": "SỞ CÔNG THƯƠNG TỈNH BÌNH ĐỊNH", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "ĐẠI LÝ BÁN LẺ XĂNG DẦU HAI THẢO", "normalized": "ĐẠI LÝ BÁN LẺ XĂNG DẦU HAI THẢO", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: ĐẠI LÝ BÁN LẺ", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "ĐT 639, thôn Chánh Trực, xã Mỹ Thọ, huyện Phù Mỹ, tỉnh Bình Định", "normalized": "ĐT 639, thôn Chánh Trực, xã Mỹ Thọ, huyện Phù Mỹ, tỉnh Bình Định", "page": 1, "evidence": "Địa chỉ: ĐT 639, thôn Chánh Trực, xã Mỹ Thọ", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Doanh nghiệp tư nhân Hai Thảo. Mã số thuế: 4100134910", "normalized": "Doanh nghiệp tư nhân Hai Thảo. Mã số thuế: 4100134910", "page": 1, "evidence": "Thuộc sở hữu của Doanh nghiệp tư nhân Hai Thảo", "ink": "printed", "status": "ok", "note": "ma_so_thue_o_trang_2"},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa. Mã số thuế: 4100668616", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa. Mã số thuế: 4100668616", "page": 2, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 08 tháng 8 năm 2017; Cấp lần thứ hai: ngày 16 tháng 12 năm 2019; Cấp bổ sung, sửa đổi lần thứ nhất: ngày 16 tháng 3 năm 2021; Cấp bổ sung, sửa đổi lần thứ hai: ngày 20 tháng 3 năm 2023", "normalized": "Cấp lần thứ nhất: ngày 08 tháng 8 năm 2017; Cấp lần thứ hai: ngày 16 tháng 12 năm 2019; Cấp bổ sung, sửa đổi lần thứ nhất: ngày 16 tháng 3 năm 2021; Cấp bổ sung, sửa đổi lần thứ hai: ngày 20 tháng 3 năm 2023", "page": 1, "evidence": "Cấp bổ sung, sửa đổi lần thứ hai: ngày 20 tháng 3 năm 2023", "ink": "printed", "status": "ok", "note": "nhieu_dong_cap_lan"},
+    "ngay_het_han": {"value": "15 tháng 12 năm 2024", "normalized": "2024-12-15", "page": 2, "evidence": "đến hết ngày 15 tháng 12 năm 2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

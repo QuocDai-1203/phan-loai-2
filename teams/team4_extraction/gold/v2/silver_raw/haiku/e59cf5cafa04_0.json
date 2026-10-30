@@ -1,0 +1,18 @@
+{
+  "unit_id": "e59cf5cafa04_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_BAO_HIEM",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_gcn_bao_hiem": {"value": "AD22/0527242", "normalized": "AD22/0527242", "page": 1, "evidence": "Số: AD22/ 0527242", "ink": "printed", "status": "ok", "note": null},
+    "cong_ty_bao_hiem": {"value": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "normalized": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "page": 1, "evidence": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "ink": "printed", "status": "ok", "note": null},
+    "loai_bao_hiem": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "nguoi_duoc_bao_hiem": {"value": "Công Ty cổ phần TM Dv Hiệp Hòa", "normalized": "Công Ty cổ phần TM Dv Hiệp Hòa", "page": 2, "evidence": "TÊN CHỦ XE: Công Ty cổ phần TM Dv Hiệp Hòa", "ink": "handwritten", "status": "ok", "note": null},
+    "doi_tuong_bao_hiem": {"value": "77C-17310", "normalized": "77C-17310", "page": 2, "evidence": "SỐ BIỂN KIỂM SOÁT: 77C-17310", "ink": "handwritten", "status": "ok", "note": "dau_gach_khong_ro"},
+    "so_tien_bao_hiem": {"value": "Mức TN bảo hiểm: 20 triệu đồng/người/vụ", "normalized": "Mức TN bảo hiểm: 20 triệu đồng/người/vụ", "page": 2, "evidence": "Mức TN bảo hiểm: 20 triệu đồng/người/vụ", "ink": "handwritten", "status": "ok", "note": null},
+    "phi_bao_hiem": {"value": "5.340.000đ", "normalized": "5340000", "page": 2, "evidence": "TC: 5.340.000 đ", "ink": "handwritten", "status": "ok", "note": "ghi_TC_tong_cong"},
+    "hieu_luc_tu": {"value": "29 tháng 01 năm 2022", "normalized": "2022-01-29", "page": 2, "evidence": "Từ 07 giờ 00, ngày 29 tháng 01 năm 2022", "ink": "handwritten", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "29 tháng 01 năm 2023", "normalized": "2023-01-29", "page": 2, "evidence": "Đến 07 giờ 00, ngày 29 tháng 01 năm 2023", "ink": "handwritten", "status": "ok", "note": null}
+  },
+  "unit_note": "chu_viet_tay_trang_2"
+}

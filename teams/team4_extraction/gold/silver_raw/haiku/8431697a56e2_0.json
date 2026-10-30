@@ -1,0 +1,18 @@
+{
+  "unit_id": "8431697a56e2_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2, 3, 4],
+  "fields": {
+    "so_hop_dong": {"value": "04/HĐTNPP-KD-2023", "normalized": "04/HĐTNPP-KD-2023", "page": 1, "evidence": "Số : 04 /HĐTNPP-KD-2023", "ink": "handwritten", "status": "ok", "note": "so_04_viet_tay_xanh"},
+    "ngay_ky": {"value": "31 tháng 12 năm 2022", "normalized": "2022-12-31", "page": 1, "evidence": "Hôm nay, ngày 31 tháng 12 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH; Mã Số Thuế: 0400124881", "normalized": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH; Mã Số Thuế: 0400124881", "page": 1, "evidence": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH", "ink": "printed", "status": "ok", "note": null},
+    "ben_mua": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA; Mã Số Thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA; Mã Số Thuế: 4100668616", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "Xăng các loại, Dầu Diesel 0,05S-II", "normalized": "Xăng các loại, Dầu Diesel 0,05S-II", "page": 1, "evidence": "Xăng các loại, Dầu Diesel 0,05S-II", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": "Bên B phải thanh toán tiền hàng cho bên A trong vòng 24 giờ kể từ khi nhận hàng và hóa đơn GTGT", "normalized": "Bên B phải thanh toán tiền hàng cho bên A trong vòng 24 giờ kể từ khi nhận hàng và hóa đơn GTGT", "page": 3, "evidence": "thanh toán tiền hàng cho bên A trong vòng 24 giờ", "ink": "printed", "status": "ok", "note": "khong_co_han_muc_chi_thoi_han"},
+    "hieu_luc_tu": {"value": "01/01/2023", "normalized": "2023-01-01", "page": 4, "evidence": "hiệu lực kể từ ngày 01/01/2023 đến hết", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "31/12/2024", "normalized": "2024-12-31", "page": 4, "evidence": "đến hết ngày 31/12/2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "trang_4_b_chi_con_chan_trang_nen_nhieu"
+}

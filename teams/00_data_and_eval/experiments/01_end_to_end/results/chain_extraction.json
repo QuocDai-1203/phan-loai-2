@@ -1,0 +1,86 @@
+{
+ "units": {
+  "n": 82,
+  "by_type": {
+   "CC_TAP_HUAN_VC_HNH": 19,
+   "GCN_DDK_BAN_LE_XD": 21,
+   "HD_MUA_BAN": 26,
+   "PHIEU_XUAT_KHO": 16
+  },
+  "type_right": 82,
+  "abstain": 0,
+  "exact_range": 80,
+  "n_with_expiry_ref": 66,
+  "type_right_by_group": {
+   "mixed": {
+    "sum": 6,
+    "count": 6
+   },
+   "negative": {
+    "sum": 61,
+    "count": 61
+   },
+   "single_page": {
+    "sum": 15,
+    "count": 15
+   }
+  },
+  "type_right_by_type": {
+   "CC_TAP_HUAN_VC_HNH": {
+    "sum": 19,
+    "count": 19
+   },
+   "GCN_DDK_BAN_LE_XD": {
+    "sum": 21,
+    "count": 21
+   },
+   "HD_MUA_BAN": {
+    "sum": 26,
+    "count": 26
+   },
+   "PHIEU_XUAT_KHO": {
+    "sum": 16,
+    "count": 16
+   }
+  }
+ },
+ "isolated": {
+  "n": 66,
+  "correct": 32,
+  "wrong": 0,
+  "empty": 34,
+  "auto_accepted": 32,
+  "auto_share": 0.48484848484848486,
+  "wrong_among_auto": 0.0,
+  "wrong_upper95": 0.08936819898626475,
+  "suggestions_right": 22,
+  "suggestions_given": 25
+ },
+ "chain": {
+  "n": 66,
+  "correct": 32,
+  "wrong": 0,
+  "empty": 34,
+  "auto_accepted": 32,
+  "auto_share": 0.48484848484848486,
+  "wrong_among_auto": 0.0,
+  "wrong_upper95": 0.08936819898626475,
+  "suggestions_right": 22,
+  "suggestions_given": 25
+ },
+ "chain_given_type_right": {
+  "n": 66,
+  "correct": 32,
+  "wrong": 0,
+  "empty": 34
+ },
+ "chain_not_extracted": {
+  "n_fields": 0,
+  "by_reason": {}
+ },
+ "latency_ms_cached_or_live": {
+  "iso_median": 4552.507249987684,
+  "chain_median": 27.193749963771552,
+  "note": "độ trễ khi lấy từ cache đĩa là nhỏ; số độ trễ thật xem cost_sample.json (--extract)"
+ }
+}

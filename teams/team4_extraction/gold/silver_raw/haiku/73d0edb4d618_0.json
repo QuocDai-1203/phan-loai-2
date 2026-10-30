@@ -1,0 +1,18 @@
+{
+  "unit_id": "73d0edb4d618_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "83/GCNĐĐK-SCT", "normalized": "83/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 83/GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "10 tháng 4 năm 2019", "normalized": "2019-04-10", "page": 1, "evidence": "Khánh Hòa, ngày 10 tháng 4 năm 2019", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH KHÁNH HÒA", "normalized": "SỞ CÔNG THƯƠNG TỈNH KHÁNH HÒA", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH KHÁNH HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Tàu dầu Hòa Tín 01 KH 0653", "normalized": "Tàu dầu Hòa Tín 01 KH 0653", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: Tàu dầu Hòa Tín", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Cảng cá Đại Lãnh, xã Đại Lãnh, huyện Vạn Ninh, tỉnh Khánh Hòa", "normalized": "Cảng cá Đại Lãnh, xã Đại Lãnh, huyện Vạn Ninh, tỉnh Khánh Hòa", "page": 1, "evidence": "Địa chỉ: Cảng cá Đại Lãnh, xã Đại Lãnh, huyện Vạn Ninh", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Xăng dầu Hòa Tín; Mã số thuế: 4201578020", "normalized": "Công ty TNHH Xăng dầu Hòa Tín; Mã số thuế: 4201578020", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH Xăng dầu Hòa Tín", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ Phần Thương mại - Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ Phần Thương mại - Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ Phần Thương mại - Dịch vụ", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 10 tháng 4 năm 2019", "normalized": "Cấp lần thứ nhất: ngày 10 tháng 4 năm 2019", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 10 tháng 4 năm 2019", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "09 tháng 4 năm 2024", "normalized": "2024-04-09", "page": 1, "evidence": "có giá trị đến hết ngày 09 tháng 4 năm 2024", "ink": "under_stamp", "status": "ok", "note": "mot_phan_duoi_con_dau"}
+  },
+  "unit_note": "con_dau_chung_thuc_chong_len_dong_dieu_3"
+}

@@ -1,0 +1,242 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/GCN_BAO_HIEM",
+  "title": "GCN_BAO_HIEM - Giấy chứng nhận bảo hiểm (xe cơ giới, cháy nổ, tàu thuyền)",
+  "description": "Giấy chứng nhận bảo hiểm. Trường hạn: ngay_het_han (thời hạn bảo hiểm đến).",
+  "type": "object",
+  "properties": {
+    "so_gcn_bao_hiem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số giấy chứng nhận bảo hiểm"
+    },
+    "cong_ty_bao_hiem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Doanh nghiệp bảo hiểm"
+    },
+    "loai_bao_hiem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "enum": [
+        "tnds_bat_buoc",
+        "tu_nguyen_vat_chat_xe",
+        "chay_no_bat_buoc",
+        "tau_thuyen",
+        "khac",
+        null
+      ],
+      "description": "tnds_bat_buoc | tu_nguyen_vat_chat_xe | chay_no_bat_buoc | tau_thuyen | khac"
+    },
+    "nguoi_duoc_bao_hiem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Chủ xe/người được bảo hiểm"
+    },
+    "doi_tuong_bao_hiem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Biển số xe, hoặc tên cơ sở/cửa hàng/tàu được bảo hiểm — dùng cho định tuyến"
+    },
+    "so_tien_bao_hiem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số tiền/mức trách nhiệm bảo hiểm"
+    },
+    "phi_bao_hiem": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tổng phí bảo hiểm"
+    },
+    "hieu_luc_tu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Thời hạn bảo hiểm từ"
+    },
+    "ngay_het_han": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Thời hạn bảo hiểm đến"
+    }
+  },
+  "required": [
+    "so_gcn_bao_hiem",
+    "cong_ty_bao_hiem",
+    "loai_bao_hiem",
+    "nguoi_duoc_bao_hiem",
+    "doi_tuong_bao_hiem",
+    "so_tien_bao_hiem",
+    "phi_bao_hiem",
+    "hieu_luc_tu",
+    "ngay_het_han"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "GCN_BAO_HIEM",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_gcn_bao_hiem",
+      "desc": "Số giấy chứng nhận bảo hiểm",
+      "annotator_hint": "Số giấy chứng nhận bảo hiểm.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no"
+    },
+    {
+      "name": "cong_ty_bao_hiem",
+      "desc": "Doanh nghiệp bảo hiểm",
+      "annotator_hint": "Doanh nghiệp bảo hiểm.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "loai_bao_hiem",
+      "desc": "tnds_bat_buoc | tu_nguyen_vat_chat_xe | chay_no_bat_buoc | tau_thuyen | khac",
+      "annotator_hint": "Trường phân loại: silver không điền (suy từ tiêu đề).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": false,
+      "silver_policy": "skip",
+      "enum": [
+        "tnds_bat_buoc",
+        "tu_nguyen_vat_chat_xe",
+        "chay_no_bat_buoc",
+        "tau_thuyen",
+        "khac"
+      ]
+    },
+    {
+      "name": "nguoi_duoc_bao_hiem",
+      "desc": "Chủ xe/người được bảo hiểm",
+      "annotator_hint": "Chủ xe/người được bảo hiểm, chép như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": true,
+      "pii_category": "personal_name",
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "doi_tuong_bao_hiem",
+      "desc": "Biển số xe, hoặc tên cơ sở/cửa hàng/tàu được bảo hiểm — dùng cho định tuyến",
+      "annotator_hint": "Biển số xe hoặc tên cơ sở/cửa hàng/tàu được bảo hiểm, chép như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "so_tien_bao_hiem",
+      "desc": "Số tiền/mức trách nhiệm bảo hiểm",
+      "annotator_hint": "Số tiền/mức trách nhiệm bảo hiểm, chép cụm như in (có thể nhiều mức).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "phi_bao_hiem",
+      "desc": "Tổng phí bảo hiểm",
+      "annotator_hint": "Tổng phí bảo hiểm (một số tiền).",
+      "type": "number",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "hieu_luc_tu",
+      "desc": "Thời hạn bảo hiểm từ",
+      "annotator_hint": "Thời hạn bảo hiểm từ (có thể kèm giờ: chỉ ngày).",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_het_han",
+      "desc": "Thời hạn bảo hiểm đến",
+      "annotator_hint": "Thời hạn bảo hiểm đến (có thể kèm giờ: chỉ ngày). Chép đúng ngày in trên giấy. Nếu giấy chỉ ghi khoảng thời gian không kèm ngày: value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Không tự cộng ngày từ ngày cấp. Không ghi hạn: not_present.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    }
+  ],
+  "x-expiry_fields": [
+    "ngay_het_han"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+ "unit_id": "920c2d44f32f_0",
+ "annotator": "sonnet",
+ "doc_type": "GP_VC_HANG_NGUY_HIEM",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_giay_phep": {
+   "value": "158 /PCCC",
+   "normalized": "158/PCCC",
+   "page": 1,
+   "evidence": "Số: 158 /PCCC",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "phan_so_viet_tay"
+  },
+  "ngay_cap": {
+   "value": "29 tháng 07 năm 2022",
+   "normalized": "2022-07-29",
+   "page": 1,
+   "evidence": "Bình Định, ngày 29. tháng 07 năm 2022",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "ngay_viet_tay"
+  },
+  "co_quan_cap": {
+   "value": "PHÒNG CẢNH SÁT PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU NẠN, CỨU HỘ",
+   "normalized": "PHÒNG CẢNH SÁT PHÒNG CHÁY, CHỮA CHÁY VÀ CỨU NẠN, CỨU HỘ",
+   "page": 1,
+   "evidence": "CÔNG AN TỈNH BÌNH ĐỊNH PHÒNG CẢNH SÁT PCCC&CNCH",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "don_vi_duoc_cap": {
+   "value": "Công ty Cổ phần Thương mại Dịch vụ Hiệp Hòa",
+   "normalized": "Công ty Cổ phần Thương mại Dịch vụ Hiệp Hòa",
+   "page": 1,
+   "evidence": "Tên cơ quan, tổ chức, cá nhân: Công ty Cổ phần Thương mại Dịch vụ Hiệp Hòa",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "bien_so_phuong_tien": {
+   "value": "77C-101.79; 77R-019.42",
+   "normalized": "77C-101.79; 77R-019.42",
+   "page": 2,
+   "evidence": "BKS: 77C-101.79 77R-019.42",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ten_hang": {
+   "value": "Xăng, UN 1203; Dầu diesel, UN 1202; Dầu hỏa, UN 1223",
+   "normalized": "Xăng, UN 1203; Dầu diesel, UN 1202; Dầu hỏa, UN 1223",
+   "page": 2,
+   "evidence": "Xăng 1203 Dầu diesel 1202 Dầu hỏa 1223",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "khoi_luong": {
+   "value": "42.000 L",
+   "normalized": "42.000 L",
+   "page": 2,
+   "evidence": "Khối lượng vận chuyển 42.000 L",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "26/07/2023",
+   "normalized": "2023-07-26",
+   "page": 1,
+   "evidence": "Thời hạn của giấy phép: 26/07/2023./.",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

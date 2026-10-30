@@ -1,0 +1,227 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/HD_MUON_BON",
+  "title": "HD_MUON_BON - Hợp đồng mượn bồn chứa dầu (kèm biên bản nhận bồn, trả bồn)",
+  "description": "Hợp đồng mượn bồn chứa dầu (kèm biên bản nhận/trả bồn). Trường hạn: hieu_luc_den (nếu có ghi).",
+  "type": "object",
+  "properties": {
+    "so_hop_dong": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số/ký hiệu hợp đồng"
+    },
+    "ngay_ky": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày ký"
+    },
+    "ben_cho_muon": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên, mã số thuế bên cho mượn"
+    },
+    "ben_muon": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên, mã số thuế bên mượn (khách hàng)"
+    },
+    "so_luong_bon": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số lượng bồn"
+    },
+    "dung_tich_bon": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Dung tích mỗi bồn (lít)"
+    },
+    "ngay_nhan_bon": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày trên biên bản nhận bồn, nếu có"
+    },
+    "ngay_tra_bon": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày trên biên bản trả bồn, nếu có (bồn đã thu hồi)"
+    },
+    "hieu_luc_den": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày hết hiệu lực hợp đồng, nếu có ghi"
+    }
+  },
+  "required": [
+    "so_hop_dong",
+    "ngay_ky",
+    "ben_cho_muon",
+    "ben_muon",
+    "so_luong_bon",
+    "dung_tich_bon",
+    "ngay_nhan_bon",
+    "ngay_tra_bon",
+    "hieu_luc_den"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "HD_MUON_BON",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_hop_dong",
+      "desc": "Số/ký hiệu hợp đồng",
+      "annotator_hint": "Số/ký hiệu hợp đồng.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no"
+    },
+    {
+      "name": "ngay_ky",
+      "desc": "Ngày ký",
+      "annotator_hint": "Ngày ký hợp đồng.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ben_cho_muon",
+      "desc": "Tên, mã số thuế bên cho mượn",
+      "annotator_hint": "Bên cho mượn bồn, kèm MST nếu có.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ben_muon",
+      "desc": "Tên, mã số thuế bên mượn (khách hàng)",
+      "annotator_hint": "Bên mượn bồn (khách hàng), kèm MST nếu có.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "so_luong_bon",
+      "desc": "Số lượng bồn",
+      "annotator_hint": "Số lượng bồn (một số nguyên).",
+      "type": "number",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "dung_tich_bon",
+      "desc": "Dung tích mỗi bồn (lít)",
+      "annotator_hint": "Dung tích mỗi bồn (lít); nhiều bồn khác dung tích thì chép cụm như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_nhan_bon",
+      "desc": "Ngày trên biên bản nhận bồn, nếu có",
+      "annotator_hint": "Ngày trên biên bản NHẬN bồn nếu tài liệu có biên bản này.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_tra_bon",
+      "desc": "Ngày trên biên bản trả bồn, nếu có (bồn đã thu hồi)",
+      "annotator_hint": "Ngày trên biên bản TRẢ/thu hồi bồn nếu có.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "hieu_luc_den",
+      "desc": "Ngày hết hiệu lực hợp đồng, nếu có ghi",
+      "annotator_hint": "Ngày hết hiệu lực nếu điều khoản nêu NGÀY cụ thể. Nếu chỉ nêu khoảng thời gian ('có hiệu lực 12 tháng', 'theo thời hạn thuê'), value = cụm như in, normalized = null, status ok, note = 'chi_ghi_thoi_han'. Không nêu hạn: not_present. Không tự cộng ngày.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    }
+  ],
+  "x-expiry_fields": [
+    "hieu_luc_den"
+  ]
+}

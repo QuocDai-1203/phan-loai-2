@@ -1,0 +1,233 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/GCN_DDK_BAN_LE_XD",
+  "title": "GCN_DDK_BAN_LE_XD - Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu",
+  "description": "Giấy chứng nhận cửa hàng đủ điều kiện bán lẻ xăng dầu. Trường hạn: ngay_het_han.",
+  "type": "object",
+  "properties": {
+    "so_giay": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số giấy chứng nhận"
+    },
+    "ngay_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày cấp"
+    },
+    "co_quan_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Sở Công Thương tỉnh/thành phố"
+    },
+    "ten_cua_hang": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên cửa hàng xăng dầu"
+    },
+    "dia_chi_cua_hang": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Địa chỉ cửa hàng"
+    },
+    "thuong_nhan_chu_so_huu": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên, mã số thuế thương nhân chủ sở hữu cửa hàng"
+    },
+    "thuong_nhan_cung_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Thương nhân cung cấp xăng dầu ghi trên giấy"
+    },
+    "lan_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Cấp lần thứ mấy / cấp bổ sung, sửa đổi"
+    },
+    "ngay_het_han": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "«Có giá trị đến hết ngày…» (thường 5 năm)"
+    }
+  },
+  "required": [
+    "so_giay",
+    "ngay_cap",
+    "co_quan_cap",
+    "ten_cua_hang",
+    "dia_chi_cua_hang",
+    "thuong_nhan_chu_so_huu",
+    "thuong_nhan_cung_cap",
+    "lan_cap",
+    "ngay_het_han"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "GCN_DDK_BAN_LE_XD",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_giay",
+      "desc": "Số giấy chứng nhận",
+      "annotator_hint": "Số in sau 'Số:' ở đầu giấy chứng nhận, ví dụ dạng nn/GCN-SCT hoặc tương tự. Chép đúng cả dấu '/' và '-'.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    },
+    {
+      "name": "ngay_cap",
+      "desc": "Ngày cấp",
+      "annotator_hint": "Ngày ký cấp giấy (dòng 'ngày … tháng … năm …' ở cuối hoặc đầu giấy), KHÔNG phải ngày hết hạn.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    },
+    {
+      "name": "co_quan_cap",
+      "desc": "Sở Công Thương tỉnh/thành phố",
+      "annotator_hint": "Tên Sở Công Thương cấp giấy.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    },
+    {
+      "name": "ten_cua_hang",
+      "desc": "Tên cửa hàng xăng dầu",
+      "annotator_hint": "Tên cửa hàng bán lẻ xăng dầu được chứng nhận.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    },
+    {
+      "name": "dia_chi_cua_hang",
+      "desc": "Địa chỉ cửa hàng",
+      "annotator_hint": "Địa chỉ cửa hàng (không phải địa chỉ trụ sở thương nhân nếu hai địa chỉ khác nhau).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    },
+    {
+      "name": "thuong_nhan_chu_so_huu",
+      "desc": "Tên, mã số thuế thương nhân chủ sở hữu cửa hàng",
+      "annotator_hint": "Tên thương nhân chủ sở hữu cửa hàng, kèm mã số thuế nếu giấy in. Chép nguyên cụm như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    },
+    {
+      "name": "thuong_nhan_cung_cap",
+      "desc": "Thương nhân cung cấp xăng dầu ghi trên giấy",
+      "annotator_hint": "Thương nhân cung cấp xăng dầu cho cửa hàng, nếu giấy ghi.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    },
+    {
+      "name": "lan_cap",
+      "desc": "Cấp lần thứ mấy / cấp bổ sung, sửa đổi",
+      "annotator_hint": "'cấp lần thứ …' hoặc 'cấp bổ sung/sửa đổi'; chép cụm như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    },
+    {
+      "name": "ngay_het_han",
+      "desc": "«Có giá trị đến hết ngày…» (thường 5 năm)",
+      "annotator_hint": "Dòng 'có giá trị đến hết ngày … tháng … năm …'. Nếu giấy chỉ ghi thời hạn (vd. '05 năm kể từ ngày cấp') mà KHÔNG có ngày cụ thể, value = cụm thời hạn như in, normalized = null, status ok và note = 'chi_ghi_thoi_han'. Không tự cộng ngày.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "printed",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "typical_ink_verified_on": "1 đơn vị DEV (ảnh trang 1-2)"
+    }
+  ]
+}

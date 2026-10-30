@@ -1,0 +1,17 @@
+{
+  "unit_id": "deab4d6d4713_0",
+  "annotator": "haiku",
+  "doc_type": "GXN_THUONG_NHAN_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "83 -TNĐM/QĐ-BCT", "normalized": "83-TNĐM/QĐ-BCT", "page": 1, "evidence": "Số: 83 -TNĐM/QĐ-BCT", "ink": "handwritten", "status": "ok", "note": null},
+    "ngay_cap": {"value": "29 tháng 5 năm 2024", "normalized": "2024-05-29", "page": 1, "evidence": "Hà Nội, ngày 29 tháng 5 năm 2024", "ink": "handwritten", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "BỘ CÔNG THƯƠNG", "normalized": "BỘ CÔNG THƯƠNG", "page": 1, "evidence": "BỘ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_thuong_nhan": {"value": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH", "normalized": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH", "page": 1, "evidence": "Cho phép CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ", "ink": "printed", "status": "ok", "note": null},
+    "ma_so_thue": {"value": "0400124881", "normalized": "0400124881", "page": 2, "evidence": "Mã số thuế: 0400124881", "ink": "printed", "status": "ok", "note": null},
+    "loai_thuong_nhan": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ ba", "normalized": "Cấp lần thứ ba", "page": 1, "evidence": "Cấp lần thứ ba: ngày 29 tháng 5 năm 2024", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "29 tháng 5 năm 2029", "normalized": "2029-05-29", "page": 2, "evidence": "có giá trị đến hết ngày 29 tháng 5 năm 2029", "ink": "handwritten", "status": "ok", "note": null}
+  },
+  "unit_note": "ngay_thang_viet_tay"
+}

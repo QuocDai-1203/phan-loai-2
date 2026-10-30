@@ -1,0 +1,18 @@
+{
+  "unit_id": "640b0f506936_0",
+  "annotator": "sonnet",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "08/2024/HĐMB-HH", "normalized": "08/2024/HĐMB-HH", "page": 1, "evidence": "Số: 08/2024/HĐMB-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "ngày 21 tháng 11 năm 2023", "normalized": "2023-11-21", "page": 1, "evidence": "Hôm nay, ngày 21 tháng 11 năm 2023, tại văn phòng", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA Mã số thuế : 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA Mã số thuế: 4100668616", "page": 1, "evidence": "BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": "ben_A_xuat_ban_cho_ben_B"},
+    "ben_mua": {"value": "CÔNG TY TNHH SẢN XUẤT TM LÂM NGHIỆP HƯNG THỊNH Mã số thuế : 4101460106", "normalized": "CÔNG TY TNHH SẢN XUẤT TM LÂM NGHIỆP HƯNG THỊNH Mã số thuế: 4101460106", "page": 1, "evidence": "BÊN B: CÔNG TY TNHH SẢN XUẤT TM LÂM NGHIỆP HƯNG THỊNH", "ink": "printed", "status": "ok", "note": "ten_o_cuoi_nua_tren_mst_o_nua_duoi"},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "xăng dầu nhớt các loại", "normalized": "xăng dầu nhớt các loại", "page": 1, "evidence": "Bên A đồng ý xuất bán cho bên B mặt hàng sau: xăng dầu nhớt các loại", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": "khong_neu_han_muc_hay_so_ngay_cu_the"},
+    "hieu_luc_tu": {"value": "01/01/2024", "normalized": "2024-01-01", "page": 2, "evidence": "có hiệu lực từ ngày 01/01/2024 đến ngày 31/12/2024", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "31/12/2024", "normalized": "2024-12-31", "page": 2, "evidence": "có hiệu lực từ ngày 01/01/2024 đến ngày 31/12/2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

@@ -1,0 +1,96 @@
+{
+ "unit_id": "aea7913cbe71_0",
+ "annotator": "sonnet",
+ "doc_type": "HD_VAN_CHUYEN",
+ "pages_seen": [
+  1,
+  2,
+  3,
+  5,
+  6
+ ],
+ "fields": {
+  "so_hop_dong": {
+   "value": "124/HĐVC/2020",
+   "normalized": "124/HĐVC/2020",
+   "page": 1,
+   "evidence": "Số : 124 /HĐVC/2020",
+   "ink": "printed",
+   "status": "ok",
+   "note": "so_thu_tu_viet_tay"
+  },
+  "ngay_ky": {
+   "value": "ngày 29 tháng 06 năm 2020",
+   "normalized": "2020-06-29",
+   "page": 1,
+   "evidence": "Hôm nay, ngày 29 tháng 06 năm 2020",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_chu_hang": {
+   "value": "CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ TỔNG HỢP HÒA KHÁNH Mã số thuế : 0400124881",
+   "normalized": null,
+   "page": 1,
+   "evidence": "BÊN CHỦ HÀNG (BÊN A): CÔNG TY TNHH THƯƠNG MẠI VÀ DỊCH VỤ",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_van_chuyen": {
+   "value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA Mã Số Thuế : 4100668616",
+   "normalized": null,
+   "page": 1,
+   "evidence": "BÊN VẬN TẢI (BÊN B): CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "vai_tro_cong_ty": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "tuyen_van_chuyen": {
+   "value": "Bên B đưa phương tiện đến nhận hàng tại các kho xăng dầu ( Khu vực Miền Trung) và giao hàng tại các địa điểm theo yêu cầu của bên A",
+   "normalized": null,
+   "page": 1,
+   "evidence": "nhận hàng tại các kho xăng dầu ( Khu vực Miền Trung) và giao hàng",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "gia_cuoc": {
+   "value": "Căn cứ theo giá thị trường từng thời điểm vận chuyển hàng hóa được hai bên thống nhất",
+   "normalized": null,
+   "page": 3,
+   "evidence": "Căn cứ theo giá thị trường từng thời điểm vận chuyển hàng hóa",
+   "ink": "printed",
+   "status": "ok",
+   "note": "khong_neu_don_gia_cu_the"
+  },
+  "hieu_luc_tu": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "hieu_luc_den": {
+   "value": "31/12/2021",
+   "normalized": "2021-12-31",
+   "page": 5,
+   "evidence": "có hiệu lực kể từ ngày ký đến hết ngày 31/12/2021",
+   "ink": "printed",
+   "status": "ok",
+   "note": "tu_dong_tai_tuc"
+  }
+ },
+ "unit_note": "nhieu_anh_trang"
+}

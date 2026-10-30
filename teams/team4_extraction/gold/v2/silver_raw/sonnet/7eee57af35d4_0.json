@@ -1,0 +1,93 @@
+{
+ "unit_id": "7eee57af35d4_0",
+ "annotator": "sonnet",
+ "doc_type": "HD_VAN_CHUYEN",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_hop_dong": {
+   "value": "17/2022/HĐVC-HH",
+   "normalized": "17/2022/HĐVC-HH",
+   "page": 1,
+   "evidence": "Số: 17/2022/HĐVC-HH",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_ky": {
+   "value": "ngày 20 tháng 10 năm 2022",
+   "normalized": "2022-10-20",
+   "page": 1,
+   "evidence": "Hôm nay, ngày 20 tháng 10 năm 2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_chu_hang": {
+   "value": "CHI NHÁNH CÔNG TY CP XĂNG DẦU DẦU KHÍ PV OIL MIỀN TRUNG TẠI QUẢNG NGÃI (BÊN THUÊ VẬN CHUYỂN) Mã số thuế : 4300603574-020",
+   "normalized": null,
+   "page": 1,
+   "evidence": "BÊN A: CHI NHÁNH CÔNG TY CP XĂNG DẦU DẦU KHÍ PV OIL",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_van_chuyen": {
+   "value": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN) Mã số thuế : 4100668616",
+   "normalized": null,
+   "page": 1,
+   "evidence": "BÊN B: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "vai_tro_cong_ty": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "tuyen_van_chuyen": {
+   "value": "Kho Nhà Máy Lọc Dầu Dung Quất - Tỉnh Quảng Ngãi",
+   "normalized": null,
+   "page": 1,
+   "evidence": "Kho Nhà Máy Lọc Dầu Dung Quất Tỉnh Quảng Ngãi",
+   "ink": "printed",
+   "status": "ok",
+   "note": "nhan_tai_kho_giao_tai_tinh"
+  },
+  "gia_cuoc": {
+   "value": "150 đồng/lít",
+   "normalized": "150 đồng/lít",
+   "page": 1,
+   "evidence": "Đơn giá đã bao gồm VAT 150 đồng/lít",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hieu_luc_tu": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "hieu_luc_den": {
+   "value": "31/12/2022",
+   "normalized": "2022-12-31",
+   "page": 2,
+   "evidence": "có hiệu lực từ ngày ký đến ngày 31/12/2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": null
+}

@@ -1,0 +1,17 @@
+{
+  "unit_id": "7bab6a204ff9_0",
+  "annotator": "haiku",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_vao_so": {"value": "96297", "normalized": "96297", "page": 1, "evidence": "Vào sổ số: 96297", "ink": "printed", "status": "ok", "note": null},
+    "ho_ten": {"value": "Bùi Đảo Trọng", "normalized": "Bùi Đảo Trọng", "page": 1, "evidence": "Cấp cho: Bùi Đảo Trọng", "ink": "handwritten", "status": "ok", "note": null},
+    "nam_sinh": {"value": null, "normalized": null, "page": 1, "evidence": null, "ink": "handwritten", "status": "ok", "note": null},
+    "noi_dung_khoa_hoc": {"value": "Bảo vệ môi trường trong kinh doanh xăng dầu theo nghị định 83/2014/NĐ-CP", "normalized": "Bảo vệ môi trường trong kinh doanh xăng dầu theo nghị định 83/2014/NĐ-CP", "page": 1, "evidence": "Bảo vệ môi trường trong kinh doanh xăng dầu", "ink": "handwritten", "status": "ok", "note": null},
+    "thoi_gian_hoc": {"value": "Từ ngày 8/8/2023 đến ngày 13/8/2023", "normalized": "Từ ngày 8/8/2023 đến ngày 13/8/2023", "page": 1, "evidence": "Từ ngày 8/8/2023 Đến ngày: 13/8/2023", "ink": "handwritten", "status": "ok", "note": null},
+    "co_so_dao_tao": {"value": "TRƯỜNG CAO ĐẲNG THƯƠNG MẠI", "normalized": "TRƯỜNG CAO ĐẲNG THƯƠNG MẠI", "page": 1, "evidence": "TRƯỜNG CAO ĐẲNG THƯƠNG MẠI", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "18/8/2023", "normalized": "2023-08-18", "page": 1, "evidence": "Ngày: 18/8/2023", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null}
+  },
+  "unit_note": "trang_2_la_bia_khong_co_truong"
+}

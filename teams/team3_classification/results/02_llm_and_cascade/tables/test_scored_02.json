@@ -1,0 +1,12 @@
+{
+  "eb3348713a": {
+    "time": "2026-10-11T23:03:55",
+    "run_id": "20261011T154717Z-1ddd5a",
+    "sources": [
+      "ocr_v2_p12",
+      "haiku_p12",
+      "legacy_p1"
+    ],
+    "kev_model": "jaredpalmer/kev-0.8b"
+  }
+}

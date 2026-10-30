@@ -1,0 +1,18 @@
+{
+  "unit_id": "507b47ad121b_0",
+  "annotator": "haiku",
+  "doc_type": "HD_VAN_CHUYEN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "03/2018/HĐVC", "normalized": "03/2018/HĐVC", "page": 1, "evidence": "Số: 03/2018/HĐVC", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "ngày 01 tháng 01 năm 2018", "normalized": "2018-01-01", "page": 1, "evidence": "Hôm nay, ngày 01 tháng 01 năm 2018", "ink": "printed", "status": "ok", "note": null},
+    "ben_chu_hang": {"value": "CTY CỔ PHẦN TM DV HIỆP HÒA; Mã Số Thuế: 4100668616", "normalized": "CTY CỔ PHẦN TM DV HIỆP HÒA; Mã Số Thuế: 4100668616", "page": 1, "evidence": "BÊN A : CTY CỔ PHẦN TM DV HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ben_van_chuyen": {"value": "DOANH NGHIỆP TƯ NHÂN VIỆT LINH; Mã Số Thuế: 4100656120", "normalized": "DOANH NGHIỆP TƯ NHÂN VIỆT LINH; Mã Số Thuế: 4100656120", "page": 1, "evidence": "BÊN B : DOANH NGHIỆP TƯ NHÂN VIỆT LINH", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "tuyen_van_chuyen": {"value": "Bên B chịu trách nhiệm nhận hàng tại kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định và vận chuyển đến giao tại các địa điểm theo yêu cầu của bên A.", "normalized": "Bên B chịu trách nhiệm nhận hàng tại kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định và vận chuyển đến giao tại các địa điểm theo yêu cầu của bên A.", "page": 1, "evidence": "Bên B chịu trách nhiệm nhận hàng tại kho của công ty xăng dầu đầu mối", "ink": "printed", "status": "ok", "note": null},
+    "gia_cuoc": {"value": "Giá cả do hai bên thỏa thuận theo từng thời điểm. Phương thức tính theo lít vận chuyển.", "normalized": "Giá cả do hai bên thỏa thuận theo từng thời điểm. Phương thức tính theo lít vận chuyển.", "page": 1, "evidence": "Giá cả do hai bên thỏa thuận theo từng thời điểm", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_den": {"value": "31/12/2018", "normalized": "2018-12-31", "page": 2, "evidence": "hiệu lực kể từ ngày ký đến hết ngày 31/12/2018", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

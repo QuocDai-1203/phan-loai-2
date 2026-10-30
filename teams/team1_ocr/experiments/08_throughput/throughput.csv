@@ -1,0 +1,4 @@
+﻿config,workers,threads,batch,device,docs,pages,ocr_pages,errors,returncode,wall_s,pages_per_s,ocr_pages_per_s,gpu_mem_before_mib,gpu_util_before_pct,gpu_mem_peak_mib,gpu_util_mean_pct,text_hash,finished
+w6_t2_b16_cuda0,6,2,16,cuda:0,24,53,51,0,0,310.4,0.171,0.164,5818,66,9901,50.1,b33c27ec48,2026-10-15T23:04:12
+w6_t2_b32_cuda0,6,2,32,cuda:0,24,53,51,0,0,246.5,0.215,0.207,851,0,10697,39.1,b33c27ec48,2026-10-15T23:08:19
+w4_t2_b16_cuda0,4,2,16,cuda:0,24,53,51,0,0,253.3,0.209,0.201,4741,0,8754,44.0,b33c27ec48,2026-10-15T23:12:32

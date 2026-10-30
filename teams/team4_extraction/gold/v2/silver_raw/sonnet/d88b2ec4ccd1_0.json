@@ -1,0 +1,84 @@
+{
+ "unit_id": "d88b2ec4ccd1_0",
+ "annotator": "sonnet",
+ "doc_type": "CC_HUAN_LUYEN_PCCC",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_chung_nhan": {
+   "value": "2038131",
+   "normalized": "2038131",
+   "page": 1,
+   "evidence": "Số: 2038131",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ho_ten": {
+   "value": "TIÊU T. NGỌC LOAN",
+   "normalized": "TIÊU T. NGỌC LOAN",
+   "page": 2,
+   "evidence": "Ông/bà: TIÊU T. NGỌC LOAN",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "nam_sinh": {
+   "value": null,
+   "normalized": null,
+   "page": 2,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "noi_lam_viec": {
+   "value": "CN - CTCP TM DV Hiệp Hòa",
+   "normalized": "CN - CTCP TM DV Hiệp Hòa",
+   "page": 2,
+   "evidence": "Nơi làm việc/thường trú: CN - CTCP TM DV Hiệp Hòa",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "noi_dung_huan_luyen": {
+   "value": "PHÒNG CHÁY, CHỮA CHÁY",
+   "normalized": "PHÒNG CHÁY, CHỮA CHÁY",
+   "page": 2,
+   "evidence": "Đã được huấn luyện nghiệp vụ: PHÒNG CHÁY, CHỮA CHÁY",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "co_quan_cap": {
+   "value": "PHÒNG CẢNH SÁT PCCC VÀ CNCH",
+   "normalized": "PHÒNG CẢNH SÁT PCCC VÀ CNCH",
+   "page": 2,
+   "evidence": "CÔNG AN TỈNH BÌNH ĐỊNH PHÒNG CẢNH SÁT PCCC VÀ CNCH",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "ngày 06 tháng 06 năm 2022",
+   "normalized": "2022-06-06",
+   "page": 2,
+   "evidence": "Bình Định, ngày 06 tháng 06 năm 2022",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "khong_lay_ngay_cap_cmnd"
+  },
+  "ngay_het_han": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  }
+ },
+ "unit_note": null
+}

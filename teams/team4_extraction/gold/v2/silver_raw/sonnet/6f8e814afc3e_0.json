@@ -1,0 +1,75 @@
+{
+ "unit_id": "6f8e814afc3e_0",
+ "annotator": "sonnet",
+ "doc_type": "GPLX",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_gplx": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ho_ten": {
+   "value": "TRƯƠNG QUANG TOÀN",
+   "normalized": "TRƯƠNG QUANG TOÀN",
+   "page": 1,
+   "evidence": "Họ tên/Full name: TRƯƠNG QUANG TOÀN",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_sinh": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hang": {
+   "value": "FC",
+   "normalized": "FC",
+   "page": 1,
+   "evidence": "Hạng/Class: FC",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "23 tháng/month 03 năm/year 2021",
+   "normalized": "2021-03-23",
+   "page": 1,
+   "evidence": "Bình Định, ngày/date 23 tháng/month 03 năm/year 2021",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "noi_cap": {
+   "value": "Bình Định",
+   "normalized": "Bình Định",
+   "page": 1,
+   "evidence": "Bình Định, ngày/date 23 tháng/month 03",
+   "ink": "printed",
+   "status": "ok",
+   "note": "lay_tu_dong_dia_danh_ky"
+  },
+  "ngay_het_han": {
+   "value": "23/03/2026",
+   "normalized": "2026-03-23",
+   "page": 1,
+   "evidence": "Có giá trị đến/Expires: 23/03/2026",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

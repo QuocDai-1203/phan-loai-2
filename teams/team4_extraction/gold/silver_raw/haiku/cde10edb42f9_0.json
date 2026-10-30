@@ -1,0 +1,18 @@
+{
+  "unit_id": "cde10edb42f9_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1],
+  "fields": {
+    "so_giay": {"value": "06 /GCNĐĐK-SCT", "normalized": "06/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 06 /GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "28 tháng 3 năm 2019", "normalized": "2019-03-28", "page": 1, "evidence": "Phú Yên, ngày 28 tháng 3 năm 2019", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH PHÚ YÊN", "normalized": "SỞ CÔNG THƯƠNG TỈNH PHÚ YÊN", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH PHÚ YÊN", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG XĂNG DẦU HỒNG CÁT (CƠ SỞ 2)", "normalized": "CỬA HÀNG XĂNG DẦU HỒNG CÁT (CƠ SỞ 2)", "page": 1, "evidence": "CỬA HÀNG XĂNG DẦU HỒNG CÁT (CƠ SỞ 2)", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Thôn Phú Lương, xã An Ninh Đông, huyện Tuy An, tỉnh Phú Yên", "normalized": "Thôn Phú Lương, xã An Ninh Đông, huyện Tuy An, tỉnh Phú Yên", "page": 1, "evidence": "Địa chỉ: Thôn Phú Lương, xã An Ninh Đông, huyện Tuy An", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "DOANH NGHIỆP TƯ NHÂN HỒNG CÁT; Mã số thuế: 4400317104", "normalized": "DOANH NGHIỆP TƯ NHÂN HỒNG CÁT; Mã số thuế: 4400317104", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: DOANH NGHIỆP TƯ NHÂN HỒNG CÁT", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616", "page": 1, "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất", "normalized": "Cấp lần thứ nhất", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 28 tháng 3 năm 2019", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "28 tháng 3 năm 2024", "normalized": "2024-03-28", "page": 1, "evidence": "có giá trị đến hết ngày 28 tháng 3 năm 2024", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"}
+  },
+  "unit_note": "mot_so_ngay_viet_tay_tren_giay"
+}

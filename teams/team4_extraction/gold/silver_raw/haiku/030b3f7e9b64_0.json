@@ -1,0 +1,23 @@
+{
+  "unit_id": "030b3f7e9b64_0",
+  "annotator": "haiku",
+  "doc_type": "PHIEU_XUAT_KHO",
+  "pages_seen": [1],
+  "fields": {
+    "so_phieu": {"value": "2602834", "normalized": "2602834", "page": 1, "evidence": "Số: 2602834", "ink": "printed", "status": "ok", "note": null},
+    "ky_hieu": {"value": "BSR/PXK/DO", "normalized": "BSR/PXK/DO", "page": 1, "evidence": "Ký hiệu: BSR/PXK/DO", "ink": "printed", "status": "ok", "note": null},
+    "ngay_xuat": {"value": "24/01/2026", "normalized": "2026-01-24", "page": 1, "evidence": "Ngày: 24/01/2026", "ink": "printed", "status": "ok", "note": null},
+    "ben_giao": {"value": "Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "normalized": "Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "page": 1, "evidence": "Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)", "ink": "printed", "status": "ok", "note": null},
+    "ben_nhan": {"value": "Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "normalized": "Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "page": 1, "evidence": "Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh", "ink": "printed", "status": "ok", "note": null},
+    "hop_dong_can_cu": {"value": "số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025", "normalized": "số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025", "page": 1, "evidence": "hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng", "ink": "under_stamp", "status": "ok", "note": "ngay_mot_phan_duoi_con_dau"},
+    "lenh_xuat_hang": {"value": "622/LXHXB-DO-240126-243-0 (8000148093)", "normalized": "622/LXHXB-DO-240126-243-0 (8000148093)", "page": 1, "evidence": "Lệnh xuất hàng: 622/LXHXB-DO-240126-243-0 (8000148093)", "ink": "printed", "status": "ok", "note": null},
+    "bon_xuat": {"value": "TK-5207A", "normalized": "TK-5207A", "page": 1, "evidence": "Xuất tại bồn số: TK-5207A", "ink": "printed", "status": "ok", "note": null},
+    "bien_so_phuong_tien": {"value": "77C-080.01(77R-026.45)", "normalized": "77C-080.01; 77R-026.45", "page": 1, "evidence": "Phương tiện: 77C-080.01(77R-026.45)", "ink": "printed", "status": "ok", "note": "xe_va_romooc"},
+    "mat_hang": {"value": "Nhiên liệu điêzen (DO 0,05S) mức 2", "normalized": "Nhiên liệu điêzen (DO 0,05S) mức 2", "page": 1, "evidence": "Nhiên liệu điêzen (DO 0,05S) mức 2", "ink": "printed", "status": "ok", "note": null},
+    "so_luong_m3_15c": {"value": "38,231", "normalized": "38.231", "page": 1, "evidence": "Nhiên liệu điêzen (DO 0,05S) mức 2 38,231", "ink": "printed", "status": "ok", "note": "dau_phay_thap_phan"},
+    "so_luong_tan": {"value": "31,679", "normalized": "31.679", "page": 1, "evidence": "Nhiên liệu điêzen (DO 0,05S) mức 2 31,679", "ink": "printed", "status": "ok", "note": "dau_phay_thap_phan"},
+    "so_luong_m3_thuc_te": {"value": "38,634", "normalized": "38.634", "page": 1, "evidence": "Nhiên liệu điêzen (DO 0,05S) mức 2 38,634", "ink": "printed", "status": "ok", "note": "dau_phay_thap_phan"},
+    "so_chung_thu_chat_luong": {"value": "DO-023-202601220416", "normalized": "DO-023-202601220416", "page": 1, "evidence": "DO-023-202601220416", "ink": "printed", "status": "ok", "note": "cung_so_cho_7_dong"}
+  },
+  "unit_note": "so_luong_dung_dau_phay_thap_phan_theo_phieu"
+}

@@ -1,0 +1,43 @@
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN / TỈNH QUẢNG NGÃI / M.S.D.N: 4300378569 / PETROVIETNAM BSR]
+PHIẾU XUẤT KHO THÀNH PHẨM
+VHSX
+Ngày: 25/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2602937
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1871/HĐKT/BSR-HOAKHANH/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty TNHH Thương mại và Dịch vụ tổng hợp Hòa Khánh
+Lệnh xuất hàng: 630/LXHXB-DO-250126-248-0 (8000148211)
+Xuất tại bồn số: TK-5207B | Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: NGUYỄN VĂN LUÂN
+Bên nhận: Công ty TNHH Thương mại và Dịch vụ tổng hợp Hoà Khánh
+Địa chỉ: 14 Nguyễn Tri Phương Phường Thanh Khê Thành phố Đà Nẵng.
+Đại diện bên nhận: LÊ ĐÌNH VÂN
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 188/UQ-HK
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77C-095.67(77R-049.13) | Đến kho lúc: 07 giờ 13 phút ngày 25 tháng 01 năm 2026
+Bắt đầu lúc: 07 giờ 57 phút ngày 25 tháng 01 năm 2026 | Kết thúc lúc: 08 giờ 02 phút ngày 25 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng
+ | Bbls (thùng) | M3 (tại 15⁰C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 255,785 | 40,646 | 33,663 | 41,273
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm năm mươi lăm phẩy bảy trăm tám mươi lăm thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI010 | 1,000359 | 1,000032 | 1,000075 | 1,000005 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15⁰C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (⁰C)
+DO-024-202601220940 | 01 | 0,985200 | 0,8293 | 5,30 | 32,3
+DO-024-202601220940 | 02 | 0,984700 | 0,8293 | 5,30 | 32,9
+DO-024-202601220940 | 03 | 0,984600 | 0,8293 | 5,50 | 33,0
+DO-024-202601220940 | 04 | 0,984700 | 0,8293 | 5,40 | 32,9
+DO-024-202601220940 | 05 | 0,984800 | 0,8293 | 5,50 | 32,8
+DO-024-202601220940 | 06 | 0,984800 | 0,8293 | 5,30 | 32,8
+DO-024-202601220940 | 07 | 0,984500 | 0,8293 | 5,50 | 33,1
+Người lập phiếu | Đại diện bên giao | Đại diện bên nhận
+(Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên) | (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký] | [chữ ký]
+Nguyễn Văn Luân | Nguyễn Văn Luân | Lê Đình Vân
+Biểu mẫu BSR-PMD-PRO-084/F-022, rev 0, 26/08/2025
+Văn bản được tải lên hệ thống eoffice.bsr.com.vn. Với số định danh: BSR/PXK/DO
+1 / 1

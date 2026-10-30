@@ -1,0 +1,18 @@
+{
+  "unit_id": "3f6ee29dea1a_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2, 5, 6, 7, 8],
+  "fields": {
+    "so_hop_dong": {"value": "06/2025-HĐMB/APP QT - HH", "normalized": "06/2025-HĐMB/APP QT - HH", "page": 1, "evidence": "Số: 06/2025-HĐMB/APP QT - HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "29/07/2025", "normalized": "2025-07-29", "page": 1, "evidence": "Ngày ký: 29/07/2025", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CÔNG TY CỔ PHẦN ANH PHÁT PETRO - CHI NHÁNH QUẢNG TRỊ; Mã số thuế: 2802493498-006", "normalized": "CÔNG TY CỔ PHẦN ANH PHÁT PETRO - CHI NHÁNH QUẢNG TRỊ; Mã số thuế: 2802493498-006", "page": 2, "evidence": "BÊN A (BÊN BÁN): CÔNG TY CỔ PHẦN ANH PHÁT PETRO", "ink": "printed", "status": "ok", "note": null},
+    "ben_mua": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616", "page": 2, "evidence": "BÊN B (BÊN MUA): CÔNG TY CỔ PHẦN THƯƠNG MẠI", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "XĂNG DẦU", "normalized": "XĂNG DẦU", "page": 1, "evidence": "HỢP ĐỒNG MUA BÁN XĂNG DẦU", "ink": "printed", "status": "ok", "note": "tu_tieu_de_hop_dong"},
+    "han_muc_cong_no": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": "chi_nhac_han_muc_o_phu_luc"},
+    "hieu_luc_tu": {"value": "29/07/2025", "normalized": "2025-07-29", "page": 1, "evidence": "Hiệu lực hợp đồng từ ngày 29/07/2025", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "29/07/2030", "normalized": "2030-07-29", "page": 1, "evidence": "đến ngày 29/07/2030", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "ban_quet_ro_co_con_dau_do_le_trang"
+}

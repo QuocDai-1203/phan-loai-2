@@ -1,0 +1,25 @@
+{
+ "created": "2026-10-12T01:51:07+00:00",
+ "n": 59,
+ "n_accepted": 59,
+ "errors": 1,
+ "tiers": {
+  "rule": 50,
+  "tfidf": 5,
+  "llm": 4
+ },
+ "stored": {
+  "n_accepted": 59,
+  "errors": 1,
+  "share_rule": 0.847457627118644,
+  "share_tfidf": 0.0847457627118644,
+  "share_llm": 0.0677966101694915
+ },
+ "reproduces_stored_row": true,
+ "llm_cache": {
+  "hits": 4,
+  "misses": 0
+ },
+ "tfidf_labels_sha1_10": "eb3348713a",
+ "note": "Chạy MỘT lần để xác nhận tái lập dòng TEST đã báo cáo của thí nghiệm 02; không dùng để chỉnh bất cứ thứ gì."
+}

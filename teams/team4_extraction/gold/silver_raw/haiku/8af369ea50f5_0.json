@@ -1,0 +1,18 @@
+{
+  "unit_id": "8af369ea50f5_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2, 3, 4],
+  "fields": {
+    "so_hop_dong": {"value": "28/PKD/2023-HĐMB", "normalized": "28/PKD/2023-HĐMB", "page": 1, "evidence": "HỢP ĐỒNG NGUYÊN TẮC MUA BÁN XĂNG DẦU Số:28/PKD/2023-HĐMB", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "ben_ban": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HOÀ", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HOÀ", "page": 1, "evidence": "Giữa CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HOÀ", "ink": "printed", "status": "ok", "note": "mst_bi_con_dau_khong_doc_chac"},
+    "ben_mua": {"value": "CÔNG TY CỔ PHẦN-TỔNG CÔNG TY XÂY DỰNG VÀ LẮP MÁY VIỆT NAM", "normalized": "CÔNG TY CỔ PHẦN-TỔNG CÔNG TY XÂY DỰNG VÀ LẮP MÁY VIỆT NAM", "page": 1, "evidence": "CÔNG TY CỔ PHẦN- TỔNG CÔNG TY XÂY DỰNG VÀ LẮP MÁY VIỆT NAM", "ink": "printed", "status": "ok", "note": "mst_nam_o_con_dau_trang_4"},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "Xăng/Điêzen, các loại dầu nhờn", "normalized": "Xăng/Điêzen, các loại dầu nhờn", "page": 2, "evidence": "Đơn vị tính: Lít ở nhiệt độ thực tế (đối với Xăng/Điêzen)", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": "Thanh toán trước khi giao nhận hàng", "normalized": "Thanh toán trước khi giao nhận hàng", "page": 2, "evidence": "Thời hạn thanh toán: Thanh toán trước khi giao nhận hàng.", "ink": "printed", "status": "ok", "note": "khong_co_han_muc_tin_dung"},
+    "hieu_luc_tu": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_den": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null}
+  },
+  "unit_note": "footer_Trang_3/5_o_anh_p02_b_lech_so_trang_kiem_tra"
+}

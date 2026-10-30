@@ -1,0 +1,81 @@
+{
+ "n_units": 82,
+ "n_fields": 66,
+ "vlm_failed_units_excluded": 0,
+ "vlm_failed_fields_excluded": 0,
+ "old": {
+  "n": 66,
+  "correct": 32,
+  "wrong": 0,
+  "empty": 34,
+  "auto_share": 0.48484848484848486,
+  "correct_share": 0.48484848484848486,
+  "wrong_upper95": 0.08936819898626475
+ },
+ "new": {
+  "n": 66,
+  "correct": 37,
+  "wrong": 0,
+  "empty": 29,
+  "auto_share": 0.5606060606060606,
+  "correct_share": 0.5606060606060606,
+  "wrong_upper95": 0.0777747110051379
+ },
+ "flips": {
+  "gained": 5,
+  "lost": 0,
+  "wrong_to_correct": 0,
+  "became_wrong": 0
+ },
+ "paired_bootstrap_by_unit": {
+  "B": 5000,
+  "correct_share_diff": 0.07506666666666666,
+  "correct_share_diff_ci95": [
+   0.015151515151515152,
+   0.15151515151515152
+  ],
+  "wrong_share_diff": 0.0,
+  "wrong_share_diff_ci95": [
+   0.0,
+   0.0
+  ]
+ },
+ "by_type": {
+  "CC_TAP_HUAN_VC_HNH": {
+   "n": 19,
+   "old_correct": 15,
+   "new_correct": 16,
+   "old_wrong": 0,
+   "new_wrong": 0
+  },
+  "GCN_DDK_BAN_LE_XD": {
+   "n": 21,
+   "old_correct": 10,
+   "new_correct": 14,
+   "old_wrong": 0,
+   "new_wrong": 0
+  },
+  "HD_MUA_BAN": {
+   "n": 26,
+   "old_correct": 7,
+   "new_correct": 7,
+   "old_wrong": 0,
+   "new_wrong": 0
+  }
+ },
+ "latency_ms": {
+  "note": "GPU RTX 3060 dùng chung; VLM không cache; num_ctx 12288 khác client khác (32768) nên có thể nạp lại mô hình",
+  "vlm_calls": 66,
+  "vlm_median": 14688.957799997297,
+  "vlm_p90": 17838.779449994036,
+  "vlm_max": 77938.06999998924,
+  "render_median": 4165.573400001449,
+  "render_p90": 6657.875199998671,
+  "images_median": 4.0,
+  "new_extract_median_all_units": 14291.957850000472,
+  "units_with_vlm_call": 66,
+  "new_status_counts": {
+   "ok": 82
+  }
+ }
+}

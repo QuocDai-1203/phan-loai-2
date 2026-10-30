@@ -1,0 +1,79 @@
+{
+ "unit_id": "bfbfb743b8d5_0",
+ "annotator": "sonnet",
+ "doc_type": "HD_NHUONG_QUYEN_DAI_LY",
+ "pages_seen": [
+  1,
+  2,
+  6,
+  7,
+  9,
+  10
+ ],
+ "fields": {
+  "so_hop_dong": {
+   "value": "02/2023/NQBLXD",
+   "normalized": "02/2023/NQBLXD",
+   "page": 1,
+   "evidence": "Số: 02/2023/NQBLXD",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_ky": {
+   "value": "09 tháng 12 năm 2022",
+   "normalized": "2022-12-09",
+   "page": 1,
+   "evidence": "Ký ngày 09 tháng 12 năm 2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_nhuong_quyen": {
+   "value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA",
+   "normalized": null,
+   "page": 1,
+   "evidence": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA",
+   "ink": "printed",
+   "status": "ok",
+   "note": "khong_co_mst_in"
+  },
+  "ben_nhan_nhuong_quyen": {
+   "value": "CÔNG TY TNHH LỢI HUỲNH",
+   "normalized": null,
+   "page": 1,
+   "evidence": "BÊN NHẬN NHƯỢNG QUYỀN CÔNG TY TNHH LỢI HUỲNH",
+   "ink": "printed",
+   "status": "ok",
+   "note": "khong_co_mst_in"
+  },
+  "cua_hang": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "hieu_luc_tu": {
+   "value": "01/01/2023",
+   "normalized": "2023-01-01",
+   "page": 1,
+   "evidence": "Hiệu lực từ ngày 01/01/2023 đến hết ngày 31/12/2025",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hieu_luc_den": {
+   "value": "31/12/2025",
+   "normalized": "2025-12-31",
+   "page": 1,
+   "evidence": "Hiệu lực từ ngày 01/01/2023 đến hết ngày 31/12/2025",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "anh_mo: p10_a,p10_b"
+}

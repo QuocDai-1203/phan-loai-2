@@ -1,0 +1,18 @@
+{
+  "unit_id": "9c9585b77c4a_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2, 3],
+  "fields": {
+    "so_giay": {"value": "[?]/GCNĐĐK-SCT", "normalized": "[?]/GCNĐĐK-SCT", "page": 1, "evidence": "Số: [?]/GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": "phan_dau_bi_but_che"},
+    "ngay_cap": {"value": "30 tháng 10 năm 2018", "normalized": "2018-10-30", "page": 1, "evidence": "Đà Nẵng, ngày 30 tháng 10 năm 2018", "ink": "under_stamp", "status": "ok", "note": "mot_phan_duoi_con_dau_BAN_SAO"},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG", "normalized": "SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND THÀNH PHỐ ĐÀ NẴNG SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng xăng dầu Thái Quang", "normalized": "Cửa hàng xăng dầu Thái Quang", "page": 1, "evidence": "bán lẻ xăng dầu: Cửa hàng xăng dầu Thái Quang", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "02 đường Vân Đồn, phường Nại Hiên Đông, quận Sơn Trà, thành phố Đà Nẵng", "normalized": "02 đường Vân Đồn, phường Nại Hiên Đông, quận Sơn Trà, thành phố Đà Nẵng", "page": 1, "evidence": "Địa chỉ: 02 đường Vân Đồn, phường Nại Hiên Đông, quận", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH MTV Bảo Ân Phát; Mã số thuế: 0401590701", "normalized": "Công ty TNHH MTV Bảo Ân Phát; Mã số thuế: 0401590701", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH MTV Bảo Ân Phát", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại – Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương mại – Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại – Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "cấp bổ sung, sửa đổi", "normalized": "cấp bổ sung, sửa đổi", "page": 1, "evidence": "hồ sơ đề nghị cấp bổ sung, sửa đổi Giấy chứng nhận", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "30 tháng 8 năm 2023", "normalized": "2023-08-30", "page": 2, "evidence": "có giá trị đến hết ngày 30 tháng 8 năm 2023", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_nghieng; so_giay_bi_but_viet_che; ngay_cap_co_dau_BAN_SAO"
+}

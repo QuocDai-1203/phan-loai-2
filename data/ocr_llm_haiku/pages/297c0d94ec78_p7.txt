@@ -1,0 +1,21 @@
+Bảng theo dõi
+Tình trạng kỹ thuật từng loại phương tiện (hoặc hệ thống) PCCC
+Hạng mục công trình: ...... Hệ thống trữ dầu nhiên liệu
+...... Hệ thống điện, [?] & tiếp chữa cháy, Hệ thống báo hỏa
+Phương tiện PCCC (hoặc hệ thống PCCC) loại: cát, bột chữa cháy & thiết bị
+ở vị trí số [?] (hoặc mã số phương tiện do cơ sở quản lý quy định) [?]
+Số TT | Ngày, tháng kiểm tra | Nội dung và kết quả kiểm tra | Phương pháp kiểm tra | Kết luận | Người, cơ quan kiểm tra | Ký tên | Ghi chú
+ | 9/04/2022 | Nội dung kiểm tra
+ | | - Kiểm tra cái mối nối, rò gỉ, chập điện. Hệ thống điện [?]
+ | | và cái tụ bình,
+ | | - Kiểm tra cái van, cơ chế của [?] dầu nhiên liệu
+ | | tại cột Xăng Dầu
+ | | - Kiểm tra áp suất của cái bình pccc và cái trợ thiết bị phụ trợ pccc
+ | | - Kết quả: Hệ thống hoạt động ổn định đạt yêu cầu.
+* Phương pháp kiểm tra
+- Chú ý quan sát bằng mắt và mũi
+- Do trực tiếp bồn bể xem có [?] [?] thoát [?] chảy
+* - Kết luận: Tất cả các cái hệ thống điện hoạt động ổn định bình thường; chưa có dấu hiệu rò rỉ gây cháy nổ.
+Người kiểm tra
+[chữ ký]
+Nguyễn Thị [?] Đông

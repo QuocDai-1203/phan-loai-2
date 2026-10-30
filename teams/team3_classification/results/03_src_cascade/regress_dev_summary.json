@@ -1,0 +1,37 @@
+{
+ "created": "2026-10-12T01:27:23+00:00",
+ "source": "ocr_v2_p12",
+ "t3": "q35_s1_short_c2000",
+ "max_error": 0.01,
+ "params": "rule+tfidf+llm th_s=0.282 th_llm=0.548 agree=none",
+ "n_docs": 237,
+ "n_match": 237,
+ "n_signals_match": 237,
+ "reference": {
+  "n_accepted": 236,
+  "errors": 1,
+  "tiers": {
+   "rule": 181,
+   "tfidf": 43,
+   "llm": 12,
+   "human": 1
+  },
+  "matches_stored_e4_dev_row": true
+ },
+ "new": {
+  "n_accepted": 236,
+  "errors": 1,
+  "tiers": {
+   "rule": 181,
+   "tfidf": 43,
+   "llm": 12,
+   "human": 1
+  }
+ },
+ "llm_cache": {
+  "hits": 13,
+  "misses": 0,
+  "error_records": 0
+ },
+ "labels_sha1_10": "eb3348713a"
+}

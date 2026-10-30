@@ -1,0 +1,17 @@
+{
+  "unit_id": "4d9f145f7932_0",
+  "annotator": "haiku",
+  "doc_type": "HD_THUE_TAI_SAN",
+  "pages_seen": [1, 2, 3, 4, 5, 6],
+  "fields": {
+    "so_hop_dong": {"value": "01/ HDTTS-HT2023", "normalized": "01/HDTTS-HT2023", "page": 1, "evidence": "(Số: 01/ HDTTS-HT2023)", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "01 tháng 02 năm 2023", "normalized": "2023-02-01", "page": 1, "evidence": "ngày 01 tháng 02 năm 2023", "ink": "handwritten", "status": "ok", "note": null},
+    "ben_cho_thue": {"value": "CÔNG TY TNHH XĂNG DẦU HÒA TÂM GIA LAI, Mã số thuế : 5901023724", "normalized": "CÔNG TY TNHH XĂNG DẦU HÒA TÂM GIA LAI, Mã số thuế : 5901023724", "page": 1, "evidence": "Mã số thuế : 5901023724", "ink": "printed", "status": "ok", "note": null},
+    "ben_thue": {"value": "CÔNG TY TNHH XĂNG DẦU PHÚC HOÀ KHÁNH BA, Mã số thuế : 5901195120", "normalized": "CÔNG TY TNHH XĂNG DẦU PHÚC HOÀ KHÁNH BA, Mã số thuế : 5901195120", "page": 1, "evidence": "Mã số thuế : 5901195120", "ink": "printed", "status": "ok", "note": null},
+    "tai_san_thue": {"value": "Cửa Hàng Xăng Dầu Số 3 tại địa điểm Tổ dân số 9, phường An Bình, thị xã An Khê, tỉnh Gia Lai", "normalized": "Cửa Hàng Xăng Dầu Số 3 tại địa điểm Tổ dân số 9, phường An Bình, thị xã An Khê, tỉnh Gia Lai", "page": 2, "evidence": "Cửa Hàng Xăng Dầu Số 3 tại địa điểm Tổ dân", "ink": "printed", "status": "ok", "note": null},
+    "gia_thue": {"value": "5.000.000 đồng/tháng (Bằng chữ: Năm triệu đồng/tháng) – Đã bao gồm thuế VAT. Thống nhất thời gian thanh toán: trả 1 lần trong năm.", "normalized": "5.000.000 đồng/tháng (Bằng chữ: Năm triệu đồng/tháng) – Đã bao gồm thuế VAT. Thống nhất thời gian thanh toán: trả 1 lần trong năm.", "page": 2, "evidence": "5.000.000 đồng/tháng (Bằng chữ", "ink": "printed", "status": "ok", "note": null},
+    "thoi_han_thue_tu": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "thoi_han_thue_den": {"value": "31/12/2027", "normalized": "2027-12-31", "page": 2, "evidence": "Thời hạn hết giá trị hợp đồng: ngày 31/12/2027", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "trang_6_gan_trang_nhat_khong_co_noi_dung"
+}

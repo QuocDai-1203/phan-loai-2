@@ -1,0 +1,18 @@
+{
+  "unit_id": "fb2e0d20d6df_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "24 /GCNĐĐK-SCT", "normalized": "24/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 24 /GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "12 tháng 3 năm 2019", "normalized": "2019-03-12", "page": 1, "evidence": "Gia Lai, ngày 12 tháng 3 năm 2019", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "normalized": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng Xăng dầu Đức Trọng", "normalized": "Cửa hàng Xăng dầu Đức Trọng", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: Cửa hàng Xăng dầu Đức Trọng", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "12-14 Quang Trung, thị trấn Kbang, huyện Kbang, tỉnh Gia Lai", "normalized": "12-14 Quang Trung, thị trấn Kbang, huyện Kbang, tỉnh Gia Lai", "page": 1, "evidence": "Địa chỉ: 12-14 Quang Trung, thị trấn Kbang, huyện Kbang", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Doanh nghiệp tư nhân Đức Trọng; Mã số thuế: 5900432876", "normalized": "Doanh nghiệp tư nhân Đức Trọng; Mã số thuế: 5900432876", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Doanh nghiệp tư nhân Đức Trọng", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất, ngày 12/3/2019", "normalized": "Cấp lần thứ nhất, ngày 12/3/2019", "page": 1, "evidence": "Cấp lần thứ nhất, ngày 12/3/2019", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "12 tháng 3 năm 2024", "normalized": "2024-03-12", "page": 1, "evidence": "có giá trị đến hết ngày 12 tháng 3 năm 2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_mo"
+}

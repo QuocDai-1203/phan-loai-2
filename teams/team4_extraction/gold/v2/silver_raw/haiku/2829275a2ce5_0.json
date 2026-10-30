@@ -1,0 +1,18 @@
+{
+  "unit_id": "2829275a2ce5_0",
+  "annotator": "haiku",
+  "doc_type": "HD_VAN_CHUYEN",
+  "pages_seen": [1, 2, 3, 4],
+  "fields": {
+    "so_hop_dong": {"value": "100[?]/2019/HĐVC/CFG-HH", "normalized": null, "page": 1, "evidence": "Số: 100../2019/HĐVC/CFG-HH", "ink": "handwritten", "status": "ok", "note": "mot_phan_bi_che"},
+    "ngay_ky": {"value": "01 tháng 12 năm 2019", "normalized": "2019-12-01", "page": 1, "evidence": "Hôm nay, ngày 01 tháng 12 năm 2019", "ink": "printed", "status": "ok", "note": null},
+    "ben_chu_hang": {"value": "CÔNG TY CỔ PHẦN KÍNH NỔI CHU LAI - CFG (BÊN THUÊ VẬN CHUYỂN), Mã số thuế: 4000438263", "normalized": "CÔNG TY CỔ PHẦN KÍNH NỔI CHU LAI - CFG (BÊN THUÊ VẬN CHUYỂN), Mã số thuế: 4000438263", "page": 1, "evidence": "BÊN A: CÔNG TY CỔ PHẦN KÍNH NỔI CHU LAI - CFG", "ink": "printed", "status": "ok", "note": null},
+    "ben_van_chuyen": {"value": "CÔNG TY CP TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN), Mã số thuế: 4100668616", "normalized": "CÔNG TY CP TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN), Mã số thuế: 4100668616", "page": 1, "evidence": "BÊN B: CÔNG TY CP TM-DV HIỆP HÒA (BÊN VẬN CHUYỂN)", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "tuyen_van_chuyen": {"value": "Địa điểm nhận hàng: Tại Cảng Quy Nhơn, tỉnh Bình Định. Địa điểm giao hàng: Công ty Cổ phần Kính nổi Chu Lai – CFG, địa chỉ: KCN Bắc Chu Lai, Tam Hiệp, Núi Thành, Quảng Nam", "normalized": "Địa điểm nhận hàng: Tại Cảng Quy Nhơn, tỉnh Bình Định. Địa điểm giao hàng: Công ty Cổ phần Kính nổi Chu Lai – CFG, địa chỉ: KCN Bắc Chu Lai, Tam Hiệp, Núi Thành, Quảng Nam", "page": 2, "evidence": "Địa điểm nhận hàng: Tại Cảng Quy Nhơn, tỉnh Bình Định", "ink": "printed", "status": "ok", "note": null},
+    "gia_cuoc": {"value": "450 đồng/kg (Bằng chữ: Bốn trăm năm mươi đồng trên một kilogram)", "normalized": "450 đồng/kg (Bằng chữ: Bốn trăm năm mươi đồng trên một kilogram)", "page": 2, "evidence": "Đơn giá: 450 đồng/kg (Bằng chữ: Bốn trăm năm mươi đồng", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_den": {"value": "31/12/2020", "normalized": "2020-12-31", "page": 4, "evidence": "bản scan đến hết ngày 31/12/2020", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_mo_so_hop_dong_co_chu_viet_de_len"
+}

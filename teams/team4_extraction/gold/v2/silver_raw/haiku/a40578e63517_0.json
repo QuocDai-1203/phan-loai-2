@@ -1,0 +1,18 @@
+{
+  "unit_id": "a40578e63517_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_BAO_HIEM",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_gcn_bao_hiem": {"value": "BB21/ 0246987", "normalized": "BB21/0246987", "page": 1, "evidence": "Số GCNBH: BB21/ 0246987", "ink": "printed", "status": "ok", "note": null},
+    "cong_ty_bao_hiem": {"value": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "normalized": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "page": 2, "evidence": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG", "ink": "printed", "status": "ok", "note": null},
+    "loai_bao_hiem": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "nguoi_duoc_bao_hiem": {"value": "Công ty cổ phần TM DV Hiệp Hòa", "normalized": "Công ty cổ phần TM DV Hiệp Hòa", "page": 1, "evidence": "Chủ xe: Công ty cổ phần TM DV Hiệp Hòa", "ink": "handwritten", "status": "ok", "note": null},
+    "doi_tuong_bao_hiem": {"value": "77R-01192", "normalized": "77R-01192", "page": 1, "evidence": "Biển kiểm soát: 77R-01192", "ink": "handwritten", "status": "ok", "note": null},
+    "so_tien_bao_hiem": {"value": "300.000.000 đồng", "normalized": "300.000.000 đồng", "page": 1, "evidence": "Số tiền bảo hiểm: 300.000.000 đồng", "ink": "handwritten", "status": "ok", "note": "chi_vat_chat_xe"},
+    "phi_bao_hiem": {"value": "5.664.000", "normalized": "5664000", "page": 1, "evidence": "Tổng phí bảo hiểm thanh toán: 5.664.000 đồng", "ink": "handwritten", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "ngày 27 tháng 08 năm 2022", "normalized": "2022-08-27", "page": 1, "evidence": "Từ 07 giờ 00, ngày 27 tháng 08 năm 2022", "ink": "handwritten", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "ngày 27 tháng 08 năm 2023", "normalized": "2023-08-27", "page": 1, "evidence": "Đến 07 giờ 00, ngày 27 tháng 08 năm 2023", "ink": "handwritten", "status": "ok", "note": null}
+  },
+  "unit_note": "nua_duoi_trang"
+}

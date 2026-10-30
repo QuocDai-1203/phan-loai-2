@@ -1,0 +1,111 @@
+{
+ "unit_id": "cc3992cb23d7_0",
+ "annotator": "sonnet",
+ "doc_type": "DANG_KY_PHUONG_TIEN",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "bien_so": {
+   "value": "77R-009.34",
+   "normalized": "77R-009.34",
+   "page": 1,
+   "evidence": "Biển số đăng ký (N°Plate) 77R-009.34",
+   "ink": "under_stamp",
+   "status": "ok",
+   "note": "mot_phan_bi_con_dau_de"
+  },
+  "loai_phuong_tien": {
+   "value": "CHỨNG NHẬN ĐĂNG KÝ RƠ MOÓC, SƠMI RƠ MOÓC",
+   "normalized": "CHỨNG NHẬN ĐĂNG KÝ RƠ MOÓC, SƠMI RƠ MOÓC",
+   "page": 2,
+   "evidence": "CHỨNG NHẬN ĐĂNG KÝ RƠ MOÓC, SƠMI RƠ MOÓC",
+   "ink": "printed",
+   "status": "ok",
+   "note": "lay_tu_tieu_de"
+  },
+  "chu_so_huu": {
+   "value": "CTCP TM DV HIỆP HÒA",
+   "normalized": "CTCP TM DV HIỆP HÒA",
+   "page": 1,
+   "evidence": "Tên chủ xe: CTCP TM DV HIỆP HÒA",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "nhan_hieu": {
+   "value": "CHUSHENG",
+   "normalized": "CHUSHENG",
+   "page": 1,
+   "evidence": "Nhãn hiệu (Brand) CHUSHENG",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_khung": {
+   "value": "VRG7F0CSC026",
+   "normalized": "VRG7F0CSC026",
+   "page": 1,
+   "evidence": "Số khung (Chassis N°): VRG7F0CSC026",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_may": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "nam_san_xuat": {
+   "value": "2015",
+   "normalized": "2015",
+   "page": 1,
+   "evidence": "Năm sản xuất (Year of manufacture): 2015",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_chung_nhan": {
+   "value": "000882",
+   "normalized": "000882",
+   "page": 2,
+   "evidence": "Số (Number): 000882",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_dang_ky": {
+   "value": "19/05/2015",
+   "normalized": "2015-05-19",
+   "page": 1,
+   "evidence": "Đăng ký lần đầu ngày: 19/05/2015",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "co_quan_cap": {
+   "value": "CÔNG AN TỈNH BÌNH ĐỊNH",
+   "normalized": "CÔNG AN TỈNH BÌNH ĐỊNH",
+   "page": 2,
+   "evidence": "CÔNG AN TỈNH BÌNH ĐỊNH PHÒNG CẢNH SÁT GIAO THÔNG",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  }
+ },
+ "unit_note": null
+}

@@ -1,0 +1,16 @@
+{
+  "unit_id": "a76ae560baf3_0",
+  "annotator": "haiku",
+  "doc_type": "GPLX",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_gplx": {"value": null, "normalized": null, "page": 1, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "ho_ten": {"value": "HUỲNH VIỆT NAM", "normalized": "HUỲNH VIỆT NAM", "page": 1, "evidence": "Họ tên/Full name: HUỲNH VIỆT NAM", "ink": "printed", "status": "ok", "note": null},
+    "ngay_sinh": {"value": null, "normalized": null, "page": 1, "evidence": null, "ink": "printed", "status": "ok", "note": null},
+    "hang": {"value": "FC", "normalized": "FC", "page": 1, "evidence": "Hạng/Class: FC", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "04 tháng 11 năm 2020", "normalized": "2020-11-04", "page": 1, "evidence": "ngày/date 04 tháng/month 11 năm/year 2020", "ink": "printed", "status": "ok", "note": null},
+    "noi_cap": {"value": "Bình Định", "normalized": "Bình Định", "page": 1, "evidence": "Bình Định, ngày/date 04 tháng/month", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "04/11/2025", "normalized": "2025-11-04", "page": 1, "evidence": "Có giá trị đến/Expires: 04/11/2025", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

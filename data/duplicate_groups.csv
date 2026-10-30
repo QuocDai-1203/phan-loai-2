@@ -1,0 +1,63 @@
+﻿near_dup_group,doc_id,relative_path,folder_label,group_size,group_cross_label,evidence,nearest_doc_id,page1_hamming,page_pixel_diff,text_similarity,page_count
+D001,7a8cbcc46988,10. GCN VC HNH/15. GCN VC HNH Dong (12-5-24).pdf,10. GCN VC HNH,2,False,bytes+image,f1b1b0b1d43a,0,0.0000,1.000,2
+D001,f1b1b0b1d43a,10. GCN VC HNH/15. GCN VC HNH Dong (BC-12-5-24).pdf,10. GCN VC HNH,2,False,bytes+image,7a8cbcc46988,0,0.0000,1.000,2
+D002,477e767342cf,10. GCN VC HNH/35. GCN VCHNH Bac (BC-12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,9e7703a7cd5c,0,0.0000,1.000,2
+D002,9e7703a7cd5c,8. GCN Lop dao tao van chuyen hang chay no/35. GCN VCHNH Bắc (BC-12-5-24).pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,477e767342cf,0,0.0000,1.000,2
+D003,5687cf093949,10. GCN VC HNH/37. GCN VC HNH Chinh (BC-12-5-24).pdf,10. GCN VC HNH,3,True,bytes+image,b3c777e0c63d,0,0.0000,1.000,2
+D003,b3c777e0c63d,8. GCN Lop dao tao van chuyen hang chay no/37. GCN VC HNH Chính (BC-12-5-24).pdf,8. GCN Lop dao tao van chuyen hang chay no,3,True,bytes+image,5687cf093949,0,0.0000,1.000,2
+D003,3277cb80cc32,9. TỔNG HỢP HỒ SƠ CỬA HÀNG/12. VCHNH Chính (12-5-24).pdf,9. TỔNG HỢP HỒ SƠ CỬA HÀNG,3,True,bytes+image,5687cf093949,0,0.0000,1.000,2
+D004,91e3dcb5fa4e,10. GCN VC HNH/38. GCN VC HNH Nguyen (BC-12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,e34bb05e56f7,0,0.0000,1.000,2
+D004,e34bb05e56f7,8. GCN Lop dao tao van chuyen hang chay no/38. GCN VC HNH Nguyên (BC-12-5-24).pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,91e3dcb5fa4e,0,0.0000,1.000,2
+D005,86ef36a8af53,10. GCN VC HNH/58. GCN VC HNH Tuan (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,54fbbcda7fbd,0,0.0000,1.000,2
+D005,54fbbcda7fbd,8. GCN Lop dao tao van chuyen hang chay no/58. GCN VC HNH-Tuấn.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,86ef36a8af53,0,0.0000,1.000,2
+D006,492786321ef5,10. GCN VC HNH/59. GCN VC HNH Thong (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,e651a2ba1d28,0,0.0000,1.000,2
+D006,e651a2ba1d28,8. GCN Lop dao tao van chuyen hang chay no/59. GCN VC HNH-Thông.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,492786321ef5,0,0.0000,1.000,2
+D007,6c5d851bee62,10. GCN VC HNH/60. GCN VC HNH Hung (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,ac0b09a39484,0,0.0000,1.000,2
+D007,ac0b09a39484,8. GCN Lop dao tao van chuyen hang chay no/60. GCN vc hàng nguy hiểm- Hùng.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,6c5d851bee62,0,0.0000,1.000,2
+D008,6bba6e19b224,10. GCN VC HNH/61. GCN VC HNH Hong (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,92131627b18c,0,0.0000,1.000,2
+D008,92131627b18c,8. GCN Lop dao tao van chuyen hang chay no/61. GCN vc hàng nguy hiểm-Hồng.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,6bba6e19b224,0,0.0000,1.000,2
+D009,bf89d7cbbb3a,10. GCN VC HNH/63. GCN VC HNH Trung ĐK (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,df2547f38326,0,0.0000,1.000,2
+D009,df2547f38326,8. GCN Lop dao tao van chuyen hang chay no/63. GCN vc hàng nguy hiểm-Trung ĐK.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,bf89d7cbbb3a,0,0.0000,1.000,2
+D010,8601fc242d48,10. GCN VC HNH/64. GCN VC HNH Binh (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,1bbb7ff0ef67,0,0.0000,1.000,2
+D010,1bbb7ff0ef67,8. GCN Lop dao tao van chuyen hang chay no/64. GCN vc hàng nguy hiểm-Bình.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,8601fc242d48,0,0.0000,1.000,2
+D011,85033d4e9dd4,10. GCN VC HNH/65. GCN VC HNH Nhieu (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,ed2519c58fd8,0,0.0000,1.000,2
+D011,ed2519c58fd8,8. GCN Lop dao tao van chuyen hang chay no/65. GCN vc hàng nguy hiểm-Nhiễu.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,85033d4e9dd4,0,0.0000,1.000,2
+D012,f35e74ca0451,10. GCN VC HNH/67. GCN VC HNH Hao (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,ebb508efb4ef,0,0.0000,1.000,2
+D012,ebb508efb4ef,8. GCN Lop dao tao van chuyen hang chay no/67. GCN VC HNH-Hào.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,f35e74ca0451,0,0.0000,1.000,2
+D013,c5b5157a16a2,10. GCN VC HNH/69. GCN VCHNH Trung (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,f64236d24cad,0,0.0000,1.000,2
+D013,f64236d24cad,8. GCN Lop dao tao van chuyen hang chay no/69. GCN VCHNH- Trung.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,c5b5157a16a2,0,0.0000,1.000,2
+D014,0de59cef5b62,10. GCN VC HNH/72. GCN VC HNH Nhan (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,1f301cb3f483,0,0.0000,1.000,2
+D014,1f301cb3f483,8. GCN Lop dao tao van chuyen hang chay no/72. GCN VC HNH-Nhàn.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,0de59cef5b62,0,0.0000,1.000,2
+D015,ffe5d6efcab4,10. GCN VC HNH/75. GCN VC HNH Dat (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,fee070edfee1,0,0.0000,1.000,2
+D015,fee070edfee1,8. GCN Lop dao tao van chuyen hang chay no/75. GCN vc hàng nguy hiểm-Đạt.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,ffe5d6efcab4,0,0.0000,1.000,2
+D016,8b8e965f3848,10. GCN VC HNH/77. GCN VC HNH Nam (12-5-24).pdf,10. GCN VC HNH,2,True,bytes+image,45ad8cf4a113,0,0.0000,1.000,2
+D016,45ad8cf4a113,8. GCN Lop dao tao van chuyen hang chay no/77. GCN vc hàng nguy hiểm-Nam.pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,8b8e965f3848,0,0.0000,1.000,2
+D017,dcec81062942,6. HOP DONG MUON BON/HDMBCD-05.2016-TAM PHUC PHU-01-09-2016.pdf,6. HOP DONG MUON BON,2,True,bytes+image+text,d49ec4a7a01e,0,0.0000,1.000,6
+D017,d49ec4a7a01e,6. HOP DONG THUE KHO- Vi/HDMBCD-05.2016-TAM PHUC PHU-01-09-2016.pdf,6. HOP DONG THUE KHO- Vi,2,True,bytes+image+text,dcec81062942,0,0.0000,1.000,6
+D018,b640e255862b,6. HOP DONG MUON BON/HDMBCD-05.2020-ANH DUNG-01.02.2020.pdf,6. HOP DONG MUON BON,2,True,bytes+image+text,e6b938fcd112,0,0.0000,1.000,2
+D018,e6b938fcd112,6. HOP DONG THUE KHO- Vi/HDMBCD-05.2020-ANH DUNG-01.02.2020.pdf,6. HOP DONG THUE KHO- Vi,2,True,bytes+image+text,b640e255862b,0,0.0000,1.000,2
+D019,bde0e32155f7,8. CUA HANG - TU K.TRA PCCC- VÂN/GHE 3-T1+T2.pdf,8. CUA HANG - TU K.TRA PCCC- VÂN,2,True,bytes+image+text,a5c9239592cc,0,0.0000,1.000,26
+D019,a5c9239592cc,TU K.TRA PCCC- VÂN/GHE 3-T1+T2.pdf,TU K.TRA PCCC- VÂN,2,True,bytes+image+text,bde0e32155f7,0,0.0000,1.000,26
+D020,498cd5744268,8. CUA HANG - TU K.TRA PCCC- VÂN/PCCC G1-22.pdf,8. CUA HANG - TU K.TRA PCCC- VÂN,2,True,bytes+image+text,79ee0183b45e,0,0.0000,1.000,50
+D020,79ee0183b45e,TU K.TRA PCCC- VÂN/PCCC G1-22.pdf,TU K.TRA PCCC- VÂN,2,True,bytes+image+text,498cd5744268,0,0.0000,1.000,50
+D021,422c73c380ca,8. GCN Lop dao tao van chuyen hang chay no/39. GCN VC HNH Tấn (BC-12-5-24).pdf,8. GCN Lop dao tao van chuyen hang chay no,2,True,bytes+image,2644b36633e9,0,0.0000,1.000,2
+D021,2644b36633e9,9. TỔNG HỢP HỒ SƠ CỬA HÀNG/38. VC HNH Tấn (BC-12-5-24)_2.pdf,9. TỔNG HỢP HỒ SƠ CỬA HÀNG,2,True,bytes+image,422c73c380ca,0,0.0000,1.000,2
+D022,4f3f0793516b,_1. Giay DKKD khach hang/GPKD-AN PHÁT LAND.pdf,_1. Giay DKKD khach hang,2,True,bytes+image+text,91b27ef9b6bf,0,0.0000,1.000,1
+D022,91b27ef9b6bf,_1. HOP DONG DAI LY NHUONG QUYEN/GPKD-AN PHAT LAND.pdf,_1. HOP DONG DAI LY NHUONG QUYEN,2,True,bytes+image+text,4f3f0793516b,0,0.0000,1.000,1
+D023,447c5ea610e9,_1. Giay DKKD khach hang/GPKD-BẢO ÂN PHÁT.pdf,_1. Giay DKKD khach hang,2,True,bytes+image+text,85bc9bb8d2d3,0,0.0000,1.000,1
+D023,85bc9bb8d2d3,_1. HOP DONG DAI LY NHUONG QUYEN/GPKD-BẢO ÂN PHÁT.pdf,_1. HOP DONG DAI LY NHUONG QUYEN,2,True,bytes+image+text,447c5ea610e9,0,0.0000,1.000,1
+D024,dbc8b0c354da,_1. Giay DKKD khach hang/GPKD-LÊ VĂN CƯỜNG.pdf,_1. Giay DKKD khach hang,2,True,bytes+image+text,a34cdeb06729,0,0.0000,1.000,2
+D024,a34cdeb06729,_1. HOP DONG DAI LY NHUONG QUYEN/GPKD-LÊ VĂN CƯỜNG.pdf,_1. HOP DONG DAI LY NHUONG QUYEN,2,True,bytes+image+text,dbc8b0c354da,0,0.0000,1.000,2
+D025,a847bccb6c00,_1. Giay DKKD khach hang/GPKD-PHƯƠNG BẰNG.pdf,_1. Giay DKKD khach hang,2,True,bytes+image+text,9e3cc5dfe082,0,0.0000,1.000,2
+D025,9e3cc5dfe082,_1. HOP DONG DAI LY NHUONG QUYEN/GPKD-PHƯƠNG BẰNG.pdf,_1. HOP DONG DAI LY NHUONG QUYEN,2,True,bytes+image+text,a847bccb6c00,0,0.0000,1.000,2
+D026,fb2e0d20d6df,_1. HOP DONG DAI LY NHUONG QUYEN/DDK-DUC TRONG-12.3.24.pdf,_1. HOP DONG DAI LY NHUONG QUYEN,2,True,bytes+image+text,02ee3aa79006,0,0.0000,1.000,2
+D026,02ee3aa79006,_2. Giay Du Dieu Kien Khach hang/DDK-ĐỨC TRỌNG.pdf,_2. Giay Du Dieu Kien Khach hang,2,True,bytes+image+text,fb2e0d20d6df,0,0.0000,1.000,2
+D027,cde10edb42f9,_1. HOP DONG DAI LY NHUONG QUYEN/DDK-HONG CAT 2-28.3.24.pdf,_1. HOP DONG DAI LY NHUONG QUYEN,2,True,bytes+image+text,6aa9d45f5434,0,0.0000,1.000,1
+D027,6aa9d45f5434,_2. Giay Du Dieu Kien Khach hang/DDK-HỒNG CÁT 3.pdf,_2. Giay Du Dieu Kien Khach hang,2,True,bytes+image+text,cde10edb42f9,0,0.0000,1.000,1
+D028,32d81c4d2ed6,_1. HOP DONG DAI LY NHUONG QUYEN/DDK-HONG QUE-20.5.26.pdf,_1. HOP DONG DAI LY NHUONG QUYEN,2,True,bytes+image+text,110794f1b780,0,0.0000,1.000,1
+D028,110794f1b780,_2. Giay Du Dieu Kien Khach hang/DDK-HONG QUE-20.5.26.pdf,_2. Giay Du Dieu Kien Khach hang,2,True,bytes+image+text,32d81c4d2ed6,0,0.0000,1.000,1
+D029,b980acb58644,_2. Giay Du Dieu Kien Khach hang/DDK-DUY NGUYEN-27.7.26.pdf,_2. Giay Du Dieu Kien Khach hang,3,False,bytes+image+text,833513f76ff8,0,0.0000,1.000,1
+D029,833513f76ff8,_2. Giay Du Dieu Kien Khach hang/DDK-DUY NGUYEN-27.7.26_1.pdf,_2. Giay Du Dieu Kien Khach hang,3,False,bytes+image+text,b980acb58644,0,0.0000,1.000,1
+D029,eb3f96023b71,_2. Giay Du Dieu Kien Khach hang/DDK-DUY NGUYÊN.pdf,_2. Giay Du Dieu Kien Khach hang,3,False,bytes+image+text,b980acb58644,0,0.0000,1.000,1
+D030,b3376a947f61,_2. Giay Du Dieu Kien Khach hang/DDK-HUONG SON-10.5.26.pdf,_2. Giay Du Dieu Kien Khach hang,2,False,bytes+image+text,7430c0906e7b,0,0.0000,1.000,1
+D030,7430c0906e7b,_2. Giay Du Dieu Kien Khach hang/DDK-HƯƠNG SƠN.pdf,_2. Giay Du Dieu Kien Khach hang,2,False,bytes+image+text,b3376a947f61,0,0.0000,1.000,1

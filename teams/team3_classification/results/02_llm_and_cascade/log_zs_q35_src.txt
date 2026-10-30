@@ -1,0 +1,4 @@
+[21:15:11]   q35_s1_short_c2000 / haiku_p12: 237 tài liệu, 22s, parse_fail=0.000
+[21:25:15]   q35_s2_short_c2000 / haiku_p12: 237 tài liệu, 604s, parse_fail=0.000
+[21:27:48]   q35_s1_short_c2000 / legacy_p1: 237 tài liệu, 153s, parse_fail=0.013
+[21:34:03]   q35_s2_short_c2000 / legacy_p1: 237 tài liệu, 374s, parse_fail=0.013

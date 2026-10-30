@@ -1,0 +1,84 @@
+{
+ "unit_id": "c937939735f2_0",
+ "annotator": "sonnet",
+ "doc_type": "CC_NGHIEP_VU_BVMT",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_vao_so": {
+   "value": "93838",
+   "normalized": "93838",
+   "page": 1,
+   "evidence": "Vào số số: 93838",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "ho_ten": {
+   "value": "Phạm Ngọc Hoàng",
+   "normalized": "Phạm Ngọc Hoàng",
+   "page": 1,
+   "evidence": "Cấp cho: Phạm Ngọc Hoàng",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "nam_sinh": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "noi_dung_khoa_hoc": {
+   "value": "Bảo vệ môi trường trong KD xăng dầu theo Nghị định 83/2014/NĐ-CP",
+   "normalized": "Bảo vệ môi trường trong KD xăng dầu theo Nghị định 83/2014/NĐ-CP",
+   "page": 1,
+   "evidence": "Bảo vệ môi trường trong KD xăng dầu theo Nghị định 83/2014/NĐ-CP",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "thoi_gian_hoc": {
+   "value": "Từ ngày: 28/5/2022 Đến ngày: 02/6/2022",
+   "normalized": "Từ ngày: 28/5/2022 Đến ngày: 02/6/2022",
+   "page": 1,
+   "evidence": "Từ ngày: 28/5/2022 Đến ngày: 02/6/2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "co_so_dao_tao": {
+   "value": "TRƯỜNG CAO ĐẲNG THƯƠNG MẠI",
+   "normalized": "TRƯỜNG CAO ĐẲNG THƯƠNG MẠI",
+   "page": 1,
+   "evidence": "BỘ CÔNG THƯƠNG TRƯỜNG CAO ĐẲNG THƯƠNG MẠI",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "03/6/2022",
+   "normalized": "2022-06-03",
+   "page": 1,
+   "evidence": "Ngày: 03/6/2022",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

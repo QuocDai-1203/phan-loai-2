@@ -1,0 +1,93 @@
+{
+ "unit_id": "7bbc9f2bf3ef_0",
+ "annotator": "sonnet",
+ "doc_type": "GCN_BAO_HIEM",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_gcn_bao_hiem": {
+   "value": "BB22/0182693",
+   "normalized": "BB22/0182693",
+   "page": 1,
+   "evidence": "Số GCNBH: BB22/ 0182693",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "cong_ty_bao_hiem": {
+   "value": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG",
+   "normalized": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG",
+   "page": 2,
+   "evidence": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM HÀNG KHÔNG",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "loai_bao_hiem": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "nguoi_duoc_bao_hiem": {
+   "value": "Công Ty cổ phần TM DV Hiệp Hòa",
+   "normalized": "Công Ty cổ phần TM DV Hiệp Hòa",
+   "page": 1,
+   "evidence": "Chủ xe: Công Ty cổ phần TM DV Hiệp Hòa",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "doi_tuong_bao_hiem": {
+   "value": "77R. 02645",
+   "normalized": "77R. 02645",
+   "page": 1,
+   "evidence": "Biển kiểm soát: 77R. 02645",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "chu_viet_tay_kho_doc"
+  },
+  "so_tien_bao_hiem": {
+   "value": "400.000.000 đồng",
+   "normalized": "400.000.000 đồng",
+   "page": 1,
+   "evidence": "Số tiền bảo hiểm: 400.000.000 đồng",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "chi_ghi_muc_vat_chat_xe"
+  },
+  "phi_bao_hiem": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": null,
+   "status": "illegible",
+   "note": "chu_viet_tay_lech_dong_khong_chac"
+  },
+  "hieu_luc_tu": {
+   "value": "05 tháng 02 năm 2023",
+   "normalized": "2023-02-05",
+   "page": 1,
+   "evidence": "Từ 07 giờ 00, ngày 05 tháng 02 năm 2023",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "05 tháng 02 năm 2024",
+   "normalized": "2024-02-05",
+   "page": 1,
+   "evidence": "Đến 07 giờ 00, ngày 05 tháng 02 năm 2024",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

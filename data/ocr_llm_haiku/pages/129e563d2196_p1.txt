@@ -1,0 +1,38 @@
+PHIẾU XUẤT KHO THÀNH PHẨM | VHSX
+Ngày: 20/01/2026
+Ký hiệu: BSR/PXK/DO
+Số: 2602392
+[dấu: CÔNG TY CỔ PHẦN LỌC HÓA DẦU BÌNH SƠN TỈNH QUẢNG NGÃI M.S.D.N: 4300378569]
+Lý do xuất kho: XUẤT BÁN SẢN PHẨM theo hợp đồng số 1872/HĐKT/BSR-MIPEC/2026 ngày 31 tháng 12 năm 2025 giữa BSR và Công ty Cổ phần Hóa dầu Quân đội
+Lệnh xuất hàng: 501/LXHXB-DO-200126-197-0 (8000147655)
+Xuất tại bồn số: TK-5207B | Kho: P3 - Nhà máy lọc dầu Dung Quất
+Bên giao: Công ty cổ phần Lọc hoá dầu Bình Sơn (BSR)
+Đại diện bên giao: NGUYỄN TRUNG THÔNG
+Bên nhận: Công ty Cổ phần Hóa dầu Quân đội
+Địa chỉ: Nhà N1, 33b Phạm Ngũ Lão Phường Cửa Nam Thành phố Hà Nội.
+Đại diện bên nhận: NGO THI HONG SA
+Theo giấy giới thiệu/Quy định theo hợp đồng/ Phụ lục hợp đồng số 002/2026/GGT-MIPEX
+1. Phương tiện và thời gian xuất:
+Phương tiện: 77R-01926 (77C-13583) | Đến kho lúc: 18 giờ 39 phút ngày 20 tháng 01 năm 2026
+Bắt đầu lúc: 19 giờ 08 phút ngày 20 tháng 01 năm 2026 | Kết thúc lúc: 20 giờ 07 phút ngày 20 tháng 01 năm 2026
+2. Số lượng xuất:
+Tên thành phẩm - Quy cách | Số lượng: Bbls (thùng) | M3 (tại 15°C) | MT (tấn) | M3 thực tế
+Nhiên liệu điêzen (DO 0,05S) mức 2 | 247,611 | 39,347 | 32,568 | 39,996
+Số lượng thực xuất viết bằng chữ theo số lượng thùng/ tấn (FO, LPG, PR):
+Hai trăm bốn mươi bảy phẩy sáu trăm mười một thùng
+3. Hệ số đồng hồ.
+Đồng hồ | MF1 | MF2 | MF3 | MF4 | MF5
+053FQI010 | 1,000359 | 1,000032 | 1,000075 | 1,000005 | N/A
+4. Các thông tin khác.
+Số chứng thư chất lượng (COQ) | Hầm | VCF | Tỷ trọng ở 15°C (kg/l) | Áp suất trung bình (kg/cm²g) | Nhiệt độ trung bình (°C)
+DO-019-202601180827 | 01 | 0,983700 | 0,8288 | 5,50 | 34,0
+DO-019-202601180827 | 02 | 0,984000 | 0,8288 | 5,10 | 33,6
+DO-019-202601180827 | 03 | 0,983500 | 0,8288 | 5,50 | 34,1
+DO-019-202601180827 | 04 | 0,983700 | 0,8288 | 5,30 | 33,9
+DO-019-202601180827 | 05 | 0,983800 | 0,8288 | 5,20 | 33,8
+DO-019-202601180827 | 06 | 0,983900 | 0,8288 | 5,40 | 33,8
+Người lập phiếu (Ký, ghi rõ họ tên) | Đại diện bên giao (Ký, ghi rõ họ tên) | Đại diện bên nhận (Ký, ghi rõ họ tên)
+[chữ ký] | [chữ ký] | [chữ ký]
+Nguyễn Trung Thông | Nguyễn Trung Thông | Ngô Thi Hồng Sa
+Biểu mẫu BSR-PMD-PRO-084/F-022, rev 0, 26/08/2025 | 1 / 1
+Văn bản được tải lên hệ thống eoffice.bsr.com.vn. Với số định danh: BSR/PXK/DO

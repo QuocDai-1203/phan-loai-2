@@ -1,0 +1,18 @@
+{
+  "unit_id": "d244fbe93911_0",
+  "annotator": "haiku",
+  "doc_type": "HD_VAN_CHUYEN",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_hop_dong": {"value": "02/2026/HĐTVC-HH", "normalized": "02/2026/HĐTVC-HH", "page": 1, "evidence": "Số: 02/2026/HĐTVC-HH", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "ngày 05 tháng 08 năm 2026", "normalized": "2026-08-05", "page": 1, "evidence": "Hôm nay, ngày 05 tháng 08 năm 2026", "ink": "printed", "status": "ok", "note": null},
+    "ben_chu_hang": {"value": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA, Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA, Mã số thuế: 4100668616", "page": 1, "evidence": "I/ BÊN A: CÔNG TY CỔ PHẦN TM-DV HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "ben_van_chuyen": {"value": "CÔNG TY CỔ PHẦN XÂY DỰNG DỊCH VỤ VÀ THƯƠNG MẠI SƠN LỘC, Mã số thuế: 0401140597", "normalized": "CÔNG TY CỔ PHẦN XÂY DỰNG DỊCH VỤ VÀ THƯƠNG MẠI SƠN LỘC, Mã số thuế: 0401140597", "page": 1, "evidence": "II/ BÊN B: CÔNG TY CỔ PHẦN XÂY DỰNG DỊCH VỤ", "ink": "printed", "status": "ok", "note": null},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "tuyen_van_chuyen": {"value": "kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định", "normalized": "kho của công ty xăng dầu đầu mối hoặc địa điểm do bên A chỉ định", "page": 1, "evidence": "nhận hàng tại kho của công ty xăng dầu đầu mối", "ink": "printed", "status": "ok", "note": null},
+    "gia_cuoc": {"value": "Giá cả do hai bên thỏa thuận theo từng thời điểm; phương thức tính theo lít vận chuyển", "normalized": "Giá cả do hai bên thỏa thuận theo từng thời điểm; phương thức tính theo lít vận chuyển", "page": 2, "evidence": "Giá cả do hai bên thỏa thuận theo từng thời điểm", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "từ ngày ký", "normalized": null, "page": 2, "evidence": "Hợp đồng này có hiệu lực từ ngày ký", "ink": "printed", "status": "ok", "note": "tinh_tu_ngay_ky"},
+    "hieu_luc_den": {"value": "31/12/2026", "normalized": "2026-12-31", "page": 2, "evidence": "có hiệu lực từ ngày ký đến hết ngày 31/12/2026", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

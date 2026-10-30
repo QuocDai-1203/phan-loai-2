@@ -1,0 +1,84 @@
+{
+ "unit_id": "b8b72c553653_0",
+ "annotator": "sonnet",
+ "doc_type": "GIAY_UY_QUYEN",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_van_ban": {
+   "value": "789[?]/PLXGL-GUQ",
+   "normalized": "789[?]/PLXGL-GUQ",
+   "page": 1,
+   "evidence": "Số: 789[?]/PLXGL-GUQ",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "chu_so_cuoi_viet_tay_khong_chac"
+  },
+  "ngay_ky": {
+   "value": "01 tháng 10 năm 2025",
+   "normalized": "2025-10-01",
+   "page": 1,
+   "evidence": "Gia Lai, ngày 01 tháng 10 năm 2025",
+   "ink": "printed",
+   "status": "ok",
+   "note": "so_ngay_viet_tay"
+  },
+  "to_chuc_uy_quyen": {
+   "value": "CÔNG TY TNHH MỘT THÀNH VIÊN PETROLIMEX GIA LAI",
+   "normalized": "CÔNG TY TNHH MỘT THÀNH VIÊN PETROLIMEX GIA LAI",
+   "page": 1,
+   "evidence": "CÔNG TY TNHH MỘT THÀNH VIÊN PETROLIMEX GIA LAI",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "nguoi_uy_quyen": {
+   "value": "BÙI NGHĨA THẢO - Chức vụ: Giám đốc Công ty TNHH MTV Petrolimex Gia Lai",
+   "normalized": "BÙI NGHĨA THẢO - Chức vụ: Giám đốc Công ty TNHH MTV Petrolimex Gia Lai",
+   "page": 1,
+   "evidence": "Ông: BÙI NGHĨA THẢO. Chức vụ: Giám đốc Công ty TNHH MTV",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "nguoi_duoc_uy_quyen": {
+   "value": "NGUYỄN VĂN THẮNG - Chức vụ: Phó giám đốc Công ty TNHH MTV Petrolimex Gia Lai",
+   "normalized": "NGUYỄN VĂN THẮNG - Chức vụ: Phó giám đốc Công ty TNHH MTV Petrolimex Gia Lai",
+   "page": 1,
+   "evidence": "Ông: NGUYỄN VĂN THẮNG. Chức vụ: Phó giám đốc Công ty TNHH MTV",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "noi_dung_uy_quyen": {
+   "value": "Ký các văn bản điều hành hàng ngày về công tác Kinh doanh Xăng dầu sáng trong toàn Công ty",
+   "normalized": "Ký các văn bản điều hành hàng ngày về công tác Kinh doanh Xăng dầu sáng trong toàn Công ty",
+   "page": 1,
+   "evidence": "Ký các văn bản điều hành hàng ngày về công tác Kinh doanh",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hieu_luc_tu": {
+   "value": "01/10/2025",
+   "normalized": "2025-10-01",
+   "page": 2,
+   "evidence": "có hiệu lực kể từ ngày 01/10/2025 đến hết ngày 31/12/2025",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "31/12/2025",
+   "normalized": "2025-12-31",
+   "page": 2,
+   "evidence": "có hiệu lực kể từ ngày 01/10/2025 đến hết ngày 31/12/2025",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

@@ -1,0 +1,18 @@
+{
+  "unit_id": "81c6e933b541_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "697/GCNĐĐK-SCT", "normalized": "697/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 697/GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "03 tháng 4 năm 2023", "normalized": "2023-04-03", "page": 1, "evidence": "Quảng Ngãi, ngày 03 tháng 4 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI", "normalized": "SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH QUẢNG NGÃI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Tàu Ngọc Toàn, BSĐK: QNg-0353", "normalized": "Tàu Ngọc Toàn, BSĐK: QNg-0353", "page": 1, "evidence": "Tàu Ngọc Toàn, BSĐK: QNg-0353", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Khu vực sông Trà Bồng, xã Bình Đông, huyện Bình Sơn, tỉnh Quảng Ngãi", "normalized": "Khu vực sông Trà Bồng, xã Bình Đông, huyện Bình Sơn, tỉnh Quảng Ngãi", "page": 1, "evidence": "Khu vực sông Trà Bồng, xã Bình Đông, huyện Bình Sơn", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Một thành viên Thịnh Vượng Bình Chánh; Mã số thuế: 4300717356", "normalized": "Công ty TNHH Một thành viên Thịnh Vượng Bình Chánh; Mã số thuế: 4300717356", "page": 1, "evidence": "Công ty TNHH Một thành viên Thịnh Vượng Bình Chánh", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại – dịch vụ Hòa Hiệp; Mã số thuế: 4100668616", "normalized": "Công ty cổ phần thương mại – dịch vụ Hòa Hiệp; Mã số thuế: 4100668616", "page": 1, "evidence": "Tên thương nhân: Công ty cổ phần thương mại – dịch vụ Hòa Hiệp", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lại lần thứ năm: Ngày 03 tháng 4 năm 2023", "normalized": "Cấp lại lần thứ năm: Ngày 03 tháng 4 năm 2023", "page": 1, "evidence": "Cấp lại lần thứ năm: Ngày 03 tháng 4 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "10 tháng 12 năm 2023", "normalized": "2023-12-10", "page": 1, "evidence": "có giá trị đến hết ngày 10 tháng 12 năm 2023", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_mo_nhe, co_dau_ky_dien_tu"
+}

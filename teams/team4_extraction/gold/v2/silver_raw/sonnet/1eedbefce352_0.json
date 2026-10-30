@@ -1,0 +1,94 @@
+{
+ "unit_id": "1eedbefce352_0",
+ "annotator": "sonnet",
+ "doc_type": "HD_MUON_BON",
+ "pages_seen": [
+  1,
+  2,
+  3
+ ],
+ "fields": {
+  "so_hop_dong": {
+   "value": "05/2022/HĐMB-HH",
+   "normalized": "05/2022/HĐMB-HH",
+   "page": 1,
+   "evidence": "Số: 05/2022/HĐMB-HH",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_ky": {
+   "value": "08 tháng 01 năm 2022",
+   "normalized": "2022-01-08",
+   "page": 1,
+   "evidence": "ngày 08 tháng 01 năm 2022, tại văn phòng Công ty",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_cho_muon": {
+   "value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616",
+   "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616",
+   "page": 1,
+   "evidence": "BÊN A: CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_muon": {
+   "value": "CÔNG TY TNHH MTV BẢO TRÂN KON TUM; Mã số thuế: 4100511982",
+   "normalized": "CÔNG TY TNHH MTV BẢO TRÂN KON TUM; Mã số thuế: 4100511982",
+   "page": 1,
+   "evidence": "BÊN B: CÔNG TY TNHH MTV BẢO TRÂN KON TUM",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_luong_bon": {
+   "value": "01",
+   "normalized": "1",
+   "page": 1,
+   "evidence": "mượn 01 bồn chứa dầu dung tích 40.000 lít",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "dung_tich_bon": {
+   "value": "40.000 lít",
+   "normalized": "40000",
+   "page": 1,
+   "evidence": "01 bồn chứa dầu dung tích 40.000 lít bằng sắt",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_nhan_bon": {
+   "value": "08 tháng 01 năm 2022",
+   "normalized": "2022-01-08",
+   "page": 3,
+   "evidence": "BIÊN BẢN NHẬN BỒN Hôm nay, ngày 08 tháng 01 năm 2022",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_tra_bon": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "hieu_luc_den": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  }
+ },
+ "unit_note": "anh_mo: p02_b"
+}

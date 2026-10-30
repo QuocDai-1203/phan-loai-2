@@ -1,0 +1,183 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "sdh-phanloaitailieu/team4/schema/GP_KD_VAN_TAI",
+  "title": "GP_KD_VAN_TAI - Giấy phép kinh doanh vận tải bằng xe ô tô",
+  "description": "Giấy phép kinh doanh vận tải bằng xe ô tô. Trường hạn: ngay_het_han (nếu có ghi).",
+  "type": "object",
+  "properties": {
+    "so_giay_phep": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Số giấy phép"
+    },
+    "ngay_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày cấp"
+    },
+    "co_quan_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Cơ quan cấp"
+    },
+    "don_vi_duoc_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Tên đơn vị được cấp"
+    },
+    "loai_hinh_van_tai": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Các loại hình vận tải được phép"
+    },
+    "lan_cap": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Cấp lần thứ mấy"
+    },
+    "ngay_het_han": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Ngày hết hạn, nếu giấy có ghi thời hạn"
+    }
+  },
+  "required": [
+    "so_giay_phep",
+    "ngay_cap",
+    "co_quan_cap",
+    "don_vi_duoc_cap",
+    "loai_hinh_van_tai",
+    "lan_cap",
+    "ngay_het_han"
+  ],
+  "additionalProperties": false,
+  "x-doc_type": "GP_KD_VAN_TAI",
+  "x-taxonomy_version": "2.0",
+  "x-status": "draft - chờ nhóm 00 và người của công ty duyệt (câu 11, 13, 14)",
+  "x-missing_value_convention": {
+    "null_with_reason": {
+      "not_present": "Giấy không ghi trường này (đáp án đúng là null). Với silver: 'không có trên các trang được cho xem'.",
+      "not_found": "Giấy có ghi nhưng bộ trích xuất không tìm thấy (lỗi của phương pháp, tính là FN).",
+      "illegible": "Có ghi nhưng không đọc được (mờ, dưới con dấu, chữ viết tay). Đáp án illegible bị LOẠI khỏi điểm."
+    },
+    "note": "Giá trị vắng luôn là null, không bao giờ là chuỗi rỗng, 'N/A', '-' hay số 0."
+  },
+  "x-fields": [
+    {
+      "name": "so_giay_phep",
+      "desc": "Số giấy phép",
+      "annotator_hint": "Số giấy phép.",
+      "type": "id",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe",
+      "id_kind": "document_no"
+    },
+    {
+      "name": "ngay_cap",
+      "desc": "Ngày cấp",
+      "annotator_hint": "Ngày cấp.",
+      "type": "date",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "co_quan_cap",
+      "desc": "Cơ quan cấp",
+      "annotator_hint": "Cơ quan cấp (Sở Giao thông vận tải...).",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "don_vi_duoc_cap",
+      "desc": "Tên đơn vị được cấp",
+      "annotator_hint": "Tên đơn vị được cấp.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": true,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "loai_hinh_van_tai",
+      "desc": "Các loại hình vận tải được phép",
+      "annotator_hint": "Các loại hình vận tải được phép, chép cụm như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "lan_cap",
+      "desc": "Cấp lần thứ mấy",
+      "annotator_hint": "'cấp lần thứ …' / 'cấp đổi'; chép cụm như in.",
+      "type": "text",
+      "is_expiry": false,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    },
+    {
+      "name": "ngay_het_han",
+      "desc": "Ngày hết hạn, nếu giấy có ghi thời hạn",
+      "annotator_hint": "Ngày hết hạn nếu giấy ghi thời hạn. Chép đúng ngày in trên giấy. Nếu giấy chỉ ghi khoảng thời gian không kèm ngày: value = cụm như in, normalized = null, note = 'chi_ghi_thoi_han'. Không tự cộng ngày từ ngày cấp. Không ghi hạn: not_present.",
+      "type": "date",
+      "is_expiry": true,
+      "is_pii": false,
+      "pii_category": null,
+      "typical_ink": "unknown",
+      "required": false,
+      "multi": false,
+      "annotate": true,
+      "silver_policy": "transcribe"
+    }
+  ],
+  "x-expiry_fields": [
+    "ngay_het_han"
+  ]
+}

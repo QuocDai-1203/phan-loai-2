@@ -1,0 +1,75 @@
+{
+ "unit_id": "46de162a60f9_0",
+ "annotator": "sonnet",
+ "doc_type": "GPLX",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_gplx": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ho_ten": {
+   "value": "PHẠM VĂN TUẤN",
+   "normalized": "PHẠM VĂN TUẤN",
+   "page": 1,
+   "evidence": "Họ tên/Full name: PHẠM VĂN TUẤN",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_sinh": {
+   "value": null,
+   "normalized": null,
+   "page": 1,
+   "evidence": null,
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hang": {
+   "value": "E, FC",
+   "normalized": "E, FC",
+   "page": 1,
+   "evidence": "Hạng/Class: E, FC",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "12 tháng/month 08 năm/year 2021",
+   "normalized": "2021-08-12",
+   "page": 1,
+   "evidence": "Bình Định, ngày/date 12 tháng/month 08 năm/year 2021",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "noi_cap": {
+   "value": "Bình Định",
+   "normalized": "Bình Định",
+   "page": 1,
+   "evidence": "Bình Định, ngày/date 12 tháng/month 08",
+   "ink": "printed",
+   "status": "ok",
+   "note": "theo_dia_danh_ky"
+  },
+  "ngay_het_han": {
+   "value": "12/08/2026",
+   "normalized": "2026-08-12",
+   "page": 1,
+   "evidence": "Có giá trị đến/Expires: 12/08/2026",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "the_nho_nua_duoi_trang"
+}

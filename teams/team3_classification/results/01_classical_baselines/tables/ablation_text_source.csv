@@ -1,0 +1,6 @@
+source,mo_ta,best_config,macro_f1,accuracy,rule_gate_acc_Z,rule_gate_coverage
+legacy_p1,"RapidOCR cũ, trang 1",tfidf_word_cnb_fold_C0.1,0.960 ± 0.026,0.948 ± 0.032,0.8016877637130801,0.8016877637130801
+haiku_p1,"LLM-vision (Haiku), trang 1",tfidf_word_lr_fold_C1,0.972 ± 0.020,0.966 ± 0.021,0.7848101265822784,0.7848101265822784
+haiku_p12,"LLM-vision (Haiku), trang 1-2",tfidf_word_cnb_fold_C0.1,0.976 ± 0.018,0.969 ± 0.024,0.7805907172995781,0.7805907172995781
+ocr_v2_p1,"OCR local v2, trang 1",tfidf_word_cnb_fold_C0.5,0.961 ± 0.021,0.951 ± 0.025,0.7637130801687764,0.7637130801687764
+ocr_v2_p12,"OCR local v2, trang 1-2",tfidf_word_cnb_raw_C0.1,0.977 ± 0.019,0.969 ± 0.024,0.7637130801687764,0.7637130801687764

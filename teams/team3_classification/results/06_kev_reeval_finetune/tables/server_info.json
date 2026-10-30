@@ -1,0 +1,10 @@
+{
+  "name": "kev-latest",
+  "run": "jaredpalmer/kev-0.8b",
+  "base": "Qwen/Qwen3.5-0.8B-Base",
+  "lora": 16,
+  "temperature": 2.3510958125672174,
+  "release_date": "2026-10-01",
+  "dtype": "bfloat16",
+  "backend": "torch"
+}

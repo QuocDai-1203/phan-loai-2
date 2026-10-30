@@ -1,0 +1,18 @@
+{
+  "unit_id": "52c0269da3f5_0",
+  "annotator": "haiku",
+  "doc_type": "HD_MUA_BAN",
+  "pages_seen": [1, 2, 4, 5, 7, 8],
+  "fields": {
+    "so_hop_dong": {"value": "5605/PETEC.PTCBĐ-TMHH/12-17/B", "normalized": "5605/PETEC.PTCBĐ-TMHH/12-17/B", "page": 1, "evidence": "Số: 5605/PETEC.PTCBĐ-TMHH/12-17/B", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "27 tháng 12 năm 2017", "normalized": "2017-12-27", "page": 1, "evidence": "Hôm nay, ngày 27 tháng 12 năm 2017 tại Bình Định", "ink": "printed", "status": "ok", "note": null},
+    "ben_ban": {"value": "CHI NHÁNH TỔNG CÔNG TY THƯƠNG MẠI KỸ THUẬT VÀ ĐẦU TƯ – CÔNG TY CỔ PHẦN TẠI BÌNH ĐỊNH; Mã số thuế: 0300649476 012", "normalized": "CHI NHÁNH TỔNG CÔNG TY THƯƠNG MẠI KỸ THUẬT VÀ ĐẦU TƯ – CÔNG TY CỔ PHẦN TẠI BÌNH ĐỊNH; Mã số thuế: 0300649476 012", "page": 1, "evidence": "BÊN A (BÊN BÁN): CHI NHÁNH TỔNG CÔNG TY", "ink": "printed", "status": "ok", "note": null},
+    "ben_mua": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI DỊCH VỤ HIỆP HÒA; Mã số thuế: 4100668616", "page": 1, "evidence": "BÊN B (BÊN MUA): CÔNG TY CỔ PHẦN THƯƠNG MẠI", "ink": "printed", "status": "ok", "note": "mst_o_trang_2"},
+    "vai_tro_cong_ty": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "mat_hang": {"value": "Xăng (bao gồm cả xăng sinh học), dầu diesel (DO), dầu hoả (KO) và dầu mazut (FO)", "normalized": "Xăng (bao gồm cả xăng sinh học), dầu diesel (DO), dầu hoả (KO) và dầu mazut (FO)", "page": 2, "evidence": "Xăng (bao gồm cả xăng sinh học), dầu diesel (DO), dầu hoả", "ink": "printed", "status": "ok", "note": null},
+    "han_muc_cong_no": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "hieu_luc_tu": {"value": "01/01/2018", "normalized": "2018-01-01", "page": 8, "evidence": "có thời hạn từ ngày 01/01/2018 đến ngày 31/12/2018", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_den": {"value": "31/12/2018", "normalized": "2018-12-31", "page": 8, "evidence": "đến ngày 31/12/2018", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

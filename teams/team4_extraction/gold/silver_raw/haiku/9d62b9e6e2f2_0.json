@@ -1,0 +1,18 @@
+{
+  "unit_id": "9d62b9e6e2f2_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": "so_de_trong_tren_giay"},
+    "ngay_cap": {"value": "ngày   tháng 12 năm 2020", "normalized": "2020-12", "page": 1, "evidence": "Gia Lai, ngày tháng 12 năm 2020", "ink": "printed", "status": "ok", "note": "thieu_ngay_de_trong"},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "normalized": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng Xăng dầu Hòa Tâm", "normalized": "Cửa hàng Xăng dầu Hòa Tâm", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: Cửa hàng Xăng dầu Hòa Tâm", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Thôn Phú Yên, xã Hà Ra, huyện Mang Yang, tỉnh Gia Lai.", "normalized": "Thôn Phú Yên, xã Hà Ra, huyện Mang Yang, tỉnh Gia Lai.", "page": 1, "evidence": "Địa chỉ: Thôn Phú Yên, xã Hà Ra, huyện Mang Yang", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Xăng dầu Hòa Tâm Gia Lai - Mã số thuế: 5901023724", "normalized": "Công ty TNHH Xăng dầu Hòa Tâm Gia Lai - Mã số thuế: 5901023724", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH Xăng dầu Hòa Tâm Gia Lai", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa - Mã số thuế: 4100668616", "normalized": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa - Mã số thuế: 4100668616", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 22/12/2015. Cấp lại lần thứ hai ngày /12/2020", "normalized": "Cấp lần thứ nhất: ngày 22/12/2015. Cấp lại lần thứ hai ngày /12/2020", "page": 1, "evidence": "Cấp lại lần thứ hai ngày /12/2020", "ink": "printed", "status": "ok", "note": "dong_cap_bo_sung_de_trong"},
+    "ngay_het_han": {"value": "14 tháng 12 năm 2025", "normalized": "2025-12-14", "page": 1, "evidence": "có giá trị đến hết ngày 14 tháng 12 năm 2025", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_photocopy_mo; so_giay_va_ngay_de_trong"
+}

@@ -1,0 +1,18 @@
+{
+  "unit_id": "62d28f1b8802_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1],
+  "fields": {
+    "so_giay": {"value": "251/GCNĐDK-SCT", "normalized": "251/GCNĐDK-SCT", "page": 1, "evidence": "Số: 251/GCNĐDK-SCT", "ink": "printed", "status": "ok", "note": "scan_mo_ky_tu_d"},
+    "ngay_cap": {"value": "Quảng Ngãi, ngày 15 tháng 02 năm 2022", "normalized": "2022-02-15", "page": 1, "evidence": "Quảng Ngãi, ngày 15 tháng 02 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "UBND TỈNH QUẢNG NGÃI SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH QUẢNG NGÃI SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH QUẢNG NGÃI SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Tàu Phương Bằng, Số ĐKHC:QNg-0381, số đăng kiểm: V76-00221", "normalized": "Tàu Phương Bằng, Số ĐKHC:QNg-0381, số đăng kiểm: V76-00221", "page": 1, "evidence": "Tên cửa hàng bán lẻ dầu: Tàu Phương Bằng", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Khu vực sông Trà Bồng, xã Bình Đông, huyện Bình Sơn, tỉnh Quảng Ngãi", "normalized": "Khu vực sông Trà Bồng, xã Bình Đông, huyện Bình Sơn, tỉnh Quảng Ngãi", "page": 1, "evidence": "Địa điểm neo đậu: Khu vực sông Trà Bồng, xã Bình Đông", "ink": "printed", "status": "ok", "note": "dia_diem_neo_dau"},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Một thành viên Phương Bằng; Mã số thuế: 4300438289", "normalized": "Công ty TNHH Một thành viên Phương Bằng; Mã số thuế: 4300438289", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH Một thành viên Phương Bằng", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại - Dịch vụ Hiệp Hòa; Mã số thuế: 4100668616", "normalized": "Công ty Cổ phần Thương mại - Dịch vụ Hiệp Hòa; Mã số thuế: 4100668616", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại - Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lại lần thứ nhất: Ngày 15 tháng 02 năm 2022", "normalized": "Cấp lại lần thứ nhất: Ngày 15 tháng 02 năm 2022", "page": 1, "evidence": "Cấp lại lần thứ nhất: Ngày 15 tháng 02 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "ngày 17 tháng 01 năm 2023", "normalized": "2023-01-17", "page": 1, "evidence": "có giá trị đến hết ngày 17 tháng 01 năm 2023", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_mo_nhieu_nhieu"
+}

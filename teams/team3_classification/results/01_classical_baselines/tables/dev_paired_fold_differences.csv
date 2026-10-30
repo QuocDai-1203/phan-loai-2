@@ -1,0 +1,6 @@
+comparison,A,B,n_fold_scores,mean_diff_macro_f1,std_diff,se_naive,folds_A_better,folds_tie,folds_B_better
+haiku_p12 vs legacy_p1,haiku_p12:tfidf_word_cnb_fold_C0.1,legacy_p1:tfidf_word_cnb_fold_C0.1,15,0.016516819820237633,0.024020023302729704,0.006201943348465747,8,4,3
+haiku_p12 vs haiku_p1,haiku_p12:tfidf_word_cnb_fold_C0.1,haiku_p1:tfidf_word_lr_fold_C1,15,0.0038233140369891747,0.022060886467454268,0.005696096392734863,7,2,6
+haiku_p12 vs ocr_v2_p1,haiku_p12:tfidf_word_cnb_fold_C0.1,ocr_v2_p1:tfidf_word_cnb_fold_C0.5,15,0.015048033899487263,0.018345658148865754,0.004736828565718097,9,4,2
+haiku_p12 vs ocr_v2_p12,haiku_p12:tfidf_word_cnb_fold_C0.1,ocr_v2_p12:tfidf_word_cnb_raw_C0.1,15,-0.0005942542306178596,0.006538600025707669,0.0016882592671384792,1,13,1
+haiku_p12 vs ảnh trang 1,haiku_p12:tfidf_word_cnb_fold_C0.1,image_p1:visual_hog_lr_C10,15,0.16188930771415003,0.08241267844235507,0.02127886207490588,15,0,0

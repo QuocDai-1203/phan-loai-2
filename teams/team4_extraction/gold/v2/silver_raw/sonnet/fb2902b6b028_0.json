@@ -1,0 +1,84 @@
+{
+ "unit_id": "fb2902b6b028_0",
+ "annotator": "sonnet",
+ "doc_type": "GXN_THUONG_NHAN_XD",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_giay": {
+   "value": "452 - TNPP/QĐ-BCT",
+   "normalized": "452-TNPP/QĐ-BCT",
+   "page": 1,
+   "evidence": "Số: 452 - TNPP/QĐ-BCT",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "ngày 24 tháng 11 năm 2021",
+   "normalized": "2021-11-24",
+   "page": 1,
+   "evidence": "Hà Nội, ngày 24 tháng 11 năm 2021",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "co_quan_cap": {
+   "value": "BỘ CÔNG THƯƠNG",
+   "normalized": "BỘ CÔNG THƯƠNG",
+   "page": 1,
+   "evidence": "BỘ CÔNG THƯƠNG",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ten_thuong_nhan": {
+   "value": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI BẮC NAM",
+   "normalized": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI BẮC NAM",
+   "page": 1,
+   "evidence": "Tên doanh nghiệp: CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VẬN TẢI BẮC NAM",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ma_so_thue": {
+   "value": "0312154171",
+   "normalized": "0312154171",
+   "page": 1,
+   "evidence": "Mã số thuế: 0312154171",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "loai_thuong_nhan": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "lan_cap": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "24 tháng 11 năm 2026",
+   "normalized": "2026-11-24",
+   "page": 2,
+   "evidence": "có giá trị đến hết ngày 24 tháng 11 năm 2026",
+   "ink": "printed",
+   "status": "ok",
+   "note": "so_ngay_viet_tay"
+  }
+ },
+ "unit_note": null
+}

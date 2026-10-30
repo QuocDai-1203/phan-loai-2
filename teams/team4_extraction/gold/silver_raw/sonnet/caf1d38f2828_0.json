@@ -1,0 +1,18 @@
+{
+  "unit_id": "caf1d38f2828_0",
+  "annotator": "sonnet",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "12 /GCNBLXD-SCT", "normalized": "12/GCNBLXD-SCT", "page": 1, "evidence": "Số: 12 /GCNBLXD-SCT", "ink": "handwritten", "status": "ok", "note": "phan_chu_mo_so_12_dam"},
+    "ngay_cap": {"value": "ngày 20 tháng 01 năm 2020", "normalized": "2020-01-20", "page": 1, "evidence": "Bình Định, ngày 20 tháng 01 năm 2020", "ink": "printed", "status": "ok", "note": "chu_mo_ngay_20_in_dam"},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG", "normalized": "SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": "tieu_de_ghi_UBND_tinh_Binh_Dinh"},
+    "ten_cua_hang": {"value": "ĐẠI LÝ BÁN LẺ XĂNG DẦU - CÔNG TY TNHH XÂY DỰNG TẤN THÀNH", "normalized": "ĐẠI LÝ BÁN LẺ XĂNG DẦU - CÔNG TY TNHH XÂY DỰNG TẤN THÀNH", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: ĐẠI LÝ BÁN LẺ XĂNG DẦU - CÔNG TY TNHH XÂY DỰNG", "ink": "printed", "status": "ok", "note": "dau_chu_TAN_hoi_mo"},
+    "dia_chi_cua_hang": {"value": "số 92 Đào Tấn, thị trấn Tuy Phước, huyện Tuy Phước, tỉnh Bình Định", "normalized": "số 92 Đào Tấn, thị trấn Tuy Phước, huyện Tuy Phước, tỉnh Bình Định", "page": 1, "evidence": "Địa chỉ: số 92 Đào Tấn, thị trấn Tuy Phước, huyện Tuy Phước, tỉnh Bình Định", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Xây dựng Tấn Thành Mã số thuế: 4100437457", "normalized": "Công ty TNHH Xây dựng Tấn Thành Mã số thuế: 4100437457", "page": 1, "evidence": "Thuộc sở hữu của Công ty TNHH Xây dựng Tấn Thành", "ink": "printed", "status": "ok", "note": "mst_o_cuoi_khoi_dia_chi"},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 13 tháng 6 năm 2018; Cấp bổ sung, sửa đổi lần thứ nhất: ngày 20 tháng 01 năm 2020", "normalized": "Cấp lần thứ nhất: ngày 13 tháng 6 năm 2018; Cấp bổ sung, sửa đổi lần thứ nhất: ngày 20 tháng 01 năm 2020", "page": 1, "evidence": "Cấp bổ sung, sửa đổi lần thứ nhất: ngày 20 tháng 01 năm 2020", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "đến hết ngày 12 tháng 6 năm 2023", "normalized": "2023-06-12", "page": 2, "evidence": "có giá trị đến hết ngày 12 tháng 6 năm 2023", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "anh_chup_nghieng_toi_mo_nhieu_hat"
+}

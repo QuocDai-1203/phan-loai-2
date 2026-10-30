@@ -1,0 +1,17 @@
+{
+  "unit_id": "1d3e3ebf2706_0",
+  "annotator": "haiku",
+  "doc_type": "GIAY_UY_QUYEN",
+  "pages_seen": [1],
+  "fields": {
+    "so_van_ban": {"value": "03/2024/CNGL-UQ", "normalized": "03/2024/CNGL-UQ", "page": 1, "evidence": "Số: 03/2024/CNGL-UQ", "ink": "printed", "status": "ok", "note": null},
+    "ngay_ky": {"value": "Ngày 06 tháng 11 năm 2024", "normalized": "2024-11-06", "page": 1, "evidence": "Gia lai, Ngày 06 tháng 11 năm 2024", "ink": "printed", "status": "ok", "note": null},
+    "to_chuc_uy_quyen": {"value": "Công Ty TNHH Thương Mại và Dịch Vụ Tổng Hợp Hòa Khánh – Chi nhánh Gia Lai", "normalized": "Công Ty TNHH Thương Mại và Dịch Vụ Tổng Hợp Hòa Khánh – Chi nhánh Gia Lai", "page": 1, "evidence": "Căn cứ vào hoạt động kinh doanh của Công Ty TNHH", "ink": "printed", "status": "ok", "note": null},
+    "nguoi_uy_quyen": {"value": "Nguyễn Văn Phúc; Chức vụ: Giám đốc Công Ty TNHH Thương mại và Dịch vụ Tổng hợp Hòa Khánh – Chi nhánh Gia Lai", "normalized": "Nguyễn Văn Phúc; Chức vụ: Giám đốc Công Ty TNHH Thương mại và Dịch vụ Tổng hợp Hòa Khánh – Chi nhánh Gia Lai", "page": 1, "evidence": "Tôi tên là: Nguyễn Văn Phúc", "ink": "printed", "status": "ok", "note": null},
+    "nguoi_duoc_uy_quyen": {"value": "Bà : Huỳnh Thị Tố Nga; Chức vụ: Phó giám đốc kinh doanh Ty TNHH Thương mại và Dịch vụ Tổng hợp Hòa Khánh – Chi nhánh Gia Lai", "normalized": "Bà : Huỳnh Thị Tố Nga; Chức vụ: Phó giám đốc kinh doanh Ty TNHH Thương mại và Dịch vụ Tổng hợp Hòa Khánh – Chi nhánh Gia Lai", "page": 1, "evidence": "Nay ủy quyền cho : Bà : Huỳnh Thị Tố Nga", "ink": "printed", "status": "ok", "note": null},
+    "noi_dung_uy_quyen": {"value": "toàn quyền thay tôi điều hành mọi hoạt động kinh doanh tại Chi nhánh Gia lai", "normalized": "toàn quyền thay tôi điều hành mọi hoạt động kinh doanh tại Chi nhánh Gia lai", "page": 1, "evidence": "Bà Huỳnh Thị Tố Nga được toàn quyền thay tôi điều hành", "ink": "printed", "status": "ok", "note": null},
+    "hieu_luc_tu": {"value": "kể từ ngày ký Giấy ủy quyền này", "normalized": null, "page": 1, "evidence": "Thời hạn ủy quyền: kể từ ngày ký Giấy ủy quyền này", "ink": "printed", "status": "ok", "note": "tinh_tu_ngay_ky"},
+    "ngay_het_han": {"value": "đến khi bổ nhiệm người khác thay thế", "normalized": null, "page": 1, "evidence": "đến khi bổ nhiệm người khác thay thế", "ink": "printed", "status": "ok", "note": "chi_ghi_thoi_han"}
+  },
+  "unit_note": null
+}

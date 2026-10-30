@@ -1,0 +1,75 @@
+{
+ "unit_id": "ed9b06c8b985_0",
+ "annotator": "sonnet",
+ "doc_type": "GCN_ATKT_BVMT_PT",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_gcn": {
+   "value": "01080/24V43",
+   "normalized": "01080/24V43",
+   "page": 1,
+   "evidence": "Số: 01080/24V43",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "bien_so": {
+   "value": "BĐ-0153H",
+   "normalized": "BĐ-0153H",
+   "page": 1,
+   "evidence": "Số ĐKHC: BĐ-0153H",
+   "ink": "printed",
+   "status": "ok",
+   "note": "so_dang_ky_hanh_chinh"
+  },
+  "ten_phuong_tien": {
+   "value": "HIỆP HÒA 01",
+   "normalized": "HIỆP HÒA 01",
+   "page": 1,
+   "evidence": "Tên phương tiện: HIỆP HÒA 01",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "chu_phuong_tien": {
+   "value": "Công ty cổ phần thương mại dịch vụ Hiệp Hòa",
+   "normalized": "Công ty cổ phần thương mại dịch vụ Hiệp Hòa",
+   "page": 1,
+   "evidence": "Chủ phương tiện: Công ty cổ phần thương mại dịch vụ Hiệp Hòa",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "co_quan_dang_kiem": {
+   "value": "CHI CỤC ĐĂNG KIỂM SỐ 4",
+   "normalized": "CHI CỤC ĐĂNG KIỂM SỐ 4",
+   "page": 1,
+   "evidence": "CỤC ĐĂNG KIỂM VIỆT NAM CHI CỤC ĐĂNG KIỂM SỐ 4",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_cap": {
+   "value": "ngày 19 tháng 7 năm 2024",
+   "normalized": "2024-07-19",
+   "page": 1,
+   "evidence": "Đà Nẵng, ngày 19 tháng 7 năm 2024",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": "ngày 17 tháng 12 năm 2024",
+   "normalized": "2024-12-17",
+   "page": 1,
+   "evidence": "Giấy chứng nhận này có hiệu lực đến ngày 17 tháng 12 năm 2024",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "trang_xoay_90_do_van_doc_duoc"
+}

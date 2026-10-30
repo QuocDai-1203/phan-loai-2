@@ -1,0 +1,10 @@
+# Giu nguyen tung byte cho du lieu va ket qua: bao cao ghi sha1 cua tep nhan (data/labels_v2.csv)
+# va tep chia tap; neu Git doi LF <-> CRLF khi checkout thi sha lech va bo cham bao "nhan da doi".
+data/** -text
+teams/**/*.csv -text
+teams/**/*.jsonl -text
+teams/**/*.json -text
+*.pdf binary
+*.png binary
+*.joblib binary
+*.pkl binary

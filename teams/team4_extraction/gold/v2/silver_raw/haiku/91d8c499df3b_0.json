@@ -1,0 +1,17 @@
+{
+  "unit_id": "91d8c499df3b_0",
+  "annotator": "haiku",
+  "doc_type": "GP_VC_HANG_NGUY_HIEM",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay_phep": {"value": "113 /PCCC", "normalized": "113/PCCC", "page": 1, "evidence": "Số: 113 /PCCC", "ink": "handwritten", "status": "ok", "note": null},
+    "ngay_cap": {"value": "ngày 07 tháng 06 năm 2022", "normalized": "2022-06-07", "page": 1, "evidence": "Bình Định, ngày 07 tháng 06 năm 2022", "ink": "handwritten", "status": "ok", "note": "ngay_sua_tay"},
+    "co_quan_cap": {"value": "CÔNG AN TỈNH BÌNH ĐỊNH - PHÒNG CẢNH SÁT PCCC&CNCH", "normalized": "CÔNG AN TỈNH BÌNH ĐỊNH - PHÒNG CẢNH SÁT PCCC&CNCH", "page": 1, "evidence": "CÔNG AN TỈNH BÌNH ĐỊNH PHÒNG CẢNH SÁT PCCC&CNCH", "ink": "printed", "status": "ok", "note": null},
+    "don_vi_duoc_cap": {"value": "Công ty Cổ phần Thương mại Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương mại Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên cơ quan, tổ chức, cá nhân: Công ty Cổ phần Thương mại Dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "bien_so_phuong_tien": {"value": "77C-095.67; 77R-009.34", "normalized": "77C-095.67; 77R-009.34", "page": 2, "evidence": "BKS: 77C-095.67 77R-009.34", "ink": "printed", "status": "ok", "note": null},
+    "ten_hang": {"value": "Xăng 1203; Dầu diesel 1202; Dầu hỏa 1223", "normalized": "Xăng 1203; Dầu diesel 1202; Dầu hỏa 1223", "page": 2, "evidence": "Xăng 1203, Dầu diesel 1202, Dầu hỏa 1223", "ink": "printed", "status": "ok", "note": null},
+    "khoi_luong": {"value": "38.000 L", "normalized": "38.000 L", "page": 2, "evidence": "Khối lượng vận chuyển 38.000 L", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "31/05/2023", "normalized": "2023-05-31", "page": 1, "evidence": "Thời hạn của giấy phép: 31/05/2023", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "nua_duoi_bang_trong"
+}

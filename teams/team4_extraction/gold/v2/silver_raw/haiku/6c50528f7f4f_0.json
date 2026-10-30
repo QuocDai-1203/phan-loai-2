@@ -1,0 +1,19 @@
+{
+  "unit_id": "6c50528f7f4f_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_KIEM_DINH_DO_LUONG",
+  "pages_seen": [1],
+  "fields": {
+    "so_gcn": {"value": "K.176/2024", "normalized": "K.176/2024", "page": 1, "evidence": "Số (Nº): K.176/2024", "ink": "printed", "status": "ok", "note": null},
+    "doi_tuong": {"value": "Cột đo Dầu DO 0,05S", "normalized": "Cột đo Dầu DO 0,05S", "page": 1, "evidence": "Tên đối tượng: Cột đo Dầu DO 0,05S", "ink": "printed", "status": "ok", "note": null},
+    "so_thiet_bi": {"value": "01", "normalized": "01", "page": 1, "evidence": "Số: 01 Serial No:", "ink": "printed", "status": "ok", "note": "serial_no_de_trong"},
+    "bien_so": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "noi_su_dung": {"value": "Tàu dầu BĐ - 0153H", "normalized": "Tàu dầu BĐ - 0153H", "page": 1, "evidence": "Nơi sử dụng: Tàu dầu BĐ - 0153H", "ink": "printed", "status": "ok", "note": null},
+    "don_vi_su_dung": {"value": "Công ty CP TM DV Hiệp Hòa", "normalized": "Công ty CP TM DV Hiệp Hòa", "page": 1, "evidence": "Người/Đơn vị sử dụng: Công ty CP TM DV Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "to_chuc_kiem_dinh": {"value": "TRUNG TÂM PHÂN TÍCH VÀ ĐO LƯỜNG CHẤT LƯỢNG BÌNH ĐỊNH", "normalized": "TRUNG TÂM PHÂN TÍCH VÀ ĐO LƯỜNG CHẤT LƯỢNG BÌNH ĐỊNH", "page": 1, "evidence": "TRUNG TÂM PHÂN TÍCH VÀ ĐO LƯỜNG CHẤT LƯỢNG BÌNH ĐỊNH", "ink": "printed", "status": "ok", "note": null},
+    "so_tem_kiem_dinh": {"value": "23A - 17032", "normalized": "23A-17032", "page": 1, "evidence": "Số tem kiểm định: 23A - 17032", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "28 tháng 02 năm 2024", "normalized": "2024-02-28", "page": 1, "evidence": "Bình Định, ngày 28 tháng 02 năm 2024", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "28/02/2025", "normalized": "2025-02-28", "page": 1, "evidence": "Thời hạn đến (nếu có): (*) 28/02/2025", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

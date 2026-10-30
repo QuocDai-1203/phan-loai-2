@@ -1,0 +1,25 @@
+Trang da xem: 353 (gan trong: 41, co chu: 312); them 10 ban trung byte cua trang bi xoay
+Phan bo huong dap an (trang co chu): {270: 22, 90: 9, 180: 1, 0: 280}
+
+== Do chinh xac huong tren trang CO CHU (khop huong ocr_v2 da ap) ==
+  tat ca trang da xem: 310/312 = 0.994 [Wilson 0.977; 0.998]  | bootstrap theo tai lieu [0.985; 1.000] (94 tai lieu)
+  tap 'bi xoay': 30/32 = 0.938 [Wilson 0.799; 0.983]  | bootstrap theo tai lieu [0.850; 1.000] (13 tai lieu)
+  tap 'loai hay nam ngang' (toan bo): 182/182 = 1.000 [Wilson 0.979; 1.000]  | bootstrap theo tai lieu [1.000; 1.000] (14 tai lieu)
+  tap 'ngau nhien khong xoay': 98/98 = 1.000 [Wilson 0.962; 1.000]  | bootstrap theo tai lieu [1.000; 1.000] (74 tai lieu)
+
+== Trang ocr_v2 DA xoay (co chu) ==
+  xoay dung huong: 30/32 = 0.938 [Wilson 0.799; 0.983]
+  xoay SAI huong (can xoay nhung chon nguoc 90/270): 2  -> doc_id/trang: 7ee3bbfe72ebp15(270 thay vi 90), 5aad587dd02bp19(270 thay vi 90)
+  xoay thua (trang da thang): 0  -> 
+
+== Trang ocr_v2 KHONG xoay (co chu) ==
+  can xoay ma khong xoay (sot): 0/280 trong 182 trang loai-nam-ngang (toan bo) + 98 trang ngau nhien
+  ty le sot: loai-nam-ngang 0/182 = 0.000 [Wilson 0.000; 0.021]; ngau nhien 0/98 = 0.000 [Wilson 0.000; 0.038]
+
+== Trang gan trong (gold) ==
+  41 trang gan trong da xem; ocr_v2 da XOAY 8 trang (8/41), n_chars cua cac trang bi xoay nham: [3, 4, 5, 5, 6, 6, 6, 7]
+  trong do cac trang gan trong thuoc tap 'bi xoay': 8; tap khac (nam ngang/ngau nhien) bi xoay: 0
+  n_chars cua MOI trang gan trong (ocr_v2): [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 3, 4, 5, 5, 6, 6, 6, 7, 18]
+
+Tong trang co co `rotated_*` trong ocr_v2: 50 (duy nhat 40 + trung byte 10)
+  trong do sai (co chu, ke ca ban trung): 2; gan trong bi xoay nham (ke ca ban trung): 10

@@ -1,0 +1,111 @@
+{
+ "unit_id": "a76c35cddb4e_0",
+ "annotator": "sonnet",
+ "doc_type": "DANG_KY_PHUONG_TIEN",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "bien_so": {
+   "value": "QNg – 0404",
+   "normalized": "QNg-0404",
+   "page": 1,
+   "evidence": "Số đăng ký: QNg – 0404",
+   "ink": "printed",
+   "status": "ok",
+   "note": "so_dang_ky_phuong_tien_thuy"
+  },
+  "loai_phuong_tien": {
+   "value": "Chở dầu loại II",
+   "normalized": "Chở dầu loại II",
+   "page": 1,
+   "evidence": "Công dụng: Chở dầu loại II",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "chu_so_huu": {
+   "value": "CÔNG TY TNHH MTV TM XĂNG DẦU HƯƠNG SƠN 2",
+   "normalized": "CÔNG TY TNHH MTV TM XĂNG DẦU HƯƠNG SƠN 2",
+   "page": 1,
+   "evidence": "Chủ phương tiện: CÔNG TY TNHH MTV TM XĂNG DẦU HƯƠNG SƠN 2",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "nhan_hieu": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "so_khung": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "so_may": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "nam_san_xuat": {
+   "value": "2019, Hải Dương",
+   "normalized": "2019",
+   "page": 1,
+   "evidence": "Năm và nơi đóng: 2019, Hải Dương",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "so_chung_nhan": {
+   "value": "493/ĐK",
+   "normalized": "493/ĐK",
+   "page": 1,
+   "evidence": "Số: 493/ĐK",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_dang_ky": {
+   "value": "ngày 24 tháng 4 năm 2023",
+   "normalized": "2023-04-24",
+   "page": 1,
+   "evidence": "Quảng Ngãi, ngày 24 tháng 4 năm 2023",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "co_quan_cap": {
+   "value": "SỞ GIAO THÔNG VẬN TẢI",
+   "normalized": "SỞ GIAO THÔNG VẬN TẢI",
+   "page": 1,
+   "evidence": "UBND TỈNH QUẢNG NGÃI SỞ GIAO THÔNG VẬN TẢI",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_het_han": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  }
+ },
+ "unit_note": null
+}

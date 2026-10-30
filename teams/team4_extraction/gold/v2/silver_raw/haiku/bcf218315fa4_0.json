@@ -1,0 +1,17 @@
+{
+  "unit_id": "bcf218315fa4_0",
+  "annotator": "haiku",
+  "doc_type": "CC_NGHIEP_VU_BVMT",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_vao_so": {"value": "89309", "normalized": "89309", "page": 2, "evidence": "Vào sổ số: 89309", "ink": "handwritten", "status": "ok", "note": null},
+    "ho_ten": {"value": "Nguyễn [?] Đông", "normalized": null, "page": 2, "evidence": "Cấp cho: Nguyễn [?] Đông", "ink": "handwritten", "status": "ok", "note": "mot_phan_mo"},
+    "nam_sinh": {"value": null, "normalized": null, "page": 2, "evidence": null, "ink": "handwritten", "status": "ok", "note": null},
+    "noi_dung_khoa_hoc": {"value": "Nghiệp vụ Bảo vệ môi trường trong kinh doanh xăng dầu theo nghị định 83/2014/NĐ-CP", "normalized": "Nghiệp vụ Bảo vệ môi trường trong kinh doanh xăng dầu theo nghị định 83/2014/NĐ-CP", "page": 2, "evidence": "Nghiệp vụ Bảo vệ môi trường trong kinh doanh xăng dầu", "ink": "handwritten", "status": "ok", "note": null},
+    "thoi_gian_hoc": {"value": "từ ngày 28/03/2019 đến ngày 02/04/2019", "normalized": "từ ngày 28/03/2019 đến ngày 02/04/2019", "page": 2, "evidence": "Từ ngày: 28/03/2019 Đến ngày: 02/04/2019", "ink": "handwritten", "status": "ok", "note": null},
+    "co_so_dao_tao": {"value": "BỘ CÔNG THƯƠNG - TRƯỜNG CAO ĐẲNG THƯƠNG MẠI", "normalized": "BỘ CÔNG THƯƠNG - TRƯỜNG CAO ĐẲNG THƯƠNG MẠI", "page": 2, "evidence": "TRƯỜNG CAO ĐẲNG THƯƠNG MẠI", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "04 tháng 4 năm 2019", "normalized": "2019-04-04", "page": 2, "evidence": "Đà Nẵng, ngày 04 tháng 4 năm 2019", "ink": "handwritten", "status": "ok", "note": null},
+    "ngay_het_han": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null}
+  },
+  "unit_note": "trang_1_bia_do_trang_2_co_chung_nhan"
+}

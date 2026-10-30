@@ -1,0 +1,79 @@
+{
+ "unit_id": "2edba020eae5_0",
+ "annotator": "sonnet",
+ "doc_type": "HD_NHUONG_QUYEN_DAI_LY",
+ "pages_seen": [
+  1,
+  2,
+  5,
+  7,
+  9,
+  10
+ ],
+ "fields": {
+  "so_hop_dong": {
+   "value": "17/2022/NQBLXD",
+   "normalized": "17/2022/NQBLXD",
+   "page": 1,
+   "evidence": "Số: 17/2022/NQBLXD",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ngay_ky": {
+   "value": "15 tháng 11 năm 2021",
+   "normalized": "2021-11-15",
+   "page": 1,
+   "evidence": "Ký ngày 15 tháng 11 năm 2021",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_nhuong_quyen": {
+   "value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA",
+   "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA",
+   "page": 1,
+   "evidence": "BÊN NHƯỢNG QUYỀN - THƯƠNG NHÂN PHÂN PHỐI CÔNG TY CỔ PHẦN THƯƠNG MẠI – DỊCH VỤ HIỆP HÒA",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ben_nhan_nhuong_quyen": {
+   "value": "CÔNG TY TNHH LÂM NGHIỆP QUYỀN THẮNG",
+   "normalized": "CÔNG TY TNHH LÂM NGHIỆP QUYỀN THẮNG",
+   "page": 1,
+   "evidence": "BÊN NHẬN NHƯỢNG QUYỀN CÔNG TY TNHH LÂM NGHIỆP QUYỀN THẮNG",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "cua_hang": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  },
+  "hieu_luc_tu": {
+   "value": "01/01/2022",
+   "normalized": "2022-01-01",
+   "page": 9,
+   "evidence": "có hiệu lực từ ngày 01/01/2022 đến hết ngày 31/12/2024",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "hieu_luc_den": {
+   "value": "31/12/2024",
+   "normalized": "2024-12-31",
+   "page": 9,
+   "evidence": "có hiệu lực từ ngày 01/01/2022 đến hết ngày 31/12/2024",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  }
+ },
+ "unit_note": "nua_duoi_trang"
+}

@@ -1,0 +1,31 @@
+{
+  "doc_type": {
+    "tất cả": {
+      "n": 304,
+      "agree": 1.0,
+      "kappa": 1.0,
+      "agree_group": 1.0
+    },
+    "không nêu trong guideline": {
+      "n": 228,
+      "agree": 1.0,
+      "kappa": 1.0,
+      "agree_group": 1.0
+    },
+    "có nêu trong guideline": {
+      "n": 76,
+      "agree": 1.0,
+      "kappa": 1.0,
+      "agree_group": 1.0
+    }
+  },
+  "composite": {
+    "both": 16,
+    "only_A": 5,
+    "only_B": 0,
+    "kappa": 0.8563
+  },
+  "n_type_disagreements": 0,
+  "n_to_adjudicate": 8,
+  "confusion_pairs": []
+}

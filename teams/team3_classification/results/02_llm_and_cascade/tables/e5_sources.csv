@@ -1,0 +1,4 @@
+source,tfidf_macroF1_S,rule_gate_coverage,q35_s1_short_c2000 macroF1_Z,kev_s1_name_c2000 macroF1_Z,emb few-shot macroF1_Z,cascade DEV cross-fit auto-file@1%,classical DEV cross-fit,"cascade bỏ luật, DEV cross-fit",cascade TEST auto-file@1% [CI],classical TEST auto-file@1% [CI]
+ocr_v2_p12,0.977,0.764,0.990,0.963,0.894,0.983 (0 sai),0.675 (2 sai),0.979 (0 sai),1.000 [1.000; 1.000] (1 sai),0.644 [0.525; 0.763] (0 sai)
+haiku_p12,0.976,0.781,1.000,0.954,0.911,0.983 (0 sai),0.667 (2 sai),0.979 (0 sai),1.000 [1.000; 1.000] (0 sai),0.644 [0.525; 0.763] (0 sai)
+legacy_p1,0.960,0.802,0.933,0.463,0.809,0.966 (1 sai),0.671 (2 sai),0.949 (3 sai),0.966 [0.915; 1.000] (0 sai),0.661 [0.542; 0.780] (0 sai)

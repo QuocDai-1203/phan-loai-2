@@ -1,0 +1,18 @@
+{
+  "unit_id": "13b82b3e383e_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "85 /GCN[?]K-SCT", "normalized": "85/GCN[?]K-SCT", "page": 1, "evidence": "Số: 85 /GCN[?]K-SCT", "ink": "printed", "status": "ok", "note": "mot_phan_bi_mo"},
+    "ngay_cap": {"value": "12 tháng 9 năm 2019", "normalized": "2019-09-12", "page": 1, "evidence": "Gia Lai, ngày 12 tháng 9 năm 2019", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "normalized": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng bán lẻ Xăng dầu số 3", "normalized": "Cửa hàng bán lẻ Xăng dầu số 3", "page": 1, "evidence": "xăng dầu: Cửa hàng bán lẻ Xăng dầu số 3", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "đường Lê Lợi, tổ 9, phường An Bình, thị xã An Khê, tỉnh Gia Lai", "normalized": "đường Lê Lợi, tổ 9, phường An Bình, thị xã An Khê, tỉnh Gia Lai", "page": 1, "evidence": "Địa chỉ: đường Lê Lợi, tổ 9, phường An Bình, thị xã", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Xăng dầu Hòa Tâm Gia Lai, Mã số thuế: 5901023724", "normalized": "Công ty TNHH Xăng dầu Hòa Tâm Gia Lai, Mã số thuế: 5901023724", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH Xăng dầu", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại-Dịch vụ", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 12/9/2019", "normalized": "Cấp lần thứ nhất: ngày 12/9/2019", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 12/9/2019", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "12 tháng 9 năm 2024", "normalized": "2024-09-12", "page": 1, "evidence": "có giá trị đến hết ngày 12 tháng 9 năm 2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_mo_con_dau_tren_trang_1"
+}

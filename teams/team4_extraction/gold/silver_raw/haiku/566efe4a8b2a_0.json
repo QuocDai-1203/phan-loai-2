@@ -1,0 +1,18 @@
+{
+  "unit_id": "566efe4a8b2a_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "33/GCNĐĐK-SCT", "normalized": "33/GCNĐĐK-SCT", "page": 1, "evidence": "Số: 33/GCNĐĐK-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "ngày 4 tháng 7 năm 2022", "normalized": "2022-07-04", "page": 1, "evidence": "Phú Yên, ngày 4 tháng 7 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "UBND TỈNH PHÚ YÊN SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH PHÚ YÊN SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH PHÚ YÊN SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG XĂNG DẦU ĐỒNG TIẾN", "normalized": "CỬA HÀNG XĂNG DẦU ĐỒNG TIẾN", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: CỬA HÀNG XĂNG DẦU ĐỒNG TIẾN", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Khu phố Vạn Phước, phường Xuân Thành, thị xã Sông Cầu, tỉnh Phú Yên", "normalized": "Khu phố Vạn Phước, phường Xuân Thành, thị xã Sông Cầu, tỉnh Phú Yên", "page": 1, "evidence": "Địa chỉ: Khu phố Vạn Phước, phường Xuân Thành, thị xã Sông Cầu", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "CÔNG TY TNHH KINH DOANH XĂNG DẦU ĐỒNG TIẾN, Mã số thuế: 4400218311", "normalized": "CÔNG TY TNHH KINH DOANH XĂNG DẦU ĐỒNG TIẾN, Mã số thuế: 4400218311", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: CÔNG TY TNHH KINH DOANH XĂNG DẦU ĐỒNG TIẾN", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "normalized": "CÔNG TY CỔ PHẦN THƯƠNG MẠI - DỊCH VỤ HIỆP HÒA, Mã số thuế: 4100668616", "page": 1, "evidence": "Tên thương nhân: CÔNG TY CỔ PHẦN THƯƠNG MẠI", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 4 tháng 7 năm 2022", "normalized": "Cấp lần thứ nhất: ngày 4 tháng 7 năm 2022", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 4 tháng 7 năm 2022", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "ngày 4 tháng 7 năm 2027", "normalized": "2027-07-04", "page": 1, "evidence": "có giá trị đến hết ngày 4 tháng 7 năm 2027", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_mo_co_con_dau_va_chu_ky"
+}

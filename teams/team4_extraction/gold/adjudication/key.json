@@ -1,0 +1,923 @@
+{
+ "02736b5cd35b_0__hop_dong_can_cu": {
+  "unit_id": "02736b5cd35b_0",
+  "field": "hop_dong_can_cu",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "02736b5cd35b_0__lenh_xuat_hang": {
+  "unit_id": "02736b5cd35b_0",
+  "field": "lenh_xuat_hang",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "13b82b3e383e_0__so_giay": {
+  "unit_id": "13b82b3e383e_0",
+  "field": "so_giay",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "13b82b3e383e_0__co_quan_cap": {
+  "unit_id": "13b82b3e383e_0",
+  "field": "co_quan_cap",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "151c0df87ab7_0__so_giay": {
+  "unit_id": "151c0df87ab7_0",
+  "field": "so_giay",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "151c0df87ab7_0__ngay_cap": {
+  "unit_id": "151c0df87ab7_0",
+  "field": "ngay_cap",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "151c0df87ab7_0__ngay_het_han": {
+  "unit_id": "151c0df87ab7_0",
+  "field": "ngay_het_han",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "17efe86c6878_0__hop_dong_can_cu": {
+  "unit_id": "17efe86c6878_0",
+  "field": "hop_dong_can_cu",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "23ee3e156af2_0__hop_dong_can_cu": {
+  "unit_id": "23ee3e156af2_0",
+  "field": "hop_dong_can_cu",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "32d81c4d2ed6_0__so_giay": {
+  "unit_id": "32d81c4d2ed6_0",
+  "field": "so_giay",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "32d81c4d2ed6_0__ngay_cap": {
+  "unit_id": "32d81c4d2ed6_0",
+  "field": "ngay_cap",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "3f6ee29dea1a_0__hieu_luc_den": {
+  "unit_id": "3f6ee29dea1a_0",
+  "field": "hieu_luc_den",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [],
+  "reasons": [
+   "filename_mismatch"
+  ],
+  "single_candidate": true
+ },
+ "41265fcefd36_0__so_giay": {
+  "unit_id": "41265fcefd36_0",
+  "field": "so_giay",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human",
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "41265fcefd36_0__ngay_cap": {
+  "unit_id": "41265fcefd36_0",
+  "field": "ngay_cap",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "41265fcefd36_0__lan_cap": {
+  "unit_id": "41265fcefd36_0",
+  "field": "lan_cap",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "41265fcefd36_0__ngay_het_han": {
+  "unit_id": "41265fcefd36_0",
+  "field": "ngay_het_han",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "422c73c380ca_0__don_vi_cong_tac": {
+  "unit_id": "422c73c380ca_0",
+  "field": "don_vi_cong_tac",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "492786321ef5_0__don_vi_cong_tac": {
+  "unit_id": "492786321ef5_0",
+  "field": "don_vi_cong_tac",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "5940b5c3e19b_0__han_muc_cong_no": {
+  "unit_id": "5940b5c3e19b_0",
+  "field": "han_muc_cong_no",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "61b27599823b_0__hop_dong_can_cu": {
+  "unit_id": "61b27599823b_0",
+  "field": "hop_dong_can_cu",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "640b0f506936_0__han_muc_cong_no": {
+  "unit_id": "640b0f506936_0",
+  "field": "han_muc_cong_no",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "640b0f506936_0__hieu_luc_den": {
+  "unit_id": "640b0f506936_0",
+  "field": "hieu_luc_den",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku",
+   "sonnet"
+  ],
+  "candidate_y": [],
+  "reasons": [
+   "filename_mismatch"
+  ],
+  "single_candidate": true
+ },
+ "672643ac0c7b_0__ngay_het_han": {
+  "unit_id": "672643ac0c7b_0",
+  "field": "ngay_het_han",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [],
+  "reasons": [
+   "filename_mismatch"
+  ],
+  "single_candidate": true
+ },
+ "6ac314e2f770_0__hieu_luc_den": {
+  "unit_id": "6ac314e2f770_0",
+  "field": "hieu_luc_den",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [],
+  "reasons": [
+   "filename_mismatch"
+  ],
+  "single_candidate": true
+ },
+ "741b37405405_0__hop_dong_can_cu": {
+  "unit_id": "741b37405405_0",
+  "field": "hop_dong_can_cu",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "789b8facde71_0__han_muc_cong_no": {
+  "unit_id": "789b8facde71_0",
+  "field": "han_muc_cong_no",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "81c6e933b541_0__co_quan_cap": {
+  "unit_id": "81c6e933b541_0",
+  "field": "co_quan_cap",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "86ef36a8af53_0__don_vi_cong_tac": {
+  "unit_id": "86ef36a8af53_0",
+  "field": "don_vi_cong_tac",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "8a77c4bb6a18_0__han_muc_cong_no": {
+  "unit_id": "8a77c4bb6a18_0",
+  "field": "han_muc_cong_no",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "9183f0e21332_0__so_giay": {
+  "unit_id": "9183f0e21332_0",
+  "field": "so_giay",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "9183f0e21332_0__ngay_cap": {
+  "unit_id": "9183f0e21332_0",
+  "field": "ngay_cap",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "9183f0e21332_0__dia_chi_cua_hang": {
+  "unit_id": "9183f0e21332_0",
+  "field": "dia_chi_cua_hang",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "9183f0e21332_0__ngay_het_han": {
+  "unit_id": "9183f0e21332_0",
+  "field": "ngay_het_han",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "9b190bfd6ec1_0__han_muc_cong_no": {
+  "unit_id": "9b190bfd6ec1_0",
+  "field": "han_muc_cong_no",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "9b190bfd6ec1_0__hieu_luc_tu": {
+  "unit_id": "9b190bfd6ec1_0",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "9f5884bcd428_0__ngay_het_han": {
+  "unit_id": "9f5884bcd428_0",
+  "field": "ngay_het_han",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [],
+  "reasons": [
+   "filename_mismatch"
+  ],
+  "single_candidate": true
+ },
+ "b05bd0457853_0__hop_dong_can_cu": {
+  "unit_id": "b05bd0457853_0",
+  "field": "hop_dong_can_cu",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "b25d539d66af_0__nghe_nghiep": {
+  "unit_id": "b25d539d66af_0",
+  "field": "nghe_nghiep",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "b25d539d66af_0__don_vi_cong_tac": {
+  "unit_id": "b25d539d66af_0",
+  "field": "don_vi_cong_tac",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "b980acb58644_0__so_giay": {
+  "unit_id": "b980acb58644_0",
+  "field": "so_giay",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "b980acb58644_0__ngay_cap": {
+  "unit_id": "b980acb58644_0",
+  "field": "ngay_cap",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "bb53237f5f5e_0__han_muc_cong_no": {
+  "unit_id": "bb53237f5f5e_0",
+  "field": "han_muc_cong_no",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "bb53237f5f5e_0__hieu_luc_tu": {
+  "unit_id": "bb53237f5f5e_0",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "c5b5157a16a2_0__don_vi_cong_tac": {
+  "unit_id": "c5b5157a16a2_0",
+  "field": "don_vi_cong_tac",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "caf1d38f2828_0__so_giay": {
+  "unit_id": "caf1d38f2828_0",
+  "field": "so_giay",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human",
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "caf1d38f2828_0__ngay_cap": {
+  "unit_id": "caf1d38f2828_0",
+  "field": "ngay_cap",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "cb4d4cd19136_0__han_muc_cong_no": {
+  "unit_id": "cb4d4cd19136_0",
+  "field": "han_muc_cong_no",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "cb4d4cd19136_0__hieu_luc_tu": {
+  "unit_id": "cb4d4cd19136_0",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "d65cd88ad50f_0__hop_dong_can_cu": {
+  "unit_id": "d65cd88ad50f_0",
+  "field": "hop_dong_can_cu",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "d941b496cb0b_0__hieu_luc_tu": {
+  "unit_id": "d941b496cb0b_0",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "ddd6f3a71bec_0__so_giay": {
+  "unit_id": "ddd6f3a71bec_0",
+  "field": "so_giay",
+  "type": "id",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "ddd6f3a71bec_0__ngay_cap": {
+  "unit_id": "ddd6f3a71bec_0",
+  "field": "ngay_cap",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "ddd6f3a71bec_0__co_quan_cap": {
+  "unit_id": "ddd6f3a71bec_0",
+  "field": "co_quan_cap",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "ddd6f3a71bec_0__ngay_het_han": {
+  "unit_id": "ddd6f3a71bec_0",
+  "field": "ngay_het_han",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "defbf93a78b4_0__han_muc_cong_no": {
+  "unit_id": "defbf93a78b4_0",
+  "field": "han_muc_cong_no",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "defbf93a78b4_0__hieu_luc_tu": {
+  "unit_id": "defbf93a78b4_0",
+  "field": "hieu_luc_tu",
+  "type": "date",
+  "withheld": false,
+  "candidate_x": [
+   "sonnet"
+  ],
+  "candidate_y": [
+   "haiku"
+  ],
+  "reasons": [
+   "needs_human"
+  ],
+  "single_candidate": false
+ },
+ "e4d24c93783b_0__hop_dong_can_cu": {
+  "unit_id": "e4d24c93783b_0",
+  "field": "hop_dong_can_cu",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ },
+ "f35e74ca0451_0__don_vi_cong_tac": {
+  "unit_id": "f35e74ca0451_0",
+  "field": "don_vi_cong_tac",
+  "type": "text",
+  "withheld": false,
+  "candidate_x": [
+   "haiku"
+  ],
+  "candidate_y": [
+   "sonnet"
+  ],
+  "reasons": [
+   "ink_risk"
+  ],
+  "single_candidate": false
+ }
+}

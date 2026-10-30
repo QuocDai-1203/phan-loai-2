@@ -1,0 +1,18 @@
+{
+  "unit_id": "547141773252_0",
+  "annotator": "sonnet",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2, 3],
+  "fields": {
+    "so_giay": {"value": "07 /GCNBLXD-SCT", "normalized": "07/GCNBLXD-SCT", "page": 1, "evidence": "Số: 07 /GCNBLXD-SCT", "ink": "printed", "status": "ok", "note": null},
+    "ngay_cap": {"value": "ngày 12 tháng 01 năm 2023", "normalized": "2023-01-12", "page": 1, "evidence": "Bình Định, ngày 12 tháng 01 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG", "normalized": "SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG XĂNG DẦU CHÍN LOAN", "normalized": "CỬA HÀNG XĂNG DẦU CHÍN LOAN", "page": 1, "evidence": "Tên cửa hàng bán lẻ xăng dầu: CỬA HÀNG XĂNG DẦU CHÍN LOAN", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "ĐT640 thôn Huỳnh Mai, xã Phước Nghĩa, huyện Tuy Phước, tỉnh Bình Định", "normalized": "ĐT640 thôn Huỳnh Mai, xã Phước Nghĩa, huyện Tuy Phước, tỉnh Bình Định", "page": 1, "evidence": "Địa chỉ: ĐT640 thôn Huỳnh Mai, xã Phước Nghĩa, huyện Tuy Phước", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH thương mại xây dựng Chín Loan, Mã số thuế: 4101542775", "normalized": "Công ty TNHH thương mại xây dựng Chín Loan, Mã số thuế: 4101542775", "page": 1, "evidence": "Thuộc sở hữu của Công ty TNHH thương mại xây dựng Chín Loan", "ink": "printed", "status": "ok", "note": "ten_trang_1_ma_so_thue_trang_2"},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "page": 2, "evidence": "Tên thương nhân: Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ ba: ngày 12 tháng 01 năm 2023", "normalized": "Cấp lần thứ ba: ngày 12 tháng 01 năm 2023", "page": 1, "evidence": "Cấp lần thứ ba: ngày 12 tháng 01 năm 2023", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "ngày12 tháng 01 năm 2028", "normalized": "2028-01-12", "page": 2, "evidence": "có giá trị đến hết ngày12 tháng 01 năm 2028", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": null
+}

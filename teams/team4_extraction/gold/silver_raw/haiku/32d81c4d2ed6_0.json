@@ -1,0 +1,18 @@
+{
+  "unit_id": "32d81c4d2ed6_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1],
+  "fields": {
+    "so_giay": {"value": "62 /GCN-SCT", "normalized": "62/GCN-SCT", "page": 1, "evidence": "Số: 62 /GCN-SCT", "ink": "handwritten", "status": "ok", "note": "so_viet_tay"},
+    "ngay_cap": {"value": "20 tháng 5 năm 2021", "normalized": "2021-05-20", "page": 1, "evidence": "Gia Lai, ngày 20 tháng 5 năm 2021", "ink": "handwritten", "status": "ok", "note": "ngay_viet_tay"},
+    "co_quan_cap": {"value": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "normalized": "SỞ CÔNG THƯƠNG TỈNH GIA LAI", "page": 1, "evidence": "GIÁM ĐỐC SỞ CÔNG THƯƠNG TỈNH GIA LAI", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "Cửa hàng Xăng dầu Hồng Quê", "normalized": "Cửa hàng Xăng dầu Hồng Quê", "page": 1, "evidence": "xăng dầu: Cửa hàng Xăng dầu Hồng Quê", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Thôn 2, xã Sơ Pai, huyện Kbang, tỉnh Gia Lai", "normalized": "Thôn 2, xã Sơ Pai, huyện Kbang, tỉnh Gia Lai", "page": 1, "evidence": "Địa chỉ: Thôn 2, xã Sơ Pai, huyện Kbang, tỉnh Gia Lai", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH MTV Hồng Quê, Mã số thuế: 5900726121", "normalized": "Công ty TNHH MTV Hồng Quê, Mã số thuế: 5900726121", "page": 1, "evidence": "Thuộc sở hữu doanh nghiệp: Công ty TNHH MTV Hồng Quê", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_cung_cap": {"value": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "normalized": "Công ty Cổ phần Thương mại-Dịch vụ Hiệp Hòa", "page": 1, "evidence": "Tên thương nhân: Công ty Cổ phần Thương mại-Dịch vụ", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất: ngày 12/4/2016; Cấp bổ sung, sửa đổi lần thứ hai ngày 19/10/2018", "normalized": "Cấp lần thứ nhất: ngày 12/4/2016; Cấp bổ sung, sửa đổi lần thứ hai ngày 19/10/2018", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 12/4/2016", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "20 tháng 5 năm 2026", "normalized": "2026-05-20", "page": 1, "evidence": "có giá trị đến hết ngày 20 tháng 5 năm 2026", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "scan_nghieng_so_va_ngay_cap_viet_tay"
+}

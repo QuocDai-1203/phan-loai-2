@@ -1,0 +1,18 @@
+{
+  "unit_id": "3600c9ec3036_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_BAO_HIEM",
+  "pages_seen": [1, 2, 3],
+  "fields": {
+    "so_gcn_bao_hiem": {"value": "TT01/040-NV/22/03.KA/HD/00039", "normalized": "TT01/040-NV/22/03.KA/HD/00039", "page": 1, "evidence": "Số: TT01/040-NV/22/03.KA/HD/00039", "ink": "printed", "status": "ok", "note": null},
+    "cong_ty_bao_hiem": {"value": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM SÀI GÒN - HÀ NỘI - CÔNG TY BẢO HIỂM BSH TRUNG TRUNG BỘ", "normalized": "TỔNG CÔNG TY CỔ PHẦN BẢO HIỂM SÀI GÒN - HÀ NỘI - CÔNG TY BẢO HIỂM BSH TRUNG TRUNG BỘ", "page": 1, "evidence": "CÔNG TY BẢO HIỂM BSH TRUNG TRUNG BỘ", "ink": "printed", "status": "ok", "note": "ten_tren_dau_trang"},
+    "loai_bao_hiem": {"value": null, "normalized": null, "page": null, "evidence": null, "ink": null, "status": "not_present", "note": null},
+    "nguoi_duoc_bao_hiem": {"value": "CÔNG TY CỔ PHẦN TM DV HIỆP HÒA", "normalized": "CÔNG TY CỔ PHẦN TM DV HIỆP HÒA", "page": 1, "evidence": "Người được bảo hiểm: CÔNG TY CỔ PHẦN TM DV HIỆP HÒA", "ink": "printed", "status": "ok", "note": null},
+    "doi_tuong_bao_hiem": {"value": "Tàu chở dầu số BĐ - 1166, TP. Quy Nhơn, Bình Định", "normalized": "Tàu chở dầu số BĐ - 1166, TP. Quy Nhơn, Bình Định", "page": 1, "evidence": "Tàu chở dầu số BĐ - 1166, TP. Quy Nhơn, Bình Định", "ink": "printed", "status": "ok", "note": null},
+    "so_tien_bao_hiem": {"value": "2.450.000.000 đồng", "normalized": "2.450.000.000 đồng", "page": 2, "evidence": "Tổng cộng 2.450.000.000 đồng", "ink": "printed", "status": "ok", "note": null},
+    "phi_bao_hiem": {"value": "13.475.000 đồng", "normalized": "13475000", "page": 2, "evidence": "Tổng phí thanh toán: 13.475.000 đồng", "ink": "printed", "status": "ok", "note": "tong_phi_gom_gtgt"},
+    "hieu_luc_tu": {"value": "26/11/2023", "normalized": "2023-11-26", "page": 1, "evidence": "Từ: 16 giờ 00, ngày 26/11/2023", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "26/11/2024", "normalized": "2024-11-26", "page": 1, "evidence": "Đến: 16 giờ 00, ngày 26/11/2024", "ink": "printed", "status": "ok", "note": null}
+  },
+  "unit_note": "trang_xoay_90_do"
+}

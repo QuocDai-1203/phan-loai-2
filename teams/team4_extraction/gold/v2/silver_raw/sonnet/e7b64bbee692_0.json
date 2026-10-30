@@ -1,0 +1,84 @@
+{
+ "unit_id": "e7b64bbee692_0",
+ "annotator": "sonnet",
+ "doc_type": "CC_HUAN_LUYEN_PCCC",
+ "pages_seen": [
+  1,
+  2
+ ],
+ "fields": {
+  "so_chung_nhan": {
+   "value": "0452981",
+   "normalized": "0452981",
+   "page": 1,
+   "evidence": "Số: 0452981",
+   "ink": "printed",
+   "status": "ok",
+   "note": null
+  },
+  "ho_ten": {
+   "value": "Bùi Đắc Trọng",
+   "normalized": "Bùi Đắc Trọng",
+   "page": 2,
+   "evidence": "Ông/bà: Bùi Đắc Trọng",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "nam_sinh": {
+   "value": null,
+   "normalized": null,
+   "page": 2,
+   "evidence": null,
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "noi_lam_viec": {
+   "value": "Công ty CP TM DV Hiệp Hòa",
+   "normalized": "Công ty CP TM DV Hiệp Hòa",
+   "page": 2,
+   "evidence": "Nơi làm việc/thường trú: Công ty CP TM DV Hiệp Hòa",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "noi_dung_huan_luyen": {
+   "value": "PHÒNG CHÁY, CHỮA CHÁY",
+   "normalized": "PHÒNG CHÁY, CHỮA CHÁY",
+   "page": 2,
+   "evidence": "Đã được huấn luyện nghiệp vụ: PHÒNG CHÁY, CHỮA CHÁY",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": null
+  },
+  "co_quan_cap": {
+   "value": "PHÒNG CẢNH SÁT PCCC VÀ CNCH",
+   "normalized": "PHÒNG CẢNH SÁT PCCC VÀ CNCH",
+   "page": 2,
+   "evidence": "PHÒNG CẢNH SÁT PCCC VÀ CNCH CHỨNG NHẬN",
+   "ink": "printed",
+   "status": "ok",
+   "note": "cong_an_tinh_binh_dinh"
+  },
+  "ngay_cap": {
+   "value": "ngày 10 tháng 08 năm 2023",
+   "normalized": "2023-08-10",
+   "page": 2,
+   "evidence": "Bình Định, ngày 10 tháng 08 năm 2023",
+   "ink": "handwritten",
+   "status": "ok",
+   "note": "ngay_ky_cuoi_the"
+  },
+  "ngay_het_han": {
+   "value": null,
+   "normalized": null,
+   "page": null,
+   "evidence": null,
+   "ink": null,
+   "status": "not_present",
+   "note": null
+  }
+ },
+ "unit_note": "the_nho_nua_duoi_trang"
+}

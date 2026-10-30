@@ -1,0 +1,18 @@
+{
+  "unit_id": "cee444373ad8_0",
+  "annotator": "haiku",
+  "doc_type": "GCN_DDK_BAN_LE_XD",
+  "pages_seen": [1, 2],
+  "fields": {
+    "so_giay": {"value": "92 /GCNBLXD-SCT", "normalized": "92/GCNBLXD-SCT", "page": 1, "evidence": "Số: 92 /GCNBLXD-SCT", "ink": "handwritten", "status": "ok", "note": "so_dau_viet_tay"},
+    "ngay_cap": {"value": "ngày 16 tháng 11 năm 2017", "normalized": "2017-11-16", "page": 1, "evidence": "Bình Định, ngày 16 tháng 11 năm 2017", "ink": "handwritten", "status": "ok", "note": "so_ngay_viet_tay"},
+    "co_quan_cap": {"value": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "normalized": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "page": 1, "evidence": "UBND TỈNH BÌNH ĐỊNH SỞ CÔNG THƯƠNG", "ink": "printed", "status": "ok", "note": null},
+    "ten_cua_hang": {"value": "CỬA HÀNG BÁN LẺ XĂNG DẦU AN PHƯỚC", "normalized": "CỬA HÀNG BÁN LẺ XĂNG DẦU AN PHƯỚC", "page": 1, "evidence": "CỬA HÀNG BÁN LẺ XĂNG DẦU AN PHƯỚC", "ink": "printed", "status": "ok", "note": null},
+    "dia_chi_cua_hang": {"value": "Khu phố An Phong, thị trấn Ngô Mây, huyện Phù Cát, tỉnh Bình Định", "normalized": "Khu phố An Phong, thị trấn Ngô Mây, huyện Phù Cát, tỉnh Bình Định", "page": 1, "evidence": "Địa chỉ kinh doanh: Khu phố An Phong, thị trấn Ngô Mây", "ink": "printed", "status": "ok", "note": null},
+    "thuong_nhan_chu_so_huu": {"value": "Công ty TNHH Xây dựng tổng hợp An Kim", "normalized": "Công ty TNHH Xây dựng tổng hợp An Kim", "page": 1, "evidence": "Thuộc sở hữu của Công ty TNHH Xây dựng tổng hợp An Kim", "ink": "printed", "status": "ok", "note": "khong_ghi_ro_ma_so_thue"},
+    "thuong_nhan_cung_cap": {"value": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "normalized": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "page": 1, "evidence": "Công ty cổ phần thương mại - dịch vụ Hiệp Hòa", "ink": "printed", "status": "ok", "note": null},
+    "lan_cap": {"value": "Cấp lần thứ nhất", "normalized": "Cấp lần thứ nhất", "page": 1, "evidence": "Cấp lần thứ nhất: ngày 16 tháng 11", "ink": "printed", "status": "ok", "note": null},
+    "ngay_het_han": {"value": "ngày 15 tháng 11 năm 2022", "normalized": "2022-11-15", "page": 2, "evidence": "có giá trị đến hết ngày 15 tháng 11 năm 2022", "ink": "handwritten", "status": "ok", "note": "so_15_viet_tay"}
+  },
+  "unit_note": "so_va_ngay_cap_viet_tay_scan_mo"
+}
