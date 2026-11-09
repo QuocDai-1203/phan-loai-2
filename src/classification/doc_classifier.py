@@ -189,19 +189,34 @@ class DocumentClassifier:
         if p.consensus in ("s", "s_llm2") and tfidf is None:
             raise ValueError("consensus 's' cần mô hình TF-IDF")
 
+    SAFE_TH_S = 0.60                        # Ngưỡng an toàn khuyến nghị cho TF-IDF (tránh nhận ẩu ở mức 0.28-0.55)
+
     @classmethod
     def from_defaults(cls, *, use_llm: bool = True, llm_backend: str = "ollama", spec_id: Optional[str] = None,
                       tfidf_dir: Path | str = TFIDF_DEFAULT_DIR, selection_path: Path | str = DEFAULT_SELECTION_PATH,
-                      max_error: float = DEFAULT_MAX_ERROR, cache_dir: Optional[Path | str] = None) -> "DocumentClassifier":
+                      max_error: float = DEFAULT_MAX_ERROR, cache_dir: Optional[Path | str] = None,
+                      rule_title_tiebreak: bool = True,
+                      th_s: Optional[float] = None, th_llm: Optional[float] = None,
+                      consensus: Optional[str] = None,
+                      llm2: Optional[Any] = None) -> "DocumentClassifier":
         """Cấu hình đã đo: Qwen3.5-4B qua Ollama, mô tả ngắn, ngưỡng 1%. `llm_backend='kev'` chọn Kev-... (tên loại làm tiêu chí).
-        `use_llm=False`: không dựng backend (tầng 3 tắt, tài liệu chưa nhận -> người)."""
+        `use_llm=False`: không dựng backend (tầng 3 tắt, tài liệu chưa nhận -> người).
+        `rule_title_tiebreak=True`: gỡ thế mơ hồ của cổng luật theo vị trí tiêu đề (bật mặc định khi dùng from_defaults).
+        `th_s`: ghi đè ngưỡng nhận của tầng TF-IDF (mặc định đọc từ dev_selection_02.json; khuyến nghị th_s=0.60 để tránh nhận ẩu).
+        `consensus`: ghi đè chế độ đồng thuận ('none' | 's' | 'llm2' | 's_llm2'; 's' yêu cầu tầng LLM đồng thuận với TF-IDF mới tự nhận)."""
         sid = spec_id or ("kev_s1_name_c2000" if llm_backend == "kev" else DEFAULT_SPEC_ID)
         if LLM_SPECS[sid].engine != ("kev" if llm_backend == "kev" else "ollama"):
             raise ValueError(f"{sid} không thuộc backend {llm_backend}")
         cfg = load_cascade_config(selection_path, DEFAULT_SOURCE, sid, max_error)
-        tfidf = TfidfClassifier.load(tfidf_dir) if cfg.params.use_tfidf or cfg.params.agree in ("s", "s_or_emb") else None
+        if th_s is not None or th_llm is not None or consensus is not None:
+            new_params = replace(cfg.params,
+                                 th_s=float(th_s) if th_s is not None else cfg.params.th_s,
+                                 th_llm=float(th_llm) if th_llm is not None else cfg.params.th_llm,
+                                 consensus=str(consensus) if consensus is not None else cfg.params.consensus)
+            cfg = replace(cfg, params=new_params)
+        tfidf = TfidfClassifier.load(tfidf_dir) if cfg.params.use_tfidf or cfg.params.agree in ("s", "s_or_emb") or cfg.params.consensus in ("s", "s_llm2") else None
         backend = make_backend(sid, cache_dir=Path(cache_dir) if cache_dir else None) if use_llm else None
-        return cls(tfidf, backend, cfg)
+        return cls(tfidf, backend, cfg, rule_title_tiebreak=rule_title_tiebreak, llm2=llm2)
 
     def describe(self) -> Dict[str, Any]:
         return {"cascade": self.config.describe(), "tfidf": None if self.tfidf is None else {"config": self.tfidf.name,

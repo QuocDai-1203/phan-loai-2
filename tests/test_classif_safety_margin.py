@@ -133,3 +133,11 @@ def test_classifier_consensus_llm2_needs_backend_and_requires_agreement(tmp_path
     assert res.tier == "human" and res.abstain_reason == "llm_no_consensus" and res.suggested_category == "HD_MUA_BAN"
     err = DocumentClassifier(base.tfidf, base.llm, cfg, taxonomy=base.taxonomy, llm2=FakeLlm(answer("", 0.0, ok=False, error="down")))
     assert err.classify_text(text, "s1")[0].tier == "human"
+
+
+def test_from_defaults_supports_consensus_and_th_overrides():
+    from src.classification.doc_classifier import DocumentClassifier
+    clf = DocumentClassifier.from_defaults(use_llm=False, consensus="s", th_s=0.65, th_llm=0.75)
+    assert clf.config.params.consensus == "s"
+    assert clf.config.params.th_s == 0.65
+    assert clf.config.params.th_llm == 0.75
